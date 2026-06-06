@@ -333,6 +333,183 @@ a {
   100% { box-shadow: 0 0 0 0 rgba(26, 127, 55, 0); }
 }
 
+/* ---- Header meta row: status readout + About anchor link ---- */
+.header-meta {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 12px 16px;
+  margin-top: 18px;
+}
+.header-meta .status-readout {
+  margin-top: 0;
+}
+.header-about-link {
+  font-family: var(--mono);
+  font-size: 0.72rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--cyan);
+  text-decoration: none;
+  padding: 6px 13px;
+  border: 1px solid var(--line-cool);
+  border-radius: 999px;
+  background: #ffffff;
+  box-shadow: var(--shadow);
+  transition: color 0.14s, border-color 0.14s, box-shadow 0.14s;
+}
+.header-about-link::before {
+  content: "ⓘ ";
+  color: var(--amber-dim);
+}
+.header-about-link:hover,
+.header-about-link:focus {
+  color: var(--cyan-dim);
+  border-color: var(--cyan);
+  box-shadow: 0 1px 10px -3px rgba(14, 116, 144, 0.45);
+  outline: none;
+}
+
+/* ===================================================================
+   ABOUT  ·  collapsible front-matter panel (public-domain disclaimer)
+   =================================================================== */
+.about {
+  scroll-margin-top: 18px;
+  margin: 28px 0 8px;
+  background: linear-gradient(180deg, var(--panel-2), var(--panel));
+  border: 1px solid var(--line);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow);
+  overflow: hidden;
+}
+
+/* Summary = the always-visible header of the foldable panel */
+.about-summary {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  grid-template-areas:
+    "kicker toggle"
+    "title  toggle";
+  align-items: center;
+  gap: 4px 14px;
+  padding: 18px 20px;
+  cursor: pointer;
+  list-style: none;
+  user-select: none;
+  transition: background 0.15s;
+}
+.about-summary::-webkit-details-marker {
+  display: none;
+}
+.about-summary:hover {
+  background: var(--panel-hi);
+}
+.about-kicker {
+  grid-area: kicker;
+  font-family: var(--mono);
+  font-size: 0.62rem;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--faint);
+}
+.about-kicker::before {
+  content: "◆ ";
+  color: var(--amber);
+}
+.about-title {
+  grid-area: title;
+  margin: 0;
+  font-family: var(--display);
+  font-weight: 700;
+  font-size: clamp(1.15rem, 3.4vw, 1.4rem);
+  letter-spacing: 0.01em;
+  line-height: 1.2;
+  color: var(--ink);
+}
+
+/* Chevron toggle, rotates when open */
+.about-toggle {
+  grid-area: toggle;
+  width: 11px;
+  height: 11px;
+  border-right: 2px solid var(--muted);
+  border-bottom: 2px solid var(--muted);
+  transform: rotate(45deg);
+  transition: transform 0.2s ease, border-color 0.15s;
+  margin-right: 4px;
+}
+.about[open] .about-toggle {
+  transform: rotate(-135deg);
+}
+.about-summary:hover .about-toggle {
+  border-color: var(--cyan);
+}
+
+.about-body {
+  padding: 4px 20px 22px;
+  border-top: 1px solid var(--line-2);
+}
+.about-lead {
+  margin: 16px 0 4px;
+  max-width: 78ch;
+  color: var(--ink-soft);
+  font-size: 0.96rem;
+  line-height: 1.7;
+}
+
+.about-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 18px 26px;
+  margin-top: 20px;
+}
+@media (min-width: 720px) {
+  .about-grid {
+    grid-template-columns: 1fr 1fr;
+  }
+  /* "Public-domain only" sits alone on the second row, full width */
+  .about-block:last-child {
+    grid-column: 1 / -1;
+  }
+}
+.about-block {
+  padding-left: 14px;
+  border-left: 2px solid var(--line);
+}
+.about-h3 {
+  margin: 0 0 7px;
+  font-family: var(--mono);
+  font-size: 0.66rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--cyan-dim);
+}
+.about-block p {
+  margin: 0;
+  max-width: 64ch;
+  color: var(--ink-soft);
+  font-size: 0.9rem;
+  line-height: 1.66;
+}
+.about-mail {
+  color: var(--cyan);
+  text-decoration: none;
+  font-weight: 500;
+  background-image: linear-gradient(var(--cyan), var(--cyan));
+  background-repeat: no-repeat;
+  background-position: 0 100%;
+  background-size: 100% 1px;
+  transition: color 0.16s, background-size 0.26s ease;
+  padding-bottom: 1px;
+  word-break: break-word;
+}
+.about-mail:hover,
+.about-mail:focus {
+  color: var(--cyan-dim);
+  background-size: 100% 1.5px;
+  outline: none;
+}
+
 /* ===================================================================
    CONTROLS
    =================================================================== */

@@ -45,15 +45,73 @@
           origin.
         </p>
 
-        <!-- Live terminal-style status readout, populated by app.js -->
-        <div id="status" class="status-readout" role="status" aria-live="polite">
-          <span class="status-dot" aria-hidden="true"></span>
-          <span class="status-text">INITIALISING FEED…</span>
+        <div class="header-meta">
+          <!-- Live terminal-style status readout, populated by app.js -->
+          <div id="status" class="status-readout" role="status" aria-live="polite">
+            <span class="status-dot" aria-hidden="true"></span>
+            <span class="status-text">INITIALISING FEED…</span>
+          </div>
+          <a class="header-about-link" href="#about">About</a>
         </div>
       </div>
     </header>
 
     <main class="wrap" id="main">
+      <!-- About / disclaimer — front matter for the briefing -->
+      <details class="about reveal" id="about" open>
+        <summary class="about-summary">
+          <span class="about-kicker">ABOUT&nbsp;·&nbsp;PUBLIC-DOMAIN&nbsp;OSINT</span>
+          <h2 class="about-title">About Defence-AI Radar</h2>
+          <span class="about-toggle" aria-hidden="true"></span>
+        </summary>
+
+        <div class="about-body">
+          <p class="about-lead">
+            Defence-AI Radar consolidates the latest publicly-known advancements
+            in artificial intelligence across the defence sector — governments,
+            agencies, prime contractors and startups — into one
+            continuously-updated picture. Every entry is drawn entirely from the
+            public domain and links back to its original source.
+          </p>
+
+          <div class="about-grid">
+            <section class="about-block">
+              <h3 class="about-h3">How it stays current</h3>
+              <p>
+                An automated pipeline runs every day: it scans official
+                government feeds, agency announcements and the defence press for
+                new developments and refreshes the timeline automatically. The
+                organisation dossiers are synthesised from public sources and
+                reviewed regularly.
+              </p>
+            </section>
+
+            <section class="about-block">
+              <h3 class="about-h3">A note on completeness</h3>
+              <p>
+                This is open-source intelligence, so it will inevitably miss
+                things — the public record is always partial. If you spot
+                something missing, outdated or incorrect, please email Anand at
+                <a
+                  class="about-mail"
+                  href="mailto:anandbg@gmail.com?subject=Defence-AI%20Radar%20%E2%80%94%20source%20update"
+                  >anandbg@gmail.com</a
+                >
+                with the source and it will be updated.
+              </p>
+            </section>
+
+            <section class="about-block">
+              <h3 class="about-h3">Public-domain only</h3>
+              <p>
+                Nothing here is classified or non-public. Every claim is sourced
+                and linked back to its origin.
+              </p>
+            </section>
+          </div>
+        </div>
+      </details>
+
       <!-- Controls -->
       <section class="controls reveal" aria-label="Search and filters">
         <div class="control search">
