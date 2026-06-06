@@ -8,15 +8,34 @@
       name="description"
       content="A synthesised per-organisation dossier — what's established, in progress and latest in defence AI, with public-domain sources."
     />
+    <meta name="theme-color" content="#0b0e14" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@500;600;700&family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
     <link rel="stylesheet" href="assets/styles.css" />
   </head>
-  <body>
-    <header class="site-header">
-      <div class="wrap">
-        <h1>
-          Defence-AI Radar
-          <span class="subtitle">organisation dossier</span>
-        </h1>
+  <body class="dossier-page">
+    <div class="bg-grid" aria-hidden="true"></div>
+    <div class="bg-scan" aria-hidden="true"></div>
+
+    <header class="site-header" role="banner">
+      <div class="signal-glow" aria-hidden="true"></div>
+      <div class="wrap header-inner">
+        <a class="brand brand-link" href="index.html" aria-label="Defence-AI Radar home">
+          <span class="radar" aria-hidden="true">
+            <span class="radar-sweep"></span>
+            <span class="radar-blip blip-1"></span>
+            <span class="radar-blip blip-2"></span>
+          </span>
+          <span class="wordmark">
+            <span class="wordmark-main">DEFENCE&#8209;AI&nbsp;RADAR</span>
+            <span class="wordmark-sub">organisation dossier</span>
+          </span>
+        </a>
+
         <p class="tagline">
           A synthesised, public-domain view of one organisation's AI footprint —
           what's established, in progress and latest. Every claim links back to
@@ -25,7 +44,7 @@
       </div>
     </header>
 
-    <main class="wrap">
+    <main class="wrap" id="main">
       <!-- The dossier is rendered here by assets/dossier.js -->
       <section id="dossier" class="dossier" aria-label="Organisation dossier"></section>
     </main>
@@ -33,10 +52,11 @@
     <footer class="site-footer">
       <div class="wrap">
         <p>
-          Defence-AI Radar is an open-source OSINT project. Dossiers synthesise
-          public RSS/Atom feeds and official publications; every claim links back
-          to the original source. No paywalled text is republished. No LLM is
-          used anywhere in the site or pipeline — pure code.
+          <span class="footer-mark">DEFENCE&#8209;AI&nbsp;RADAR</span> is an
+          open-source OSINT project. Dossiers synthesise public RSS/Atom feeds
+          and official publications; every claim links back to the original
+          source. No paywalled text is republished.
+          <span class="footer-tag">NO&nbsp;LLM&nbsp;IN&nbsp;THE&nbsp;LOOP — PURE&nbsp;CODE.</span>
         </p>
       </div>
     </footer>

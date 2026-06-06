@@ -61,9 +61,21 @@
   }
 
   // ---- Section renderers ----
+  // Each section carries a status class (drives the colour-coded kicker +
+  // claim accents) and a mono kicker label, for the "classified briefing" feel.
+
+  /** Heading with a mono status kicker + display title. */
+  function h2(kicker, icon, title) {
+    return (
+      `<h2 class="dossier-h2">` +
+      `<span class="h2-kicker">${esc(kicker)}</span>` +
+      `<span>${icon} ${esc(title)}</span>` +
+      `</h2>`
+    );
+  }
 
   /** A claim list (Established / In progress / Latest share this format). */
-  function renderClaimSection(icon, title, items) {
+  function renderClaimSection(secClass, kicker, icon, title, items) {
     if (!Array.isArray(items) || items.length === 0) return "";
     const rows = items
       .map(
@@ -78,8 +90,8 @@
       )
       .join("");
     return `
-      <section class="dossier-section">
-        <h2 class="dossier-h2">${icon} ${esc(title)}</h2>
+      <section class="dossier-section ${secClass}" id="sec-${esc(secClass)}">
+        ${h2(kicker, icon, title)}
         <ul class="claim-list">${rows}</ul>
       </section>`;
   }
@@ -98,8 +110,8 @@
       )
       .join("");
     return `
-      <section class="dossier-section">
-        <h2 class="dossier-h2">🔗 Suppliers &amp; partners</h2>
+      <section class="dossier-section sec-suppliers" id="sec-sec-suppliers">
+        ${h2("LINK", "🔗", "Suppliers & partners")}
         <div class="supplier-grid">${cards}</div>
       </section>`;
   }
@@ -117,8 +129,8 @@
       )
       .join("");
     return `
-      <section class="dossier-section">
-        <h2 class="dossier-h2">📚 Sources</h2>
+      <section class="dossier-section sec-sources" id="sec-sec-sources">
+        ${h2("REF", "📚", "Sources")}
         <ul class="source-list">${rows}</ul>
       </section>`;
   }
@@ -127,8 +139,11 @@
   function renderUnknowns(text) {
     if (!text || !String(text).trim()) return "";
     return `
-      <aside class="unknowns-box">
-        <h2 class="unknowns-h2">⚠️ What we don't yet know</h2>
+      <aside class="unknowns-box" id="sec-unknowns">
+        <h2 class="unknowns-h2">
+          <span class="h2-kicker">GAP</span>
+          <span>⚠️ What we don't yet know</span>
+        </h2>
         <p>${esc(text)}</p>
       </aside>`;
   }
@@ -147,8 +162,8 @@
       )
       .join("");
     return `
-      <section class="dossier-section">
-        <h2 class="dossier-h2">🗞️ ${esc(heading)}</h2>
+      <section class="dossier-section sec-recent" id="sec-sec-recent">
+        ${h2("LOG", "🗞️", heading)}
         <ul class="recent-list">${rows}</ul>
       </section>`;
   }
@@ -156,63 +171,126 @@
   // ---- Page renderers ----
 
   function backLink() {
-    return `<a class="back-link" href="index.html">← Back to timeline</a>`;
+    return `<a class="back-link" href="index.html">◂ Back to timeline</a>`;
+  }
+
+  /** Sticky section index / status rail (wide screens only).
+      Only links to sections that actually rendered. */
+  function buildRail(d, hasUnknowns, hasRecent) {
+    const items = [];
+    if (d.overview && String(d.overview).trim())
+      items.push(["#sec-overview", "dim", "Overview"]);
+    if (Array.isArray(d.established) && d.established.length)
+      items.push(["#sec-sec-established", "green", "Established"]);
+    if (Array.isArray(d.inProgress) && d.inProgress.length)
+      items.push(["#sec-sec-progress", "amber", "In progress"]);
+    if (Array.isArray(d.latest) && d.latest.length)
+      items.push(["#sec-sec-latest", "cyan", "Latest"]);
+    if (Array.isArray(d.suppliers) && d.suppliers.length)
+      items.push(["#sec-sec-suppliers", "cyan", "Suppliers"]);
+    if (Array.isArray(d.sources) && d.sources.length)
+      items.push(["#sec-sec-sources", "dim", "Sources"]);
+    if (hasUnknowns) items.push(["#sec-unknowns", "warn", "Known gaps"]);
+    if (hasRecent) items.push(["#sec-sec-recent", "dim", "Recent events"]);
+
+    const rows = items
+      .map(
+        ([href, dot, label]) =>
+          `<li><a href="${href}"><span class="rail-dot ${dot}"></span>${esc(
+            label
+          )}</a></li>`
+      )
+      .join("");
+
+    return `
+      <nav class="dossier-rail" aria-label="Dossier sections">
+        <p class="rail-kicker">Sections</p>
+        <ul class="rail-list">${rows}</ul>
+      </nav>`;
   }
 
   /** Full dossier render. */
   function renderDossier(d, orgEvents) {
     const badges = [
-      d.region ? `<span class="dossier-badge">${esc(d.region)}</span>` : "",
+      d.region
+        ? `<span class="dossier-badge" data-region="${esc(d.region)}">${esc(
+            d.region
+          )}</span>`
+        : "",
       d.type ? `<span class="dossier-badge type">${esc(d.type)}</span>` : "",
     ].join("");
 
     document.title = `${d.name} — Defence-AI Radar`;
 
-    elRoot.innerHTML = `
-      ${backLink()}
-      <header class="dossier-header">
-        <h1 class="dossier-title">${esc(d.name)}</h1>
-        <div class="dossier-badges">
-          ${badges}
-          ${d.updated ? `<span class="dossier-updated">Last updated ${esc(fmtDate(d.updated))}</span>` : ""}
-        </div>
-      </header>
+    const unknownsHtml = renderUnknowns(d.unknowns);
+    const recentHtml = renderRecentEvents(orgEvents, "Recent events");
 
-      ${
-        d.overview && String(d.overview).trim()
-          ? `<section class="dossier-section">
-               <h2 class="dossier-h2">Overview — what we know</h2>
-               <p class="dossier-lead">${esc(d.overview)}</p>
-             </section>`
+    const overviewHtml =
+      d.overview && String(d.overview).trim()
+        ? `<section class="dossier-section sec-overview" id="sec-overview">
+             ${h2("BRIEF", "", "Overview — what we know")}
+             <p class="dossier-lead">${esc(d.overview)}</p>
+           </section>`
+        : "";
+
+    const content =
+      `${backLink()}` +
+      `<header class="dossier-header">` +
+      `<p class="dossier-classmark">OSINT Dossier · Public-domain sources</p>` +
+      `<h1 class="dossier-title">${esc(d.name)}</h1>` +
+      `<div class="dossier-badges">${badges}` +
+      `${
+        d.updated
+          ? `<span class="dossier-updated">UPD ${esc(fmtDate(d.updated))}</span>`
           : ""
-      }
+      }` +
+      `</div></header>` +
+      overviewHtml +
+      renderClaimSection("sec-established", "OK", "✅", "Established", d.established) +
+      renderClaimSection("sec-progress", "WIP", "🔧", "In progress", d.inProgress) +
+      renderClaimSection("sec-latest", "NEW", "📰", "Latest", d.latest) +
+      renderSuppliers(d.suppliers) +
+      renderSources(d.sources) +
+      unknownsHtml +
+      recentHtml;
 
-      ${renderClaimSection("✅", "Established", d.established)}
-      ${renderClaimSection("🔧", "In progress", d.inProgress)}
-      ${renderClaimSection("📰", "Latest", d.latest)}
-      ${renderSuppliers(d.suppliers)}
-      ${renderSources(d.sources)}
-      ${renderUnknowns(d.unknowns)}
-      ${renderRecentEvents(orgEvents, "Recent events")}
-    `;
+    elRoot.innerHTML =
+      `<div class="dossier-layout">` +
+      buildRail(d, !!unknownsHtml, !!recentHtml) +
+      `<div class="dossier-main">${content}</div>` +
+      `</div>`;
+
+    applyStagger();
+  }
+
+  /** Set a --i custom property on each top-level dossier block so the CSS
+      reveal animation staggers in order. */
+  function applyStagger() {
+    const main = elRoot.querySelector(".dossier-main");
+    if (!main) return;
+    Array.prototype.forEach.call(main.children, (node, i) => {
+      node.style.setProperty("--i", String(Math.min(i, 12)));
+    });
   }
 
   /** "Coming soon" fallback when the dossier JSON is missing. */
   function renderComingSoon(orgName, orgEvents) {
     document.title = `${orgName} — Defence-AI Radar`;
-    elRoot.innerHTML = `
-      ${backLink()}
-      <header class="dossier-header">
-        <h1 class="dossier-title">${esc(orgName)}</h1>
-      </header>
-      <p class="dossier-lead">
-        Dossier coming soon for ${esc(orgName)} — meanwhile, recent events:
-      </p>
-      ${
-        renderRecentEvents(orgEvents, "Recent events") ||
-        `<p class="empty">No recent events recorded for this organisation yet.</p>`
-      }
-    `;
+    const content =
+      `${backLink()}` +
+      `<header class="dossier-header">` +
+      `<p class="dossier-classmark">OSINT Dossier · Awaiting synthesis</p>` +
+      `<h1 class="dossier-title">${esc(orgName)}</h1>` +
+      `</header>` +
+      `<p class="dossier-lead">` +
+      `Dossier coming soon for ${esc(orgName)} — meanwhile, recent events:` +
+      `</p>` +
+      (renderRecentEvents(orgEvents, "Recent events") ||
+        `<p class="empty">No recent events recorded for this organisation yet.</p>`);
+
+    elRoot.innerHTML =
+      `<div class="dossier-layout"><div class="dossier-main">${content}</div></div>`;
+    applyStagger();
   }
 
   function renderError(msg) {

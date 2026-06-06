@@ -42,6 +42,7 @@
     timeline: document.getElementById("timeline"),
     counter: document.getElementById("counter"),
     empty: document.getElementById("empty"),
+    status: document.getElementById("status"),
   };
 
   // ---- Helpers ----
@@ -107,7 +108,7 @@
 
   // ---- Rendering ----
 
-  function renderEvent(e) {
+  function renderEvent(e, i) {
     const isMapped = e.org && e.org !== "unmapped";
     const orgClass = isMapped ? "org-tag" : "org-tag unmapped";
     // Mapped orgs link to their dossier; "unmapped" stays plain text.
@@ -124,13 +125,21 @@
       .join("");
     const badgeClass = e.sourceType === "press" ? "badge press" : "badge";
     const sourceLabel = e.sourceType === "official" ? "official" : "press";
+    // Cap the reveal stagger so a long list doesn't animate forever.
+    const idx = Math.min(i, 18);
 
     return `
-      <article class="event">
+      <article class="event" style="--i:${idx}">
         <div class="event-top">
           <span class="event-date">${esc(fmtDate(e.date))}</span>
           ${orgTag}
-          ${e.region ? `<span class="region-tag">${esc(e.region)}</span>` : ""}
+          ${
+            e.region
+              ? `<span class="region-tag" data-region="${esc(
+                  e.region
+                )}">${esc(e.region)}</span>`
+              : ""
+          }
         </div>
         <h3 class="event-headline">
           <a href="${esc(safeUrl(e.sourceUrl))}" target="_blank" rel="noopener noreferrer">
@@ -141,7 +150,7 @@
         <div class="event-bottom">
           ${themeChips}
           <span class="source-name">
-            ${esc(e.sourceName)} ·
+            ↗ ${esc(e.sourceName)} ·
             <span class="${badgeClass}">${sourceLabel}</span>
           </span>
         </div>
@@ -154,7 +163,7 @@
 
     el.counter.textContent = `${filtered.length} event${
       filtered.length === 1 ? "" : "s"
-    } from ${sourceCount} source${sourceCount === 1 ? "" : "s"}`;
+    } from ${sourceCount} source${sourceCount === 1 ? "" : "s"} in view`;
 
     if (filtered.length === 0) {
       el.timeline.innerHTML = "";
@@ -163,6 +172,28 @@
     }
     el.empty.hidden = true;
     el.timeline.innerHTML = filtered.map(renderEvent).join("");
+  }
+
+  /** Terminal-style live status readout in the header.
+      Reflects the FULL dataset (not the filtered view). */
+  function renderStatus() {
+    if (!el.status) return;
+    const total = state.events.length;
+    const sources = new Set(state.events.map((e) => e.sourceName)).size;
+    // Most-recent event date drives the "UPD" stamp.
+    const latest = state.events.reduce(
+      (acc, e) => (e.date > acc ? e.date : acc),
+      "0000-00-00"
+    );
+    const upd = latest === "0000-00-00" ? "—" : fmtDate(latest);
+
+    el.status.innerHTML =
+      `<span class="status-dot" aria-hidden="true"></span>` +
+      `<span class="status-text">` +
+      `<span class="hot">${total}</span> EVENTS · ` +
+      `<span class="cool">${sources}</span> SOURCES · ` +
+      `<span class="dim">UPD</span> ${esc(upd)}` +
+      `</span>`;
   }
 
   // ---- Populate filter controls from data ----
@@ -251,8 +282,14 @@
       buildOrgOptions();
       buildThemeChips();
       bindControls();
+      renderStatus();
       render();
     } catch (err) {
+      if (el.status) {
+        el.status.innerHTML =
+          `<span class="status-dot" aria-hidden="true" style="background:var(--warn-red);box-shadow:none"></span>` +
+          `<span class="status-text">FEED OFFLINE · ${esc(err.message)}</span>`;
+      }
       el.counter.textContent = "";
       el.timeline.innerHTML = "";
       el.empty.hidden = false;

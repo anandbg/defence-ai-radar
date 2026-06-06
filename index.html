@@ -8,72 +8,109 @@
       name="description"
       content="A self-updating OSINT timeline tracking AI advancements across the UK, European and US defence ecosystem. Public-domain sources only."
     />
+    <meta name="theme-color" content="#0b0e14" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@500;600;700&family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
     <link rel="stylesheet" href="assets/styles.css" />
   </head>
   <body>
-    <header class="site-header">
-      <div class="wrap">
-        <h1>
-          Defence-AI Radar
-          <span class="subtitle">who's doing what with AI in defence</span>
-        </h1>
+    <!-- Atmospheric layers: dot grid + signal glow, painted behind everything -->
+    <div class="bg-grid" aria-hidden="true"></div>
+    <div class="bg-scan" aria-hidden="true"></div>
+
+    <header class="site-header" role="banner">
+      <div class="signal-glow" aria-hidden="true"></div>
+      <div class="wrap header-inner">
+        <div class="brand">
+          <span class="radar" aria-hidden="true">
+            <span class="radar-sweep"></span>
+            <span class="radar-blip blip-1"></span>
+            <span class="radar-blip blip-2"></span>
+            <span class="radar-blip blip-3"></span>
+          </span>
+          <span class="wordmark">
+            <span class="wordmark-main">DEFENCE&#8209;AI&nbsp;RADAR</span>
+            <span class="wordmark-sub">who's doing what with AI in defence</span>
+          </span>
+        </div>
+
         <p class="tagline">
-          A self-updating OSINT timeline across the UK · Europe · US defence
+          A self-updating OSINT timeline across the
+          <span class="hl">UK&nbsp;·&nbsp;Europe&nbsp;·&nbsp;US</span> defence
           ecosystem. Public-domain sources only — every item links back to its
           origin.
         </p>
+
+        <!-- Live terminal-style status readout, populated by app.js -->
+        <div id="status" class="status-readout" role="status" aria-live="polite">
+          <span class="status-dot" aria-hidden="true"></span>
+          <span class="status-text">INITIALISING FEED…</span>
+        </div>
       </div>
     </header>
 
-    <main class="wrap">
+    <main class="wrap" id="main">
       <!-- Controls -->
-      <section class="controls" aria-label="Search and filters">
+      <section class="controls reveal" aria-label="Search and filters">
         <div class="control search">
           <label for="search">Search</label>
-          <input
-            id="search"
-            type="search"
-            placeholder="Search headlines &amp; summaries…"
-            autocomplete="off"
-          />
+          <div class="input-shell">
+            <span class="input-glyph" aria-hidden="true">⌕</span>
+            <input
+              id="search"
+              type="search"
+              placeholder="Search headlines &amp; summaries…"
+              autocomplete="off"
+            />
+          </div>
         </div>
 
         <div class="control">
           <label for="region">Region</label>
-          <select id="region">
-            <option value="">All regions</option>
-            <option value="UK">UK</option>
-            <option value="Europe">Europe</option>
-            <option value="US">US</option>
-          </select>
+          <div class="input-shell">
+            <select id="region">
+              <option value="">All regions</option>
+              <option value="UK">UK</option>
+              <option value="Europe">Europe</option>
+              <option value="US">US</option>
+            </select>
+          </div>
         </div>
 
         <div class="control">
           <label for="org">Organisation</label>
-          <select id="org">
-            <option value="">All organisations</option>
-          </select>
+          <div class="input-shell">
+            <select id="org">
+              <option value="">All organisations</option>
+            </select>
+          </div>
         </div>
 
         <div class="control">
           <label for="range">Date range</label>
-          <select id="range">
-            <option value="30">Last 30 days</option>
-            <option value="180">Last 6 months</option>
-            <option value="365">Last 12 months</option>
-            <option value="all" selected>All time</option>
-          </select>
+          <div class="input-shell">
+            <select id="range">
+              <option value="30">Last 30 days</option>
+              <option value="180">Last 6 months</option>
+              <option value="365">Last 12 months</option>
+              <option value="all" selected>All time</option>
+            </select>
+          </div>
         </div>
       </section>
 
       <!-- Theme chips -->
-      <section class="theme-filter" aria-label="Theme filter">
-        <span class="theme-label">Themes:</span>
+      <section class="theme-filter reveal" aria-label="Theme filter">
+        <span class="theme-label">Themes</span>
         <div id="themes" class="chips"></div>
       </section>
 
       <!-- Counter -->
-      <p id="counter" class="counter" aria-live="polite"></p>
+      <p id="counter" class="counter reveal" aria-live="polite"></p>
 
       <!-- Timeline -->
       <section id="timeline" class="timeline" aria-label="Event timeline"></section>
@@ -87,10 +124,11 @@
     <footer class="site-footer">
       <div class="wrap">
         <p>
-          Defence-AI Radar is an open-source OSINT project. Data is aggregated
-          from public RSS/Atom feeds; summaries link back to the original
-          sources. No paywalled text is republished. No LLM is used anywhere in
-          the site or pipeline — pure code.
+          <span class="footer-mark">DEFENCE&#8209;AI&nbsp;RADAR</span> is an
+          open-source OSINT project. Data is aggregated from public RSS/Atom
+          feeds; summaries link back to the original sources. No paywalled text
+          is republished.
+          <span class="footer-tag">NO&nbsp;LLM&nbsp;IN&nbsp;THE&nbsp;LOOP — PURE&nbsp;CODE.</span>
         </p>
       </div>
     </footer>
