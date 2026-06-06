@@ -1,0 +1,40 @@
+{
+  "slug": "uk-mod",
+  "name": "UK Ministry of Defence — AI",
+  "region": "UK",
+  "type": "gov",
+  "updated": "2026-06-06",
+  "overview": "The UK MoD treats AI as a strategic priority, coordinated centrally through the Defence AI Centre (DAIC). Its public footprint is strongest on strategy, policy and procurement — a published AI strategy (2022), a Playbook (2024) and a safety/assurance framework (JSP 936, 2024) — and on building an experimentation and supplier pipeline (the 'Foundry' data environment, the AI Model Arena, DASA competitions, and large open frameworks like Asgard). Fielded operational systems are mostly undisclosed; what's public is the scaffolding, the money, and the contracts.",
+  "established": [
+    { "claim": "Defence AI Centre (DAIC) stood up as the focal point for AI across UK Defence (created by the 2021 Integrated Review; operational from 2022).", "date": "2022-01-01", "sourceName": "GOV.UK — Defence AI Centre", "sourceUrl": "https://www.gov.uk/government/groups/defence-artificial-intelligence-centre" },
+    { "claim": "Defence Artificial Intelligence Strategy published — the MoD's foundational AI policy and ambition.", "date": "2022-06-15", "sourceName": "GOV.UK — Defence AI Strategy", "sourceUrl": "https://www.gov.uk/government/publications/defence-artificial-intelligence-strategy/defence-artificial-intelligence-strategy" },
+    { "claim": "Defence AI Playbook published — practical guidance for adopting AI across Defence.", "date": "2024-01-31", "sourceName": "GOV.UK — Defence AI Playbook (PDF)", "sourceUrl": "https://assets.publishing.service.gov.uk/media/65bb75fa21f73f0014e0ba51/Defence_AI_Playbook.pdf" },
+    { "claim": "JSP 936 'Dependable AI in Defence' introduced as the principal policy framework for safe and responsible AI adoption.", "date": "2024-11-01", "sourceName": "GOV.UK — JSP 936 (PDF)", "sourceUrl": "https://assets.publishing.service.gov.uk/media/6735fc89f6920bfb5abc7b62/JSP936_Part1.pdf" },
+    { "claim": "The 'Foundry' (DAIC's data/AI environment) operational and used to support the Strategic Defence Review with data-driven insight.", "date": "2025-06-01", "sourceName": "Parliament — Developing AI capacity in UK Defence", "sourceUrl": "https://publications.parliament.uk/pa/cm5901/cmselect/cmdfence/812/report.html" }
+  ],
+  "inProgress": [
+    { "claim": "AI Model Arena — a tool to redefine how Defence evaluates and procures AI, built with UK firm Advai and the National Security Strategic Investment Fund; targeted live by DAIC Connect (March 2026).", "date": "2026-03-01", "sourceName": "GOV.UK — Launching the AI Model Arena", "sourceUrl": "https://www.gov.uk/government/news/launching-the-ai-model-arena" },
+    { "claim": "Project Asgard — 26 companies awarded a four-year 'Open Framework' to build AI/ML decision-support for military targeting (the 'Decide' step) for the British Army (tender July 2025).", "date": "2026-01-15", "sourceName": "Computer Weekly", "sourceUrl": "https://www.computerweekly.com/news/366640322/UK-MoD-awards-more-than-two-dozen-contracts-for-AI-targeting-systems" },
+    { "claim": "UK Defence Innovation (UKDI) created by the Strategic Defence Review 2025 with a ring-fenced budget of at least £400M/yr to harness commercial and dual-use technology, including AI.", "date": "2025-06-02", "sourceName": "Parliament / SDR 2025 coverage", "sourceUrl": "https://publications.parliament.uk/pa/cm5901/cmselect/cmdfence/812/report.html" },
+    { "claim": "DASA 'Intelligent Ship — The Next Generation' competition funding AI to tackle crew information-overload (£4M programme, nine first-wave projects).", "date": "2024-01-01", "sourceName": "GOV.UK — DASA / DAIC", "sourceUrl": "https://www.gov.uk/government/groups/defence-artificial-intelligence-centre" }
+  ],
+  "latest": [
+    { "claim": "Asgard AI targeting framework drew public scrutiny over autonomy and ethics as the 26-company award was reported.", "date": "2026-03-12", "sourceName": "Drone Wars UK", "sourceUrl": "https://dronewars.net/2026/03/12/uk-ai-targeting-system-contract/" },
+    { "claim": "Alan Turing Institute published a Defence AI Assurance study (system cards / promising practice) with the MoD — signalling a push on trustworthy AI.", "date": "2025-09-01", "sourceName": "Alan Turing Institute (PDF)", "sourceUrl": "https://www.turing.ac.uk/sites/default/files/2025-09/defence_ai_assurance.pdf" }
+  ],
+  "suppliers": [
+    { "name": "Faculty (Faculty Science Ltd)", "role": "AI specialist — partner on Dstl's £7M AI experimentation contract", "sourceName": "Defence Online", "sourceUrl": "https://www.defenceonline.co.uk/2022/06/17/mod-announces-ai-defence-strategy-alongside-faculty-and-kainos-contract/" },
+    { "name": "Kainos", "role": "Prime on Dstl's AI experimentation contract (NI-based; up to 20 data-science roles)", "sourceName": "Defence Online", "sourceUrl": "https://www.defenceonline.co.uk/2022/06/17/mod-announces-ai-defence-strategy-alongside-faculty-and-kainos-contract/" },
+    { "name": "Actica Consulting", "role": "Defence/AI delivery partner on the Dstl experimentation contract", "sourceName": "Defence Online", "sourceUrl": "https://www.defenceonline.co.uk/2022/06/17/mod-announces-ai-defence-strategy-alongside-faculty-and-kainos-contract/" },
+    { "name": "Advai", "role": "UK AI assurance firm — building the AI Model Arena with DAIC + NSSIF", "sourceName": "GOV.UK", "sourceUrl": "https://www.gov.uk/government/news/launching-the-ai-model-arena" },
+    { "name": "Asgard framework (26 suppliers)", "role": "Four-year open framework for AI/ML military-targeting decision support (British Army)", "sourceName": "Computer Weekly", "sourceUrl": "https://www.computerweekly.com/news/366640322/UK-MoD-awards-more-than-two-dozen-contracts-for-AI-targeting-systems" }
+  ],
+  "sources": [
+    { "name": "Defence AI Centre (GOV.UK)", "sourceUrl": "https://www.gov.uk/government/groups/defence-artificial-intelligence-centre" },
+    { "name": "Defence Artificial Intelligence Strategy (GOV.UK)", "sourceUrl": "https://www.gov.uk/government/publications/defence-artificial-intelligence-strategy/defence-artificial-intelligence-strategy" },
+    { "name": "Defence AI Playbook, Jan 2024 (PDF)", "sourceUrl": "https://assets.publishing.service.gov.uk/media/65bb75fa21f73f0014e0ba51/Defence_AI_Playbook.pdf" },
+    { "name": "JSP 936 Dependable AI, Nov 2024 (PDF)", "sourceUrl": "https://assets.publishing.service.gov.uk/media/6735fc89f6920bfb5abc7b62/JSP936_Part1.pdf" },
+    { "name": "DAIC — Defence Equipment & Support", "sourceUrl": "https://des.mod.uk/defence-artificial-intelligence-centre/" }
+  ],
+  "unknowns": "Fielded, operational AI systems are largely classified — the public domain shows strategy, policy, money and procurement, not deployed capability. Most of Asgard's 26 suppliers are unnamed publicly. Outputs of the Foundry and specific operational use cases are not disclosed."
+}

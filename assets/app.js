@@ -108,7 +108,14 @@
   // ---- Rendering ----
 
   function renderEvent(e) {
-    const orgClass = e.org === "unmapped" ? "org-tag unmapped" : "org-tag";
+    const isMapped = e.org && e.org !== "unmapped";
+    const orgClass = isMapped ? "org-tag" : "org-tag unmapped";
+    // Mapped orgs link to their dossier; "unmapped" stays plain text.
+    const orgTag = isMapped
+      ? `<a class="${orgClass}" href="org.html?slug=${encodeURIComponent(
+          e.org
+        )}">${esc(e.orgName)}</a>`
+      : `<span class="${orgClass}">${esc(e.orgName)}</span>`;
     const themeChips = (e.themes || [])
       .map(
         (t) =>
@@ -122,7 +129,7 @@
       <article class="event">
         <div class="event-top">
           <span class="event-date">${esc(fmtDate(e.date))}</span>
-          <span class="${orgClass}">${esc(e.orgName)}</span>
+          ${orgTag}
           ${e.region ? `<span class="region-tag">${esc(e.region)}</span>` : ""}
         </div>
         <h3 class="event-headline">

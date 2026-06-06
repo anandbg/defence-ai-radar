@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Org Dossier — Defence-AI Radar</title>
+    <meta
+      name="description"
+      content="A synthesised per-organisation dossier — what's established, in progress and latest in defence AI, with public-domain sources."
+    />
+    <link rel="stylesheet" href="assets/styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="wrap">
+        <h1>
+          Defence-AI Radar
+          <span class="subtitle">organisation dossier</span>
+        </h1>
+        <p class="tagline">
+          A synthesised, public-domain view of one organisation's AI footprint —
+          what's established, in progress and latest. Every claim links back to
+          its source.
+        </p>
+      </div>
+    </header>
+
+    <main class="wrap">
+      <!-- The dossier is rendered here by assets/dossier.js -->
+      <section id="dossier" class="dossier" aria-label="Organisation dossier"></section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="wrap">
+        <p>
+          Defence-AI Radar is an open-source OSINT project. Dossiers synthesise
+          public RSS/Atom feeds and official publications; every claim links back
+          to the original source. No paywalled text is republished. No LLM is
+          used anywhere in the site or pipeline — pure code.
+        </p>
+      </div>
+    </footer>
+
+    <script src="assets/dossier.js" defer></script>
+  </body>
+</html>
