@@ -1182,6 +1182,29 @@ a.org-tag:focus {
   font-size: 0.83rem;
   line-height: 1.55;
 }
+/* Optional "what they say" claim — a short public quote, left-accent bar +
+   mono kicker, muted italic body. Sits between role and source link. */
+.supplier-claim {
+  margin: 0 0 10px;
+  padding: 6px 0 4px 12px;
+  border-left: 2px solid var(--cyan);
+}
+.supplier-claim-kicker {
+  display: block;
+  margin-bottom: 4px;
+  font-family: var(--mono);
+  font-size: 0.58rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--cyan-dim);
+}
+.supplier-claim-text {
+  margin: 0;
+  font-style: italic;
+  font-size: 0.82rem;
+  line-height: 1.6;
+  color: var(--muted);
+}
 
 /* ---- Sources list ---- */
 .source-list {

@@ -208,14 +208,26 @@
   function renderSuppliers(items) {
     if (!Array.isArray(items) || items.length === 0) return "";
     const cards = items
-      .map(
-        (s) => `
+      .map((s) => {
+        // Optional "claim" — a short public quote/summary of what the supplier
+        // says about working with the client. Older data has none → omit the
+        // block entirely so those cards render exactly as before.
+        const claim =
+          s.claim && String(s.claim).trim()
+            ? `
+          <blockquote class="supplier-claim">
+            <span class="supplier-claim-kicker">THEY SAY</span>
+            <p class="supplier-claim-text">${esc(s.claim)}</p>
+          </blockquote>`
+            : "";
+        return `
         <div class="supplier-card">
           <p class="supplier-name">${esc(s.name)}</p>
           ${s.role ? `<p class="supplier-role">${esc(s.role)}</p>` : ""}
+          ${claim}
           ${sourceLink(s.sourceName, s.sourceUrl)}
-        </div>`
-      )
+        </div>`;
+      })
       .join("");
     return `
       <section class="dossier-section sec-suppliers" id="sec-sec-suppliers">
