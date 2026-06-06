@@ -52,6 +52,58 @@
     return v && v.trim() ? v.trim() : fallback;
   }
 
+  // ---- Inline-SVG icon set (no external images; crisp at any size) ----
+  // Each entry is the inner markup of a 24×24 stroked icon. We keep them
+  // simple, single-stroke and on-brand (they inherit currentColor).
+  const ICONS = {
+    centre:
+      '<path d="M3 21h18M5 21V8l7-4 7 4v13M9 21v-5h6v5"/><path d="M9 11h.01M15 11h.01"/>',
+    document:
+      '<path d="M14 3v5h5"/><path d="M7 3h7l5 5v11a1 1 0 0 1-1 1H7a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1z"/><path d="M9 13h6M9 17h6"/>',
+    book:
+      '<path d="M12 6.5C12 5 10.5 4 8 4S4 5 4 5v13s1.5-1 4-1 4 1 4 1 1.5-1 4-1 4 1 4 1V5s-1.5-1-4-1-4 1-4 2.5z"/><path d="M12 6.5V19"/>',
+    shield:
+      '<path d="M12 3l7 3v5c0 4.5-3 8-7 10-4-2-7-5.5-7-10V6z"/><path d="M9 12l2 2 4-4"/>',
+    server:
+      '<rect x="3" y="4" width="18" height="7" rx="1.5"/><rect x="3" y="13" width="18" height="7" rx="1.5"/><path d="M7 7.5h.01M7 16.5h.01"/>',
+    flask:
+      '<path d="M9 3h6M10 3v6L5 18a1.5 1.5 0 0 0 1.3 2.2h11.4A1.5 1.5 0 0 0 19 18l-5-9V3"/><path d="M7.5 14h9"/>',
+    target:
+      '<circle cx="12" cy="12" r="8"/><circle cx="12" cy="12" r="4"/><path d="M12 2v3M12 19v3M2 12h3M19 12h3"/>',
+    coins:
+      '<ellipse cx="9" cy="7" rx="6" ry="3"/><path d="M3 7v5c0 1.7 2.7 3 6 3"/><ellipse cx="15" cy="14" rx="6" ry="3"/><path d="M9 14v3c0 1.3 1.6 2.4 4 2.8M21 14v5c0 1.7-2.7 3-6 3"/>',
+    node:
+      '<circle cx="12" cy="12" r="3"/><path d="M12 3v3M12 18v3M3 12h3M18 12h3M6 6l2 2M18 18l-2-2M18 6l-2 2M6 18l2-2"/>',
+  };
+
+  /** Pick an icon key by matching keywords in the item's claim + label.
+      Ordered most-specific → most-generic; defaults to a neutral node. */
+  function iconKeyFor(claim, label) {
+    const t = (String(claim || "") + " " + String(label || "")).toLowerCase();
+    const has = (re) => re.test(t);
+    if (has(/\b(hq|headquarter|centre|center|in-house|coordinat)\b/)) return "centre";
+    if (has(/\b(playbook|guide|how-?to|handbook)\b/)) return "book";
+    if (has(/\b(rulebook|jsp|safety|safe|assur|guardrail|responsib|ethic)\b/)) return "shield";
+    if (has(/\b(foundry|engine|data|server|model|compute|infrastructur|platform)\b/)) return "server";
+    if (has(/\b(experiment|arena|lab|trial|prototyp|test|sandbox)\b/)) return "flask";
+    if (has(/\b(target|decide|kill|strike|weapon|asgard)\b/)) return "target";
+    if (has(/\b(fund|budget|money|invest|£|\$|contract|procur|framework)\b/)) return "coins";
+    if (has(/\b(strateg|plan|policy|playbook|document|publicat|paper|report)\b/)) return "document";
+    return "node";
+  }
+
+  /** Wrap an icon key in a sized, accessible inline SVG. */
+  function iconSvg(key) {
+    const inner = ICONS[key] || ICONS.node;
+    return (
+      '<svg class="tile-icon" viewBox="0 0 24 24" width="22" height="22" ' +
+      'fill="none" stroke="currentColor" stroke-width="1.7" ' +
+      'stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">' +
+      inner +
+      "</svg>"
+    );
+  }
+
   // ---- Source-link markup, shared by every claim/supplier row ----
 
   function sourceLink(name, url) {
@@ -74,24 +126,80 @@
     );
   }
 
-  /** A claim list (Established / In progress / Latest share this format). */
+  /** "At a glance" building-blocks strip, built purely from the section's
+      data so it scales to every org. One tile per item: icon + short name
+      (claim) + one-line label. Only renders when items carry a `label`. */
+  function renderTileStrip(items) {
+    const tiles = items.filter((it) => it && it.label);
+    if (tiles.length === 0) return "";
+    const cells = tiles
+      .map((it) => {
+        const key = iconKeyFor(it.claim, it.label);
+        return `
+        <li class="bb-tile">
+          <span class="bb-icon">${iconSvg(key)}</span>
+          <span class="bb-text">
+            <span class="bb-name">${esc(it.claim)}</span>
+            <span class="bb-label">${esc(it.label)}</span>
+          </span>
+        </li>`;
+      })
+      .join("");
+    return `
+      <div class="bb-strip" aria-label="At a glance">
+        <p class="bb-kicker">At a glance · ${tiles.length} building block${
+      tiles.length === 1 ? "" : "s"
+    }</p>
+        <ul class="bb-grid">${cells}</ul>
+      </div>`;
+  }
+
+  /** One claim row. Rich shape (has `plain`) → title + kicker chip +
+      explanation paragraph; plain shape (claim only) → original layout.
+      Both forms keep the mono date + source link. */
+  function renderClaimItem(it, secClass) {
+    const meta = `
+      <div class="claim-meta">
+        ${it.date ? `<span class="claim-date">${esc(fmtDate(it.date))}</span>` : ""}
+        ${sourceLink(it.sourceName, it.sourceUrl)}
+      </div>`;
+
+    if (it.plain && String(it.plain).trim()) {
+      return `
+        <li class="claim claim-rich">
+          <div class="claim-head">
+            <span class="claim-title">${esc(it.claim)}</span>
+            ${
+              it.label
+                ? `<span class="claim-kicker ${esc(secClass)}-kicker">${esc(
+                    it.label
+                  )}</span>`
+                : ""
+            }
+          </div>
+          <p class="claim-plain">${esc(it.plain)}</p>
+          ${meta}
+        </li>`;
+    }
+
+    return `
+      <li class="claim">
+        <p class="claim-text">${esc(it.claim)}</p>
+        ${meta}
+      </li>`;
+  }
+
+  /** A claim list (Established / In progress / Latest share this format).
+      When the section's items carry rich fields we render an "at a glance"
+      tile strip above the detailed list. */
   function renderClaimSection(secClass, kicker, icon, title, items) {
     if (!Array.isArray(items) || items.length === 0) return "";
-    const rows = items
-      .map(
-        (it) => `
-        <li class="claim">
-          <p class="claim-text">${esc(it.claim)}</p>
-          <div class="claim-meta">
-            ${it.date ? `<span class="claim-date">${esc(fmtDate(it.date))}</span>` : ""}
-            ${sourceLink(it.sourceName, it.sourceUrl)}
-          </div>
-        </li>`
-      )
-      .join("");
+    const strip = renderTileStrip(items);
+    const rows = items.map((it) => renderClaimItem(it, secClass)).join("");
     return `
       <section class="dossier-section ${secClass}" id="sec-${esc(secClass)}">
         ${h2(kicker, icon, title)}
+        ${strip}
         <ul class="claim-list">${rows}</ul>
       </section>`;
   }
