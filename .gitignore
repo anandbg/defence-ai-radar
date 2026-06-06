@@ -1,0 +1,8 @@
+# Dependencies (the pipeline is zero-dep; this guards against accidental installs)
+node_modules/
+
+# OS / editor cruft
+.DS_Store
+*.log
+.idea/
+.vscode/

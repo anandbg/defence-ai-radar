@@ -1,0 +1,14 @@
+[
+  { "slug": "uk-mod", "name": "UK MoD / Defence AI Centre", "region": "UK", "type": "gov" },
+  { "slug": "dstl", "name": "Dstl — UK Defence Science & Technology Lab", "region": "UK", "type": "gov" },
+  { "slug": "dasa", "name": "DASA — UK Defence & Security Accelerator", "region": "UK", "type": "gov" },
+  { "slug": "us-dod-cdao", "name": "US DoD — Chief Digital & AI Office (CDAO)", "region": "US", "type": "gov" },
+  { "slug": "darpa", "name": "DARPA", "region": "US", "type": "gov" },
+  { "slug": "nato-diana", "name": "NATO DIANA", "region": "Europe", "type": "alliance" },
+  { "slug": "eda", "name": "European Defence Agency", "region": "Europe", "type": "alliance" },
+  { "slug": "bae-systems", "name": "BAE Systems", "region": "UK", "type": "industry" },
+  { "slug": "thales", "name": "Thales", "region": "Europe", "type": "industry" },
+  { "slug": "anduril", "name": "Anduril", "region": "US", "type": "industry" },
+  { "slug": "palantir", "name": "Palantir", "region": "US", "type": "industry" },
+  { "slug": "helsing", "name": "Helsing", "region": "Europe", "type": "industry" }
+]

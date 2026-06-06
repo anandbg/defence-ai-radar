@@ -1,0 +1,61 @@
+[
+  {
+    "id": "d97815a60322",
+    "date": "2026-06-05",
+    "org": "unmapped",
+    "orgName": "Breaking Defense",
+    "headline": "DoD cyber strategy will set a ‘clear and specific vision’ for AI to enable the force: Official",
+    "summary": "Katie Sutton, Assistant Secretary of Defense for Cyber Policy and Principal Cyber Advisor, is looking to coordinate AI adoption across several entities within the Pentagon.",
+    "sourceUrl": "https://breakingdefense.com/2026/06/dod-cyber-strategy-will-set-a-clear-and-specific-vision-for-ai-to-enable-the-force-official/",
+    "sourceName": "Breaking Defense",
+    "sourceType": "press",
+    "themes": [
+      "cyber",
+      "ethics-governance"
+    ],
+    "region": "US"
+  },
+  {
+    "id": "1627bedc7b4e",
+    "date": "2026-06-01",
+    "org": "unmapped",
+    "orgName": "DefenseScoop",
+    "headline": "Pentagon’s JWCC follow-on would create cloud marketplace, expand AI and edge computing",
+    "summary": "A draft solicitation outlines plans for a three-tier cloud ecosystem that would support artificial intelligence, tactical edge operations and secure data sharing across the Defense Department. The post Pentagon’s JWCC follow-on would create cloud marketplace, expand AI and edge computing appeared…",
+    "sourceUrl": "https://defensescoop.com/2026/06/01/pentagon-jwcc-ucm-draft-performance-of-work-statement/",
+    "sourceName": "DefenseScoop",
+    "sourceType": "press",
+    "themes": [
+      "data"
+    ],
+    "region": "US"
+  },
+  {
+    "id": "7759dfe14a50",
+    "date": "2026-05-28",
+    "org": "unmapped",
+    "orgName": "DARPA News",
+    "headline": "AI Forge: Accelerating AI breakthroughs for national security",
+    "summary": "New report and RFI aim to align government, academia, and industry around forward-looking AI research.",
+    "sourceUrl": "https://www.darpa.mil/news/2026/ai-forge-accelerating-ai-breakthroughs-national-security",
+    "sourceName": "DARPA News",
+    "sourceType": "official",
+    "themes": [],
+    "region": "US"
+  },
+  {
+    "id": "9bafa2f49c40",
+    "date": "2026-03-19",
+    "org": "darpa",
+    "orgName": "DARPA",
+    "headline": "DARPA-developed autonomous helicopter technology transitions to U.S. Army",
+    "summary": "An experimental, fly-by-wire H-60Mx Black Hawk, equipped with DARPA-funded autonomy, has been delivered to the U.S. Army for testing.",
+    "sourceUrl": "https://www.darpa.mil/news/2026/uh-60mx-black-hawk-army",
+    "sourceName": "DARPA News",
+    "sourceType": "official",
+    "themes": [
+      "autonomy"
+    ],
+    "region": "US"
+  }
+]

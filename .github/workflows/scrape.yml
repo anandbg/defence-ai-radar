@@ -1,0 +1,41 @@
+name: Scrape feeds
+
+# Runs the dependency-light ingest pipeline daily, then commits the refreshed
+# data/events.json back to the repo if anything changed. The deploy workflow
+# (triggered on push to main) then republishes the site.
+
+on:
+  schedule:
+    - cron: "0 8 * * *" # 08:00 UTC daily
+  workflow_dispatch: {} # allow manual runs from the Actions tab
+
+permissions:
+  contents: write # needed to commit the updated data file
+
+jobs:
+  ingest:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Run ingest
+        run: node pipeline/ingest.mjs
+
+      - name: Commit updated data (if changed)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if [[ -n "$(git status --porcelain data/events.json)" ]]; then
+            git add data/events.json
+            git commit -m "chore: refresh events feed ($(date -u +%Y-%m-%d))"
+            git push
+            echo "Pushed updated events.json"
+          else
+            echo "No changes to events.json"
+          fi
