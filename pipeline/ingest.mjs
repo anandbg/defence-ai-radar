@@ -79,6 +79,54 @@ const FEEDS = [
     sourceType: "press",
   },
   {
+    name: "Defense One — All",
+    url: "https://www.defenseone.com/rss/all/",
+    region: "US",
+    sourceType: "press",
+  },
+  {
+    name: "C4ISRNET",
+    url: "https://www.c4isrnet.com/arc/outboundfeeds/rss/?outputType=xml",
+    region: "US",
+    sourceType: "press",
+  },
+  {
+    name: "Naval News",
+    url: "https://www.navalnews.com/feed/",
+    region: "Europe",
+    sourceType: "press",
+  },
+  {
+    name: "The War Zone (TWZ)",
+    url: "https://www.twz.com/feed",
+    region: "US",
+    sourceType: "press",
+  },
+  {
+    name: "Task & Purpose",
+    url: "https://taskandpurpose.com/feed/",
+    region: "US",
+    sourceType: "press",
+  },
+  {
+    name: "Defence Blog",
+    url: "https://defence-blog.com/feed/",
+    region: "Europe",
+    sourceType: "press",
+  },
+  {
+    name: "Army Times",
+    url: "https://www.armytimes.com/arc/outboundfeeds/rss/?outputType=xml",
+    region: "US",
+    sourceType: "press",
+  },
+  {
+    name: "Air & Space Forces Magazine",
+    url: "https://www.airandspaceforces.com/feed/",
+    region: "US",
+    sourceType: "press",
+  },
+  {
     name: "DARPA News",
     url: "https://www.darpa.mil/rss.xml",
     fallbacks: ["https://www.darpa.mil/news.xml"],
@@ -91,28 +139,6 @@ const FEEDS = [
     region: "UK",
     sourceType: "official",
   },
-
-  // ---- Google News RSS search: THEME queries (broad aggregation) ----------
-  googleNews({ name: "Google News — defence AI", query: "defence artificial intelligence" }),
-  googleNews({ name: "Google News — military AI", query: "military AI" }),
-  googleNews({ name: "Google News — defense AI autonomy", query: "defense AI autonomy" }),
-  googleNews({ name: "Google News — military drone AI swarm", query: "military drone AI swarm" }),
-  googleNews({ name: "Google News — Pentagon AI", query: "Pentagon AI" }),
-  googleNews({ name: "Google News — defence AI contract", query: "defence AI contract" }),
-
-  // ---- Google News RSS search: per-ORG queries (orgHint biases mapping) ----
-  googleNews({ name: "Google News — UK MoD AI", query: "UK Ministry of Defence AI", orgHint: "uk-mod" }),
-  googleNews({ name: "Google News — Dstl AI", query: "DSTL artificial intelligence", orgHint: "dstl" }),
-  googleNews({ name: "Google News — DASA AI", query: "DASA defence innovation AI", orgHint: "dasa" }),
-  googleNews({ name: "Google News — DoD CDAO / Maven", query: "DoD Chief Digital AI Office Maven", orgHint: "us-dod-cdao" }),
-  googleNews({ name: "Google News — DARPA AI", query: "DARPA artificial intelligence", orgHint: "darpa" }),
-  googleNews({ name: "Google News — NATO DIANA AI", query: "NATO DIANA AI", orgHint: "nato-diana" }),
-  googleNews({ name: "Google News — EDA AI", query: "European Defence Agency AI", orgHint: "eda" }),
-  googleNews({ name: "Google News — BAE Systems AI", query: "BAE Systems artificial intelligence", orgHint: "bae-systems" }),
-  googleNews({ name: "Google News — Thales AI", query: "Thales AI defence", orgHint: "thales" }),
-  googleNews({ name: "Google News — Anduril", query: "Anduril", orgHint: "anduril" }),
-  googleNews({ name: "Google News — Palantir defense AI", query: "Palantir defense AI", orgHint: "palantir" }),
-  googleNews({ name: "Google News — Helsing", query: "Helsing defence AI", orgHint: "helsing" }),
 ];
 
 // ---------------------------------------------------------------------------
