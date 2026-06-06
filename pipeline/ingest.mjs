@@ -144,21 +144,20 @@ const FEEDS = [
 // ---------------------------------------------------------------------------
 // AI relevance — case-insensitive substring match against title + description.
 // ---------------------------------------------------------------------------
+// STRICT: a genuine AI signal must be present, so general defence news
+// (bare drones, ISR, targeting, batteries) without an AI angle is excluded.
 const AI_KEYWORDS = [
-  " ai ",
+  " ai ", " ai,", " ai.", " ai-", "(ai)", "a.i.",
   "artificial intelligence",
-  "machine learning",
-  "autonomy",
-  "autonomous",
-  "generative",
-  "large language",
-  "drone swarm",
-  "drone",
-  "algorithm",
-  "llm",
-  "copilot",
-  "isr",
-  "targeting",
+  "machine learning", "machine-learning", "deep learning", "deep-learning",
+  "neural network", "neural net",
+  "generative ai", "genai", "gen ai", "generative model",
+  "large language", "llm ", "llms",
+  "computer vision",
+  "autonomy", "autonomous",
+  "ai-enabled", "ai-powered", "ai-driven", "ai-based", "ai system", "ai model",
+  "ai-augmented", "ai capability", "ai tool", "algorithmic warfare",
+  "foundation model", "predictive ai", "agentic",
 ];
 
 // ---------------------------------------------------------------------------
@@ -452,11 +451,14 @@ const DEFENCE_KEYWORDS = [
   "saab", "lockheed", "northrop", "raytheon", "qinetiq", "electronic warfare",
 ];
 /** True only if the text is about AI AND about defence/military (filters generic-AI noise). */
-function isAIRelevant(text) {
-  const hay = ` ${text.toLowerCase()} `;
-  const ai = AI_KEYWORDS.some((kw) => hay.includes(kw));
-  const def = DEFENCE_KEYWORDS.some((kw) => hay.includes(kw));
-  return ai && def;
+function isAIRelevant(headline, corpus) {
+  const head = ` ${(headline || "").toLowerCase()} `;
+  const all = ` ${(corpus || headline || "").toLowerCase()} `;
+  // The AI signal must be in the HEADLINE so the article is genuinely about
+  // AI (not general defence news that merely mentions AI once in the body).
+  const aiInHeadline = AI_KEYWORDS.some((kw) => head.includes(kw));
+  const def = DEFENCE_KEYWORDS.some((kw) => all.includes(kw));
+  return aiInHeadline && def;
 }
 
 /** Assign themes by keyword. Always returns at least an empty array. */
@@ -841,7 +843,7 @@ async function main() {
       }
 
       const corpus = `${headline} ${summaryFull}`;
-      if (!isAIRelevant(corpus)) continue;
+      if (!isAIRelevant(headline, corpus)) continue;
 
       // Org mapping: prefer the feed's orgHint when it clearly matches, else
       // fall back to content-based mapping.

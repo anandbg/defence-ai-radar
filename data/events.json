@@ -1,13 +1,13 @@
 [
   {
-    "id": "bf293c5eb50a",
+    "id": "62eb16afc532",
     "date": "2026-06-06",
-    "org": "darpa",
-    "orgName": "DARPA",
-    "headline": "DARPA launches program to build next-gen military batteries",
-    "summary": "The Defense Advanced Research Projects Agency, known as DARPA, published a solicitation on June 5, launching a new program called ExPEDitions, short for Expeditionary Power- and Energy-Dense Implementations, to develop rechargeable batteries capable of delivering five to ten…",
-    "sourceUrl": "https://defence-blog.com/darpa-launches-program-to-build-next-gen-military-batteries/",
-    "sourceName": "Defence Blog",
+    "org": "unmapped",
+    "orgName": "Defense News",
+    "headline": "France to test its own AI-powered battlefield command in June NATO exercise",
+    "summary": "The French Army has developed its own large-language model for staff officers, called Berthier, named after Napoleon’s chief of staff.",
+    "sourceUrl": "https://www.defensenews.com/global/europe/2026/06/06/france-to-test-its-own-ai-powered-battlefield-command-in-june-nato-exercise/",
+    "sourceName": "Defense News",
     "sourceType": "press",
     "themes": [],
     "region": "US"
@@ -43,32 +43,6 @@
     "region": "Europe"
   },
   {
-    "id": "be46d82933c4",
-    "date": "2026-06-06",
-    "org": "unmapped",
-    "orgName": "Defence Blog",
-    "headline": "Ukraine develops new bunker-busting munition for drones",
-    "summary": "Photos of a new Ukrainian drone-dropped munition began circulating on social media this week, published among the first by the open-source intelligence community Exilenova+, showing a rectangular metal device with a sharpened wedge at its forward end specifically engineered to…",
-    "sourceUrl": "https://defence-blog.com/ukraine-develops-new-bunker-busting-munition-for-drones/",
-    "sourceName": "Defence Blog",
-    "sourceType": "press",
-    "themes": [],
-    "region": "Europe"
-  },
-  {
-    "id": "91b693151d3e",
-    "date": "2026-06-06",
-    "org": "unmapped",
-    "orgName": "Defence Blog",
-    "headline": "Ukraine’s battlefield drone detector spotted at US Army training in California",
-    "summary": "A small handheld device spotted at a U. S. Army exercise at Fort Irwin, California, on October 28 last year and only now has drawn attention from defense observers for reasons that go beyond its compact size.",
-    "sourceUrl": "https://defence-blog.com/ukraines-battlefield-drone-detector-spotted-at-us-army-training-in-california/",
-    "sourceName": "Defence Blog",
-    "sourceType": "press",
-    "themes": [],
-    "region": "Europe"
-  },
-  {
     "id": "271a89014061",
     "date": "2026-06-06",
     "org": "unmapped",
@@ -76,19 +50,6 @@
     "headline": "Ukrainian firm develops AI drone hunter that re-engages until target is hit",
     "summary": "Ukrainian company Yartura has unveiled a fixed-wing drone interceptor capable of reaching 450 km/h (280 mph) and equipped with an AI-powered automatic target re-engagement system, developed specifically to counter the growing speed of Russian kamikaze drones, the Ukrainian…",
     "sourceUrl": "https://defence-blog.com/ukrainian-firm-develops-ai-drone-hunter-that-re-engages-until-target-is-hit/",
-    "sourceName": "Defence Blog",
-    "sourceType": "press",
-    "themes": [],
-    "region": "Europe"
-  },
-  {
-    "id": "b179efc55d4d",
-    "date": "2026-06-06",
-    "org": "unmapped",
-    "orgName": "Defence Blog",
-    "headline": "Washington Guard trains to stop drones over World Cup crowds",
-    "summary": "With millions of soccer fans heading to the Seattle area for the FIFA World Cup this summer, the Washington National Guard gathered federal agents, police officers, and military units at a desert training range in June to rehearse a threat that barely registered on public safety…",
-    "sourceUrl": "https://defence-blog.com/washington-guard-trains-to-stop-drones-over-world-cup-crowds/",
     "sourceName": "Defence Blog",
     "sourceType": "press",
     "themes": [],
@@ -108,21 +69,6 @@
     "region": "US"
   },
   {
-    "id": "38924515b282",
-    "date": "2026-06-05",
-    "org": "unmapped",
-    "orgName": "Naval News",
-    "headline": "Aselsan Showcases Kiliç Kamikaze Underwater Drones at Efes",
-    "summary": "Aselsan’s Kiliç series of Kamikaze Autonomous Underwater Vehicles were among the products showcased by the Turkish defense firm on the sidelines of Ankara’s premier defense drills last month.",
-    "sourceUrl": "https://www.navalnews.com/naval-news/2026/06/aselsan-showcases-kilic-kamikaze-underwater-drones-at-efes/",
-    "sourceName": "Naval News",
-    "sourceType": "press",
-    "themes": [
-      "autonomy"
-    ],
-    "region": "Europe"
-  },
-  {
     "id": "d97815a60322",
     "date": "2026-06-05",
     "org": "unmapped",
@@ -139,146 +85,18 @@
     "region": "US"
   },
   {
-    "id": "1d100bbae73f",
-    "date": "2026-06-05",
-    "org": "unmapped",
-    "orgName": "Naval News",
-    "headline": "Royal Navy progresses towards Project Vanquish demo from aircraft carrier",
-    "summary": "The UK Royal Navy (RN) is progressing plans to undertake flight trials of a jet-powered Autonomous Collaborative Platform (ACP) from a Queen Elizabeth-class (QEC) aircraft carrier by the end of next year.",
-    "sourceUrl": "https://www.navalnews.com/event-news/cne-2026/2026/06/royal-navy-progresses-towards-fixed-wing-acp-demonstration-from-aircraft-carrier/",
-    "sourceName": "Naval News",
-    "sourceType": "press",
-    "themes": [
-      "autonomy"
-    ],
-    "region": "Europe"
-  },
-  {
-    "id": "7a777f160a93",
-    "date": "2026-06-05",
-    "org": "unmapped",
-    "orgName": "Breaking Defense",
-    "headline": "Under ‘Drone Dominance’ push, Pentagon begins receiving small drones",
-    "summary": "So far, the department has ordered 20,000 small, FPV-style drones from 10 vendors.",
-    "sourceUrl": "https://breakingdefense.com/2026/06/under-drone-dominance-push-pentagon-begins-receiving-small-drones/",
-    "sourceName": "Breaking Defense",
-    "sourceType": "press",
-    "themes": [],
-    "region": "US"
-  },
-  {
-    "id": "a78d86a1dc30",
-    "date": "2026-06-05",
+    "id": "1788b8d32885",
+    "date": "2026-06-03",
     "org": "unmapped",
     "orgName": "DefenseScoop",
-    "headline": "Why unauthorized drone incursions are ‘a clear and present issue’ for US Transportation Command",
-    "summary": "Counter-drone operations go beyond protecting stationary military installations, Gen. Randall Reed told DefenseScoop.",
-    "sourceUrl": "https://defensescoop.com/2026/06/05/why-unauthorized-drone-incursions-are-a-clear-and-present-issue-for-us-transportation-command/",
+    "headline": "Pentagon looks to AI, other tech to help tackle contested logistics challenges",
+    "summary": "“How we're going to win in sort of a contested logistics fight is having access to data,\" said Brent Ingraham, assistant secretary of the Army for acquisition, logistics and technology.",
+    "sourceUrl": "https://defensescoop.com/2026/06/03/military-technology-contested-logistics/",
     "sourceName": "DefenseScoop",
     "sourceType": "press",
-    "themes": [],
-    "region": "US"
-  },
-  {
-    "id": "8cafaa8059bf",
-    "date": "2026-06-04",
-    "org": "unmapped",
-    "orgName": "Naval News",
-    "headline": "Ukrainian drones strike Russian corvette RFS Boiky near Saint Petersburg",
-    "summary": "Ukrainian unmanned aerial vehicles (UAVs) struck the Russian Steregushchy-class corvette RFS Boiky on the morning of June 3rd. The attack took place around 06h35 local time as part of a larger UAV strike against military and economic targets in the Saint Petersburg region .",
-    "sourceUrl": "https://www.navalnews.com/naval-news/2026/06/ukrainian-drones-strike-russian-corvette-rfs-boiky-near-saint-petersburg/",
-    "sourceName": "Naval News",
-    "sourceType": "press",
     "themes": [
-      "autonomy"
-    ],
-    "region": "Europe"
-  },
-  {
-    "id": "5e13cf33ab82",
-    "date": "2026-06-03",
-    "org": "unmapped",
-    "orgName": "Defense News",
-    "headline": "At a NATO range in Latvia, hits and misses mark Europe’s counter-drone journey",
-    "summary": "Drone technology is “a couple of steps ahead” of countermeasures, one officer said, with interceptors having to work every time to prevent losses.",
-    "sourceUrl": "https://www.defensenews.com/global/europe/2026/06/03/at-a-nato-range-in-latvia-hits-and-misses-mark-europes-counter-drone-journey/",
-    "sourceName": "Defense News",
-    "sourceType": "press",
-    "themes": [],
-    "region": "US"
-  },
-  {
-    "id": "0f8dcc4f684f",
-    "date": "2026-06-03",
-    "org": "unmapped",
-    "orgName": "Defense One — All",
-    "headline": "Defense Business Brief: Cyber force, outlined; Shipbuilding game; USMC’s JLTV plea",
-    "summary": "The military could stand up a separate service branch to handle cyber operations by 2028— should Congress or the White House decide to do so this year, according to a new Center for Strategic and International Studies report released Wednesday.",
-    "sourceUrl": "https://www.defenseone.com/business/2026/06/defense-business-cyber-shipbuilding/413961/",
-    "sourceName": "Defense One — All",
-    "sourceType": "press",
-    "themes": [
-      "autonomy",
-      "c2",
-      "cyber",
       "data"
     ],
-    "region": "US"
-  },
-  {
-    "id": "45c19e2b29c4",
-    "date": "2026-06-03",
-    "org": "unmapped",
-    "orgName": "Army Times",
-    "headline": "Lawmakers quarrel over effort to boost defense tech integration between US and Israel",
-    "summary": "A new measure aims to \"expand and accelerate bilateral defense technology research ... and industrial cooperation\" between the U. S.",
-    "sourceUrl": "https://www.armytimes.com/news/pentagon-congress/2026/06/03/lawmakers-quarrel-over-effort-to-boost-defense-tech-integration-between-us-and-israel/",
-    "sourceName": "Army Times",
-    "sourceType": "press",
-    "themes": [
-      "isr"
-    ],
-    "region": "US"
-  },
-  {
-    "id": "1a9220212cf3",
-    "date": "2026-06-03",
-    "org": "unmapped",
-    "orgName": "Defense News",
-    "headline": "Lockheed’s GRIZZLY C-UAS system downs attack drone in live-fire demo",
-    "summary": "The live-fire demonstration paired the radars, Sanctum software and launcher to destroy the target at Yuma Proving Ground, Arizona.",
-    "sourceUrl": "https://www.defensenews.com/news/your-military/2026/06/03/lockheeds-grizzly-c-uas-system-downs-attack-drone-in-live-fire-demo/",
-    "sourceName": "Defense News",
-    "sourceType": "press",
-    "themes": [],
-    "region": "US"
-  },
-  {
-    "id": "5c5d4b9bb3ab",
-    "date": "2026-06-03",
-    "org": "unmapped",
-    "orgName": "DefenseScoop",
-    "headline": "Transcom leaders briefed on recent West Coast maritime drone demo",
-    "summary": "Officials involved suggested that a notable portion of the effort focused on developing the tactics, techniques, and procedures for manned-unmanned teaming.",
-    "sourceUrl": "https://defensescoop.com/2026/06/03/transcom-leaders-briefed-west-coast-maritime-drone-demo/",
-    "sourceName": "DefenseScoop",
-    "sourceType": "press",
-    "themes": [
-      "autonomy"
-    ],
-    "region": "US"
-  },
-  {
-    "id": "e13dbd92f227",
-    "date": "2026-06-02",
-    "org": "unmapped",
-    "orgName": "DefenseScoop",
-    "headline": "‘Cognitive drains’ and weight remain ‘pain points’ for drone employment, Marine official says",
-    "summary": "“They have their organic weapon systems, and now we're asking them to put another 30 pounds of kit of ground control stations, all the accouterments that go [with it], and probably two or three drones as backups, and now you add the explosives,” the official said.",
-    "sourceUrl": "https://defensescoop.com/2026/06/02/drone-employment-marine-corps-pain-points-cognitive-drains-weight/",
-    "sourceName": "DefenseScoop",
-    "sourceType": "press",
-    "themes": [],
     "region": "US"
   },
   {
@@ -295,21 +113,6 @@
     "region": "US"
   },
   {
-    "id": "1c2d9b248b80",
-    "date": "2026-06-02",
-    "org": "unmapped",
-    "orgName": "Defense News",
-    "headline": "France restricts Israeli presence at Europe’s biggest defense show",
-    "summary": "The restrictions come amid strained relations between Paris and Jerusalem over Israel’s military operations in Lebanon.",
-    "sourceUrl": "https://www.defensenews.com/global/europe/2026/06/02/france-restricts-israeli-presence-at-europes-biggest-defense-show/",
-    "sourceName": "Defense News",
-    "sourceType": "press",
-    "themes": [
-      "isr"
-    ],
-    "region": "US"
-  },
-  {
     "id": "3555bfdeeacd",
     "date": "2026-06-02",
     "org": "unmapped",
@@ -318,32 +121,6 @@
     "summary": "Sen. Kirsten Gillibrand also wants to establish a clear chain of human accountability for AI on the battlefield.",
     "sourceUrl": "https://www.defenseone.com/policy/2026/06/bill-regulate-military-ai/413917/",
     "sourceName": "Defense One — All",
-    "sourceType": "press",
-    "themes": [],
-    "region": "US"
-  },
-  {
-    "id": "ae32449f408d",
-    "date": "2026-06-02",
-    "org": "unmapped",
-    "orgName": "Army Times",
-    "headline": "Rubio faces lawmakers as Iran ceasefire hangs in the balance",
-    "summary": "The U. S. has been \"highly successful\" in achieving its military objectives in Iran, but the country continues to field a robust drone arsenal, Rubio said.",
-    "sourceUrl": "https://www.armytimes.com/news/pentagon-congress/2026/06/02/rubio-faces-lawmakers-as-iran-ceasefire-hangs-in-the-balance/",
-    "sourceName": "Army Times",
-    "sourceType": "press",
-    "themes": [],
-    "region": "US"
-  },
-  {
-    "id": "7d9fbc74f6b9",
-    "date": "2026-06-01",
-    "org": "unmapped",
-    "orgName": "Task & Purpose",
-    "headline": "Iranian missiles target U.S. base in Kuwait as both sides keep trading fire",
-    "summary": "The U. S. military shot down Iranian missiles targeting American forces in Kuwait on Sunday night.",
-    "sourceUrl": "https://taskandpurpose.com/news/military-us-iran-strikes/",
-    "sourceName": "Task & Purpose",
     "sourceType": "press",
     "themes": [],
     "region": "US"
@@ -364,86 +141,6 @@
     "region": "US"
   },
   {
-    "id": "9947a0a55e25",
-    "date": "2026-05-30",
-    "org": "unmapped",
-    "orgName": "Defense One — Technology",
-    "headline": "Q&A with SOUTHCOM commander Gen. Frank Donovan",
-    "summary": "\"I don't really care about platforms. I care about autonomous warfare,\" says the former leader of the Defense Autonomous Warfare Group.",
-    "sourceUrl": "https://www.defenseone.com/technology/2026/05/q-gen-frank-donovan/413870/",
-    "sourceName": "Defense One — Technology",
-    "sourceType": "press",
-    "themes": [
-      "autonomy"
-    ],
-    "region": "US"
-  },
-  {
-    "id": "f21dc8d008df",
-    "date": "2026-05-29",
-    "org": "unmapped",
-    "orgName": "C4ISRNET",
-    "headline": "At French Army FPV competition, NATO soldiers race drones and swap tips",
-    "summary": "“When I put on the mask, I no longer exist in this reality,” Chief Cpl. Clément said after completing the course.",
-    "sourceUrl": "https://www.c4isrnet.com/global/europe/2026/05/29/at-french-army-fpv-competition-nato-soldiers-race-drones-and-swap-tips/",
-    "sourceName": "C4ISRNET",
-    "sourceType": "press",
-    "themes": [],
-    "region": "US"
-  },
-  {
-    "id": "6db7da235cec",
-    "date": "2026-05-29",
-    "org": "unmapped",
-    "orgName": "The War Zone (TWZ)",
-    "headline": "Containerized Variant Of Navy’s Drone-Swatting HELIOS Laser Being Pushed By Congress",
-    "summary": "HELIOS is the only laser able to down drones installed on an active Navy warship, and putting it in a container would open up new deployment possibilities.",
-    "sourceUrl": "https://www.twz.com/news-features/containerized-variant-of-navys-drone-swatting-helios-laser-being-pushed-by-congress",
-    "sourceName": "The War Zone (TWZ)",
-    "sourceType": "press",
-    "themes": [],
-    "region": "US"
-  },
-  {
-    "id": "9a1800e00c56",
-    "date": "2026-05-29",
-    "org": "unmapped",
-    "orgName": "C4ISRNET",
-    "headline": "How Russia is turning Ukraine’s drones against NATO",
-    "summary": "A Russian drone wounded two civilians in Romania on Friday, days after Lithuania detailed how Moscow is also steering Ukraine's drones onto allied soil.",
-    "sourceUrl": "https://www.c4isrnet.com/global/europe/2026/05/29/how-russia-is-turning-ukraines-drones-against-nato/",
-    "sourceName": "C4ISRNET",
-    "sourceType": "press",
-    "themes": [],
-    "region": "US"
-  },
-  {
-    "id": "b9b5e13090c4",
-    "date": "2026-05-29",
-    "org": "unmapped",
-    "orgName": "C4ISRNET",
-    "headline": "Romania says Russian drone hit apartment block, NATO vows to defend alliance territory",
-    "summary": "“I affirmed that NATO stands ready to defend every inch of Allied territory,” NATO Secretary General Mark Rutte said on X.",
-    "sourceUrl": "https://www.c4isrnet.com/global/europe/2026/05/29/romania-says-russian-drone-hit-apartment-block-nato-vows-to-defend-alliance-territory/",
-    "sourceName": "C4ISRNET",
-    "sourceType": "press",
-    "themes": [],
-    "region": "US"
-  },
-  {
-    "id": "25bd2b358801",
-    "date": "2026-05-29",
-    "org": "unmapped",
-    "orgName": "The War Zone (TWZ)",
-    "headline": "Russian Drone Impacts Apartment Building In NATO State Romania, Injuring Civilians",
-    "summary": "The incident raises fresh questions about NATO’s ability to counter even very small volumes of Russian drones.",
-    "sourceUrl": "https://www.twz.com/news-features/russian-drone-impacts-apartment-building-in-nato-state-romania-injuring-civilians",
-    "sourceName": "The War Zone (TWZ)",
-    "sourceType": "press",
-    "themes": [],
-    "region": "US"
-  },
-  {
     "id": "7759dfe14a50",
     "date": "2026-05-28",
     "org": "unmapped",
@@ -454,130 +151,6 @@
     "sourceName": "DARPA News",
     "sourceType": "official",
     "themes": [],
-    "region": "US"
-  },
-  {
-    "id": "4befd74c6c31",
-    "date": "2026-05-28",
-    "org": "unmapped",
-    "orgName": "Defense One — Technology",
-    "headline": "How the Pentagon plans to spend $50 billion on drone warfare",
-    "summary": "As new drone startups proliferate, Pentagon and military leaders outline their priorities for building “drone dominance.\"",
-    "sourceUrl": "https://www.defenseone.com/technology/2026/05/how-pentagon-plans-spend-50-billion-drone-warfare/413805/",
-    "sourceName": "Defense One — Technology",
-    "sourceType": "press",
-    "themes": [],
-    "region": "US"
-  },
-  {
-    "id": "9d23308b5dd0",
-    "date": "2026-05-28",
-    "org": "unmapped",
-    "orgName": "The War Zone (TWZ)",
-    "headline": "New Counter-Drone Optimized Pantsir Air Defense System Being Deployed Atop Skyscrapers In Moscow",
-    "summary": "A video showing a Pantsir-SMD-E being airlifted onto a skyscraper underscores Russian attempts to shield Moscow from increasing Ukrainian drone attacks.",
-    "sourceUrl": "https://www.twz.com/air/new-counter-drone-optimized-pantsir-air-defense-system-being-deployed-atop-skyscrapers-in-moscow",
-    "sourceName": "The War Zone (TWZ)",
-    "sourceType": "press",
-    "themes": [],
-    "region": "US"
-  },
-  {
-    "id": "fcc934d5cbe8",
-    "date": "2026-05-28",
-    "org": "unmapped",
-    "orgName": "Defense One — All",
-    "headline": "The Navy used drones to sink a retired warship",
-    "summary": "Lessons from the SINKEX are shaping the service’s plans to buy and fight.",
-    "sourceUrl": "https://www.defenseone.com/defense-systems/2026/05/navy-used-drones-sink-retired-warship/413818/",
-    "sourceName": "Defense One — All",
-    "sourceType": "press",
-    "themes": [],
-    "region": "US"
-  },
-  {
-    "id": "5bebc0380cd1",
-    "date": "2026-05-27",
-    "org": "unmapped",
-    "orgName": "Defense One — All",
-    "headline": "Defense Business Brief: Defense cyber champs?; HASC mark; Navy IW",
-    "summary": "Cyber threats are an increasingly persistent national security concern supercharged by AI —and so is the industry built to help hospitals, financial institutions, and the Pentagon secure their networks. But unlike the defense industrial base overall, there’s no clear prime.",
-    "sourceUrl": "https://www.defenseone.com/business/2026/05/defense-business-brief-defense-cyber-champs-hasc-mark-navy-iw/413802/",
-    "sourceName": "Defense One — All",
-    "sourceType": "press",
-    "themes": [
-      "isr",
-      "cyber",
-      "data",
-      "ethics-governance"
-    ],
-    "region": "US"
-  },
-  {
-    "id": "79dd91c4986d",
-    "date": "2026-05-27",
-    "org": "unmapped",
-    "orgName": "The War Zone (TWZ)",
-    "headline": "Inside The Effort To Build Ukraine’s Ground Robot Arsenal",
-    "summary": "Ukraine has a voracious demand for ground drones as they increasingly perform logistics, rescue and combat operations.",
-    "sourceUrl": "https://www.twz.com/news-features/inside-the-effort-to-build-ukraines-ground-robot-arsenal",
-    "sourceName": "The War Zone (TWZ)",
-    "sourceType": "press",
-    "themes": [],
-    "region": "US"
-  },
-  {
-    "id": "316c1346c458",
-    "date": "2026-05-27",
-    "org": "unmapped",
-    "orgName": "C4ISRNET",
-    "headline": "Latvia sends mobile intercept units to Russian border in wake of drone incursions",
-    "summary": "“The force teams we plan to deploy to the border in the coming days will be equipped with local interceptor drones,” a Latvian military official said.",
-    "sourceUrl": "https://www.c4isrnet.com/global/europe/2026/05/27/latvia-sends-mobile-intercept-units-to-russian-border-in-wake-of-drone-incursions/",
-    "sourceName": "C4ISRNET",
-    "sourceType": "press",
-    "themes": [],
-    "region": "US"
-  },
-  {
-    "id": "0cb5b3b78e54",
-    "date": "2026-05-26",
-    "org": "unmapped",
-    "orgName": "C4ISRNET",
-    "headline": "India boosts drone warfare capability with compact missile",
-    "summary": "Indian Defense Minister Rajnath Singh called the successful development trials a “strategic milestone” toward self-reliance in defense.",
-    "sourceUrl": "https://www.c4isrnet.com/global/asia-pacific/2026/05/26/india-boosts-drone-warfare-capability-with-compact-missile/",
-    "sourceName": "C4ISRNET",
-    "sourceType": "press",
-    "themes": [],
-    "region": "US"
-  },
-  {
-    "id": "23aeae00cd5d",
-    "date": "2026-05-22",
-    "org": "unmapped",
-    "orgName": "C4ISRNET",
-    "headline": "US Marine Corps tests using helicopter as mobile drone command center",
-    "summary": "During the test, troops launched a Neros Archer FPV drone from the ground before transferring control to operators aboard a helicopter orbiting miles away.",
-    "sourceUrl": "https://www.c4isrnet.com/news/your-marine-corps/2026/05/22/us-marine-corps-tests-using-helicopter-as-mobile-drone-command-center/",
-    "sourceName": "C4ISRNET",
-    "sourceType": "press",
-    "themes": [],
-    "region": "US"
-  },
-  {
-    "id": "1546ca0d5f85",
-    "date": "2026-05-21",
-    "org": "unmapped",
-    "orgName": "C4ISRNET",
-    "headline": "Turkey to buy 100 one-way explosive naval drones for swarm attacks",
-    "summary": "Turkey eyes an arsenal capable of taking out enemy ships with unmanned systems.",
-    "sourceUrl": "https://www.c4isrnet.com/global/europe/2026/05/21/turkey-to-buy-100-one-way-explosive-naval-drones-for-swarm-attacks/",
-    "sourceName": "C4ISRNET",
-    "sourceType": "press",
-    "themes": [
-      "autonomy"
-    ],
     "region": "US"
   },
   {
@@ -596,45 +169,17 @@
     "region": "US"
   },
   {
-    "id": "7b4ab2866ed1",
-    "date": "2026-05-16",
+    "id": "7cbf30f4d8b6",
+    "date": "2026-05-13",
     "org": "unmapped",
     "orgName": "Defense One — Technology",
-    "headline": "Even as drones usher in an era of ‘cheap kill,’ Army leaders look to what’s next",
-    "summary": "Uncrewed vehicles were everywhere at LANPAC—even above a general’s head.",
-    "sourceUrl": "https://www.defenseone.com/technology/2026/05/even-drones-usher-era-cheap-kill-army-leaders-look-whats-next/413596/",
+    "headline": "West Pointers can be trained to better evaluate, appreciate AI, study finds",
+    "summary": "New research may point the way to harnessing AI’s potential on the battlefield—and in society.",
+    "sourceUrl": "https://www.defenseone.com/technology/2026/05/west-pointers-can-be-trained-better-evaluate-appreciate-ai-study-finds/413513/",
     "sourceName": "Defense One — Technology",
     "sourceType": "press",
-    "themes": [
-      "autonomy"
-    ],
+    "themes": [],
     "region": "US"
-  },
-  {
-    "id": "949a4406e68e",
-    "date": "2026-05-16",
-    "org": "unmapped",
-    "orgName": "UK Gov — Ministry of Defence",
-    "headline": "UK deploys new low-cost anti-drone system in the Middle East",
-    "summary": "British citizens and regional partners will be better protected against drone attacks as the Royal Air Force deploys a new low-cost anti-drone weapon on operations in the Middle East.",
-    "sourceUrl": "https://www.gov.uk/government/news/uk-deploys-new-low-cost-anti-drone-system-in-the-middle-east",
-    "sourceName": "UK Gov — Ministry of Defence",
-    "sourceType": "official",
-    "themes": [],
-    "region": "UK"
-  },
-  {
-    "id": "38d4f9631a23",
-    "date": "2026-05-15",
-    "org": "unmapped",
-    "orgName": "UK Gov — Ministry of Defence",
-    "headline": "British-based firms lead the way for Apache helicopter support drones",
-    "summary": "Drones which will accompany the Army’s Apache helicopters are receiving £10 million investment today as the programme reaches a new milestone.",
-    "sourceUrl": "https://www.gov.uk/government/news/british-based-firms-lead-the-way-for-apache-helicopter-support-drones",
-    "sourceName": "UK Gov — Ministry of Defence",
-    "sourceType": "official",
-    "themes": [],
-    "region": "UK"
   },
   {
     "id": "ae92233786ef",
@@ -649,32 +194,6 @@
     "themes": [
       "autonomy"
     ],
-    "region": "US"
-  },
-  {
-    "id": "f88ad1b968d3",
-    "date": "2026-05-01",
-    "org": "unmapped",
-    "orgName": "Defense One — Technology",
-    "headline": "Former head of ‘Pentagon’s think tank’ joins Anthropic",
-    "summary": "The strategy expert calls adaptation to AI a \"civilizational\" challenge.",
-    "sourceUrl": "https://www.defenseone.com/technology/2026/05/former-head-pentagons-think-tank-joins-anthropic/413256/",
-    "sourceName": "Defense One — Technology",
-    "sourceType": "press",
-    "themes": [],
-    "region": "US"
-  },
-  {
-    "id": "3d6bdf2d20a4",
-    "date": "2026-04-16",
-    "org": "unmapped",
-    "orgName": "Defense One — Technology",
-    "headline": "‘Best drone’ innovation winner developing enemy drone recovery system with the Army Research Lab",
-    "summary": "Soldiers shared their lessons learned from the first Best Drone Warfighter competition at the Army Aviation Warfighter Summit.",
-    "sourceUrl": "https://www.defenseone.com/technology/2026/04/best-drone-innovation-winner-developing-enemy-drone-recovery-system-army-research-lab/412919/",
-    "sourceName": "Defense One — Technology",
-    "sourceType": "press",
-    "themes": [],
     "region": "US"
   },
   {
