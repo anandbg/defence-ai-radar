@@ -863,6 +863,18 @@ a.org-tag:focus {
 .source-name .badge.press {
   color: var(--status-teal);
 }
+/* Subtle "Read at {source} →" link — the only source affordance; never a raw URL. */
+.source-link {
+  color: var(--faint);
+  text-decoration: none;
+  border-bottom: 1px dotted transparent;
+  transition: color 0.15s ease, border-color 0.15s ease;
+}
+.source-link:hover,
+.source-link:focus-visible {
+  color: var(--ink, var(--green));
+  border-bottom-color: currentColor;
+}
 
 /* ===================================================================
    LOAD MORE  ·  reveal the timeline a slice at a time

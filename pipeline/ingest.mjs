@@ -173,17 +173,137 @@ function decodeEntities(str) {
     .replace(/&#8221;/g, "”")
     .replace(/&#8211;/g, "–")
     .replace(/&#8212;/g, "—")
+    .replace(/&#8230;/g, "…")
+    .replace(/&mdash;/g, "—")
+    .replace(/&ndash;/g, "–")
+    .replace(/&hellip;/g, "…")
+    .replace(/&lsquo;/g, "‘")
+    .replace(/&rsquo;/g, "’")
+    .replace(/&ldquo;/g, "“")
+    .replace(/&rdquo;/g, "”")
+    .replace(/&pound;/g, "£")
+    .replace(/&euro;/g, "€")
+    .replace(/&deg;/g, "°")
+    .replace(/&trade;/g, "™")
+    .replace(/&copy;/g, "©")
+    .replace(/&reg;/g, "®")
     .replace(/&nbsp;/g, " ")
     .replace(/&amp;/g, "&"); // do &amp; LAST so we don't double-decode
 }
 
-/** Strip CDATA wrappers and HTML tags, collapse whitespace. */
-function cleanText(raw) {
+/** Decode numeric (&#123; / &#x1F;) HTML entities not covered by the named map. */
+function decodeNumericEntities(str) {
+  return str
+    .replace(/&#x([0-9a-fA-F]+);/g, (_, h) => {
+      try { return String.fromCodePoint(parseInt(h, 16)); } catch { return _; }
+    })
+    .replace(/&#(\d+);/g, (_, d) => {
+      try { return String.fromCodePoint(parseInt(d, 10)); } catch { return _; }
+    });
+}
+
+/**
+ * Strip ALL HTML — tags, CDATA, comments, <script>/<style> bodies — and decode
+ * entities, collapsing whitespace. The single source of truth for "no markup".
+ * Any value passed through here is guaranteed to contain no "<", ">", "href" or
+ * raw entities, so it is always safe to store as a summary.
+ */
+function stripHtml(raw) {
   if (!raw) return "";
-  let s = raw.replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, "$1");
-  s = s.replace(/<[^>]+>/g, " "); // drop HTML tags
-  s = decodeEntities(s);
+  let s = String(raw);
+  s = s.replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, "$1"); // unwrap CDATA
+  s = s.replace(/<!--[\s\S]*?-->/g, " "); // drop comments
+  s = s.replace(/<(script|style)\b[^>]*>[\s\S]*?<\/\1>/gi, " "); // drop script/style bodies
+  s = s.replace(/<[^>]+>/g, " "); // drop every well-formed tag
+  s = s.replace(/<[^>]*$/g, " "); // drop an UNTERMINATED trailing tag (truncated href)
+  s = decodeNumericEntities(decodeEntities(s)); // decode named then numeric entities
+  s = s.replace(/<[^>]+>/g, " "); // strip tags an entity decoded INTO (e.g. &lt;a&gt;)
+  s = s.replace(/<[^>]*$/g, " "); // and any unterminated tag after entity decode
   return s.replace(/\s+/g, " ").trim();
+}
+
+/** Backwards-compatible alias used throughout the parser. */
+function cleanText(raw) {
+  return stripHtml(raw);
+}
+
+/**
+ * Trim already-clean prose to roughly 2-3 sentences, ending on a sentence
+ * boundary and never exceeding `maxChars`. Input MUST be HTML-stripped already.
+ */
+function toSentences(text, maxSentences = 3, maxChars = 280) {
+  let clean = (text || "").trim();
+  if (!clean) return "";
+  // Strip common WordPress RSS boilerplate footers.
+  clean = clean
+    .replace(/\s*The post .*?appeared first on .*$/i, "")
+    .replace(/\s*\[…\]\s*$/i, "") // a trailing "[…]" read-more marker
+    .replace(/\s*Continue reading\b.*$/i, "")
+    .trim();
+  if (!clean) return "";
+  // Protect decimal points so "1.2 seconds" isn't split into two "sentences".
+  const DOT = "@@DOT@@"; // sentinel; not present in feed prose
+  clean = clean.replace(/(\d)\.(\d)/g, `$1${DOT}$2`);
+  const restore = (s) => s.split(DOT).join(".");
+  // Split on sentence terminators while keeping them attached.
+  const parts = clean.match(/[^.!?]+[.!?]+(?:["'”’)\]]+)?|\S[^.!?]*$/g) || [clean];
+  let out = "";
+  for (const p of parts) {
+    const candidate = (out ? out + " " : "") + p.trim();
+    if (candidate.length > maxChars) break;
+    out = candidate;
+    // Count terminal punctuation reached; stop at the sentence budget.
+    const sentenceCount = (out.match(/[.!?]+(?:["'”’)\]]+)?(?:\s|$)/g) || []).length;
+    if (sentenceCount >= maxSentences) break;
+  }
+  if (!out) {
+    // No sentence boundary fit: hard-cap on a word boundary.
+    out = clean.slice(0, maxChars);
+    const lastSpace = out.lastIndexOf(" ");
+    if (lastSpace > 60) out = out.slice(0, lastSpace);
+    out = out.replace(/[\s,;:]+$/, "") + "…";
+  }
+  return restore(out.trim());
+}
+
+/** Normalise text to alphanumeric tokens for cheap similarity checks. */
+function tokenSet(text) {
+  return new Set(
+    (text || "")
+      .toLowerCase()
+      .replace(/[^a-z0-9\s]/g, " ")
+      .split(/\s+/)
+      .filter(Boolean)
+  );
+}
+
+/**
+ * True when a candidate description is essentially just the headline (some
+ * publishers set og:description to "Headline - SiteName"). Such echoes add no
+ * information, so we prefer a real paragraph or the neutral fallback instead.
+ */
+function isHeadlineEcho(candidate, headline) {
+  if (!candidate || !headline) return false;
+  const c = tokenSet(candidate);
+  const h = tokenSet(headline);
+  if (h.size === 0) return false;
+  let overlap = 0;
+  for (const t of h) if (c.has(t)) overlap++;
+  const coverage = overlap / h.size; // share of headline words present
+  // Echo if it covers nearly the whole headline and adds little of its own.
+  const extra = c.size - overlap; // candidate words not in the headline
+  return coverage >= 0.8 && extra <= 4;
+}
+
+/** True when a candidate summary is real prose (not a bare link / source stub). */
+function isRealProse(text) {
+  const s = (text || "").trim();
+  if (s.length <= 50) return false;
+  if (/^https?:\/\//i.test(s)) return false; // a bare URL
+  if (/news\.google\.com/i.test(s)) return false;
+  if (/<|>|href=/i.test(s)) return false; // any surviving markup
+  // Needs at least a couple of words and some letters.
+  return /[a-zA-Z]/.test(s) && s.split(/\s+/).length >= 6;
 }
 
 /** Pull the inner text of the first <tag>…</tag> within a block. */
@@ -387,6 +507,243 @@ async function loadFeed(feed) {
 }
 
 // ---------------------------------------------------------------------------
+// Article summaries — build-time, NO LLM. Pure fetch + meta-tag/<p> extraction.
+// ---------------------------------------------------------------------------
+
+// Browser-like UA: publisher CDNs frequently 403 a bot UA on the article page.
+const BROWSER_UA =
+  "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 " +
+  "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36";
+
+const FETCH_TIMEOUT_MS = 8000;
+const FETCH_CONCURRENCY = 8;
+
+/** A neutral, URL-free fallback summary. NEVER contains an href or raw link. */
+function fallbackSummary(sourceName) {
+  const name = (sourceName || "the source").trim() || "the source";
+  return `Coverage from ${name}. Open the article to read the full report.`;
+}
+
+/** fetch() with an AbortController timeout; resolves to a Response or null. */
+async function fetchWithTimeout(url, opts = {}, timeoutMs = FETCH_TIMEOUT_MS) {
+  const ctrl = new AbortController();
+  const timer = setTimeout(() => ctrl.abort(), timeoutMs);
+  try {
+    return await fetch(url, { ...opts, signal: ctrl.signal });
+  } catch {
+    return null;
+  } finally {
+    clearTimeout(timer);
+  }
+}
+
+/** Extract a content="…" value for a meta tag matched by attr=value, HTML-stripped. */
+function metaContent(html, attr, value) {
+  // Match the meta tag in either attribute order.
+  const re = new RegExp(
+    `<meta\\b[^>]*\\b${attr}\\s*=\\s*["']${value}["'][^>]*>`,
+    "i"
+  );
+  const tagMatch = html.match(re);
+  if (!tagMatch) return "";
+  const c = tagMatch[0].match(/\bcontent\s*=\s*["']([\s\S]*?)["']/i);
+  return c ? stripHtml(c[1]) : "";
+}
+
+/**
+ * Given fetched article HTML, pull the best available description in priority
+ * order: og:description → meta description → twitter:description → first
+ * substantial <p>. Returns clean prose (HTML-stripped) or "".
+ */
+function extractArticleDescription(html) {
+  if (!html) return "";
+  const candidates = [
+    metaContent(html, "property", "og:description"),
+    metaContent(html, "name", "description"),
+    metaContent(html, "name", "twitter:description"),
+    metaContent(html, "property", "twitter:description"),
+  ];
+  for (const c of candidates) {
+    if (c && c.length > 50) return c;
+  }
+  // First substantial paragraph (>60 chars after stripping).
+  const paras = [...html.matchAll(/<p\b[^>]*>([\s\S]*?)<\/p>/gi)];
+  for (const p of paras) {
+    const text = stripHtml(p[1]);
+    if (text.length > 60) return text;
+  }
+  // Any meta description, even short, is better than nothing.
+  return candidates.find(Boolean) || "";
+}
+
+/**
+ * Best-effort resolution of a Google News redirect URL to the real article URL.
+ * Modern Google News (AU_yqL… ids) hides the target behind a signed RPC; this
+ * tries it and returns the real URL on success, or null. Never throws.
+ */
+async function resolveGoogleNewsUrl(googleUrl) {
+  const seg = googleUrl.match(/\/articles\/([^?]+)/)?.[1];
+  if (!seg) return null;
+  try {
+    const r = await fetchWithTimeout(
+      `https://news.google.com/rss/articles/${seg}`,
+      { headers: { "User-Agent": BROWSER_UA }, redirect: "follow" }
+    );
+    if (!r || !r.ok) return null;
+    const html = await r.text();
+    const sg = html.match(/data-n-a-sg="([^"]+)"/)?.[1];
+    const ts = html.match(/data-n-a-ts="([^"]+)"/)?.[1];
+    if (!sg || !ts) return null;
+    const articles = JSON.stringify([
+      "garturlreq",
+      [
+        ["X", "X", ["X", "X"], null, null, 1, 1, "US:en", null,
+          [15, null, null, null, null, null, null, [1]],
+          "X", "X", 1, [1, 1, 1], 1, 1, null, 0, 0, null, 0],
+        seg, Number(ts), sg,
+      ],
+    ]);
+    const payload = JSON.stringify([[["Fbv4je", articles]]]);
+    const r2 = await fetchWithTimeout(
+      "https://news.google.com/_/DotsSplashUi/data/batchexecute",
+      {
+        method: "POST",
+        headers: {
+          "User-Agent": BROWSER_UA,
+          "Content-Type": "application/x-www-form-urlencoded;charset=UTF-8",
+        },
+        body: "f.req=" + encodeURIComponent(payload),
+      }
+    );
+    if (!r2 || !r2.ok) return null;
+    const txt = await r2.text();
+    const m =
+      txt.match(/"(https?:\/\/(?:(?!news\.google)[^"\\])+)",null,"/) ||
+      txt.match(/\[\\"(https?:(?:(?!news\.google)[^\\])+)\\"/);
+    if (!m) return null;
+    return m[1].replace(/\\u003d/g, "=").replace(/\\u0026/g, "&").replace(/\\\//g, "/");
+  } catch {
+    return null;
+  }
+}
+
+/**
+ * Fetch an article page and return its clean description prose, or "".
+ * For Google News links, first resolve to the real publisher URL.
+ */
+async function fetchArticleSummary(sourceUrl) {
+  let target = sourceUrl;
+  if (/news\.google\.com/i.test(sourceUrl)) {
+    const real = await resolveGoogleNewsUrl(sourceUrl);
+    if (!real) return ""; // can't reach the real article server-side
+    target = real;
+  }
+  const res = await fetchWithTimeout(target, {
+    headers: {
+      "User-Agent": BROWSER_UA,
+      Accept: "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+      "Accept-Language": "en-US,en;q=0.9",
+    },
+    redirect: "follow",
+  });
+  if (!res || !res.ok) return "";
+  const ctype = res.headers.get("content-type") || "";
+  if (!/text\/html|application\/xhtml/i.test(ctype)) return "";
+  const html = await res.text();
+  return extractArticleDescription(html);
+}
+
+/** Run async `worker` over `items` with a fixed concurrency limit. */
+async function runPool(items, limit, worker) {
+  const queue = [...items.entries()];
+  async function next() {
+    while (queue.length) {
+      const [idx, item] = queue.shift();
+      await worker(item, idx);
+    }
+  }
+  const runners = Array.from({ length: Math.min(limit, items.length) }, next);
+  await Promise.all(runners);
+}
+
+/**
+ * Ensure every event has a clean 2-3 sentence summary. Preserves existing good
+ * summaries (cache) so a daily run only fetches NEW items. Mutates each event's
+ * `summary` to a fresh string (no in-place edit of other fields).
+ */
+async function ensureSummaries(events) {
+  // CACHE: keep an existing summary only if it is genuine fetched/feed prose.
+  // Our neutral fallback ("Coverage from …") is NOT cached — we retry fetching
+  // it each run so items that were unreachable before can be upgraded later.
+  const isCachedGood = (e) => {
+    const s = e.summary || "";
+    return (
+      isRealProse(s) &&
+      !s.startsWith("Coverage from ") &&
+      !isHeadlineEcho(s, e.headline)
+    );
+  };
+  const needFetch = events.filter((e) => !isCachedGood(e));
+
+  // Re-normalise cached-good summaries through toSentences so the whole file
+  // stays within the 2-3 sentence / ~280-char budget and any RSS boilerplate
+  // ("The post … appeared first on …") is stripped. Idempotent on clean prose.
+  for (const e of events) {
+    if (isCachedGood(e)) {
+      const trimmed = toSentences(e.summary);
+      if (trimmed) e.summary = trimmed;
+    }
+  }
+
+  let fetched = 0;
+  let fellBack = 0;
+
+  await runPool(needFetch, FETCH_CONCURRENCY, async (e) => {
+    // (a) Feed's own description, if it is real prose (and not just the headline).
+    const feedProse = stripHtml(e._descRaw || "");
+    if (isRealProse(feedProse) && !isHeadlineEcho(feedProse, e.headline)) {
+      e.summary = toSentences(feedProse);
+      fetched++;
+      return;
+    }
+    // (b) Fetch the article (resolving Google News links first).
+    let desc = "";
+    try {
+      desc = await fetchArticleSummary(e.sourceUrl);
+    } catch {
+      desc = "";
+    }
+    if (isRealProse(desc) && !isHeadlineEcho(desc, e.headline)) {
+      e.summary = toSentences(desc);
+      fetched++;
+      return;
+    }
+    // (c) Clean neutral fallback — never a raw href.
+    e.summary = fallbackSummary(e.sourceName);
+    fellBack++;
+  });
+
+  // Final guarantee: nothing slips through with markup or a google link.
+  for (const e of events) {
+    const s = stripHtml(e.summary || "");
+    if (!s || /news\.google\.com|href=/i.test(s) || /^https?:\/\//i.test(s)) {
+      e.summary = fallbackSummary(e.sourceName);
+    } else {
+      e.summary = s;
+    }
+    delete e._descRaw; // strip the transient field before writing
+  }
+
+  // File-wide totals (clearer than just this run's fetch batch).
+  const realTotal = events.filter(
+    (e) => e.summary && !e.summary.startsWith("Coverage from ")
+  ).length;
+  const fallbackTotal = events.length - realTotal;
+
+  return { fetched, fellBack, realTotal, fallbackTotal };
+}
+
+// ---------------------------------------------------------------------------
 // Main
 // ---------------------------------------------------------------------------
 async function main() {
@@ -474,8 +831,10 @@ async function main() {
       const themes = classifyThemes(corpus);
       const region = orgRegion || feed.region;
 
-      const summary =
-        summaryFull.length > 300 ? summaryFull.slice(0, 297).trimEnd() + "…" : summaryFull;
+      // Provisional summary from the feed's own description (cleaned). For
+      // Google News search items this is just a link stub and will be replaced
+      // by a fetched article description (or the neutral fallback) later.
+      const provisional = isRealProse(summaryFull) ? toSentences(summaryFull) : "";
 
       const event = {
         id: shortHash(link),
@@ -483,12 +842,14 @@ async function main() {
         org,
         orgName,
         headline,
-        summary,
+        summary: provisional,
         sourceUrl: link,
         sourceName,
         sourceType: feed.sourceType,
         themes,
         region,
+        // Transient: raw feed description, used by ensureSummaries; not written.
+        _descRaw: descRaw,
       };
 
       // Dedupe by id (= hash of sourceUrl) AND by normalised title (the same
@@ -511,6 +872,12 @@ async function main() {
     return a.headline.localeCompare(b.headline);
   });
 
+  // Build clean 2-3 sentence summaries (fetched og:description for new items;
+  // existing real prose preserved). Concurrency-limited; may take minutes on a
+  // first backfill of hundreds of items.
+  console.log(`\nBuilding article summaries (concurrency ${FETCH_CONCURRENCY})…`);
+  const summaryStats = await ensureSummaries(merged);
+
   await writeFile(EVENTS_PATH, JSON.stringify(merged, null, 2) + "\n", "utf8");
 
   // ---- Summary -----------------------------------------------------------
@@ -529,6 +896,11 @@ async function main() {
   }
   console.log(`Total events : ${merged.length}`);
   console.log(`New this run : ${newCount}`);
+  console.log(
+    `Summaries    : ${summaryStats.realTotal} real (fetched/feed) · ` +
+      `${summaryStats.fallbackTotal} neutral fallback ` +
+      `(this run: +${summaryStats.fetched} fetched, ${summaryStats.fellBack} fell back)`
+  );
   console.log("=======================================\n");
 }
 

@@ -170,7 +170,10 @@
         <div class="event-bottom">
           ${themeChips}
           <span class="source-name">
-            ↗ ${esc(e.sourceName)} ·
+            <a class="source-link" href="${esc(safeUrl(e.sourceUrl))}"
+               target="_blank" rel="noopener noreferrer">Read at ${esc(
+                 e.sourceName
+               )} →</a>
             <span class="${badgeClass}">${sourceLabel}</span>
           </span>
         </div>
