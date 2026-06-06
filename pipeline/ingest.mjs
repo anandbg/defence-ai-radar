@@ -29,6 +29,24 @@ const EVENTS_PATH = join(DATA_DIR, "events.json");
 // Feed catalogue. `region` is the default region for items from this source.
 // `fallbacks` are tried in order if the primary URL fails.
 // ---------------------------------------------------------------------------
+/**
+ * Build a Google News RSS *search* feed config for a query.
+ * Google News aggregates thousands of outlets, so each query returns 30-100
+ * items. `when:30d` limits the window. `orgHint` (optional) biases org-mapping.
+ */
+function googleNews({ name, query, orgHint = null, region = null }) {
+  const q = encodeURIComponent(`${query} when:30d`);
+  return {
+    name,
+    url: `https://news.google.com/rss/search?q=${q}&hl=en-US&gl=US&ceid=US:en`,
+    region,
+    sourceType: "press",
+    google: true,
+    orgHint,
+    polite: true, // small delay before fetching (avoid rate-limit)
+  };
+}
+
 const FEEDS = [
   {
     name: "Breaking Defense",
@@ -49,6 +67,18 @@ const FEEDS = [
     sourceType: "press",
   },
   {
+    name: "The Defense Post",
+    url: "https://thedefensepost.com/feed/",
+    region: "US",
+    sourceType: "press",
+  },
+  {
+    name: "Defense One — Technology",
+    url: "https://www.defenseone.com/rss/technology/",
+    region: "US",
+    sourceType: "press",
+  },
+  {
     name: "DARPA News",
     url: "https://www.darpa.mil/rss.xml",
     fallbacks: ["https://www.darpa.mil/news.xml"],
@@ -61,6 +91,28 @@ const FEEDS = [
     region: "UK",
     sourceType: "official",
   },
+
+  // ---- Google News RSS search: THEME queries (broad aggregation) ----------
+  googleNews({ name: "Google News — defence AI", query: "defence artificial intelligence" }),
+  googleNews({ name: "Google News — military AI", query: "military AI" }),
+  googleNews({ name: "Google News — defense AI autonomy", query: "defense AI autonomy" }),
+  googleNews({ name: "Google News — military drone AI swarm", query: "military drone AI swarm" }),
+  googleNews({ name: "Google News — Pentagon AI", query: "Pentagon AI" }),
+  googleNews({ name: "Google News — defence AI contract", query: "defence AI contract" }),
+
+  // ---- Google News RSS search: per-ORG queries (orgHint biases mapping) ----
+  googleNews({ name: "Google News — UK MoD AI", query: "UK Ministry of Defence AI", orgHint: "uk-mod" }),
+  googleNews({ name: "Google News — Dstl AI", query: "DSTL artificial intelligence", orgHint: "dstl" }),
+  googleNews({ name: "Google News — DASA AI", query: "DASA defence innovation AI", orgHint: "dasa" }),
+  googleNews({ name: "Google News — DoD CDAO / Maven", query: "DoD Chief Digital AI Office Maven", orgHint: "us-dod-cdao" }),
+  googleNews({ name: "Google News — DARPA AI", query: "DARPA artificial intelligence", orgHint: "darpa" }),
+  googleNews({ name: "Google News — NATO DIANA AI", query: "NATO DIANA AI", orgHint: "nato-diana" }),
+  googleNews({ name: "Google News — EDA AI", query: "European Defence Agency AI", orgHint: "eda" }),
+  googleNews({ name: "Google News — BAE Systems AI", query: "BAE Systems artificial intelligence", orgHint: "bae-systems" }),
+  googleNews({ name: "Google News — Thales AI", query: "Thales AI defence", orgHint: "thales" }),
+  googleNews({ name: "Google News — Anduril", query: "Anduril", orgHint: "anduril" }),
+  googleNews({ name: "Google News — Palantir defense AI", query: "Palantir defense AI", orgHint: "palantir" }),
+  googleNews({ name: "Google News — Helsing", query: "Helsing defence AI", orgHint: "helsing" }),
 ];
 
 // ---------------------------------------------------------------------------
@@ -75,7 +127,12 @@ const AI_KEYWORDS = [
   "generative",
   "large language",
   "drone swarm",
+  "drone",
   "algorithm",
+  "llm",
+  "copilot",
+  "isr",
+  "targeting",
 ];
 
 // ---------------------------------------------------------------------------
@@ -193,6 +250,49 @@ function splitEntries(xml) {
   return entries;
 }
 
+/** Sleep helper (ms) — used to space out Google News requests politely. */
+function sleep(ms) {
+  return new Promise((resolve) => setTimeout(resolve, ms));
+}
+
+/**
+ * Normalise a headline for title-based dedupe: lowercase, drop a trailing
+ * " - source" segment, strip punctuation, collapse whitespace.
+ * The same story appears under many Google redirect URLs, so we dedupe on
+ * this normalised title in addition to the URL hash.
+ */
+function normaliseTitle(headline) {
+  let s = (headline || "").toLowerCase();
+  // Drop a trailing " - Source Name" (Google News appends this).
+  s = s.replace(/\s+[-–—]\s+[^-–—]{1,60}$/u, "");
+  s = s.replace(/[^\p{L}\p{N}\s]/gu, " "); // strip punctuation
+  return s.replace(/\s+/g, " ").trim();
+}
+
+/**
+ * Google News <item><title> is "Headline - Source Name". Split it into a clean
+ * headline and a source name. `sourceTag` (from <source>…</source>) wins for
+ * the source name when present.
+ */
+function parseGoogleTitle(rawTitle, sourceTag) {
+  const full = rawTitle || "";
+  const m = full.match(/^([\s\S]*?)\s+[-–—]\s+([^-–—]{1,60})$/u);
+  let headline = full;
+  let trailingSource = "";
+  if (m) {
+    headline = m[1].trim();
+    trailingSource = m[2].trim();
+  }
+  const sourceName = sourceTag || trailingSource || "Google News";
+  return { headline, sourceName };
+}
+
+/** Pull the <source url="…">Name</source> source name from a Google item. */
+function extractGoogleSource(block) {
+  const m = block.match(/<source\b[^>]*>([\s\S]*?)<\/source>/i);
+  return m ? cleanText(m[1]) : "";
+}
+
 /** True if the combined text mentions any AI keyword. */
 function isAIRelevant(text) {
   const hay = ` ${text.toLowerCase()} `;
@@ -291,9 +391,21 @@ async function main() {
   const byId = new Map(existing.map((e) => [e.id, e]));
   const startCount = byId.size;
 
+  // Seed the title-dedupe set with existing events so re-runs stay stable and
+  // the same story under a different (Google redirect) URL is not re-added.
+  const seenTitles = new Set(
+    existing.map((e) => normaliseTitle(e.headline)).filter(Boolean)
+  );
+
+  // Quick lookup: org slug -> org record (for orgHint resolution).
+  const orgBySlug = new Map(orgs.map((o) => [o.slug, o]));
+
   const feedStatus = [];
 
   for (const feed of FEEDS) {
+    // Be polite to Google News when firing many search queries.
+    if (feed.polite) await sleep(250 + Math.floor(Math.random() * 150));
+
     const loaded = await loadFeed(feed);
     if (!loaded) {
       feedStatus.push({ name: feed.name, ok: false, items: 0 });
@@ -304,7 +416,7 @@ async function main() {
     let kept = 0;
 
     for (const block of blocks) {
-      const title = cleanText(tag(block, "title"));
+      const rawTitle = cleanText(tag(block, "title"));
       // Atom uses <summary> or <content>; RSS uses <description>.
       const descRaw =
         tag(block, "description") ||
@@ -318,12 +430,33 @@ async function main() {
         tag(block, "published") ||
         tag(block, "date");
 
-      if (!title || !link) continue;
+      if (!rawTitle || !link) continue;
 
-      const corpus = `${title} ${summaryFull}`;
+      // For Google News, the title is "Headline - Source"; split it and read
+      // the real source from the <source> tag.
+      let headline = rawTitle;
+      let sourceName = feed.name;
+      if (feed.google) {
+        const sourceTag = extractGoogleSource(block);
+        const parsed = parseGoogleTitle(rawTitle, sourceTag);
+        headline = parsed.headline;
+        sourceName = parsed.sourceName;
+      }
+
+      const corpus = `${headline} ${summaryFull}`;
       if (!isAIRelevant(corpus)) continue;
 
-      const { org, orgName, region: orgRegion } = mapOrg(corpus, orgs, feed.name);
+      // Org mapping: prefer the feed's orgHint when it clearly matches, else
+      // fall back to content-based mapping.
+      let mapped = mapOrg(corpus, orgs, sourceName);
+      if (feed.orgHint && orgBySlug.has(feed.orgHint)) {
+        const hintOrg = orgBySlug.get(feed.orgHint);
+        // Use the hint when content didn't already map to a (different) org.
+        if (mapped.org === "unmapped" || mapped.org === feed.orgHint) {
+          mapped = { org: hintOrg.slug, orgName: hintOrg.name, region: hintOrg.region };
+        }
+      }
+      const { org, orgName, region: orgRegion } = mapped;
       const themes = classifyThemes(corpus);
       const region = orgRegion || feed.region;
 
@@ -335,20 +468,24 @@ async function main() {
         date: toISODate(dateRaw),
         org,
         orgName,
-        headline: title,
+        headline,
         summary,
         sourceUrl: link,
-        sourceName: feed.name,
+        sourceName,
         sourceType: feed.sourceType,
         themes,
         region,
       };
 
-      // Dedupe by id (= hash of sourceUrl). Keep existing if already present.
-      if (!byId.has(event.id)) {
-        byId.set(event.id, event);
-        kept++;
-      }
+      // Dedupe by id (= hash of sourceUrl) AND by normalised title (the same
+      // story shows up under many Google redirect URLs). Keep the first seen.
+      const titleKey = normaliseTitle(headline);
+      if (byId.has(event.id)) continue;
+      if (titleKey && seenTitles.has(titleKey)) continue;
+
+      byId.set(event.id, event);
+      if (titleKey) seenTitles.add(titleKey);
+      kept++;
     }
 
     feedStatus.push({ name: feed.name, ok: true, items: kept, url: loaded.url });
