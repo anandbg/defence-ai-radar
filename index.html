@@ -8,48 +8,40 @@
       name="description"
       content="A self-updating OSINT timeline tracking AI advancements across the UK, European and US defence ecosystem. Public-domain sources only."
     />
-    <meta name="theme-color" content="#fbfaf7" />
+    <meta name="theme-color" content="#faf9f5" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
-      href="https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@500;600;700&family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:wght@400;500;600;700&display=swap"
+      href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700&family=Hanken+Grotesk:wght@400;500;600;700&family=Spline+Sans+Mono:wght@400;500;600&display=swap"
       rel="stylesheet"
     />
     <link rel="stylesheet" href="assets/styles.css" />
   </head>
   <body>
-    <!-- Atmospheric layers: dot grid + signal glow, painted behind everything -->
-    <div class="bg-grid" aria-hidden="true"></div>
-    <div class="bg-scan" aria-hidden="true"></div>
-
     <header class="site-header" role="banner">
-      <div class="signal-glow" aria-hidden="true"></div>
       <div class="wrap header-inner">
         <div class="brand">
-          <span class="radar" aria-hidden="true">
-            <span class="radar-sweep"></span>
-            <span class="radar-blip blip-1"></span>
-            <span class="radar-blip blip-2"></span>
-            <span class="radar-blip blip-3"></span>
+          <span class="mark" aria-hidden="true">
+            <span class="mark-dot"></span>
           </span>
           <span class="wordmark">
-            <span class="wordmark-main">DEFENCE&#8209;AI&nbsp;RADAR</span>
+            <span class="wordmark-main">Defence&#8209;AI&nbsp;Radar</span>
             <span class="wordmark-sub">who's doing what with AI in defence</span>
           </span>
         </div>
 
         <p class="tagline">
-          A self-updating OSINT timeline across the
-          <span class="hl">UK&nbsp;·&nbsp;Europe&nbsp;·&nbsp;US</span> defence
-          ecosystem. Public-domain sources only — every item links back to its
-          origin.
+          A continuously-updated, public-domain picture of artificial
+          intelligence across the
+          <span class="hl">UK, European and US</span> defence ecosystem. Every
+          item links back to its original source.
         </p>
 
         <div class="header-meta">
           <!-- Live terminal-style status readout, populated by app.js -->
           <div id="status" class="status-readout" role="status" aria-live="polite">
             <span class="status-dot" aria-hidden="true"></span>
-            <span class="status-text">INITIALISING FEED…</span>
+            <span class="status-text">Loading the latest…</span>
           </div>
           <a class="header-about-link" href="#about">About</a>
         </div>
@@ -60,7 +52,7 @@
       <!-- About / disclaimer — front matter for the briefing -->
       <details class="about reveal" id="about" open>
         <summary class="about-summary">
-          <span class="about-kicker">ABOUT&nbsp;·&nbsp;PUBLIC-DOMAIN&nbsp;OSINT</span>
+          <span class="about-kicker">About · Public-domain OSINT</span>
           <h2 class="about-title">About Defence-AI Radar</h2>
           <span class="about-toggle" aria-hidden="true"></span>
         </summary>
@@ -117,7 +109,7 @@
            from data/orgs.json into #org-directory. -->
       <section class="orgs reveal" aria-labelledby="orgs-heading">
         <div class="orgs-head">
-          <p class="orgs-kicker" id="orgs-kicker">ORGANISATIONS</p>
+          <p class="orgs-kicker" id="orgs-kicker">Organisations</p>
           <h2 class="orgs-heading" id="orgs-heading">Organisations</h2>
           <p class="orgs-sub">
             Click any organisation for a synthesised, sourced view of what
@@ -188,6 +180,12 @@
       <!-- Timeline -->
       <section id="timeline" class="timeline" aria-label="Event timeline"></section>
 
+      <!-- Load-more: renders a slice at a time so the page isn't one huge scroll.
+           Filters/search always operate over the full set. -->
+      <div id="load-more-wrap" class="load-more-wrap" hidden>
+        <button id="load-more" class="load-more" type="button"></button>
+      </div>
+
       <p id="empty" class="empty" hidden>
         No events match your filters. Try widening the date range or clearing
         the search.
@@ -197,11 +195,11 @@
     <footer class="site-footer">
       <div class="wrap">
         <p>
-          <span class="footer-mark">DEFENCE&#8209;AI&nbsp;RADAR</span> is an
+          <span class="footer-mark">Defence&#8209;AI&nbsp;Radar</span> is an
           open-source OSINT project. Data is aggregated from public RSS/Atom
           feeds; summaries link back to the original sources. No paywalled text
           is republished.
-          <span class="footer-tag">NO&nbsp;LLM&nbsp;IN&nbsp;THE&nbsp;LOOP — PURE&nbsp;CODE.</span>
+          <span class="footer-tag">No LLM in the loop — pure code.</span>
         </p>
       </div>
     </footer>

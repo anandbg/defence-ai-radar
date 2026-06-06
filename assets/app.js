@@ -21,6 +21,11 @@
     "ethics-governance": "Ethics & Governance",
   };
 
+  // How many events to render before the "Load more" button appears, and how
+  // many each click reveals. Filters/search always run over the FULL set; this
+  // only controls how many of the matched events are painted into the DOM.
+  const PAGE_SIZE = 50;
+
   // ---- Mutable view state (rebuilt into new objects, never deep-mutated) ----
   const state = {
     events: [],
@@ -30,6 +35,7 @@
     org: "",
     range: "all",
     activeThemes: new Set(),
+    visible: PAGE_SIZE, // how many filtered events are currently rendered
   };
 
   // Human-readable org-type labels (keys = `type` in orgs.json).
@@ -55,6 +61,8 @@
     status: document.getElementById("status"),
     orgDirectory: document.getElementById("org-directory"),
     orgsKicker: document.getElementById("orgs-kicker"),
+    loadMoreWrap: document.getElementById("load-more-wrap"),
+    loadMore: document.getElementById("load-more"),
   };
 
   // ---- Helpers ----
@@ -180,10 +188,38 @@
     if (filtered.length === 0) {
       el.timeline.innerHTML = "";
       el.empty.hidden = false;
+      if (el.loadMoreWrap) el.loadMoreWrap.hidden = true;
       return;
     }
     el.empty.hidden = true;
-    el.timeline.innerHTML = filtered.map(renderEvent).join("");
+
+    // Render only the first `state.visible` of the filtered set. The rest stay
+    // matched in memory and appear when the user clicks "Load more".
+    const shown = Math.min(state.visible, filtered.length);
+    el.timeline.innerHTML = filtered.slice(0, shown).map(renderEvent).join("");
+
+    renderLoadMore(shown, filtered.length);
+  }
+
+  /** Show / hide and label the "Load more" control. */
+  function renderLoadMore(shown, total) {
+    if (!el.loadMoreWrap || !el.loadMore) return;
+    const remaining = total - shown;
+    if (remaining <= 0) {
+      el.loadMoreWrap.hidden = true;
+      return;
+    }
+    el.loadMoreWrap.hidden = false;
+    const next = Math.min(PAGE_SIZE, remaining);
+    el.loadMore.innerHTML =
+      `Load ${next} more <span class="lm-count">· ${remaining} remaining</span>`;
+  }
+
+  /** Reset the visible window whenever the filtered set may have changed, so
+      a fresh search/filter always starts at the top of the list. */
+  function resetAndRender() {
+    state.visible = PAGE_SIZE;
+    render();
   }
 
   /** Terminal-style live status readout in the header.
@@ -295,7 +331,7 @@
         btn.setAttribute("aria-pressed", on ? "false" : "true");
         if (on) state.activeThemes.delete(theme);
         else state.activeThemes.add(theme);
-        render();
+        resetAndRender();
       });
     });
   }
@@ -303,22 +339,31 @@
   // ---- Wire up controls ----
 
   function bindControls() {
+    // Any filter/search change resets the visible window to the first page.
     el.search.addEventListener("input", () => {
       state.search = el.search.value;
-      render();
+      resetAndRender();
     });
     el.region.addEventListener("change", () => {
       state.region = el.region.value;
-      render();
+      resetAndRender();
     });
     el.org.addEventListener("change", () => {
       state.org = el.org.value;
-      render();
+      resetAndRender();
     });
     el.range.addEventListener("change", () => {
       state.range = el.range.value;
-      render();
+      resetAndRender();
     });
+
+    // "Load more" reveals the next page of already-matched events.
+    if (el.loadMore) {
+      el.loadMore.addEventListener("click", () => {
+        state.visible += PAGE_SIZE;
+        render();
+      });
+    }
   }
 
   // ---- Boot ----
