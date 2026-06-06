@@ -32,6 +32,16 @@
     activeThemes: new Set(),
   };
 
+  // Human-readable org-type labels (keys = `type` in orgs.json).
+  const TYPE_LABELS = {
+    gov: "gov",
+    alliance: "alliance",
+    industry: "industry",
+  };
+  // Display order for the directory: government & alliances first
+  // (the public-sector backbone), then industry. Ties → alphabetical.
+  const TYPE_ORDER = { gov: 0, alliance: 1, industry: 2 };
+
   // ---- DOM handles ----
   const el = {
     search: document.getElementById("search"),
@@ -43,6 +53,8 @@
     counter: document.getElementById("counter"),
     empty: document.getElementById("empty"),
     status: document.getElementById("status"),
+    orgDirectory: document.getElementById("org-directory"),
+    orgsKicker: document.getElementById("orgs-kicker"),
   };
 
   // ---- Helpers ----
@@ -196,20 +208,68 @@
       `</span>`;
   }
 
+  // ---- Organisations directory (the dossier index) ----
+
+  /** Stable, scannable order: gov & alliance before industry, then A→Z. */
+  function orderedOrgs() {
+    return state.orgs.slice().sort((a, b) => {
+      const ta = TYPE_ORDER[a.type] ?? 99;
+      const tb = TYPE_ORDER[b.type] ?? 99;
+      if (ta !== tb) return ta - tb;
+      return String(a.name).localeCompare(String(b.name));
+    });
+  }
+
+  function renderOrgCard(o, i) {
+    const href = "org.html?slug=" + encodeURIComponent(o.slug);
+    const typeLabel = TYPE_LABELS[o.type] || o.type || "";
+    // Cap the reveal stagger so the grid doesn't animate forever.
+    const idx = Math.min(i, 14);
+    return `
+      <a class="org-card" href="${esc(href)}" style="--i:${idx}">
+        <span class="org-card-name">${esc(o.name)}</span>
+        <span class="org-card-badges">
+          ${
+            o.region
+              ? `<span class="org-card-region" data-region="${esc(
+                  o.region
+                )}">${esc(o.region)}</span>`
+              : ""
+          }
+          ${
+            typeLabel
+              ? `<span class="org-card-type">${esc(typeLabel)}</span>`
+              : ""
+          }
+        </span>
+        <span class="org-card-cta" aria-hidden="true">View dossier →</span>
+      </a>`;
+  }
+
+  function renderOrgDirectory() {
+    if (!el.orgDirectory) return;
+    const orgs = orderedOrgs();
+    if (el.orgsKicker) {
+      el.orgsKicker.textContent =
+        "ORGANISATIONS · " +
+        orgs.length +
+        " dossier" +
+        (orgs.length === 1 ? "" : "s");
+    }
+    el.orgDirectory.innerHTML = orgs.map(renderOrgCard).join("");
+  }
+
   // ---- Populate filter controls from data ----
 
   function buildOrgOptions() {
-    // Only list orgs that actually appear in the events, for a tidy dropdown.
-    const present = new Set(state.events.map((e) => e.org));
+    // List ALL orgs so the filter is complete, even those without events yet.
     const frag = document.createDocumentFragment();
-    state.orgs
-      .filter((o) => present.has(o.slug))
-      .forEach((o) => {
-        const opt = document.createElement("option");
-        opt.value = o.slug;
-        opt.textContent = o.name;
-        frag.appendChild(opt);
-      });
+    orderedOrgs().forEach((o) => {
+      const opt = document.createElement("option");
+      opt.value = o.slug;
+      opt.textContent = o.name;
+      frag.appendChild(opt);
+    });
     el.org.appendChild(frag);
   }
 
@@ -279,6 +339,7 @@
       state.events = Array.isArray(events) ? events : [];
       state.orgs = Array.isArray(orgs) ? orgs : [];
 
+      renderOrgDirectory();
       buildOrgOptions();
       buildThemeChips();
       bindControls();

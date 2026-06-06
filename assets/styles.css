@@ -511,6 +511,176 @@ a {
 }
 
 /* ===================================================================
+   ORGANISATIONS DIRECTORY  ·  the dossier index, front and centre
+   =================================================================== */
+.orgs {
+  margin: 28px 0 8px;
+}
+.orgs-head {
+  margin-bottom: 16px;
+}
+.orgs-kicker {
+  margin: 0 0 6px;
+  font-family: var(--mono);
+  font-size: 0.62rem;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--faint);
+}
+.orgs-kicker::before {
+  content: "◆ ";
+  color: var(--amber);
+}
+.orgs-heading {
+  margin: 0 0 6px;
+  font-family: var(--display);
+  font-weight: 700;
+  font-size: clamp(1.15rem, 3.4vw, 1.4rem);
+  letter-spacing: 0.01em;
+  line-height: 1.2;
+  color: var(--ink);
+}
+.orgs-sub {
+  margin: 0;
+  max-width: 64ch;
+  color: var(--muted);
+  font-size: 0.92rem;
+  line-height: 1.6;
+}
+
+.org-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 12px;
+}
+@media (min-width: 560px) {
+  .org-grid { grid-template-columns: 1fr 1fr; }
+}
+@media (min-width: 840px) {
+  .org-grid { grid-template-columns: repeat(3, 1fr); }
+}
+@media (min-width: 1080px) {
+  .org-grid { grid-template-columns: repeat(4, 1fr); }
+}
+
+/* Each card links to a dossier; mirrors the .event hover language. */
+.org-card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 16px 16px 14px 18px;
+  background: linear-gradient(180deg, var(--panel-2), var(--panel));
+  border: 1px solid var(--line);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow);
+  text-decoration: none;
+  color: inherit;
+  overflow: hidden;
+  transition: transform 0.18s ease, border-color 0.18s ease,
+    box-shadow 0.18s ease;
+}
+/* accent edge — a thin signal stripe that lights up on hover */
+.org-card::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  width: 3px;
+  background: linear-gradient(180deg, var(--cyan), var(--cyan-dim));
+  opacity: 0.5;
+  transition: opacity 0.18s ease, box-shadow 0.18s ease;
+}
+.org-card:hover,
+.org-card:focus-visible {
+  transform: translateY(-2px);
+  border-color: rgba(14, 116, 144, 0.4);
+  box-shadow: var(--shadow-hi);
+  outline: none;
+}
+.org-card:hover::before,
+.org-card:focus-visible::before {
+  opacity: 1;
+  box-shadow: 0 0 16px 0 rgba(14, 116, 144, 0.35);
+}
+
+.org-card-name {
+  font-family: var(--display);
+  font-weight: 600;
+  font-size: 1rem;
+  line-height: 1.3;
+  letter-spacing: 0.005em;
+  color: var(--ink);
+}
+
+.org-card-badges {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 7px;
+  margin-top: auto;
+}
+/* Region badge — same tint system as .region-tag elsewhere */
+.org-card-region {
+  font-family: var(--mono);
+  font-size: 0.62rem;
+  font-weight: 500;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  padding: 3px 8px;
+  border-radius: 6px;
+  border: 1px solid var(--line);
+  color: var(--muted);
+}
+.org-card-region[data-region="UK"] {
+  color: var(--uk);
+  border-color: rgba(33, 86, 201, 0.30);
+  background: rgba(33, 86, 201, 0.06);
+}
+.org-card-region[data-region="Europe"] {
+  color: var(--eu);
+  border-color: rgba(122, 63, 209, 0.30);
+  background: rgba(122, 63, 209, 0.06);
+}
+.org-card-region[data-region="US"] {
+  color: var(--us);
+  border-color: rgba(14, 116, 144, 0.30);
+  background: rgba(14, 116, 144, 0.06);
+}
+/* Type badge — neutral, like the dossier `.type` badge */
+.org-card-type {
+  font-family: var(--mono);
+  font-size: 0.62rem;
+  font-weight: 500;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  padding: 3px 8px;
+  border-radius: 6px;
+  background: rgba(93, 102, 117, 0.06);
+  border: 1px solid var(--line);
+  color: var(--muted);
+}
+
+.org-card-cta {
+  font-family: var(--mono);
+  font-size: 0.68rem;
+  letter-spacing: 0.04em;
+  color: var(--cyan);
+  transition: color 0.16s ease;
+}
+.org-card:hover .org-card-cta,
+.org-card:focus-visible .org-card-cta {
+  color: var(--cyan-dim);
+}
+
+/* Stagger directory cards on load, like the timeline. */
+.org-grid .org-card {
+  animation: rise 0.55s cubic-bezier(0.22, 0.61, 0.36, 1) both;
+  animation-delay: calc(0.05s + var(--i, 0) * 0.04s);
+}
+
+/* ===================================================================
    CONTROLS
    =================================================================== */
 .controls {

@@ -112,6 +112,21 @@
         </div>
       </details>
 
+      <!-- Organisations directory — the dossiers are the heart of the product,
+           so they sit up front, above the news timeline. Rendered by app.js
+           from data/orgs.json into #org-directory. -->
+      <section class="orgs reveal" aria-labelledby="orgs-heading">
+        <div class="orgs-head">
+          <p class="orgs-kicker" id="orgs-kicker">ORGANISATIONS</p>
+          <h2 class="orgs-heading" id="orgs-heading">Organisations</h2>
+          <p class="orgs-sub">
+            Click any organisation for a synthesised, sourced view of what
+            they're doing with AI.
+          </p>
+        </div>
+        <div id="org-directory" class="org-grid"></div>
+      </section>
+
       <!-- Controls -->
       <section class="controls reveal" aria-label="Search and filters">
         <div class="control search">
