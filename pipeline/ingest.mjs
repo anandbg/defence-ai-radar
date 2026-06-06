@@ -293,10 +293,24 @@ function extractGoogleSource(block) {
   return m ? cleanText(m[1]) : "";
 }
 
-/** True if the combined text mentions any AI keyword. */
+// A defence/military context term must also be present, so generic AI news
+// (medical, consumer, business) from the broad aggregator queries is excluded.
+const DEFENCE_KEYWORDS = [
+  "defence", "defense", "military", "army", "navy", "air force", "armed forces",
+  "warfare", "warfighter", "war fighter", "pentagon", "ministry of defence",
+  " mod ", " dod ", "nato", "weapon", "missile", "munition", "loitering",
+  "soldier", "troops", "combat", "battlefield", "unmanned", "uav", "uas",
+  "autonomous weapon", "national security", "department of war", "aukus",
+  "dstl", "dasa", "darpa", "diana", "european defence", "maven", "cdao",
+  "anduril", "palantir", "helsing", "bae systems", "thales", "rheinmetall",
+  "saab", "lockheed", "northrop", "raytheon", "qinetiq", "electronic warfare",
+];
+/** True only if the text is about AI AND about defence/military (filters generic-AI noise). */
 function isAIRelevant(text) {
   const hay = ` ${text.toLowerCase()} `;
-  return AI_KEYWORDS.some((kw) => hay.includes(kw));
+  const ai = AI_KEYWORDS.some((kw) => hay.includes(kw));
+  const def = DEFENCE_KEYWORDS.some((kw) => hay.includes(kw));
+  return ai && def;
 }
 
 /** Assign themes by keyword. Always returns at least an empty array. */

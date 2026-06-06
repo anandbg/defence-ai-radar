@@ -39,47 +39,6 @@
     "region": null
   },
   {
-    "id": "a466374c2689",
-    "date": "2026-06-06",
-    "org": "uk-mod",
-    "orgName": "UK MoD / Defence AI Centre",
-    "headline": "Surgeons in UK use new tool powered by AI for first time during live operation",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQVVowcGNESldXUlpGWDRkem1STzhuQVFmQ05lYVRBRXNjWTlmQVZBOU9oRkE0TXE0ejZnSlM1UkV5bWcwaHd6Si1mUjZTNUI2YmIyanV1WFZrQjBLaGJ5NzlpaG1JQWVDdTBuVHlUTl9xQTZURXNzQnRLYUsySHA2djYzZEkyVFBOUk5aSUFkcmNldmpxUWMyWmNjWmlUa3hBUjhsanM0OUNyVWJrRzE5dzlzRlNpb0U…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVVowcGNESldXUlpGWDRkem1STzhuQVFmQ05lYVRBRXNjWTlmQVZBOU9oRkE0TXE0ejZnSlM1UkV5bWcwaHd6Si1mUjZTNUI2YmIyanV1WFZrQjBLaGJ5NzlpaG1JQWVDdTBuVHlUTl9xQTZURXNzQnRLYUsySHA2djYzZEkyVFBOUk5aSUFkcmNldmpxUWMyWmNjWmlUa3hBUjhsanM0OUNyVWJrRzE5dzlzRlNpb0U?oc=5",
-    "sourceName": "Radio Royal",
-    "sourceType": "press",
-    "themes": [],
-    "region": "UK"
-  },
-  {
-    "id": "1cb36dda7469",
-    "date": "2026-06-06",
-    "org": "unmapped",
-    "orgName": "NDTV",
-    "headline": "Trump Calls For Military To Accelerate AI Use While Protecting Americans",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNT1A4TFdBWnJJbl9tSGktTHpROXc1MklpU0NCZUxocmJkZjIzaDFSZW5oYUtib0JSRDEwZTVKZjBFTWR0Z2FyN21SYTRwdUtnYlk0S29KdGpjWFRGMmw3azlwTEFJTXlhVG1xUFNtdTluU2FoYUlEX0dKUzBtNVlLVFZRQWQ3RDhWRnRUUWJnMWRaNEpmSTk4VEVXV0J1WHR3SXk2dEJLRmRUY25LUXZ0YzVOWVFiWnh…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNT1A4TFdBWnJJbl9tSGktTHpROXc1MklpU0NCZUxocmJkZjIzaDFSZW5oYUtib0JSRDEwZTVKZjBFTWR0Z2FyN21SYTRwdUtnYlk0S29KdGpjWFRGMmw3azlwTEFJTXlhVG1xUFNtdTluU2FoYUlEX0dKUzBtNVlLVFZRQWQ3RDhWRnRUUWJnMWRaNEpmSTk4VEVXV0J1WHR3SXk2dEJLRmRUY25LUXZ0YzVOWVFiWnhXWjZHVjlFUEFJOGVUSV9NVU5Sd0l6eUnSAdcBQVVfeXFMTXJKMHNCTWJYWkdFZ0JFVm1QZ3lxM2k0eVI1NTcwcVJnUUdmeVZyUlBlOHpCNF9udnhqdzBEd09OcmZZVDkzVWZWVmNsRVpuMDBaS2MwX2lvMm5YVm84WTVXai1LU040bXpoM2tTRFRqNTlMMU1PQ0ItckV0Q29GeGdIdVZmZ1Bycy1PRVVGYzd2MktTQ09DZ3JmX19nVHplRmZtTV9wYmZVM2hLdGppWmQ5LXF4enROWHE2aTE4VUp3QXpCVDZCWWp6WlRTSVZUV0paUy11NlE?oc=5",
-    "sourceName": "NDTV",
-    "sourceType": "press",
-    "themes": [],
-    "region": null
-  },
-  {
-    "id": "7e4f3953b9c9",
-    "date": "2026-06-06",
-    "org": "unmapped",
-    "orgName": "Let's Data Science",
-    "headline": "Trump directs military to accelerate AI adoption",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOcUx1WC00UExXRnRJVGJjaC1zcGQ3RmxmdE1OQ0ZsLVpJeVdvajNJQjRoMGZ6VTQxVy0xNVo1NklORUd4blNUOHFqYzQxd2FJMzJqZEl2YzdqSGtHOWpYZTEyOFpnUXU1a1l1SjFTT3lRTHVuQm53NGY4RHpBNzhDWHd1NXlPU1h1NDU3LTZJakVPdTBj?oc=5\" target=\"_blank\">Trump directs military t…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcUx1WC00UExXRnRJVGJjaC1zcGQ3RmxmdE1OQ0ZsLVpJeVdvajNJQjRoMGZ6VTQxVy0xNVo1NklORUd4blNUOHFqYzQxd2FJMzJqZEl2YzdqSGtHOWpYZTEyOFpnUXU1a1l1SjFTT3lRTHVuQm53NGY4RHpBNzhDWHd1NXlPU1h1NDU3LTZJakVPdTBj?oc=5",
-    "sourceName": "Let's Data Science",
-    "sourceType": "press",
-    "themes": [
-      "data"
-    ],
-    "region": null
-  },
-  {
     "id": "9739d8c51106",
     "date": "2026-06-06",
     "org": "unmapped",
@@ -132,6 +91,19 @@
     "region": null
   },
   {
+    "id": "af1f786cde8b",
+    "date": "2026-06-05",
+    "org": "unmapped",
+    "orgName": "The Defense Post",
+    "headline": "AI Turns Black Widow Drones Into Battlefield Threat Sensors for US Army",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQeXByVnY0RnBnRXBRdVNfeDEtUG1rTVFfMmV2TnRITnJaeklQaDJKQVlxM3BGWUFEM2xHcjRHUWZEX2hDeGFWbEhCZVFTUW5nRVJyelpNSUhURWdmdmRMOWpmR1NvMHMzdENCUk9DTXJ6NE1kSUtjc1p2dmVmNHN2N2lfWkLSAYoBQVVfeXFMT3YxU2VQZjByc05wSVdrSWlHbWx3VFRUakxLTVVrVGdvS2U1ZG15T1d…",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeXByVnY0RnBnRXBRdVNfeDEtUG1rTVFfMmV2TnRITnJaeklQaDJKQVlxM3BGWUFEM2xHcjRHUWZEX2hDeGFWbEhCZVFTUW5nRVJyelpNSUhURWdmdmRMOWpmR1NvMHMzdENCUk9DTXJ6NE1kSUtjc1p2dmVmNHN2N2lfWkLSAYoBQVVfeXFMT3YxU2VQZjByc05wSVdrSWlHbWx3VFRUakxLTVVrVGdvS2U1ZG15T1dXQW5YWkVOYk1mQS1CbUQtalBfQzNETnNYVkRrUE83eWpNM3FjSHNoaXpuV3N1M3BibjhKZ0pCWVpVSUw5RjF5VEhvT2l1bHpGcTYtaGlEMjZ5cGI4XzgwV3V3?oc=5",
+    "sourceName": "The Defense Post",
+    "sourceType": "press",
+    "themes": [],
+    "region": null
+  },
+  {
     "id": "a39a20563bfa",
     "date": "2026-06-05",
     "org": "anduril",
@@ -143,32 +115,6 @@
     "sourceType": "press",
     "themes": [],
     "region": "US"
-  },
-  {
-    "id": "b490da8e4426",
-    "date": "2026-06-05",
-    "org": "unmapped",
-    "orgName": "myMotherLode.com",
-    "headline": "Anthropic urges a way to pause AI development as risks grow with the tech advances",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOOEprQXVNYy1ROGNDb3NYalNvNHdfeHBlMnNSbFlhRmd3UTlUOVYyc0xVSXd3VEpxUmFUWlhLSURldXF0U0NiVWdaVEFwU2RwcUpKQTdwTG9nRi11eUQ5R2laLU56ZlRUUUpCZHBkS2NCbk54TnFOMmVjWlpGZjVSZGNab2hkTXUzaGtKVFBjcTVwOFpDNDZFejNMSngtSWM2MkN1S3daWVBPcGxSbnlfRkxCOU1xRWg…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOOEprQXVNYy1ROGNDb3NYalNvNHdfeHBlMnNSbFlhRmd3UTlUOVYyc0xVSXd3VEpxUmFUWlhLSURldXF0U0NiVWdaVEFwU2RwcUpKQTdwTG9nRi11eUQ5R2laLU56ZlRUUUpCZHBkS2NCbk54TnFOMmVjWlpGZjVSZGNab2hkTXUzaGtKVFBjcTVwOFpDNDZFejNMSngtSWM2MkN1S3daWVBPcGxSbnlfRkxCOU1xRWg2UFEzUDdTc3MtbHdjNVp3QkZhTHjSAdIBQVVfeXFMT3FTdlR0YUFwZFJrUTZrUnlaaWJwZlZfMkFHMno1bkFtM25yMUpKWUpLbWstbGdMQ2dtcTg4VVlfRG0tVm5OVkEzQnUxQ0FGT1FLbjg3WTU3SDdtc2xzNkVSZlJfclN2YzZnbGR1OGp0LS1jR0hSVXpxM2xobzVPWWwyVUg3cjkzN1d3aUYyeUJQWV9yRzZQT180ckdwSkxmNTBaTmVuTjB1ekR6aktXdTFEanBrVTB6MklicENXaGc0TTFKOENqZXN3VHpLSTRnb09B?oc=5",
-    "sourceName": "myMotherLode.com",
-    "sourceType": "press",
-    "themes": [],
-    "region": null
-  },
-  {
-    "id": "a051b0fc11cc",
-    "date": "2026-06-05",
-    "org": "unmapped",
-    "orgName": "Audacy",
-    "headline": "Anthropic urges industry coordination to allow for a 'pause' in AI development if risks grow",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNREx4S2xER3RoMXloaU1DN2VIT29NZl9aUnVKQlBrYzZRMFFpekhBRFlrU2dXQUFDR3FSQ2tPS0NIcEtzTVAxTk5NRUZSRHhuNjJCcHRJU0FRRHRmUVJjbnloSHR0Nkk3REtpQXpYRkg3Sl9TcnhDWFhHdU9uYk1odzJHMmh1NzlVV283WmQ0UlV0YmpGb2EzXzM2MDdIUWdvME54M0tBUmtyLXgwQ3U5bA?oc=5\" ta…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNREx4S2xER3RoMXloaU1DN2VIT29NZl9aUnVKQlBrYzZRMFFpekhBRFlrU2dXQUFDR3FSQ2tPS0NIcEtzTVAxTk5NRUZSRHhuNjJCcHRJU0FRRHRmUVJjbnloSHR0Nkk3REtpQXpYRkg3Sl9TcnhDWFhHdU9uYk1odzJHMmh1NzlVV283WmQ0UlV0YmpGb2EzXzM2MDdIUWdvME54M0tBUmtyLXgwQ3U5bA?oc=5",
-    "sourceName": "Audacy",
-    "sourceType": "press",
-    "themes": [],
-    "region": null
   },
   {
     "id": "65f12e1c4852",
@@ -337,6 +283,19 @@
     "region": null
   },
   {
+    "id": "8a74a63c660d",
+    "date": "2026-06-05",
+    "org": "unmapped",
+    "orgName": "MSN",
+    "headline": "Pentagon advances AI in military amid calls for caution from leaders",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSi12N25La1FlVmhWQmZ6djRWN2FoM0kxWF9aU2ZzSmxLZnQ5aWtVV1F1UVNjNG5fcWU3ZXVFSThIYk9uUDRzV0VJOVRVaVRIRjRlY3FOcDFYVGsyTXlpZUhJMmlZQk1CRUZQUmRLVTBYN2ZhckE4WkF2Vm1BbHNBcm1iaC1nT3VEb3RHYklDbzRsZU5aOXpYRThuTmZhTFZMZENaUGQxd2JCUVhRT081b3ZYc3hSLXE…",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSi12N25La1FlVmhWQmZ6djRWN2FoM0kxWF9aU2ZzSmxLZnQ5aWtVV1F1UVNjNG5fcWU3ZXVFSThIYk9uUDRzV0VJOVRVaVRIRjRlY3FOcDFYVGsyTXlpZUhJMmlZQk1CRUZQUmRLVTBYN2ZhckE4WkF2Vm1BbHNBcm1iaC1nT3VEb3RHYklDbzRsZU5aOXpYRThuTmZhTFZMZENaUGQxd2JCUVhRT081b3ZYc3hSLXE0?oc=5",
+    "sourceName": "MSN",
+    "sourceType": "press",
+    "themes": [],
+    "region": null
+  },
+  {
     "id": "764da63030ea",
     "date": "2026-06-05",
     "org": "unmapped",
@@ -400,19 +359,6 @@
     "sourceType": "press",
     "themes": [],
     "region": null
-  },
-  {
-    "id": "9434a2843827",
-    "date": "2026-06-05",
-    "org": "eda",
-    "orgName": "European Defence Agency",
-    "headline": "Putin Says Russia Is Developing AI for Drones, Just Like the US and Europe",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUDk4SjlJcjBUMzNreTliSXBKendMVVpNRTBUZExPUTlvZ3ZIam5MOFdwMWNzbjhtSExwOTRhRTY2LTNNSXNpN3V1NzByQ2VrY3Nid0VqX2dJR3lUMVJiU29xNnVIb3FSY3hGUU8zalZJSDFVWlhBeTRJLThzUE5KZ18tS1lfMHQ5?oc=5\" target=\"_blank\">Putin Says Russia Is Developing AI for D…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUDk4SjlJcjBUMzNreTliSXBKendMVVpNRTBUZExPUTlvZ3ZIam5MOFdwMWNzbjhtSExwOTRhRTY2LTNNSXNpN3V1NzByQ2VrY3Nid0VqX2dJR3lUMVJiU29xNnVIb3FSY3hGUU8zalZJSDFVWlhBeTRJLThzUE5KZ18tS1lfMHQ5?oc=5",
-    "sourceName": "The Eastern Herald",
-    "sourceType": "press",
-    "themes": [],
-    "region": "Europe"
   },
   {
     "id": "47b64c2f5134",
@@ -521,6 +467,19 @@
     "region": null
   },
   {
+    "id": "a6799a010951",
+    "date": "2026-06-05",
+    "org": "unmapped",
+    "orgName": "WSB-TV",
+    "headline": "Trump calls for military to accelerate use of AI while protecting Americans - WSB-TV",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQcFItcF9KOUFXQlVPTWxJSG1iSmZjZUx0ODc4UE1iN1dfaUplVS1PLWt3Rkk4aWplbFV4WHhhWVdiYk9HX2dWQ1ZtMk4xZURyZWFsT0RRclpwQW9KQXBVdnlwXy12TXBkTjNWM0hrUWIyY2tnaldlT2tlMW1PTERsb09TQUhLYTdkV1dSNlVDZ2RwNy0xV1ZCaGIxWVR3U1A10gGgAUFVX3lxTFBwUi1wX0o5QVdCVU9…",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcFItcF9KOUFXQlVPTWxJSG1iSmZjZUx0ODc4UE1iN1dfaUplVS1PLWt3Rkk4aWplbFV4WHhhWVdiYk9HX2dWQ1ZtMk4xZURyZWFsT0RRclpwQW9KQXBVdnlwXy12TXBkTjNWM0hrUWIyY2tnaldlT2tlMW1PTERsb09TQUhLYTdkV1dSNlVDZ2RwNy0xV1ZCaGIxWVR3U1A10gGgAUFVX3lxTFBwUi1wX0o5QVdCVU9NbElIbWJKZmNlTHQ4NzhQTWI3V19pSmVVLU8ta3dGSThpamVsVXhYeGFZV2JiT0dfZ1ZDVm0yTjFlRHJlYWxPRFFyWnBBb0pBcFV2eXBfLXZNcGROM1YzSGtRYjJja2dqV2VPa2UxbU9MRGxvT1NBSEthN2RXV1I2VUNnZHA3LTFXVkJoYjFZVHdTUDU?oc=5",
+    "sourceName": "WSB-TV",
+    "sourceType": "press",
+    "themes": [],
+    "region": null
+  },
+  {
     "id": "46c8800ac842",
     "date": "2026-06-05",
     "org": "unmapped",
@@ -606,77 +565,6 @@
     "region": "US"
   },
   {
-    "id": "3f83f33d545e",
-    "date": "2026-06-04",
-    "org": "darpa",
-    "orgName": "DARPA",
-    "headline": "Argonne Roadmap Explores LLMs and AI Agents for Battery Research",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNcTFhMURLNHZXRDNyQW52dWxwVS1EMXlZYmhQQzBXTENmNXktekNhZW9oRWF1YXk0aTNzSk55ZlhQXy1la1MzSG84ak9hajBrVmlEdVFuNklNRW5NR0JRV0dTc21rWWhUQVpvUFZyUDJVRmpjU0k1WUhZbktyX3Y2QjlmanhPOXVBWGFmcDkzaUQ4b0FKaUpncW1DZTVNYWJ4aWd3MQ?oc=5\" target=\"_blank\">Ar…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcTFhMURLNHZXRDNyQW52dWxwVS1EMXlZYmhQQzBXTENmNXktekNhZW9oRWF1YXk0aTNzSk55ZlhQXy1la1MzSG84ak9hajBrVmlEdVFuNklNRW5NR0JRV0dTc21rWWhUQVpvUFZyUDJVRmpjU0k1WUhZbktyX3Y2QjlmanhPOXVBWGFmcDkzaUQ4b0FKaUpncW1DZTVNYWJ4aWd3MQ?oc=5",
-    "sourceName": "HPCwire",
-    "sourceType": "press",
-    "themes": [
-      "genai"
-    ],
-    "region": "US"
-  },
-  {
-    "id": "73425bf25743",
-    "date": "2026-06-04",
-    "org": "bae-systems",
-    "orgName": "BAE Systems",
-    "headline": "Autonomous Aircraft Market Size, Share & Growth to 2035",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBuS0kyTjRpMllXeGp3MUZvY0tSX0kyRVQ4SGxHTHNncHhoM2QxRnZCcnZ2aU9QWUd3eWVhNkhNRkZIQ2xCZzJKS3FGX3BXeFlhLVZ2aXBIZklmRUpIeVRTTTlzVHdLYnZRMTNZ?oc=5\" target=\"_blank\">Autonomous Aircraft Market Size, Share & Growth to 2035</a>&nbsp;&nbsp;<font col…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBuS0kyTjRpMllXeGp3MUZvY0tSX0kyRVQ4SGxHTHNncHhoM2QxRnZCcnZ2aU9QWUd3eWVhNkhNRkZIQ2xCZzJKS3FGX3BXeFlhLVZ2aXBIZklmRUpIeVRTTTlzVHdLYnZRMTNZ?oc=5",
-    "sourceName": "SNS Insider",
-    "sourceType": "press",
-    "themes": [
-      "autonomy"
-    ],
-    "region": "UK"
-  },
-  {
-    "id": "902e5d44bb0f",
-    "date": "2026-06-04",
-    "org": "unmapped",
-    "orgName": "Euronews.com",
-    "headline": "From AI baristas to drones: Best and weirdest tech at Computex 2026",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNdm1oOWNvaGZQZHRKWUV1Z3VhLXRMd21vOWF0elZGXy1hRjItRzRXQjV0SDdELUJ6RzJheWNjRWNHRmE5TkEzbDJOaGZ0YlNDREoxZHhmNHZlVEtuei1fSmJyd1RQQjhER3JKWE9WdHdtT2g5UnlHTGhhbnhoUzJXM202aDhDelhfZm13SzZvQ2t5SmFLZzlDWU9hLXc0V3dDZUpyd3l1UHVGN1NoQWJrWEZ1RlZtVTV…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdm1oOWNvaGZQZHRKWUV1Z3VhLXRMd21vOWF0elZGXy1hRjItRzRXQjV0SDdELUJ6RzJheWNjRWNHRmE5TkEzbDJOaGZ0YlNDREoxZHhmNHZlVEtuei1fSmJyd1RQQjhER3JKWE9WdHdtT2g5UnlHTGhhbnhoUzJXM202aDhDelhfZm13SzZvQ2t5SmFLZzlDWU9hLXc0V3dDZUpyd3l1UHVGN1NoQWJrWEZ1RlZtVTVyUm92TlBHNlpJbHFmamlv?oc=5",
-    "sourceName": "Euronews.com",
-    "sourceType": "press",
-    "themes": [],
-    "region": null
-  },
-  {
-    "id": "e509b9228b2b",
-    "date": "2026-06-04",
-    "org": "unmapped",
-    "orgName": "The National Interest",
-    "headline": "How Much Power Should You Give Your AI?",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQjIwUXpuWlM1eEFrZG1GUmN3dUhPdGwyZC1IVkNQUTFHMGUzeWhQanRnb3NxVkhPUWd0QmdIclVxRVYzaXA1RUl2ZzlXc05FT1dyNXl6Y2htQUtMc1pVT1g0Smd4VnllMjBLdURFbTVhLUJubWNRcDZUTFV3WW1ZX3k3c3VaaTVl?oc=5\" target=\"_blank\">How Much Power Should You Give Your AI?<…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQjIwUXpuWlM1eEFrZG1GUmN3dUhPdGwyZC1IVkNQUTFHMGUzeWhQanRnb3NxVkhPUWd0QmdIclVxRVYzaXA1RUl2ZzlXc05FT1dyNXl6Y2htQUtMc1pVT1g0Smd4VnllMjBLdURFbTVhLUJubWNRcDZUTFV3WW1ZX3k3c3VaaTVl?oc=5",
-    "sourceName": "The National Interest",
-    "sourceType": "press",
-    "themes": [
-      "genai"
-    ],
-    "region": null
-  },
-  {
-    "id": "4b5f2c63a7a5",
-    "date": "2026-06-04",
-    "org": "darpa",
-    "orgName": "DARPA",
-    "headline": "Linux Foundation Launches Tokenomics Foundation to Standardize AI Infrastructure Economics",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNU1o0RzgxWno1N0hUYnhqU1lZSlBUMWc1V2RwZlctZ2pFVFZ4MzJqTTlfeW5ETHFnZGtBM3hQeU42M29fX0VPc3Z0QXJoSDdTamJWSkFDa21PUi1QWWJHT0pQVkszQXJoZkZ0SkItVlRjLVZmN18yR3RsVU81MENBNDNqMnFTM0JUTE9xdG0xYVZWRDI2Zk1OaFNWZGswZEtDMDc5em14RlVPNmJGOG0yUWRiT2tobk5…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNU1o0RzgxWno1N0hUYnhqU1lZSlBUMWc1V2RwZlctZ2pFVFZ4MzJqTTlfeW5ETHFnZGtBM3hQeU42M29fX0VPc3Z0QXJoSDdTamJWSkFDa21PUi1QWWJHT0pQVkszQXJoZkZ0SkItVlRjLVZmN18yR3RsVU81MENBNDNqMnFTM0JUTE9xdG0xYVZWRDI2Zk1OaFNWZGswZEtDMDc5em14RlVPNmJGOG0yUWRiT2tobk50M2NySl9xRFlrWXFEdXJz?oc=5",
-    "sourceName": "HPCwire",
-    "sourceType": "press",
-    "themes": [],
-    "region": "US"
-  },
-  {
     "id": "42e89eba105d",
     "date": "2026-06-04",
     "org": "unmapped",
@@ -704,19 +592,6 @@
       "cyber"
     ],
     "region": null
-  },
-  {
-    "id": "a67345d30aa5",
-    "date": "2026-06-04",
-    "org": "darpa",
-    "orgName": "DARPA",
-    "headline": "NVIDIA and Microsoft Expand Partnership to Build the Full Stack for Agentic AI",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPRHpQcHAxbktxNVFSV1R6eW1CMWlIbHZSRmxhOUF5a0RHbV9mWTd1NV81Tm5kV3BxcEpaVjY4TF9PNWJEeTFBaXJyejYzWHFQV2RtREpfZGxGMk5qZDAtbG13VEN6RkRnVVV0TWJFcWE4SFNHNmZCQ0UyQk1NRzdxSERnWTh1UHBVMkx1VUdiTXgwZHlDanhkSjYwN2paMjVYdW5fVTBiSmMyWTM3ZWZhZUZwY0FFMGM…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRHpQcHAxbktxNVFSV1R6eW1CMWlIbHZSRmxhOUF5a0RHbV9mWTd1NV81Tm5kV3BxcEpaVjY4TF9PNWJEeTFBaXJyejYzWHFQV2RtREpfZGxGMk5qZDAtbG13VEN6RkRnVVV0TWJFcWE4SFNHNmZCQ0UyQk1NRzdxSERnWTh1UHBVMkx1VUdiTXgwZHlDanhkSjYwN2paMjVYdW5fVTBiSmMyWTM3ZWZhZUZwY0FFMGM?oc=5",
-    "sourceName": "HPCwire",
-    "sourceType": "press",
-    "themes": [],
-    "region": "US"
   },
   {
     "id": "f49116893333",
@@ -760,6 +635,19 @@
     "region": null
   },
   {
+    "id": "4f5f23e511f5",
+    "date": "2026-06-04",
+    "org": "unmapped",
+    "orgName": "MSN",
+    "headline": "Pete Hegseth makes Star Trek joke unveiling Pentagon's non-'woke' AI",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOWk5Fa1FpdG90bHdUN203amNzWV9fNUh5OC1LZktVOGlxbzA2X2pVa3J5cEhqdC1UVGlUVGZJZVQ1elV0Smp4aGtQWFd0SU1DVWdjTGVkZGtHZEVRdkZ1R2xVUnNwcFJ3TnFBdEJzdVNPeEVsYlgtZUZkN3dYOHZmMGh3eHgwUE01UC15STJTQnMzTHBlTTQtdWlYdmJsTzYwYi0xa3N3cVRhUHlscGxQdGRIS3BpaHo…",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWk5Fa1FpdG90bHdUN203amNzWV9fNUh5OC1LZktVOGlxbzA2X2pVa3J5cEhqdC1UVGlUVGZJZVQ1elV0Smp4aGtQWFd0SU1DVWdjTGVkZGtHZEVRdkZ1R2xVUnNwcFJ3TnFBdEJzdVNPeEVsYlgtZUZkN3dYOHZmMGh3eHgwUE01UC15STJTQnMzTHBlTTQtdWlYdmJsTzYwYi0xa3N3cVRhUHlscGxQdGRIS3BpaHozTHZ3bnNxMk12d0FpMkE4TTRrTkZ3dw?oc=5",
+    "sourceName": "MSN",
+    "sourceType": "press",
+    "themes": [],
+    "region": null
+  },
+  {
     "id": "6efd4590d7df",
     "date": "2026-06-04",
     "org": "palantir",
@@ -771,32 +659,6 @@
     "sourceType": "press",
     "themes": [],
     "region": "US"
-  },
-  {
-    "id": "9ca5ce94daa0",
-    "date": "2026-06-04",
-    "org": "uk-mod",
-    "orgName": "UK MoD / Defence AI Centre",
-    "headline": "Publishers can now opt out of Google AI summaries and training",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNQ0VfZDVYb1BTM3NjekJQVnpJQ2NUYmJrbFZtSW5xc3YtRzdhMlNIZG15cmpRamYxajZmNFplc1hmaklQRXYyUkduNWVqN0oxamdiX2tsNUY2OHZHYW5ZZ2M0QTQxVDU5bG9XUmZSWUpBTF9TOUZlV3RvdHItV2ttNXNqeHdyZ19DTTh3eVNCZUFEeUhoS3psVkI0cmx6UWRwSmNxVy1QY201Z0sy?oc=5\" target=\"…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQ0VfZDVYb1BTM3NjekJQVnpJQ2NUYmJrbFZtSW5xc3YtRzdhMlNIZG15cmpRamYxajZmNFplc1hmaklQRXYyUkduNWVqN0oxamdiX2tsNUY2OHZHYW5ZZ2M0QTQxVDU5bG9XUmZSWUpBTF9TOUZlV3RvdHItV2ttNXNqeHdyZ19DTTh3eVNCZUFEeUhoS3psVkI0cmx6UWRwSmNxVy1QY201Z0sy?oc=5",
-    "sourceName": "Computer Weekly",
-    "sourceType": "press",
-    "themes": [],
-    "region": "UK"
-  },
-  {
-    "id": "d0066d93d615",
-    "date": "2026-06-04",
-    "org": "eda",
-    "orgName": "European Defence Agency",
-    "headline": "Tessera AI model offers accessible way to view Earth",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRUtOcklaN0NPakhsUXhYNjVncjJ6dmMxdHJBZ3JzaU1oZ2piMzBnQmpEVXlhUmljdTdIeFVxNWN1WGwyNnhyRGVJQ3VHbEpPMTJIZFFyZ3NEeVdIYmdvT1JENHhrNk1kc3dSekx3VGxqODRRWlZlaE9zU2U4bXZnU0JHXzdjeGh3TlIzdkhERS1UbEx2OFRld0diczd3ckVDSUJwTnhvVFI?oc=5\" target=\"_blan…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRUtOcklaN0NPakhsUXhYNjVncjJ6dmMxdHJBZ3JzaU1oZ2piMzBnQmpEVXlhUmljdTdIeFVxNWN1WGwyNnhyRGVJQ3VHbEpPMTJIZFFyZ3NEeVdIYmdvT1JENHhrNk1kc3dSekx3VGxqODRRWlZlaE9zU2U4bXZnU0JHXzdjeGh3TlIzdkhERS1UbEx2OFRld0diczd3ckVDSUJwTnhvVFI?oc=5",
-    "sourceName": "European Space Agency",
-    "sourceType": "press",
-    "themes": [],
-    "region": "Europe"
   },
   {
     "id": "d35af4819ac6",
@@ -820,32 +682,6 @@
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRFYzT2JhMkM4eko3Y2JBMHlZOWQxSHdycFU2bE5ES2tJU0szNWpST3VBclNZbWo3VHZxbUVTZGxRNi03WUN0bG0ydzMweVBOWXZrRGtORks4RUt6Ni0zdHdEY2Y3QXd1dFhjWW9SM1lRb2pwSFV5TjZ0VEdoM1U0RzMwWTlDcjNMV2JwVl83dXowbER5ZDdxdER1SUdKQmxLZkZqWXg0ZU9uajM2di1rdXpPMXNOOW1…",
     "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRFYzT2JhMkM4eko3Y2JBMHlZOWQxSHdycFU2bE5ES2tJU0szNWpST3VBclNZbWo3VHZxbUVTZGxRNi03WUN0bG0ydzMweVBOWXZrRGtORks4RUt6Ni0zdHdEY2Y3QXd1dFhjWW9SM1lRb2pwSFV5TjZ0VEdoM1U0RzMwWTlDcjNMV2JwVl83dXowbER5ZDdxdER1SUdKQmxLZkZqWXg0ZU9uajM2di1rdXpPMXNOOW1Z?oc=5",
     "sourceName": "Homeland Security Today",
-    "sourceType": "press",
-    "themes": [],
-    "region": null
-  },
-  {
-    "id": "514a5fdf5ecb",
-    "date": "2026-06-04",
-    "org": "unmapped",
-    "orgName": "The New Voice of Ukraine",
-    "headline": "Ukrainian middle-strike drones turn Putin's land corridor into black hole - NV analysis",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPRE5PVFU3WFdGbER1WjJqX2cxbzNxRkFqdVRPeThOX2pScVVZelU2TzhNT0hNOVV2SjJIMUtUakdQMXd5X1djR09kMWVRQ1NTbHd2S2VEQzlqbkNZdF8tOHpsUjBNR2xrMXVQdGk2MGRUS0xhOUlWNk12QmpNNkNpU1Z5dmNOYWU3cU9idW10Mm9udV8wd2cxQ1ZXelJHZFVYc2wxaXQtLUZCNXBpRDZGa3BZUmYzbnh…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRE5PVFU3WFdGbER1WjJqX2cxbzNxRkFqdVRPeThOX2pScVVZelU2TzhNT0hNOVV2SjJIMUtUakdQMXd5X1djR09kMWVRQ1NTbHd2S2VEQzlqbkNZdF8tOHpsUjBNR2xrMXVQdGk2MGRUS0xhOUlWNk12QmpNNkNpU1Z5dmNOYWU3cU9idW10Mm9udV8wd2cxQ1ZXelJHZFVYc2wxaXQtLUZCNXBpRDZGa3BZUmYzbnhmV0tkbG5B0gG6AUFVX3lxTE1xV2MzTnlCRUNiajhJbVdxSDBMOWF4VVhKX2pzZkhEb1NSZFZmeWplWE1KZHFyT3BvNFJXZVh3c19SZ2tydFdkMFVPZ0F4ekhtSHp3Tms0aE5heWNMWXhFQnptZlp6MURfSURDY3Z3djF1SzFWOFU0U29mdzEtZ3FKOGlmM2NpRERFaVdqYWxLNDd6ZzBwV2Uwb0pRekw4WTI3ekRlOUtDdjI0eFBnSTlLOGxwaGFuMmxSdw?oc=5",
-    "sourceName": "The New Voice of Ukraine",
-    "sourceType": "press",
-    "themes": [],
-    "region": null
-  },
-  {
-    "id": "68d6d02c1000",
-    "date": "2026-06-04",
-    "org": "unmapped",
-    "orgName": "The Defense Post",
-    "headline": "US Air Force Backs AI Platform for Virtual Battlefield Rehearsals",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQT2tRVWJHbXNXc1lOX1ZKUVpUTHpuRUxYRjAtRjdWOUdDSGdld3Z2RzVfTFUyX3VvT2xKNlFydXZHTTQ5SklrVVNrNUNudEpBSTM3eGU3NTB2M0ZtV2ttTXNpYkJwTW55U2FQY21RYnpKelY4VDlhVW05THNBSUVaU191aFJPUdIBiwFBVV95cUxQb3ZnY0pTOTNVdWpKZG1lTGpQSHF0NGQwdHJqTkkzZVo3UE43bTJ…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQT2tRVWJHbXNXc1lOX1ZKUVpUTHpuRUxYRjAtRjdWOUdDSGdld3Z2RzVfTFUyX3VvT2xKNlFydXZHTTQ5SklrVVNrNUNudEpBSTM3eGU3NTB2M0ZtV2ttTXNpYkJwTW55U2FQY21RYnpKelY4VDlhVW05THNBSUVaU191aFJPUdIBiwFBVV95cUxQb3ZnY0pTOTNVdWpKZG1lTGpQSHF0NGQwdHJqTkkzZVo3UE43bTJYOEc4REkzME1KNUtHLWpId3kwcEVPZGhsTlEybEhDMkpKN05hRE9QLS14eHV1aWlJaVg2dUZNRmFxTFQ2eXdtTWNsVkt4TVNKYkNHS1g0M0lrbk1iLUdlOG5jLVg4?oc=5",
-    "sourceName": "The Defense Post",
     "sourceType": "press",
     "themes": [],
     "region": null
@@ -877,19 +713,6 @@
     "region": null
   },
   {
-    "id": "7ea53859051a",
-    "date": "2026-06-03",
-    "org": "unmapped",
-    "orgName": "SMH.com.au",
-    "headline": "‘Odd choices of words’: How an academic’s AI use was exposed by her peers",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeXJvYWZITXpuQ0dlNXlQdlcyWWF0R1RQODh4M3VmQmtja09jbWpQRHZSaHFpU2pJQ01YLWY2SkNqVW9YVVhGY05tMVY3QWV1ekZteDNKUGhRbUs4bENUR2RINVlENWJYRm4zTXhCQ2ltMmdJTktZMTE0WjV4c0RhYlkwc1NIX2JlWXdfTmhFcjFXNnVod0hpNVV0LUg2Nmo3Zkhfb3ZFQi1WeUtKM2RQZk9xemNLSXd…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeXJvYWZITXpuQ0dlNXlQdlcyWWF0R1RQODh4M3VmQmtja09jbWpQRHZSaHFpU2pJQ01YLWY2SkNqVW9YVVhGY05tMVY3QWV1ekZteDNKUGhRbUs4bENUR2RINVlENWJYRm4zTXhCQ2ltMmdJTktZMTE0WjV4c0RhYlkwc1NIX2JlWXdfTmhFcjFXNnVod0hpNVV0LUg2Nmo3Zkhfb3ZFQi1WeUtKM2RQZk9xemNLSXdkSG1wcTZUOERsUQ?oc=5",
-    "sourceName": "SMH.com.au",
-    "sourceType": "press",
-    "themes": [],
-    "region": null
-  },
-  {
     "id": "9424e1ce28df",
     "date": "2026-06-03",
     "org": "unmapped",
@@ -916,21 +739,6 @@
     "region": "US"
   },
   {
-    "id": "aa96b4e63dfd",
-    "date": "2026-06-03",
-    "org": "unmapped",
-    "orgName": "The Guardian",
-    "headline": "Can autonomous AI-powered killer drones take morality onboard?",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNY2RSMjFicUI3NFpKYnpZamUwYWgzMjRGZ3dJOUNFNTVHSzRhOWNjUDhycWNDOU5vTWJsYTdWaF9YY3p6V3dobFkzM2N4cUUwU2g2bDI1eks5UDJ4WVN3Ymc5VFlCazg1SFcwT0hCR0dNRkEycXFKRjVGMHNzempzc1B0dm5mX25YQmo1YUt3VzVwLTNMNHlxMmpVSG5rSXNRT09JSlNEanhFbTQ?oc=5\" target=\"_…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNY2RSMjFicUI3NFpKYnpZamUwYWgzMjRGZ3dJOUNFNTVHSzRhOWNjUDhycWNDOU5vTWJsYTdWaF9YY3p6V3dobFkzM2N4cUUwU2g2bDI1eks5UDJ4WVN3Ymc5VFlCazg1SFcwT0hCR0dNRkEycXFKRjVGMHNzempzc1B0dm5mX25YQmo1YUt3VzVwLTNMNHlxMmpVSG5rSXNRT09JSlNEanhFbTQ?oc=5",
-    "sourceName": "The Guardian",
-    "sourceType": "press",
-    "themes": [
-      "autonomy"
-    ],
-    "region": null
-  },
-  {
     "id": "0a21c23a0208",
     "date": "2026-06-03",
     "org": "unmapped",
@@ -941,36 +749,6 @@
     "sourceName": "The Defense Post",
     "sourceType": "press",
     "themes": [],
-    "region": null
-  },
-  {
-    "id": "6bf4f0a74649",
-    "date": "2026-06-03",
-    "org": "darpa",
-    "orgName": "DARPA",
-    "headline": "CAS Connections Brings Trusted Scientific Data and AI to Leading R&D Platforms",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQTnNkOXlCeEpDcklBcF9PdjROQnU5YWdnMUdyVktVQlk0WUw3aEtkb3NmQ3EwYjZndXpWQVNXemY4bENFS1c5UVd2S3RRbDA4bk9qT0dpa0xEYVphNDQwbjBEb3hxcDMxdlZHYTBuR2RfLUVzVUhYdmREY3dlNDdKWFJLVFczZ3JOSkVOMmw5eFhmUElETi0wNlg5YTFqVzN2NHpYWW5ZN0tfT2JOZXZuc3gxNjRYZw?…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTnNkOXlCeEpDcklBcF9PdjROQnU5YWdnMUdyVktVQlk0WUw3aEtkb3NmQ3EwYjZndXpWQVNXemY4bENFS1c5UVd2S3RRbDA4bk9qT0dpa0xEYVphNDQwbjBEb3hxcDMxdlZHYTBuR2RfLUVzVUhYdmREY3dlNDdKWFJLVFczZ3JOSkVOMmw5eFhmUElETi0wNlg5YTFqVzN2NHpYWW5ZN0tfT2JOZXZuc3gxNjRYZw?oc=5",
-    "sourceName": "HPCwire",
-    "sourceType": "press",
-    "themes": [
-      "data"
-    ],
-    "region": "US"
-  },
-  {
-    "id": "e25828b980bc",
-    "date": "2026-06-03",
-    "org": "unmapped",
-    "orgName": "MSN",
-    "headline": "China unveils AI drone swarm algorithm for autonomous targeting",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNSXRnakV3WDkzQkhxcE9OOU51dGhna29uOWpqLUJma3c4cTBudHlDSUJ0WHBsODFZUkhQRk9JR1Y3QVBZcGtvSHFadWFiWF92XzF3eWNPNldtU2QzempwSE1lX3c2MktMeGN0YjBmQmxZNW4xM3VHYjIwVE9qU0VlYjk0WHdBNnlGaU1vTDVhcVRCelAyUmdPODNsOEs4Vm1lc3gxTnNkRjdSUkhKcHJ5R2R3?oc=5\"…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSXRnakV3WDkzQkhxcE9OOU51dGhna29uOWpqLUJma3c4cTBudHlDSUJ0WHBsODFZUkhQRk9JR1Y3QVBZcGtvSHFadWFiWF92XzF3eWNPNldtU2QzempwSE1lX3c2MktMeGN0YjBmQmxZNW4xM3VHYjIwVE9qU0VlYjk0WHdBNnlGaU1vTDVhcVRCelAyUmdPODNsOEs4Vm1lc3gxTnNkRjdSUkhKcHJ5R2R3?oc=5",
-    "sourceName": "MSN",
-    "sourceType": "press",
-    "themes": [
-      "autonomy"
-    ],
     "region": null
   },
   {
@@ -1004,21 +782,6 @@
     "region": "US"
   },
   {
-    "id": "5587ef5bfda7",
-    "date": "2026-06-03",
-    "org": "unmapped",
-    "orgName": "The Times of India",
-    "headline": "Donald Trump passes AI Cybersecurity order, days after saying it will hurt US companies' edge against Chi",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAJBVV95cUxPMTVrLUZLanBWQ19CUWkySVRzOUtZcTNLSzZ4czlvWnRHWDZ2NmpCRWVrVENma1J0eFpwVmdEcDdTa0hxQzNOYUh0RlFUVmhTTnZJMHlhdGZlaWVGVWF3S01sVlVpQ3FJdk16bUV0VDRUQlpCTTk2V0NGUTI2OTJmUHp4Uk1RUDZYVXB3Wjc3RWszbmx0eERRbUFSUHdrd2o4YjF1cC10dWFvdm1VNXk2YmFObDVCdmU…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPMTVrLUZLanBWQ19CUWkySVRzOUtZcTNLSzZ4czlvWnRHWDZ2NmpCRWVrVENma1J0eFpwVmdEcDdTa0hxQzNOYUh0RlFUVmhTTnZJMHlhdGZlaWVGVWF3S01sVlVpQ3FJdk16bUV0VDRUQlpCTTk2V0NGUTI2OTJmUHp4Uk1RUDZYVXB3Wjc3RWszbmx0eERRbUFSUHdrd2o4YjF1cC10dWFvdm1VNXk2YmFObDVCdmU0V2JPdjhmUU5yNEk2VUhqeGhpMXZJTnBWTHJPcUJmd3p4RUFXVVpLbUoyR2ZVUHh4UmFadWRNV3loaFUyaDNodW8zODNWMS1vNmo2WEZFRWtBRVA1c2pDQnVDQU8yVWlTZ2dWRFRrUzJjMnFmcFU5bTlBY0l2RnBydzlyYnJVWkFOaURWX3J1T2plZkNzODZOV3Mtc9IB0gJBVV95cUxNRVg2QzhieThVel95cGQ2ODdBVGJBaG5VZ2ljVUZiaTFabXdmLUJMeGpJWUlXMGpCOXZ0VEVTNFpyTURUWHByeDNrSU5NTlJENmxqMkFVLXV5N002ZlpOWDhHc0xkalJTNUxxeWdjX1dzSlRBVk1jVjNlRE1wUWpGNFZicTJITzh0NnBiMDZLa2ZRZjZ1S3J2ZGtUZGxQYkdoa3YzYUF3bWpsUS1YVE5QZEdEQkRqUTRkZk9lWmkzSHVSS1lmMmdCXzlDMHBTVW4xRXVRNmUyajAyOWZVREQzb3ZMQ291ZUxDc016S0Z1ejdldEl2bzNKWEdkMVpFQU9WZDR2aWtZQjJyYWp0V0s2djNSNkZ3ZmJjT3hDd2QzNzlwY2dZVVl1WjlhRms5eXNaM3hkNXY4bTEzVndBMHUzWHpkZllBR0QxdUhfY3FYZnhmUQ?oc=5",
-    "sourceName": "The Times of India",
-    "sourceType": "press",
-    "themes": [
-      "cyber"
-    ],
-    "region": null
-  },
-  {
     "id": "16ab491bddc6",
     "date": "2026-06-03",
     "org": "unmapped",
@@ -1043,47 +806,6 @@
     "sourceType": "press",
     "themes": [],
     "region": "UK"
-  },
-  {
-    "id": "b8361bcb5ee1",
-    "date": "2026-06-03",
-    "org": "unmapped",
-    "orgName": "Defense News",
-    "headline": "Gulf tensions escalate as Iran hits Kuwait, US strikes near Hormuz",
-    "summary": "CENTCOM said it had carried out a new round of defensive strikes in southern Iran, while an Iranian drone attack on the Kuwait airport killed one person.",
-    "sourceUrl": "https://www.defensenews.com/news/your-military/2026/06/03/gulf-tensions-escalate-as-iran-hits-kuwait-us-strikes-near-hormuz/",
-    "sourceName": "Defense News",
-    "sourceType": "press",
-    "themes": [],
-    "region": "US"
-  },
-  {
-    "id": "63e9820f6476",
-    "date": "2026-06-03",
-    "org": "eda",
-    "orgName": "European Defence Agency",
-    "headline": "In the face of growing AI cyber threats, do middle powers have agency?",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPSkh1bjVMTmlXR0NPbm52M1NDZXlLWFJxbFZGWTBrc0JfWGlWVmpLcjZqWjdHdnlWeVdVUll0Q1pDZmR4NExVSHRTejBTV3N1LUJQRUgxZTd1VV9NRWl4WGY2LWxOR3pkNnZ4amZRZU5KR1VsT2IzTkpFcTRqYWRJc0wzeGNEamt1YnZZZDlNMzZwZTlYYV82UWdlVQ?oc=5\" target=\"_blank\">In the face of…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSkh1bjVMTmlXR0NPbm52M1NDZXlLWFJxbFZGWTBrc0JfWGlWVmpLcjZqWjdHdnlWeVdVUll0Q1pDZmR4NExVSHRTejBTV3N1LUJQRUgxZTd1VV9NRWl4WGY2LWxOR3pkNnZ4amZRZU5KR1VsT2IzTkpFcTRqYWRJc0wzeGNEamt1YnZZZDlNMzZwZTlYYV82UWdlVQ?oc=5",
-    "sourceName": "Chatham House",
-    "sourceType": "press",
-    "themes": [
-      "cyber"
-    ],
-    "region": "Europe"
-  },
-  {
-    "id": "461613b20abb",
-    "date": "2026-06-03",
-    "org": "darpa",
-    "orgName": "DARPA",
-    "headline": "InspireSemi and E4 Showcase Thunderbird RISC-V Accelerator for HPC and AI at RISC-V Europe",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPaHZDU25NYVQ2VjhEdjUyLWYxcWdVSFNDdHlmbk1qUUROSXV6dHNnRnFFRnlmZGp2X0hNVG1HWHBmWWtGR2ZuNW9mZE1hLVdLeU14LXRzelliR0tMQWV4WllWOFZmRVg5aVZkN1dwazE2NlZlS0pHc3NNMFgxMmtDYnFLazl2cXJ3R3NZZC1zVnJ3NTctVzN2UmRrN0RNLVNjSi1IVEt5aGxYbkQzdE40SXVNdDVkdUt…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaHZDU25NYVQ2VjhEdjUyLWYxcWdVSFNDdHlmbk1qUUROSXV6dHNnRnFFRnlmZGp2X0hNVG1HWHBmWWtGR2ZuNW9mZE1hLVdLeU14LXRzelliR0tMQWV4WllWOFZmRVg5aVZkN1dwazE2NlZlS0pHc3NNMFgxMmtDYnFLazl2cXJ3R3NZZC1zVnJ3NTctVzN2UmRrN0RNLVNjSi1IVEt5aGxYbkQzdE40SXVNdDVkdUtBQnpjYzVQRXNWRmhjdjRZ?oc=5",
-    "sourceName": "HPCwire",
-    "sourceType": "press",
-    "themes": [],
-    "region": "US"
   },
   {
     "id": "1a9220212cf3",
@@ -1125,19 +847,6 @@
     "region": null
   },
   {
-    "id": "d1a79d2d5421",
-    "date": "2026-06-03",
-    "org": "unmapped",
-    "orgName": "thestreet.com",
-    "headline": "President Donald Trump owns roughly $5M in surging AI stock",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaHJGN2dEd2tXYkxDMGozYUJHZXl4cUt0ZzdFMFR1eE12dFh0LUhJZFNjVU4yX3lWYkYtUnpBNllaRG5zNFdHZWdCMFZQdWViZkZGT2lhYVE2aGJIdTBRZ2NSeU85b3RoQjB4dUVJNnZCSmJWc0JjZjFwMzJyY2p2VEp5TE1wQVh1aVYtMU92M2lDTklNZmJOMGlNZ1ZMbkxITTdUWDdUT2xoZw?oc=5\" target=\"_b…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaHJGN2dEd2tXYkxDMGozYUJHZXl4cUt0ZzdFMFR1eE12dFh0LUhJZFNjVU4yX3lWYkYtUnpBNllaRG5zNFdHZWdCMFZQdWViZkZGT2lhYVE2aGJIdTBRZ2NSeU85b3RoQjB4dUVJNnZCSmJWc0JjZjFwMzJyY2p2VEp5TE1wQVh1aVYtMU92M2lDTklNZmJOMGlNZ1ZMbkxITTdUWDdUT2xoZw?oc=5",
-    "sourceName": "thestreet.com",
-    "sourceType": "press",
-    "themes": [],
-    "region": null
-  },
-  {
     "id": "a5964a0855cd",
     "date": "2026-06-03",
     "org": "darpa",
@@ -1166,32 +875,6 @@
     "region": null
   },
   {
-    "id": "caee2537ae4b",
-    "date": "2026-06-03",
-    "org": "unmapped",
-    "orgName": "조선일보",
-    "headline": "Science Fiction Visions Materialize in 2026's AI and Society",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTlpLRDRiYk9TNzM1Qld4Z2JDZ1NHOWhWUGk5S281NEtKRFBUX2NENi0yakdjTC1oVHhhUlhZR1E5aENTb2NldlRNTzdQVjBjVnVhMGh4RlNPTFNDUVNGczF0QU9rVWNzalpGd2VpR09pRkhhZE1LN3luc2c5dDVDYnFyLXFzeU5O?oc=5\" target=\"_blank\">Science Fiction Visions Materialize in 2…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTlpLRDRiYk9TNzM1Qld4Z2JDZ1NHOWhWUGk5S281NEtKRFBUX2NENi0yakdjTC1oVHhhUlhZR1E5aENTb2NldlRNTzdQVjBjVnVhMGh4RlNPTFNDUVNGczF0QU9rVWNzalpGd2VpR09pRkhhZE1LN3luc2c5dDVDYnFyLXFzeU5O?oc=5",
-    "sourceName": "조선일보",
-    "sourceType": "press",
-    "themes": [],
-    "region": null
-  },
-  {
-    "id": "4fd4748077be",
-    "date": "2026-06-03",
-    "org": "darpa",
-    "orgName": "DARPA",
-    "headline": "Surprising the advanced computing sector, Microsoft unveils the Majorana 2 quantum chip with greater stability, direct integration with artificial intelligence, and an unprecedented architecture that could accelerate the global race for commercially viable quantu",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgJBVV95cUxNdi1GRmNoOFl3S2JzcG5wTWZndDZhT0hUOHVtQjk3UjRuaHNJRmplM0VnSzhwcTF4R2JpRTZtWEs1YzlsRzU1T0xtS0lmSU1EbU11cTlPdXZCSml2NHRpMzB5TFNja0lQbTVBU1UyV0RBRm9aNEk0QV9pUVNVTzN4ckZWMTduVk5qWGJiekk2WE5HZF9yd1ZkeGdDOGpraWlYUGhETk9KM2x1MTVNY25GTTJ4T0pBbXd…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNdi1GRmNoOFl3S2JzcG5wTWZndDZhT0hUOHVtQjk3UjRuaHNJRmplM0VnSzhwcTF4R2JpRTZtWEs1YzlsRzU1T0xtS0lmSU1EbU11cTlPdXZCSml2NHRpMzB5TFNja0lQbTVBU1UyV0RBRm9aNEk0QV9pUVNVTzN4ckZWMTduVk5qWGJiekk2WE5HZF9yd1ZkeGdDOGpraWlYUGhETk9KM2x1MTVNY25GTTJ4T0pBbXd2Z2JvT2ZYTGZUZ01TNm9lbGxzYk1rOTJuWmFnbHZGMTVaR3VXclFaMmJPc2VpZHZMVlQ1RkYzNFBoaVkxREUyZk1jMDdhZXYwWlFMWWhielZlRDdGM1V2OUx3?oc=5",
-    "sourceName": "CPG Click Petróleo e Gás",
-    "sourceType": "press",
-    "themes": [],
-    "region": "US"
-  },
-  {
     "id": "3149b6b1e7a9",
     "date": "2026-06-03",
     "org": "unmapped",
@@ -1218,6 +901,19 @@
       "autonomy"
     ],
     "region": "US"
+  },
+  {
+    "id": "9bc7e0fce8fd",
+    "date": "2026-06-03",
+    "org": "unmapped",
+    "orgName": "Euronews.com",
+    "headline": "US labels Anthropic a supply chain risk in clash over military AI use",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNVUcyMVZvcGx3TUxCVk5NRFNSME5wR0dyU3R4SVlhcXk4bTV6VGhVb1lzMmc2bXcwc3JIZjZ4eG5oUDd6blRVT3RNTmxoTTBZRDRXZUtPYXBMS1U3Ti1zQ3dTUHNwNWNnM2NhcjQzenMzSVJ6M0V1cUFXY2dHVXd5N205YUxLeGVXbXA3SF9fV3hyM2UyOTRUaHpaaFpyam91a2hTUElGRjdvWmlVUWRv?oc=5\" targ…",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVUcyMVZvcGx3TUxCVk5NRFNSME5wR0dyU3R4SVlhcXk4bTV6VGhVb1lzMmc2bXcwc3JIZjZ4eG5oUDd6blRVT3RNTmxoTTBZRDRXZUtPYXBMS1U3Ti1zQ3dTUHNwNWNnM2NhcjQzenMzSVJ6M0V1cUFXY2dHVXd5N205YUxLeGVXbXA3SF9fV3hyM2UyOTRUaHpaaFpyam91a2hTUElGRjdvWmlVUWRv?oc=5",
+    "sourceName": "Euronews.com",
+    "sourceType": "press",
+    "themes": [],
+    "region": null
   },
   {
     "id": "e13dbd92f227",
@@ -1269,19 +965,6 @@
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOckxIWGZSdXVsNXhFcTBkZ2ZtMXVCbHJCOTJ5N1M5YTFQRkx4UnRiZDJPQ0pDaklNUTcwSjVHYnVXZlo2elA3S2UwQkdxUVFfbFJDenJ1ZHdxZy1WWk9hVEMtN2pMWTNzNDIxX1ROYy02dlFTTVNQNVE0bkZHQ0ZnWTFqcngtTXR4VXEzUEVQMA?oc=5\" target=\"_blank\">Anthropic Rejects Pentagon Ult…",
     "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOckxIWGZSdXVsNXhFcTBkZ2ZtMXVCbHJCOTJ5N1M5YTFQRkx4UnRiZDJPQ0pDaklNUTcwSjVHYnVXZlo2elA3S2UwQkdxUVFfbFJDenJ1ZHdxZy1WWk9hVEMtN2pMWTNzNDIxX1ROYy02dlFTTVNQNVE0bkZHQ0ZnWTFqcngtTXR4VXEzUEVQMA?oc=5",
     "sourceName": "vocal.media",
-    "sourceType": "press",
-    "themes": [],
-    "region": null
-  },
-  {
-    "id": "4e778ca07e29",
-    "date": "2026-06-02",
-    "org": "unmapped",
-    "orgName": "Tom's Hardware",
-    "headline": "Chinese military has been acquiring Nvidia chips, even post-Washington export controls, research claims — multiple institutions linked to the PLA asked for Nvidia AI chips, according to publicly available documents",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AJBVV95cUxOQXFuR2ZCOW9EanUyZS1TUjRMME5RRTFVYmdROWhqcDZINGhpVmREVy0ySDhDR2MwUjB4RnF6Q0Z6UU1zZV9PYnE5eG5qVzVSdmVKUm5JRHJYUVM1emIxWmlKbS02VnEwVTBQRnZ1V29KbmNSaXJ0VzlsSjNoRGJHYVRTajhRU1ZCSjZQQVc1dWNOUWRJb1B3WGxPV1ZrZzNmUXNqR0dKZkFtb1p0emRxZ2VjOHZGMXB…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxOQXFuR2ZCOW9EanUyZS1TUjRMME5RRTFVYmdROWhqcDZINGhpVmREVy0ySDhDR2MwUjB4RnF6Q0Z6UU1zZV9PYnE5eG5qVzVSdmVKUm5JRHJYUVM1emIxWmlKbS02VnEwVTBQRnZ1V29KbmNSaXJ0VzlsSjNoRGJHYVRTajhRU1ZCSjZQQVc1dWNOUWRJb1B3WGxPV1ZrZzNmUXNqR0dKZkFtb1p0emRxZ2VjOHZGMXBlZzFEQzkyYzctbnJiSGQ4b3dJb2xxNWdNSU0zdm1zdEk5WW01SlNFa3QycDRpdTNrMDkzbWZwbGFwR1RnRDdYV3pZdzBaV28tZHBsUENtbHRkanRRcnIzVExtS3ZfdDhHbUJNMnFvT2JvY3lMeE5mZnpfSF9Pa01fdlY2MkxIWVc0bUZsZmdaRnBEVkhJYkdRZWd5ODVaYzVkeF8waHdEd1FFNWFjcHlfbUFZeGlZNkpoVGtD?oc=5",
-    "sourceName": "Tom's Hardware",
     "sourceType": "press",
     "themes": [],
     "region": null
@@ -1343,6 +1026,19 @@
     "region": "US"
   },
   {
+    "id": "527a9fc53c94",
+    "date": "2026-06-02",
+    "org": "nato-diana",
+    "orgName": "NATO DIANA",
+    "headline": "Diana Șoșoacă, the president of S.O.S Romania, accuses NATO and the EU of wanting to force Romania to attack Russia, after a Russian drone hit a building in Galați.",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNRmYzQjlIRDNYNnRmaTJIYnZHRWFuTTU1Y1FRazNLd1Q2cVlCTThxazVpejVBbXFHNDI3NzV2ak1fZGlYNXdCQmRjOXE1aVZuY052RW4yd0FZRHVUZ1lObnVFd3N4S2ZJTWpET0w4bXZRcmxsYVRTWUZvWF85Tkc3R1J5SWdkX1BJaVBpa3VxUjlhSGlCRHRzakw1NnBpX1gwNDhWOVF2WE5NNVA3UGthdDlsNkI4M24…",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRmYzQjlIRDNYNnRmaTJIYnZHRWFuTTU1Y1FRazNLd1Q2cVlCTThxazVpejVBbXFHNDI3NzV2ak1fZGlYNXdCQmRjOXE1aVZuY052RW4yd0FZRHVUZ1lObnVFd3N4S2ZJTWpET0w4bXZRcmxsYVRTWUZvWF85Tkc3R1J5SWdkX1BJaVBpa3VxUjlhSGlCRHRzakw1NnBpX1gwNDhWOVF2WE5NNVA3UGthdDlsNkI4M240ZUE?oc=5",
+    "sourceName": "Informat.ro",
+    "sourceType": "press",
+    "themes": [],
+    "region": "Europe"
+  },
+  {
     "id": "446119c8a006",
     "date": "2026-06-02",
     "org": "unmapped",
@@ -1373,21 +1069,6 @@
     "region": null
   },
   {
-    "id": "580a764f8465",
-    "date": "2026-06-02",
-    "org": "eda",
-    "orgName": "European Defence Agency",
-    "headline": "EU cyber agency gets offer of Mythos AI access",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNdmNFYU5RMkxtY1l1MFQwU0didGM3M2UyaEF4MGxWbTBpODRfbTNVeTFqLVg5QjE4Vm5sVjNzSUtqN2F1R2NwR0RtZXNva3NUUHEwWk84X1JJODVUNDBOc2NENHVnRHBOVUdfT0gzcW1pSVViZTBkeDkzeHRQc2U0U0d1Yw?oc=5\" target=\"_blank\">EU cyber agency gets offer of Mythos AI access…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdmNFYU5RMkxtY1l1MFQwU0didGM3M2UyaEF4MGxWbTBpODRfbTNVeTFqLVg5QjE4Vm5sVjNzSUtqN2F1R2NwR0RtZXNva3NUUHEwWk84X1JJODVUNDBOc2NENHVnRHBOVUdfT0gzcW1pSVViZTBkeDkzeHRQc2U0U0d1Yw?oc=5",
-    "sourceName": "Euractiv",
-    "sourceType": "press",
-    "themes": [
-      "cyber"
-    ],
-    "region": "Europe"
-  },
-  {
     "id": "1c2d9b248b80",
     "date": "2026-06-02",
     "org": "unmapped",
@@ -1401,19 +1082,6 @@
       "isr"
     ],
     "region": "US"
-  },
-  {
-    "id": "8c9d6005425a",
-    "date": "2026-06-02",
-    "org": "bae-systems",
-    "orgName": "BAE Systems",
-    "headline": "Galorath's 2026 State of the Industry Report Finds 79% of Organizations Increased AI Spending on Estimation While Only 1 in 4 Have Clear AI Policies",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAJBVV95cUxNSUxMajNBV2JQQnFKZk1BNS1HOU9WeDU4bGhTREJkZmlvZ1V6dTg5VE42TkpBSVhuZTdIVW9ySjZhazZUYVJZME91NDJmV0ItNkptNFZSY0x5dGJkeTVoSUNKWXFoTHYzOVhrTTMxd2FHZXdlR3dpY3ZJTGlHbHpxaVNSZk55dFdVaUN4Zlp0WnpkZ09MTjJJbmprTE85aVBIRVNwMDRHYV85OWs1T0hQMHNtMG9OdWx…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNSUxMajNBV2JQQnFKZk1BNS1HOU9WeDU4bGhTREJkZmlvZ1V6dTg5VE42TkpBSVhuZTdIVW9ySjZhazZUYVJZME91NDJmV0ItNkptNFZSY0x5dGJkeTVoSUNKWXFoTHYzOVhrTTMxd2FHZXdlR3dpY3ZJTGlHbHpxaVNSZk55dFdVaUN4Zlp0WnpkZ09MTjJJbmprTE85aVBIRVNwMDRHYV85OWs1T0hQMHNtMG9OdWxPWTY1SlhDX3UxaThvRDZNQ0xXNWdoQjFwVEd2MHpoQWNlNmlPQnF2YVdnUThzQVcyNnQzbS1PQWphRS1TQkFDZmp1MVVXRWthRGNFR0ZWVEFlbWM1Ymh0LVdFUGhNcTN5WDJHcWpzMFRKQmlIanUtYg?oc=5",
-    "sourceName": "TradingView",
-    "sourceType": "press",
-    "themes": [],
-    "region": "UK"
   },
   {
     "id": "a191db3d2d81",
@@ -1619,34 +1287,6 @@
     "region": null
   },
   {
-    "id": "782d9de34d32",
-    "date": "2026-06-02",
-    "org": "unmapped",
-    "orgName": "Defense One — Technology",
-    "headline": "Thanks largely to robots, Ukraine is now talking about winning, not just surviving",
-    "summary": "Uncrewed and autonomous systems—and the willingness to adapt to them—have neutered Russian advantages.",
-    "sourceUrl": "https://www.defenseone.com/technology/2026/06/ukraine-robots-winning/413902/",
-    "sourceName": "Defense One — Technology",
-    "sourceType": "press",
-    "themes": [
-      "autonomy"
-    ],
-    "region": "US"
-  },
-  {
-    "id": "9d9fe5e3e0c0",
-    "date": "2026-06-02",
-    "org": "unmapped",
-    "orgName": "GIS Reports",
-    "headline": "The battle for AI sovereignty",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBZWnRMWFNwcnRYb2w2eUFsVHJlUHFGVFRwTVJBS1d4dExjUUtfeklfeFdnLTMyNndadDFRbVJhNDI5TUJ6d3ZkcGt0ZGIxMXprM3AwN1N5LXB3V3JudEs4?oc=5\" target=\"_blank\">The battle for AI sovereignty</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GIS Reports</font>",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBZWnRMWFNwcnRYb2w2eUFsVHJlUHFGVFRwTVJBS1d4dExjUUtfeklfeFdnLTMyNndadDFRbVJhNDI5TUJ6d3ZkcGt0ZGIxMXprM3AwN1N5LXB3V3JudEs4?oc=5",
-    "sourceName": "GIS Reports",
-    "sourceType": "press",
-    "themes": [],
-    "region": null
-  },
-  {
     "id": "cae7f224dc0a",
     "date": "2026-06-02",
     "org": "unmapped",
@@ -1729,21 +1369,6 @@
     "region": null
   },
   {
-    "id": "aff1ef83c35a",
-    "date": "2026-06-02",
-    "org": "darpa",
-    "orgName": "DARPA",
-    "headline": "ZutaCore Raises $100M Series C to Scale Waterless Cooling for AI and HPC Data Centers",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQOGZ4eFN5Z2VmaHVQQXJTUG1DM1Q5emN5NUZsUFU0MVk3Q3JCbmpmbVY1dWNkTElwUmFOOHh1LXZQSXpmdmxnX1k2VjA4R25zN3JuSWV2eVJCSkJPb3NBRnEyQU1JLW5pZkJtbktCNGhGZjRhYmE1ZFRWbzBCZXlBeHdUUEtRM0ZSZFFfZ0Z4bDBYOFBhUWo3bkptMXR6ZTN5NmJQN0VoUXpTNXdMQ0ZydUlyVFRxVnV…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOGZ4eFN5Z2VmaHVQQXJTUG1DM1Q5emN5NUZsUFU0MVk3Q3JCbmpmbVY1dWNkTElwUmFOOHh1LXZQSXpmdmxnX1k2VjA4R25zN3JuSWV2eVJCSkJPb3NBRnEyQU1JLW5pZkJtbktCNGhGZjRhYmE1ZFRWbzBCZXlBeHdUUEtRM0ZSZFFfZ0Z4bDBYOFBhUWo3bkptMXR6ZTN5NmJQN0VoUXpTNXdMQ0ZydUlyVFRxVnViU3hkNmY3aw?oc=5",
-    "sourceName": "HPCwire",
-    "sourceType": "press",
-    "themes": [
-      "data"
-    ],
-    "region": "US"
-  },
-  {
     "id": "ac898de4f489",
     "date": "2026-06-01",
     "org": "unmapped",
@@ -1809,70 +1434,14 @@
     "region": null
   },
   {
-    "id": "96de34389e1d",
+    "id": "d33c67f95c88",
     "date": "2026-06-01",
     "org": "thales",
     "orgName": "Thales",
     "headline": "Britain orders more missiles from Thales to shoot down drones",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPYmYzWHFVLTViZjRXTDY2dEFOMTRZazBvRG83Z2tOSjN3d25PMTBJQnZUVmMtR3M4bVBTakpKajJadzZEV2lmYWpsb0RqMHp3YW1LQjdWMjBRRkpNRl9tZkF4c0M3ay12UzNQaVl3WkEzNmRMbG9wYnZNbDhQeGV0Vm1nQVVSZlc0ZGJBOVIwZW11YXlQRlFPT1g1c3ZTSVlweFlCMkZKVUVVbjVVQVc2cDA3eUNSUGM…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYmYzWHFVLTViZjRXTDY2dEFOMTRZazBvRG83Z2tOSjN3d25PMTBJQnZUVmMtR3M4bVBTakpKajJadzZEV2lmYWpsb0RqMHp3YW1LQjdWMjBRRkpNRl9tZkF4c0M3ay12UzNQaVl3WkEzNmRMbG9wYnZNbDhQeGV0Vm1nQVVSZlc0ZGJBOVIwZW11YXlQRlFPT1g1c3ZTSVlweFlCMkZKVUVVbjVVQVc2cDA3eUNSUGM?oc=5",
-    "sourceName": "Reuters",
-    "sourceType": "press",
-    "themes": [],
-    "region": "Europe"
-  },
-  {
-    "id": "82cd8c500ecf",
-    "date": "2026-06-01",
-    "org": "eda",
-    "orgName": "European Defence Agency",
-    "headline": "Can Mythos Help Prevent Major Cyberattacks? EU Gains Access To Anthropic’s Powerful AI Tool To Find Security Flaws",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxNYk9Lakw0c2xvT0VyZ1NzaS12V2pBWV9ZSnZIVTV4V3A4VDJDSnJNRFgycFdFTnRCLVYwOHczQjlzMjEzcDZYMHdlUUtVU3kyQXpGajFGcmVUME9vV3lFekxxNnJFUWwtQlprck9GVGh2cVpaaldna25Tdm5FM2xvSWg5bnpyY0J1SFl0SHFFNWxSVFZlekcya20zeF9xem1DdDhOaUlrbGctMXJUOVhyTEhSdUE4ck8…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNYk9Lakw0c2xvT0VyZ1NzaS12V2pBWV9ZSnZIVTV4V3A4VDJDSnJNRFgycFdFTnRCLVYwOHczQjlzMjEzcDZYMHdlUUtVU3kyQXpGajFGcmVUME9vV3lFekxxNnJFUWwtQlprck9GVGh2cVpaaldna25Tdm5FM2xvSWg5bnpyY0J1SFl0SHFFNWxSVFZlekcya20zeF9xem1DdDhOaUlrbGctMXJUOVhyTEhSdUE4ck83RXFINmdjNmtsWld1eDBMeU5LbEZjWDdRaExCYnpIVk91ZmlJV241MFZQS0xwNFhZaHdUNGs3dUdYb1HSAfgBQVVfeXFMT1R1Y2k3NGhDT1NXQ0RIZklOdUNtZGN1WTlOajV0X2dpN0dhdnBrUlN5ZEZETnh6QnV5eXNGM2p2Z3hwNFo4cVplb2pXRXA5RWg2MW5HUnZnRUxtb3g1UW5pQzJodVpsU0VjQm5UZUk5Si1wcDh0d3lwLTI0bzVYaTBUblFWS3lHbWd6M0x3dk5lbzNuSzdZdXJ6U0g4OE4zdTVwMG4xWmgzZmVFb19iWWxBMDJiQ284MFdNdFFTZ3lBWUIzTHVsbEN4M0ZyOExJbUNwNVFFejU3UXlOVW1SdVowMXpaOER3NDVrWS13bVBvMG9uRmNxVnY?oc=5",
-    "sourceName": "The Sunday Guardian",
-    "sourceType": "press",
-    "themes": [
-      "cyber"
-    ],
-    "region": "Europe"
-  },
-  {
-    "id": "c62c83a97c69",
-    "date": "2026-06-01",
-    "org": "unmapped",
-    "orgName": "StartupHub.ai",
-    "headline": "Drone Swarms Need a New War Chest",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOVkZXSnlmVUlUWlJhNzhKS0pqdncyVFh2U0F2NEN4RC1pOFF4UEpUcEEtZFdmTl9HOVJwVks2aGI0YThpal9XOHZVdUpnS0VWMG5yRGwyNVdpOVBUZ0ozRWw3eEJBbEFwNnlVUk80b2VzTEhobEh2WUFUT0dyODBDSTFSNV93T3h1OFFkYVExank?oc=5\" target=\"_blank\">Drone Swarms Need a New War C…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVkZXSnlmVUlUWlJhNzhKS0pqdncyVFh2U0F2NEN4RC1pOFF4UEpUcEEtZFdmTl9HOVJwVks2aGI0YThpal9XOHZVdUpnS0VWMG5yRGwyNVdpOVBUZ0ozRWw3eEJBbEFwNnlVUk80b2VzTEhobEh2WUFUT0dyODBDSTFSNV93T3h1OFFkYVExank?oc=5",
-    "sourceName": "StartupHub.ai",
-    "sourceType": "press",
-    "themes": [
-      "autonomy"
-    ],
-    "region": null
-  },
-  {
-    "id": "8fec01b74448",
-    "date": "2026-06-01",
-    "org": "eda",
-    "orgName": "European Defence Agency",
-    "headline": "EU Commission appoints independent expert bodies to support AI Act enforcement",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxNdElLZHUtZnQyYzNhT1lkUkFBcGlZZUliRGdWb0ZUcktJelNtRUxIUzlNRFZZLTFiNm84MDl0ZkZnZk94WDk3Wi1mNG5sNmV5MFBrSXc3UldhOHJMb0tDZkhjR1hHdjJEU1Vlai1BU1pmYXB1LVdKcnVtbkhhTnRjZGVBVzR2STI4WlNOY1dHQmVzTm1EV3ZxN29RNXk1NjEwRU9ieGZlNm5uMmVYZFBqUkJ2amxFUGN…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNdElLZHUtZnQyYzNhT1lkUkFBcGlZZUliRGdWb0ZUcktJelNtRUxIUzlNRFZZLTFiNm84MDl0ZkZnZk94WDk3Wi1mNG5sNmV5MFBrSXc3UldhOHJMb0tDZkhjR1hHdjJEU1Vlai1BU1pmYXB1LVdKcnVtbkhhTnRjZGVBVzR2STI4WlNOY1dHQmVzTm1EV3ZxN29RNXk1NjEwRU9ieGZlNm5uMmVYZFBqUkJ2amxFUGNrSGZ2SFJFY1p5THFSd0JMTXg3MEJkbThqajJVUFdYemxZQ2VFbVE?oc=5",
-    "sourceName": "INSIGHT EU MONITORING",
-    "sourceType": "press",
-    "themes": [],
-    "region": "Europe"
-  },
-  {
-    "id": "0cb045d6ccb3",
-    "date": "2026-06-01",
-    "org": "eda",
-    "orgName": "European Defence Agency",
-    "headline": "EU launches expert bodies to guide AI Act enforcement",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNZzVQbGJYazV0NmRKQ2xWdlY1RHRLb0plVWgxQjdKeEZVVnIwdzlaNnlrWU02dnZobWhoSVVjdHVGSnRQNzNuUGVxbFppcV9yNkZhTVNHLXVncGpvdUM3MkZEclFueFhNQU5WLU9KNW8wUjdIN3VFc3hvWkVtVzN6ODNTTWpjT2NubnY3WUktWWMwTzZhYmc?oc=5\" target=\"_blank\">EU launches expert bo…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZzVQbGJYazV0NmRKQ2xWdlY1RHRLb0plVWgxQjdKeEZVVnIwdzlaNnlrWU02dnZobWhoSVVjdHVGSnRQNzNuUGVxbFppcV9yNkZhTVNHLXVncGpvdUM3MkZEclFueFhNQU5WLU9KNW8wUjdIN3VFc3hvWkVtVzN6ODNTTWpjT2NubnY3WUktWWMwTzZhYmc?oc=5",
-    "sourceName": "The Brussels Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOdHFVLWY3YUhKZThFbzZ6TWRDVDRQVDVDZEFJcXNtT0twbzVJcDN5QnFLbjlWSThlQW5mdENiVDZTcFlOZnViTkUxdWpIalpVeUJoWWd0R2x2Q0xXRnp1VmNUWEdqaGp4OXZsblFUVk5ldTBfS0p0YVloWVdvcTlYblctc045bE1EUmg2TVlQRk1mdVR0aXQ1N25EM080RlkwdzlNeFZFbXhhaHExR1hMb2h2TnJaQkx…",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdHFVLWY3YUhKZThFbzZ6TWRDVDRQVDVDZEFJcXNtT0twbzVJcDN5QnFLbjlWSThlQW5mdENiVDZTcFlOZnViTkUxdWpIalpVeUJoWWd0R2x2Q0xXRnp1VmNUWEdqaGp4OXZsblFUVk5ldTBfS0p0YVloWVdvcTlYblctc045bE1EUmg2TVlQRk1mdVR0aXQ1N25EM080RlkwdzlNeFZFbXhhaHExR1hMb2h2TnJaQkxtZHZPWkZrMVdsU1J4N3Nn0gHMAUFVX3lxTE1HVllBY29QYU5sOXVnZ3gyalgtRlM0bVpKQzJhTlYzZU5kRGVMelJvWXBhcTJsX1BjamhOV1hwdGVPWHluQjZlenQ4N19KQzY4bFc1SWZiaUI4eUNUZGhueFp5c2VZZkNRSVNmcC00Skp5aWFoVjIwaFVFS2ZJVTVsYUR1YW5WOXRrZDlvMUdQSnRpNWxTYVg0YkdUTzhpMm8zcFhaZ3N2NGl4Q1hWUDB5NXR1MUs0Y0NjMEdlX1ZvTkVoNmZZRGkzdHZPdQ?oc=5",
+    "sourceName": "The Economic Times",
     "sourceType": "press",
     "themes": [],
     "region": "Europe"
@@ -2181,34 +1750,6 @@
     "region": null
   },
   {
-    "id": "db62cf0609bf",
-    "date": "2026-06-01",
-    "org": "unmapped",
-    "orgName": "Tech Policy Press",
-    "headline": "What Middle Powers Risk When AI Goes to War",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE11TnVGX2xiUTFxN3JSYWs0QnlLSGxaeU1PZDd3X3kwMnRUZ3Jwbng3YTBSdEZ4ejg4OHZUdWc1WS14VW5mSVNGSHpRSXRZZHV4S296Q045dVhkYWhhdmhWclVLU1dwcWk3YzlMTTNjVmduZjQxUkxtelRhMW1kZw?oc=5\" target=\"_blank\">What Middle Powers Risk When AI Goes to War</a>&nbsp;&…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTE11TnVGX2xiUTFxN3JSYWs0QnlLSGxaeU1PZDd3X3kwMnRUZ3Jwbng3YTBSdEZ4ejg4OHZUdWc1WS14VW5mSVNGSHpRSXRZZHV4S296Q045dVhkYWhhdmhWclVLU1dwcWk3YzlMTTNjVmduZjQxUkxtelRhMW1kZw?oc=5",
-    "sourceName": "Tech Policy Press",
-    "sourceType": "press",
-    "themes": [
-      "ethics-governance"
-    ],
-    "region": null
-  },
-  {
-    "id": "67b6ce3ec5d6",
-    "date": "2026-05-31",
-    "org": "unmapped",
-    "orgName": "ibtimes.sg",
-    "headline": "'Kill them all': Inside China's New Drone Algorithm That Drives Next Phase of War Automation",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQcWl1OXJfQ0IyMWZrUzBHcGhyRnZ6VWpoV2hORUxLQ082SjhIZXctX3RsaUpzZGtpTGE2OG12Si1FNjJXTW1hRU9hcUcyNHF5RFlOSFZWSEVSOFkwd3R0QTJjOFd5UE8xM1FYTkdfQnNndGVoWWJKSnlvbzNTZXN2NmJNRUFSeGtuZFRXZ3lzLTk5eHZnVFEwZlRmRG1mM0xjenNpSDRhT1BOQ3FUVGpDN3pLV1M?oc=…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcWl1OXJfQ0IyMWZrUzBHcGhyRnZ6VWpoV2hORUxLQ082SjhIZXctX3RsaUpzZGtpTGE2OG12Si1FNjJXTW1hRU9hcUcyNHF5RFlOSFZWSEVSOFkwd3R0QTJjOFd5UE8xM1FYTkdfQnNndGVoWWJKSnlvbzNTZXN2NmJNRUFSeGtuZFRXZ3lzLTk5eHZnVFEwZlRmRG1mM0xjenNpSDRhT1BOQ3FUVGpDN3pLV1M?oc=5",
-    "sourceName": "ibtimes.sg",
-    "sourceType": "press",
-    "themes": [],
-    "region": null
-  },
-  {
     "id": "6435e3cb807a",
     "date": "2026-05-31",
     "org": "palantir",
@@ -2220,6 +1761,19 @@
     "sourceType": "press",
     "themes": [],
     "region": "US"
+  },
+  {
+    "id": "d420edf2f012",
+    "date": "2026-05-31",
+    "org": "unmapped",
+    "orgName": "MSN",
+    "headline": "AI vs humans in battlefield: Pentagon divided over use of artificial intelligence in war",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZURLendSVzhlakNLMzU1Qmx2NVdBZnF3eFFMNXNtbDNvaVdKTUY4UDg5ckttc3hvT0xTUEozbktRa0E3bFpiRDF5WlBjWEJBVlZVX0VjODhoSzRhSF85VWcxLTlpMEljckN1MXNuQlgtWVFmdG00NDhxWlFwRHpYajNxcUVuLVRGOXoxN1N3RnpsVjNYTXd6RmwzVzgyVmFRZE5fQXNnU2V1X0I1bThHb05yTkhnbDJ…",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZURLendSVzhlakNLMzU1Qmx2NVdBZnF3eFFMNXNtbDNvaVdKTUY4UDg5ckttc3hvT0xTUEozbktRa0E3bFpiRDF5WlBjWEJBVlZVX0VjODhoSzRhSF85VWcxLTlpMEljckN1MXNuQlgtWVFmdG00NDhxWlFwRHpYajNxcUVuLVRGOXoxN1N3RnpsVjNYTXd6RmwzVzgyVmFRZE5fQXNnU2V1X0I1bThHb05yTkhnbDJhMXk5eHhneFhwUDhhQlVlRGlEQTFoQkx4V3c?oc=5",
+    "sourceName": "MSN",
+    "sourceType": "press",
+    "themes": [],
+    "region": null
   },
   {
     "id": "473a28e77302",
@@ -2261,32 +1815,6 @@
     "region": "US"
   },
   {
-    "id": "febd263bc879",
-    "date": "2026-05-31",
-    "org": "unmapped",
-    "orgName": "MySA",
-    "headline": "Billion-dollar AI ship company has big plans for Texas coast",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOd0V4TWc5cVhQUmlvY3Q1QkY3UF9qT1RKQ012Q0JpTVozSHNIWEZVdVBFZlJKQ1RwcUVfN2h3ZWM2Y1ZESVk3M3hfeGk0UV9PellCR1B1eG5zVTVkcl95LTZFS0RWM2J2OWZKQ1pOeG1HRFhCWDFvbG9URWtLdGlVZnNXcWs3bWtLRXdVOXluLXNfbWtpM1Rleg?oc=5\" target=\"_blank\">Billion-dollar AI…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOd0V4TWc5cVhQUmlvY3Q1QkY3UF9qT1RKQ012Q0JpTVozSHNIWEZVdVBFZlJKQ1RwcUVfN2h3ZWM2Y1ZESVk3M3hfeGk0UV9PellCR1B1eG5zVTVkcl95LTZFS0RWM2J2OWZKQ1pOeG1HRFhCWDFvbG9URWtLdGlVZnNXcWs3bWtLRXdVOXluLXNfbWtpM1Rleg?oc=5",
-    "sourceName": "MySA",
-    "sourceType": "press",
-    "themes": [],
-    "region": null
-  },
-  {
-    "id": "f45174cde0d1",
-    "date": "2026-05-31",
-    "org": "unmapped",
-    "orgName": "MSN",
-    "headline": "BlitzBox packs 100 armed drones into a shipping container",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxNa2w5TENIMTFFZkx6dE9TTVYybFZESWhlWXF6WGttdjdZTksxVE5sMWFNUlB5emppbnBBRXVNSERwUnc4NWhCb0JRb0dXX1dSNGxON2hfbWRrSko3OVJOYzZZVmpBZlJIemNKRFF3SHVoWVFSN0lzNl9QdWhLdmY4YjZFUkRrMndrbmg1NDgza1FzZGFlN29tdlBJLTY2UVpRU1A1QjNrXzFXRzl5ckw4cDVEZ2NxX1l…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNa2w5TENIMTFFZkx6dE9TTVYybFZESWhlWXF6WGttdjdZTksxVE5sMWFNUlB5emppbnBBRXVNSERwUnc4NWhCb0JRb0dXX1dSNGxON2hfbWRrSko3OVJOYzZZVmpBZlJIemNKRFF3SHVoWVFSN0lzNl9QdWhLdmY4YjZFUkRrMndrbmg1NDgza1FzZGFlN29tdlBJLTY2UVpRU1A1QjNrXzFXRzl5ckw4cDVEZ2NxX1llRm1xTDFldU04cVQ0OEpIcXhOQWV2N3pKVmdabXUxV0JZTWMzc2RnV05xSlJTb1VaVzFleTd1WjE?oc=5",
-    "sourceName": "MSN",
-    "sourceType": "press",
-    "themes": [],
-    "region": null
-  },
-  {
     "id": "aba80e13337e",
     "date": "2026-05-31",
     "org": "unmapped",
@@ -2308,19 +1836,6 @@
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxQR1M0TGEzVnktR3RHMDc5THNvZkJnOE9JanFta0Jlak1JeHoyNExKTS1VaERWWnM4WUQtc1kzYzJkSXkyRkxFOElZaTdIbzJ5bm9Udk13UWR5ZzhZWWg4MnBybDhQS3FtWjBQNDFLUjEzOWZnd3J2ZEVvbDNrbkliYlZRYXBGNS05Tm50WUxBc1l5eEpXSUN0bkxRNE1fOXZqd2tSRmdkdkRSSDQ2Z0JidUpfQWtlZ0h…",
     "sourceUrl": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQR1M0TGEzVnktR3RHMDc5THNvZkJnOE9JanFta0Jlak1JeHoyNExKTS1VaERWWnM4WUQtc1kzYzJkSXkyRkxFOElZaTdIbzJ5bm9Udk13UWR5ZzhZWWg4MnBybDhQS3FtWjBQNDFLUjEzOWZnd3J2ZEVvbDNrbkliYlZRYXBGNS05Tm50WUxBc1l5eEpXSUN0bkxRNE1fOXZqd2tSRmdkdkRSSDQ2Z0JidUpfQWtlZ0hfb1Z4MFlhdnV4bG91ZDRiQ3R4dmJwWWxCbU4zMmIzMWdZaWVidFlvSDFyU1A2YXQ4Vm5ueWdHX25Hdm9zM1kw?oc=5",
     "sourceName": "MSN",
-    "sourceType": "press",
-    "themes": [],
-    "region": null
-  },
-  {
-    "id": "c9fc53da7651",
-    "date": "2026-05-31",
-    "org": "unmapped",
-    "orgName": "Mshale",
-    "headline": "How Pentagon-Anthropic AI Dispute Escalated Marin čilić (t5I6ZwTp3f)",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBjUGUzVEFnUHI0Rno5cjI0ZlVudWNhc25INGRtcFVQcnY5bFM3TUhMWUl0MGRvUHVmMEV4TGhiTWljaUV3aXk5ZlVycDdJdmtGY2g5cFpUd282YWFzQjlPQQ?oc=5\" target=\"_blank\">How Pentagon-Anthropic AI Dispute Escalated Marin čilić (t5I6ZwTp3f)</a>&nbsp;&nbsp;<font colo…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBjUGUzVEFnUHI0Rno5cjI0ZlVudWNhc25INGRtcFVQcnY5bFM3TUhMWUl0MGRvUHVmMEV4TGhiTWljaUV3aXk5ZlVycDdJdmtGY2g5cFpUd282YWFzQjlPQQ?oc=5",
-    "sourceName": "Mshale",
     "sourceType": "press",
     "themes": [],
     "region": null
@@ -2462,21 +1977,6 @@
     "region": null
   },
   {
-    "id": "2c10cbd6c229",
-    "date": "2026-05-30",
-    "org": "unmapped",
-    "orgName": "The Times of India",
-    "headline": "'Find and kill them all': China unveils AI-powered drone swarms that can hunt targets autonomously",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwJBVV95cUxOX2VYTHljY1ExZ3JXeGpQbDRlekEyVzY4VnJrRmxITDY5VldhbGhxME5XRXZDYzBfd3Jpc2NNYWZTOXJNTkZNN3o4Z3I0bEpRZHJ6VGNkTmljcFJyczREN0JzUG1GNGhwRmpLSGJEdEI1Y3d0RUVUU3VYWUltYnJoRHNMYi02U2xiV2xyNmU2MWdCa1UydE15clNSMDl1T184ZTI2WTdTNmR5N2RremZ0VktYdUpkQnh…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOX2VYTHljY1ExZ3JXeGpQbDRlekEyVzY4VnJrRmxITDY5VldhbGhxME5XRXZDYzBfd3Jpc2NNYWZTOXJNTkZNN3o4Z3I0bEpRZHJ6VGNkTmljcFJyczREN0JzUG1GNGhwRmpLSGJEdEI1Y3d0RUVUU3VYWUltYnJoRHNMYi02U2xiV2xyNmU2MWdCa1UydE15clNSMDl1T184ZTI2WTdTNmR5N2RremZ0VktYdUpkQnhmTWxMZTQzTzRoUTlPRXRKZzROZGtsWWticXlmM2NyTnZCVlFoaGpfSjlSY1Y3M3FkeFBnTXVqc2RobzFmMVEydHF3Ul9mTzFkWXV4cDdFUGpzQjjSAZACQVVfeXFMUEVxajFDMG5VVmU4dm96RDliN0pUaEJUcE9ySEZyeWkxU2tWbEpEQzlPUDd6QWZBMjVBa21hcnpMLVZhTi00NXItZmg2bEJ6R0lheTNvcTdXYUMtRW5odm4tWHpjUnIwWkdrZ1dUc3lRZlFQeTVndDJuX2dULTBJTS1GSHVjRmF2X1VOV3hxVTRvcXZMMFpjd0ZmOTFvMlhsaERrRlNYM09rMnhtajhRcDYyOHRLSy1mcnN5YmVDcjQtWWRSTldDUUpmN3BZUEd6Z2hLdGswWi16cXI1N0tkR0FqNkIwQWdxb3J0QkswaFlEVzE1Q2JGSVJJYjQ2Q1pWbDV4ajVfUDhTYkQwY2tVWTI?oc=5",
-    "sourceName": "The Times of India",
-    "sourceType": "press",
-    "themes": [
-      "autonomy"
-    ],
-    "region": null
-  },
-  {
     "id": "d4c7d2bafad0",
     "date": "2026-05-30",
     "org": "unmapped",
@@ -2526,35 +2026,6 @@
     "sourceName": "CAPSS India",
     "sourceType": "press",
     "themes": [],
-    "region": null
-  },
-  {
-    "id": "56a56a65d33a",
-    "date": "2026-05-30",
-    "org": "anduril",
-    "orgName": "Anduril",
-    "headline": "AUKUS partners sign agreement on underwater drones, speed up sub plan",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOM1lzaXRBVHNnZ0hhMWpwUUxpeHZCNVkwRk9uR1ZtSWkwV1A5N3RQRHBOTmVYWHNFYndGcnJfSklCTTVsUUhfc05fbmhYR1pXbURQb1d1TEdGNk44TklzeVhwT2ZNNVd1dTlkb2ljeFF4ZjJac19kd29XNUpYWm5aZWwwcGFXcnRTcnVlVUVNaFN6QVA4LTFQZUVLenp5RXJpR3Z3bnVhbWo?oc=5\" target=\"_blan…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOM1lzaXRBVHNnZ0hhMWpwUUxpeHZCNVkwRk9uR1ZtSWkwV1A5N3RQRHBOTmVYWHNFYndGcnJfSklCTTVsUUhfc05fbmhYR1pXbURQb1d1TEdGNk44TklzeVhwT2ZNNVd1dTlkb2ljeFF4ZjJac19kd29XNUpYWm5aZWwwcGFXcnRTcnVlVUVNaFN6QVA4LTFQZUVLenp5RXJpR3Z3bnVhbWo?oc=5",
-    "sourceName": "Breaking Defense",
-    "sourceType": "press",
-    "themes": [],
-    "region": "US"
-  },
-  {
-    "id": "821881e05c59",
-    "date": "2026-05-30",
-    "org": "unmapped",
-    "orgName": "Interesting Engineering",
-    "headline": "China’s autonomous drone swarm system claims to hunt targets despite network jamming, chaos",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPU2ZNelZ3MzJDcWVhb2pjYzUwTjFuR1ItVVpTNERwMlBWbWZOckZ4Rmg1alp1UkVNOFdFRkN5T25jandmUnYzVVpmek1reWdabUFUdElYYlQ1c1NOd24tRHZPMi0wMmRwVzRjZUM5SkZaVmt2c0FPdHh5Vm85RHdzRnU0N3FwQQ?oc=5\" target=\"_blank\">China’s autonomous drone swarm system clai…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPU2ZNelZ3MzJDcWVhb2pjYzUwTjFuR1ItVVpTNERwMlBWbWZOckZ4Rmg1alp1UkVNOFdFRkN5T25jandmUnYzVVpmek1reWdabUFUdElYYlQ1c1NOd24tRHZPMi0wMmRwVzRjZUM5SkZaVmt2c0FPdHh5Vm85RHdzRnU0N3FwQQ?oc=5",
-    "sourceName": "Interesting Engineering",
-    "sourceType": "press",
-    "themes": [
-      "autonomy",
-      "ew"
-    ],
     "region": null
   },
   {
@@ -2667,19 +2138,6 @@
     "region": null
   },
   {
-    "id": "7e19250ada5a",
-    "date": "2026-05-30",
-    "org": "unmapped",
-    "orgName": "simplywall.st",
-    "headline": "Volatus Aerospace Deepens Defence Focus With AI Flight Controller And Cash Raise",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNajNTdGhQZHBqUTBFYWMycTRJZG52aE51RHp0UXlrYkhrTTNuTGJ0THFqc0Nidlc3SUtxN2FDcHRxSkM4X0FiSUYwYkRidF9QSGt6ZE5fSWFxRmZHZkttS0NIWDN0YjRHMmtCRU9QaUh4djg2cUlaYnZiQnc0cU5VbFdZS2JUQWRHeURDM2xhMjJDUnVTc29rcTRoV0ZOemNETjdQbmJSTl9SQkRnR2p6R1hEYWlza25…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNajNTdGhQZHBqUTBFYWMycTRJZG52aE51RHp0UXlrYkhrTTNuTGJ0THFqc0Nidlc3SUtxN2FDcHRxSkM4X0FiSUYwYkRidF9QSGt6ZE5fSWFxRmZHZkttS0NIWDN0YjRHMmtCRU9QaUh4djg2cUlaYnZiQnc0cU5VbFdZS2JUQWRHeURDM2xhMjJDUnVTc29rcTRoV0ZOemNETjdQbmJSTl9SQkRnR2p6R1hEYWlza25qVUhBLUVYSG9MVUlDLVdadHBKbWR6Wlpyb0V6U0pOd1R5T05F0gHiAUFVX3lxTE9aWmt5Vm5RbUx3a29Sckh0Q243d1RMd1k3bnF4VEFpSFdyUG9fa0o5R3Byand6bGpHU0tseVkySUZGRThpSUtod2thVlNOdUZka3Y3RlZzNjJRaXJfUTNQSmxJbnB5RmlsZTFMZHo1elFBS3cyRTNFeW4tTXloSzFYOFc3RGJGUnNTR0JGSDVER19jVC1kVWM0OUQ1UmI0cHNUU25MclRQTW1McG1OWTg2Zm1JdjZMbnFJUTNfaGJoVzJqc1NPaDhEY3ZyWWJuMERJcXNBRWJoTFBzVUViOHNYRVE?oc=5",
-    "sourceName": "simplywall.st",
-    "sourceType": "press",
-    "themes": [],
-    "region": null
-  },
-  {
     "id": "2575c3eeca17",
     "date": "2026-05-29",
     "org": "unmapped",
@@ -2719,18 +2177,16 @@
     "region": null
   },
   {
-    "id": "d0137204a7d2",
+    "id": "5313e3f70270",
     "date": "2026-05-29",
-    "org": "bae-systems",
-    "orgName": "BAE Systems",
-    "headline": "As cyber threats at the level of hackers using artificial intelligence (AI) increase rapidly, the go..",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE81UDZUYlB6TzBRc0psZ3ZKSE5ockRmZ2FwYXRVeW91N2lUQkstWlE0d3hlQWRPVHMwUkUxWUgtMUZIeG5uZHkzakstdw?oc=5\" target=\"_blank\">As cyber threats at the level of hackers using artificial intelligence (AI) increase rapidly, the go..</a>&nbsp;&nbsp;<fon…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE81UDZUYlB6TzBRc0psZ3ZKSE5ockRmZ2FwYXRVeW91N2lUQkstWlE0d3hlQWRPVHMwUkUxWUgtMUZIeG5uZHkzakstdw?oc=5",
-    "sourceName": "매일경제",
+    "org": "uk-mod",
+    "orgName": "UK MoD / Defence AI Centre",
+    "headline": "BMVg AI Guidelines: Moving away from “human-in-the-loop” + Fast-track for defense startups",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxNcjhWdTN6dmd4VHBYSzQ1RUJaSXNvRVotT2RPbVZWRDBJb2k0V01LZG4xVDdweXJPS0lJajd0Y19CWWhndzBmc1l4aVphRzFxZEcyb3hxemVHd0taZnJWeWNSQTRnZzF0dl9KTUVfbXdrUDc3bUREU2VnUEV5ay1NRnIwS3lTeGdxcS16dUd0RGNPZkwtX2drQ0N6UnU2OFNiMk1qaGRsVm0tNnY1NGFEWUNsdkhpVHh…",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNcjhWdTN6dmd4VHBYSzQ1RUJaSXNvRVotT2RPbVZWRDBJb2k0V01LZG4xVDdweXJPS0lJajd0Y19CWWhndzBmc1l4aVphRzFxZEcyb3hxemVHd0taZnJWeWNSQTRnZzF0dl9KTUVfbXdrUDc3bUREU2VnUEV5ay1NRnIwS3lTeGdxcS16dUd0RGNPZkwtX2drQ0N6UnU2OFNiMk1qaGRsVm0tNnY1NGFEWUNsdkhpVHh4SFQ2QzN5VjJfaGIxMlQ4WjQ4YkE1b0NOWjcyOFVycnE2Wjg?oc=5",
+    "sourceName": "Table.Briefings",
     "sourceType": "press",
-    "themes": [
-      "cyber"
-    ],
+    "themes": [],
     "region": "UK"
   },
   {
@@ -2827,19 +2283,6 @@
     "region": null
   },
   {
-    "id": "9a554ba93689",
-    "date": "2026-05-29",
-    "org": "unmapped",
-    "orgName": "The Washington Post",
-    "headline": "Opinion | How America can remain the world’s AI superpower",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTUIwOG9hZTZ3YzU5VExlNFdiekR5T0tYNUJrSWZVRzlNZ3JsUnkyWlM1eWx2eFl3Qm1mUU96djM4MkRRdzZGQVFfMW5wQUNfUHdzLXN6ekQtNE41Y1hkREZqZGFlVTJHLUxPRmhwNWMtQzVhQUhjUGoteVNmYUZUU1lucmN3UlBsR1V3NFQwalhaSWt5bW1wUUxsdnYxWEdzZldHc3ZVV2V3dTh1RzRmblRBU3J1UFQ…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTUIwOG9hZTZ3YzU5VExlNFdiekR5T0tYNUJrSWZVRzlNZ3JsUnkyWlM1eWx2eFl3Qm1mUU96djM4MkRRdzZGQVFfMW5wQUNfUHdzLXN6ekQtNE41Y1hkREZqZGFlVTJHLUxPRmhwNWMtQzVhQUhjUGoteVNmYUZUU1lucmN3UlBsR1V3NFQwalhaSWt5bW1wUUxsdnYxWEdzZldHc3ZVV2V3dTh1RzRmblRBU3J1UFQ4dEphYngzMkVjUUU?oc=5",
-    "sourceName": "The Washington Post",
-    "sourceType": "press",
-    "themes": [],
-    "region": null
-  },
-  {
     "id": "bfb38ba4ac5d",
     "date": "2026-05-29",
     "org": "palantir",
@@ -2892,6 +2335,19 @@
     "region": "Europe"
   },
   {
+    "id": "a0166c7b09fe",
+    "date": "2026-05-29",
+    "org": "unmapped",
+    "orgName": "CBS News",
+    "headline": "U.S. military practices for warfare with AI and robots",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNOFFQSGh5ekZyclJnVVNkU2VBbDMwS1R5cURHTHphWE45dVcwYTNYNTBVZVN6Zk9ZM1FRcHNBOWpCVThSS2JpNXlLZzRkV08xMHp6c2t5SnNTdUZncXFiRERIbHp0MWVSRU1XOEFWT2VhN0Q2cHpUTGJrcUJva0tsYXBaQmpUS0k?oc=5\" target=\"_blank\">U.S. military practices for warfare with…",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOFFQSGh5ekZyclJnVVNkU2VBbDMwS1R5cURHTHphWE45dVcwYTNYNTBVZVN6Zk9ZM1FRcHNBOWpCVThSS2JpNXlLZzRkV08xMHp6c2t5SnNTdUZncXFiRERIbHp0MWVSRU1XOEFWT2VhN0Q2cHpUTGJrcUJva0tsYXBaQmpUS0k?oc=5",
+    "sourceName": "CBS News",
+    "sourceType": "press",
+    "themes": [],
+    "region": null
+  },
+  {
     "id": "68b50c1b5b64",
     "date": "2026-05-28",
     "org": "unmapped",
@@ -2918,19 +2374,6 @@
     "region": "US"
   },
   {
-    "id": "3783e940d3b5",
-    "date": "2026-05-28",
-    "org": "eda",
-    "orgName": "European Defence Agency",
-    "headline": "AI just reached production in European space. The trust problem is what comes next.",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOb1VWXzh2anRsQkp6bFNTVjEzVmhIZ1dTRDR3T2E0OE83aUtsdzRPN2xpckRMOUltVjVzN280RUp3LXVFYThlOEc5cjVobkhkMGs0alIyRmZXQmhZaG4ybW5ZT2NCMHBDVEJpcjR5SjhFZVlnY0YzSjBhTk16Y0pyNFlPNnZuNk5VRkotYllCWHJXS0x3cDg1RlBsRXQxSVd1RTE0Q05iYVR2UFlvLXpwSlFDSQ?oc=5…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOb1VWXzh2anRsQkp6bFNTVjEzVmhIZ1dTRDR3T2E0OE83aUtsdzRPN2xpckRMOUltVjVzN280RUp3LXVFYThlOEc5cjVobkhkMGs0alIyRmZXQmhZaG4ybW5ZT2NCMHBDVEJpcjR5SjhFZVlnY0YzSjBhTk16Y0pyNFlPNnZuNk5VRkotYllCWHJXS0x3cDg1RlBsRXQxSVd1RTE0Q05iYVR2UFlvLXpwSlFDSQ?oc=5",
-    "sourceName": "satnews.com",
-    "sourceType": "press",
-    "themes": [],
-    "region": "Europe"
-  },
-  {
     "id": "eac642fc1059",
     "date": "2026-05-28",
     "org": "unmapped",
@@ -2943,19 +2386,6 @@
     "themes": [
       "autonomy"
     ],
-    "region": null
-  },
-  {
-    "id": "3e513afc7db2",
-    "date": "2026-05-28",
-    "org": "unmapped",
-    "orgName": "Euronews.com",
-    "headline": "Airbus and BMW partner with Mistral AI in Europe tech push",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNGVCekJzamZHUng1SGUwdi1JWkVRdmROdkdjMkhqWWRqcXNTUDl3OEFvUVJRdHBnS2pXZHpZRkV3MkRJZDBTZHZXMVhrdUt3WmpLWklPRC0tME9tdjFiU1VXdFh0Z1Q3QzdaeEpXTXJYOG9YSXZpZjZtYTJKNnVpQTNsMHB4alpnOEpYODd3NXB0ZHVjUVlsWUp6OXpQTXl4cnpSZHhPY0p5YVV4WjNSQU4tZzEzRGs…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNGVCekJzamZHUng1SGUwdi1JWkVRdmROdkdjMkhqWWRqcXNTUDl3OEFvUVJRdHBnS2pXZHpZRkV3MkRJZDBTZHZXMVhrdUt3WmpLWklPRC0tME9tdjFiU1VXdFh0Z1Q3QzdaeEpXTXJYOG9YSXZpZjZtYTJKNnVpQTNsMHB4alpnOEpYODd3NXB0ZHVjUVlsWUp6OXpQTXl4cnpSZHhPY0p5YVV4WjNSQU4tZzEzRGstaFJCS2tKcXV1NE9QT1NhdmR0ZGlrX0M0?oc=5",
-    "sourceName": "Euronews.com",
-    "sourceType": "press",
-    "themes": [],
     "region": null
   },
   {
@@ -2985,34 +2415,6 @@
     "region": "Europe"
   },
   {
-    "id": "61c1603bb162",
-    "date": "2026-05-28",
-    "org": "unmapped",
-    "orgName": "The Futurum Group",
-    "headline": "Can Google’s AI Threat Defense Set the Pace for Enterprise Cyber Defense?",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVXBKbjNVTDFkaHRqY2twVlJzNFlWQlNHaVJHQnhsVHo0YzlMUk56dUROcXBtMFlCa1RCX1ZRVUkwSEpzdlM0QnJPN01wX0xoWjlzWlpYZnM4TmNXaHBrYlozZFhBbWJFMDZ3V2E4Q1I3aVpSaG4yV0NHYUZxZWo5SkdWN04tTER0dmhabHZlNU5xTmE1dzRRa2hkeVNfTHBlZnBYWlNHa3drUQ?oc=5\" target=\"_b…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVXBKbjNVTDFkaHRqY2twVlJzNFlWQlNHaVJHQnhsVHo0YzlMUk56dUROcXBtMFlCa1RCX1ZRVUkwSEpzdlM0QnJPN01wX0xoWjlzWlpYZnM4TmNXaHBrYlozZFhBbWJFMDZ3V2E4Q1I3aVpSaG4yV0NHYUZxZWo5SkdWN04tTER0dmhabHZlNU5xTmE1dzRRa2hkeVNfTHBlZnBYWlNHa3drUQ?oc=5",
-    "sourceName": "The Futurum Group",
-    "sourceType": "press",
-    "themes": [
-      "cyber"
-    ],
-    "region": null
-  },
-  {
-    "id": "c2271ab2f973",
-    "date": "2026-05-28",
-    "org": "unmapped",
-    "orgName": "The Jerusalem Post",
-    "headline": "Elbit subsidiary FUSE acquires AI robotics firm Bluewhite",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBmN0l5N3VSaHluUEh2X1NhSzVFemNGVExpWDZoYVM4MzhmVWNHdkpGRFpyZ09uZFppYnBjY3hoQU4xYVp4R2NBcXcyM0RRcS01MVJoZUt3a2lsSEdUNWxWN1pGWQ?oc=5\" target=\"_blank\">Elbit subsidiary FUSE acquires AI robotics firm Bluewhite</a>&nbsp;&nbsp;<font color=\"#6f6…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBmN0l5N3VSaHluUEh2X1NhSzVFemNGVExpWDZoYVM4MzhmVWNHdkpGRFpyZ09uZFppYnBjY3hoQU4xYVp4R2NBcXcyM0RRcS01MVJoZUt3a2lsSEdUNWxWN1pGWQ?oc=5",
-    "sourceName": "The Jerusalem Post",
-    "sourceType": "press",
-    "themes": [],
-    "region": null
-  },
-  {
     "id": "91930d5569a1",
     "date": "2026-05-28",
     "org": "unmapped",
@@ -3026,19 +2428,6 @@
       "autonomy"
     ],
     "region": null
-  },
-  {
-    "id": "3f8d3de23c2a",
-    "date": "2026-05-28",
-    "org": "eda",
-    "orgName": "European Defence Agency",
-    "headline": "French AI firm Mistral announces deals with BMW, Airbus",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOeENMWGZKQ01sSmFvUWVqbFBrNVpVMWI5Tk16VHBQdVc1UWNzYTlES09ldWlwbS12X0o0U0ZQcmExcmo0Sm9DX2MtTE92bnpxT1FDVElESU51ZHZTc3FNdGx4Zi1lS1Vla0NVR3MwN3MwV2RkRklvQ3Y2b0FaMHJzWHZ6NjRhakQ4VHJLRUVLZUJRZ0dCVEhPc1EtNGYtZ1VvNE5z?oc=5\" target=\"_blank\">Fren…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeENMWGZKQ01sSmFvUWVqbFBrNVpVMWI5Tk16VHBQdVc1UWNzYTlES09ldWlwbS12X0o0U0ZQcmExcmo0Sm9DX2MtTE92bnpxT1FDVElESU51ZHZTc3FNdGx4Zi1lS1Vla0NVR3MwN3MwV2RkRklvQ3Y2b0FaMHJzWHZ6NjRhakQ4VHJLRUVLZUJRZ0dCVEhPc1EtNGYtZ1VvNE5z?oc=5",
-    "sourceName": "France 24",
-    "sourceType": "press",
-    "themes": [],
-    "region": "Europe"
   },
   {
     "id": "04eb8d2b6f9f",
@@ -3083,19 +2472,6 @@
     "region": "US"
   },
   {
-    "id": "6e6d776693a2",
-    "date": "2026-05-28",
-    "org": "uk-mod",
-    "orgName": "UK MoD / Defence AI Centre",
-    "headline": "Inside the Met Police's £750,000,000 tech force and its battle to use AI",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPZnU5S2lOQ1RISXA1SXZPQ2kxSXVIZWswVTIyVXFLTWM0ekUxX2xVZ2hiT0dXcW1YS1YtM0hLNlV2X3NkTS1VWVFkWmJLOGs5cWxrN294T2RzTTlQNHA2Y2RpbV9FaktVMVk1VUhQQmk0ZGVOWDBaM01yNGktOVY2UG5EWXVWREJ0UkgwZUVoQ1BtYWN1dmJiZ3RqZ23SAaIBQVVfeXFMTWw4TUVPUkdYUm9EOFVuRFF…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZnU5S2lOQ1RISXA1SXZPQ2kxSXVIZWswVTIyVXFLTWM0ekUxX2xVZ2hiT0dXcW1YS1YtM0hLNlV2X3NkTS1VWVFkWmJLOGs5cWxrN294T2RzTTlQNHA2Y2RpbV9FaktVMVk1VUhQQmk0ZGVOWDBaM01yNGktOVY2UG5EWXVWREJ0UkgwZUVoQ1BtYWN1dmJiZ3RqZ23SAaIBQVVfeXFMTWw4TUVPUkdYUm9EOFVuRFF5ZHpwOXhlNVpwaVREMDZzQVZUaFVoX2ROZTREeGtvMGJvR3NXM3EydlNuaEhVQXBTeWQydlE4UlJ1Sy1FWlFFZFUzeWE2RXM3cG5WZ25rVFVlUm1WdmdVWDFTMDhMdzJEeGR3eTNidTlwNE12WlN3eGFHaUhsZVhBWWNmUlZxX0ZsWEx0MUpYdzh3?oc=5",
-    "sourceName": "Metro.co.uk",
-    "sourceType": "press",
-    "themes": [],
-    "region": "UK"
-  },
-  {
     "id": "3f3ea3310295",
     "date": "2026-05-28",
     "org": "unmapped",
@@ -3126,21 +2502,6 @@
     "region": "Europe"
   },
   {
-    "id": "467d671ae66e",
-    "date": "2026-05-28",
-    "org": "unmapped",
-    "orgName": "Seeking Alpha",
-    "headline": "Palladyne AI: Autonomy And The 'Relentless Wolfpack' (NASDAQ:PDYN)",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQOVJsa1J3blo1S2R6Qm9NT21EMFEzdUpVS3BENXN5YVZ3UGotcFRFRlBGVEJzZXhsVkMxTDZTZUFmemM0NUZBTWRlS3d2cjJsT3R3blNzbi04SzdRUkZVazFTN21Zb0VRajFybkFjVEtiaUlGbUlIVGFWaHNDZnRCTjlkTXlxekVZUDJiVVBCODFCSTBFWlFCRWYwOGk?oc=5\" target=\"_blank\">Palladyne AI:…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOVJsa1J3blo1S2R6Qm9NT21EMFEzdUpVS3BENXN5YVZ3UGotcFRFRlBGVEJzZXhsVkMxTDZTZUFmemM0NUZBTWRlS3d2cjJsT3R3blNzbi04SzdRUkZVazFTN21Zb0VRajFybkFjVEtiaUlGbUlIVGFWaHNDZnRCTjlkTXlxekVZUDJiVVBCODFCSTBFWlFCRWYwOGk?oc=5",
-    "sourceName": "Seeking Alpha",
-    "sourceType": "press",
-    "themes": [
-      "autonomy"
-    ],
-    "region": null
-  },
-  {
     "id": "61a6090cd959",
     "date": "2026-05-28",
     "org": "unmapped",
@@ -3169,21 +2530,6 @@
     "region": null
   },
   {
-    "id": "2496ea0e66c3",
-    "date": "2026-05-28",
-    "org": "unmapped",
-    "orgName": "Военное дело",
-    "headline": "Ukraine’s AI Drone Swarms May Threaten Russia Soon",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPMWNfQjljNE82eWVybDVKTW54alR1LTZnS3VENXRIUVVFWnp4MTJrQjVRLXBpWm9VbHBROU93Y2xxOXJDNUxMVkRkV0F4VVl0eVFHMlp1Sk1sT3B4QkRHWlpNVDc0YWVRcThsOHBzc3JsemRKVjdJdkNiZkltLUdETkxLOG5WUnhwN0dtUzVuc1lGYXhiV3fSAZoBQVVfeXFMTUVwdDNPUjBCa2t4amVyMndtcDlIdVZ…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMWNfQjljNE82eWVybDVKTW54alR1LTZnS3VENXRIUVVFWnp4MTJrQjVRLXBpWm9VbHBROU93Y2xxOXJDNUxMVkRkV0F4VVl0eVFHMlp1Sk1sT3B4QkRHWlpNVDc0YWVRcThsOHBzc3JsemRKVjdJdkNiZkltLUdETkxLOG5WUnhwN0dtUzVuc1lGYXhiV3fSAZoBQVVfeXFMTUVwdDNPUjBCa2t4amVyMndtcDlIdVZacWpBZTVtQlZhanlkRkh3MEFuQzJzOThGRWZEZjVvZUh4MHJlRURjdFBnS0lMb3JmRnhqNmZia2s1VmZlWmVXZVZLU012c0F5cTRCV0xGY2h6NmduRFQ0cGd4c3VNMS0yWkVjSENRVG9GbHBmcU9LbkZvMW5sQTIwUnhMQQ?oc=5",
-    "sourceName": "Военное дело",
-    "sourceType": "press",
-    "themes": [
-      "autonomy"
-    ],
-    "region": null
-  },
-  {
     "id": "d97ef411782d",
     "date": "2026-05-28",
     "org": "unmapped",
@@ -3197,6 +2543,19 @@
       "genai",
       "c2"
     ],
+    "region": null
+  },
+  {
+    "id": "9674fabd6af0",
+    "date": "2026-05-28",
+    "org": "unmapped",
+    "orgName": "NBC 7 San Diego",
+    "headline": "Vance warns military grads against ‘submitting' to artificial intelligence",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOa2tONTcyZGl3aEZwNXRsWlRZdXpkYlc3WFpvbW5wcEJSNXk4Vnk0WkVvQ0tJWDNiVkhMcmNSZWJKX2trVVVvanVqSlpuUlhIbmRiRXFoTG91eWhEa1d4REliYlk4a2d5TDNQZS15d3dVT1lvWk4tRDVNSVh3VE5oSHlSSjNqU1dxMjk5MWUybEdIX0xxd2tKX1cyNWFTY2hHYWF5TjFrTzlVRXdVOU9n0gG3AUFVX3l…",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOa2tONTcyZGl3aEZwNXRsWlRZdXpkYlc3WFpvbW5wcEJSNXk4Vnk0WkVvQ0tJWDNiVkhMcmNSZWJKX2trVVVvanVqSlpuUlhIbmRiRXFoTG91eWhEa1d4REliYlk4a2d5TDNQZS15d3dVT1lvWk4tRDVNSVh3VE5oSHlSSjNqU1dxMjk5MWUybEdIX0xxd2tKX1cyNWFTY2hHYWF5TjFrTzlVRXdVOU9n0gG3AUFVX3lxTE5DMk1mUWs3emZkcUEwMVBnRlNaMU1OenlZMUhWVDZzekFPNVZwcDFJajNvNHVqNXNURFU5QlVIZ1JVRWFFeEFOcWRWbkhyRGJLcURoQ0tiTzAzdGpTUWY4WGtvV0FBSkdRMUUySmdWUmVHOGhRUDFrRHJwdnJjNElaM3hSb212emt3SS1TYTAwVjJaNF9wa1VpYkdjalFFQkpTUG1ydFI5MzBVTjZLWWF2eG1DdEx6WQ?oc=5",
+    "sourceName": "NBC 7 San Diego",
+    "sourceType": "press",
+    "themes": [],
     "region": null
   },
   {
@@ -3241,19 +2600,6 @@
     "region": null
   },
   {
-    "id": "9767ae2f9b17",
-    "date": "2026-05-27",
-    "org": "bae-systems",
-    "orgName": "BAE Systems",
-    "headline": "Aitech Supercharges its Space-Proven Rugged AI Systems with NVIDIA IGX Thor",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVWFka0JBQ1JYazBBbldjM09EMWRpSV9LaGc4OXpVRktYOFRvQlJ2NmFqVU96UFplR05GUUpxOVE2ekRvVFZaRFBlLVREaXE5dms5YzJDeklOTkRudC1iNnpXSXZwQ3RYazJIN190aG1qMm95UVZiTk8ya2FxeXMtX21Ja2ppYTRDQ2VtdGxweFB4STZhcE1NLXhMZjJQT3pHNUcxZUFiZGVzbC1Gb0o2VVk5cExSTkF…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVWFka0JBQ1JYazBBbldjM09EMWRpSV9LaGc4OXpVRktYOFRvQlJ2NmFqVU96UFplR05GUUpxOVE2ekRvVFZaRFBlLVREaXE5dms5YzJDeklOTkRudC1iNnpXSXZwQ3RYazJIN190aG1qMm95UVZiTk8ya2FxeXMtX21Ja2ppYTRDQ2VtdGxweFB4STZhcE1NLXhMZjJQT3pHNUcxZUFiZGVzbC1Gb0o2VVk5cExSTkFrdEJ2MGNxVDMzM3d4UERFeWsySE5FUzBT?oc=5",
-    "sourceName": "PR Newswire",
-    "sourceType": "press",
-    "themes": [],
-    "region": "UK"
-  },
-  {
     "id": "a5cdfeca83a1",
     "date": "2026-05-27",
     "org": "bae-systems",
@@ -3267,34 +2613,6 @@
       "data"
     ],
     "region": "UK"
-  },
-  {
-    "id": "9e9c6caf000f",
-    "date": "2026-05-27",
-    "org": "unmapped",
-    "orgName": "CTech",
-    "headline": "Elbit acquires Bluewhite as it deepens push into AI robotics",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5maFJVTXoxQVY1bGxvYmU3QnpTMHA4RWlpMEtFai16UWZ4eVhhajlpXzJRQ0p5cXFac2FxN1doa3BFc3dUR0tmQXFUX0IzbTZya08tMlhiR2dpVzJySVdYYlpodlllNHZj?oc=5\" target=\"_blank\">Elbit acquires Bluewhite as it deepens push into AI robotics</a>&nbsp;&nbsp;<font co…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5maFJVTXoxQVY1bGxvYmU3QnpTMHA4RWlpMEtFai16UWZ4eVhhajlpXzJRQ0p5cXFac2FxN1doa3BFc3dUR0tmQXFUX0IzbTZya08tMlhiR2dpVzJySVdYYlpodlllNHZj?oc=5",
-    "sourceName": "CTech",
-    "sourceType": "press",
-    "themes": [],
-    "region": null
-  },
-  {
-    "id": "4e401d15bd8d",
-    "date": "2026-05-27",
-    "org": "unmapped",
-    "orgName": "Globes - Israel Business News",
-    "headline": "Elbit Systems unit buys Israeli AI company - Globes",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQTWNlbjBrN0lKaVRRS0d3aXU1SE9hVEJHUUNfLVZSQ3hUOEM1cFhIQUx6NkNBVEVadjJxVUE4TFJ0RVFwcUpwbTI2MUhIeWs0U0NrUHFSVDNHUVYtUDBUbGkyRE5FZ1ZMMFJXSlVrMUctZ3EtWm5ETTMxaUwwRFFWLWRzZTlPSUd4Ni1xWmtpcVl6Zw?oc=5\" target=\"_blank\">Elbit Systems unit buys Is…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTWNlbjBrN0lKaVRRS0d3aXU1SE9hVEJHUUNfLVZSQ3hUOEM1cFhIQUx6NkNBVEVadjJxVUE4TFJ0RVFwcUpwbTI2MUhIeWs0U0NrUHFSVDNHUVYtUDBUbGkyRE5FZ1ZMMFJXSlVrMUctZ3EtWm5ETTMxaUwwRFFWLWRzZTlPSUd4Ni1xWmtpcVl6Zw?oc=5",
-    "sourceName": "Globes - Israel Business News",
-    "sourceType": "press",
-    "themes": [
-      "isr"
-    ],
-    "region": null
   },
   {
     "id": "2c040e3ca8dd",
@@ -3325,19 +2643,6 @@
     "region": "Europe"
   },
   {
-    "id": "b291b11f9195",
-    "date": "2026-05-27",
-    "org": "unmapped",
-    "orgName": "Federal News Network",
-    "headline": "House NDAA would set up protected disclosure program for AI incidents",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQRWphRkZoRXNPcWVIT2Rya3dHenFuSmxqVDhEOU1tYWM0X0NUX2VJeVhGRzh3cnRRdS1XLTJxY0dYQ3lmZFpna3ZRMW9GdFBvdUN1TWFyTXN2X2picmFZdVpXRHNIbDZnZXh3cHB5S2xLMjBfOHc2SzhxcTBQa0RfWU5fWElKVGhtcDJCZ0JyZWs5VXlVMm5rRE9YVzdQYWU3dEluNmg0bHFFVlpzVDhFVUVVSzRJdUM…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRWphRkZoRXNPcWVIT2Rya3dHenFuSmxqVDhEOU1tYWM0X0NUX2VJeVhGRzh3cnRRdS1XLTJxY0dYQ3lmZFpna3ZRMW9GdFBvdUN1TWFyTXN2X2picmFZdVpXRHNIbDZnZXh3cHB5S2xLMjBfOHc2SzhxcTBQa0RfWU5fWElKVGhtcDJCZ0JyZWs5VXlVMm5rRE9YVzdQYWU3dEluNmg0bHFFVlpzVDhFVUVVSzRJdUMtRzBTNWtuMmlOeG9ZSlZQdmJqM2s2UQ?oc=5",
-    "sourceName": "Federal News Network",
-    "sourceType": "press",
-    "themes": [],
-    "region": null
-  },
-  {
     "id": "cf18bf191377",
     "date": "2026-05-27",
     "org": "unmapped",
@@ -3350,34 +2655,6 @@
     "themes": [
       "autonomy"
     ],
-    "region": null
-  },
-  {
-    "id": "7538c01f71d9",
-    "date": "2026-05-27",
-    "org": "unmapped",
-    "orgName": "The Times of India",
-    "headline": "Swarm attack stopper: India's AI-powered anti-drone system with radar, jammers & hard-kill guns",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxOVHlUUXlSMzVVemp6Z3JhVlFkQkRkVEhRZUN3NWhhdk1UVTdzajZBNkJxRTRJUnBNdWZheUtUY3J5TF9HYlFnWi1fQktWYWdOVUdQMVlYd1NBN2dsWGpZMUcydGZDR3RIa0ctYWNXcFoydDlfemN0ejdDVVlENGlOX1RfNENnRkNRWWFza05BOW1JcV9GRldrbnFMeV9ENWZsWUtfbXZ6VlhZNEJIb2gwLVQ4aFFQeGJ…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOVHlUUXlSMzVVemp6Z3JhVlFkQkRkVEhRZUN3NWhhdk1UVTdzajZBNkJxRTRJUnBNdWZheUtUY3J5TF9HYlFnWi1fQktWYWdOVUdQMVlYd1NBN2dsWGpZMUcydGZDR3RIa0ctYWNXcFoydDlfemN0ejdDVVlENGlOX1RfNENnRkNRWWFza05BOW1JcV9GRldrbnFMeV9ENWZsWUtfbXZ6VlhZNEJIb2gwLVQ4aFFQeGJ1OEhGWDdmT1ZnckxERjFLT3NCc1NCODdYUC16Y2h6aFF4Y1dhcHRBRTljQVVST3RWRGMzRWhqUDJuZ9IB9wFBVV95cUxNSDR4SmlFUllNbVJucUxSbUlpRFF4VDdwX1AxcEpmUE9aQ1dLUEZ6dEk2amNZMk1YMFBEaHRPazhvbG1RS2VfSzhxMjJvbTFFbUZ0c19yVGVNZGpPR0VvUVNLV21JNVNxYVJDUzNaLWpUOUtvQXNERDVRV0EwR29MQ3lGTGNiSlNxcUg0NFNteTlOVUNNcnVtYmpnZGo0WS1fMXJhQUJkLUFodVJxWXFnS2EzZFlKTU85YVpDNkxqMGJocTBQY1VHRzRDRzdScmZOQVdSb0ZNMm9rSjBUZFdqcnFGcXpCaGVfTF9STnhGaklBd0w0NlM0?oc=5",
-    "sourceName": "The Times of India",
-    "sourceType": "press",
-    "themes": [
-      "ew"
-    ],
-    "region": null
-  },
-  {
-    "id": "887c4a880951",
-    "date": "2026-05-27",
-    "org": "unmapped",
-    "orgName": "Forbes",
-    "headline": "Ukrainian AI Drones Are Tearing Into Russian Logistics",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPU2hfWnNxZ1RzdWxNSVJqX243S1JDOC0tZlpHSU13MUdFWldfWGh4TVVXa1JkOVluU2QxcGNFQ2w3enhxSWtJM2hZUVpHSkdDS2VzWUVjOUtQNEw2TXRkcHBoTFV3ZGFNU1R4SGN1OHhyUVZ5UHdRbEZaQUtsOVdiczlyQzB3YUdJNnR2WXFlQVpmU2dBYzJZS1dTS2hRQTZvaWkteXdqclJkRFR6X29XQQ?oc=5\" ta…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPU2hfWnNxZ1RzdWxNSVJqX243S1JDOC0tZlpHSU13MUdFWldfWGh4TVVXa1JkOVluU2QxcGNFQ2w3enhxSWtJM2hZUVpHSkdDS2VzWUVjOUtQNEw2TXRkcHBoTFV3ZGFNU1R4SGN1OHhyUVZ5UHdRbEZaQUtsOVdiczlyQzB3YUdJNnR2WXFlQVpmU2dBYzJZS1dTS2hRQTZvaWkteXdqclJkRFR6X29XQQ?oc=5",
-    "sourceName": "Forbes",
-    "sourceType": "press",
-    "themes": [],
     "region": null
   },
   {
@@ -3435,19 +2712,6 @@
     "region": null
   },
   {
-    "id": "c2be7a6dd061",
-    "date": "2026-05-26",
-    "org": "bae-systems",
-    "orgName": "BAE Systems",
-    "headline": "Aerospace Artificial Intelligence Market Drivers 2026-2030: Regional Outlook and Sizing Analysis",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPSDdvVWJjZFVCZnB0enZMSFhxTExCWnZvVjVUU0VwOE1YeWE4RWotT1hEVmV1UHFNUlJKXzhUWHdoeDQ4YTZpZ1ZYbDJRdlJiNHVzUGhrcFppVHd1UHZFS29QMlZKVHFMQk9Oc29LQlBUbG1TWlRMRFloV0VIU0tVRFFNZHFJbUZBc3liamlBQUFaM2JiQkdQSFlB?oc=5\" target=\"_blank\">Aerospace Artifi…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSDdvVWJjZFVCZnB0enZMSFhxTExCWnZvVjVUU0VwOE1YeWE4RWotT1hEVmV1UHFNUlJKXzhUWHdoeDQ4YTZpZ1ZYbDJRdlJiNHVzUGhrcFppVHd1UHZFS29QMlZKVHFMQk9Oc29LQlBUbG1TWlRMRFloV0VIU0tVRFFNZHFJbUZBc3liamlBQUFaM2JiQkdQSFlB?oc=5",
-    "sourceName": "openPR.com",
-    "sourceType": "press",
-    "themes": [],
-    "region": "UK"
-  },
-  {
     "id": "288df1e153fb",
     "date": "2026-05-26",
     "org": "unmapped",
@@ -3458,21 +2722,6 @@
     "sourceName": "The Verge",
     "sourceType": "press",
     "themes": [],
-    "region": null
-  },
-  {
-    "id": "6d4d20a12292",
-    "date": "2026-05-26",
-    "org": "unmapped",
-    "orgName": "Let's Data Science",
-    "headline": "Anthropic and Pentagon Clash Over Military AI Use",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQbnhFUjFMRFJ3bEFxWGZ2eUkyZV9HNnRybHZhQmVCcXRlT3l5NzdJYWhELTROUE82bGl6YWZxZENPVW11OERZQnpEOGlBWkcyd2RzWFJDaFd5c1dZU2RrMnNqU011amhRVkRqVmlTYTVqeW5UQl83QkFPQTVrdC05c3lCZDVXZGlNS2tmbk5BR2ZkMkt3YlE?oc=5\" target=\"_blank\">Anthropic and Pentago…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbnhFUjFMRFJ3bEFxWGZ2eUkyZV9HNnRybHZhQmVCcXRlT3l5NzdJYWhELTROUE82bGl6YWZxZENPVW11OERZQnpEOGlBWkcyd2RzWFJDaFd5c1dZU2RrMnNqU011amhRVkRqVmlTYTVqeW5UQl83QkFPQTVrdC05c3lCZDVXZGlNS2tmbk5BR2ZkMkt3YlE?oc=5",
-    "sourceName": "Let's Data Science",
-    "sourceType": "press",
-    "themes": [
-      "data"
-    ],
     "region": null
   },
   {
@@ -3500,19 +2749,6 @@
     "sourceType": "press",
     "themes": [],
     "region": null
-  },
-  {
-    "id": "081eed98d169",
-    "date": "2026-05-26",
-    "org": "bae-systems",
-    "orgName": "BAE Systems",
-    "headline": "Artificial Intelligence (AI)-Based Cognitive Electronic",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxONDdhcjBuT19TaGpJWS1oTDMwOWxFYUlULVJoT2pEdXBndTloTkF6SGlqVzJnaXFyU05NTHZuTDVpX2FRN0RQV1JQd09OeWdXRGRhSTl5OGJmMnY3dXdpeW9PY194eGdXd1dPbkdueWVuamR2LVVDd0pKLUZyc2U5aFpXWVViUXE2U19wNVcwdENMZjg?oc=5\" target=\"_blank\">Artificial Intelligence (…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONDdhcjBuT19TaGpJWS1oTDMwOWxFYUlULVJoT2pEdXBndTloTkF6SGlqVzJnaXFyU05NTHZuTDVpX2FRN0RQV1JQd09OeWdXRGRhSTl5OGJmMnY3dXdpeW9PY194eGdXd1dPbkdueWVuamR2LVVDd0pKLUZyc2U5aFpXWVViUXE2U19wNVcwdENMZjg?oc=5",
-    "sourceName": "openPR.com",
-    "sourceType": "press",
-    "themes": [],
-    "region": "UK"
   },
   {
     "id": "b06c3293b8c7",
@@ -3556,17 +2792,19 @@
     "region": null
   },
   {
-    "id": "04fd7eb298f6",
+    "id": "6f3957641664",
     "date": "2026-05-26",
-    "org": "unmapped",
-    "orgName": "The Globe and Mail",
-    "headline": "Draganfly vs. EHang: Which Drone Stock Looks More Attractive Now?",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxPcGJha0xqSkhMMFZkTUJrMDVScThySmc1N29rbmJZaEtpYk1jTlFpM040aEMydXFBQzdBLWtoaUo2UDFaeGVtT0VkWTBNN3I2aHZGN1RwbVRqcVd4ZHlkMnBVVWRSRWwxNkNPc1lCOHAxOG5CME5XVVZoRnJIZHhHc0Q2Sm1IZVFlT3Q2aU5BVUg0X01VUVN4NWJWbk9aOXFaTUhTVDJzNHp1bXRaTW9iWEprd3k2b1J…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPcGJha0xqSkhMMFZkTUJrMDVScThySmc1N29rbmJZaEtpYk1jTlFpM040aEMydXFBQzdBLWtoaUo2UDFaeGVtT0VkWTBNN3I2aHZGN1RwbVRqcVd4ZHlkMnBVVWRSRWwxNkNPc1lCOHAxOG5CME5XVVZoRnJIZHhHc0Q2Sm1IZVFlT3Q2aU5BVUg0X01VUVN4NWJWbk9aOXFaTUhTVDJzNHp1bXRaTW9iWEprd3k2b1JicGw3b1RBcTJudjJ0clNzYVhYMkVqbDhRam1zaUlUcTd0VGpFSDM2MA?oc=5",
-    "sourceName": "The Globe and Mail",
+    "org": "eda",
+    "orgName": "European Defence Agency",
+    "headline": "EU Defence Series: European Autonomy in Orbit",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBhUTNSZVB6X2g2UGNLeVRaZEZ1U1NIVmt0d092ci1zSjdIMkdmMG9rWnJMSWpQaFFHZ1pQbHZQNWlrSWRzOXk5ZXAyUUxuc3RLU1Y4eVJUMGxBd19mcmI3cDJsTFBnNzlua1hYNFZGYU00UQ?oc=5\" target=\"_blank\">EU Defence Series: European Autonomy in Orbit</a>&nbsp;&nbsp;<font col…",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMickFVX3lxTFBhUTNSZVB6X2g2UGNLeVRaZEZ1U1NIVmt0d092ci1zSjdIMkdmMG9rWnJMSWpQaFFHZ1pQbHZQNWlrSWRzOXk5ZXAyUUxuc3RLU1Y4eVJUMGxBd19mcmI3cDJsTFBnNzlua1hYNFZGYU00UQ?oc=5",
+    "sourceName": "International Centre for Defence and Security",
     "sourceType": "press",
-    "themes": [],
-    "region": null
+    "themes": [
+      "autonomy"
+    ],
+    "region": "Europe"
   },
   {
     "id": "8f1703756c5b",
@@ -3627,19 +2865,6 @@
     "region": null
   },
   {
-    "id": "0e1ff945af54",
-    "date": "2026-05-26",
-    "org": "unmapped",
-    "orgName": "Taiwan News",
-    "headline": "Taiwan’s Thunder Tiger teams up with Elan Microelectronics on drone tech",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE9wLVNzUGxTSFhTRlQ3Vi1zOERVWXJPT2R4cnpxa3htV0NBWlBiVmZPdGlwT2d6Y2Vza1o3TFJwRXJXQVRsUE4wZURnbXZtTi1RWWlCTA?oc=5\" target=\"_blank\">Taiwan’s Thunder Tiger teams up with Elan Microelectronics on drone tech</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9wLVNzUGxTSFhTRlQ3Vi1zOERVWXJPT2R4cnpxa3htV0NBWlBiVmZPdGlwT2d6Y2Vza1o3TFJwRXJXQVRsUE4wZURnbXZtTi1RWWlCTA?oc=5",
-    "sourceName": "Taiwan News",
-    "sourceType": "press",
-    "themes": [],
-    "region": null
-  },
-  {
     "id": "c0424434ff7d",
     "date": "2026-05-26",
     "org": "unmapped",
@@ -3695,17 +2920,17 @@
     "region": "US"
   },
   {
-    "id": "fe04c81ce331",
+    "id": "6c19645e8b5d",
     "date": "2026-05-25",
-    "org": "unmapped",
-    "orgName": "Crikey",
-    "headline": "Australia’s AI war machine is being built in the shadows",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQMUFZbDZXY1h2RUpxdXZRVzdaWVZxcmtoSlVPdFlBZnlMZEcwS0lWcWlLUFlsanI1eV93SkFMQUJHZGFmVXFvUUhaQ3c1MHE3Q1BHUHJQUEVmeFZULTVqejdKTTVNX2VKVDVHM1A3TWJOdS1VM1FHMF9zckZEWmlmd2lOS1pUemg3WWZ0a25XWGRqTUtrLWVqWVcxWVJSOUhfY0JkWmE3ZXJYZ3ZVU1BjaA?oc=5\" ta…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMUFZbDZXY1h2RUpxdXZRVzdaWVZxcmtoSlVPdFlBZnlMZEcwS0lWcWlLUFlsanI1eV93SkFMQUJHZGFmVXFvUUhaQ3c1MHE3Q1BHUHJQUEVmeFZULTVqejdKTTVNX2VKVDVHM1A3TWJOdS1VM1FHMF9zckZEWmlmd2lOS1pUemg3WWZ0a25XWGRqTUtrLWVqWVcxWVJSOUhfY0JkWmE3ZXJYZ3ZVU1BjaA?oc=5",
-    "sourceName": "Crikey",
+    "org": "eda",
+    "orgName": "European Defence Agency",
+    "headline": "How Readiness 2030 Revived Defence Investment",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNN2V1X1NuOUZsenNfMm9XSWRtTXVvdjNadFMxb0dleWxHQ2JuWmZXOEY5aUdHNlI5MlY1dXhlZnY1ei1MbTBUM3h4aUtYSXBJcTdkLVZfNlowTHoxZF9zVFNRVEVXM2VnV0wxV3p3N2JmS1ZmOEtOU2RvT19mUXh1YXdvRDk?oc=5\" target=\"_blank\">How Readiness 2030 Revived Defence Investment…",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNN2V1X1NuOUZsenNfMm9XSWRtTXVvdjNadFMxb0dleWxHQ2JuWmZXOEY5aUdHNlI5MlY1dXhlZnY1ei1MbTBUM3h4aUtYSXBJcTdkLVZfNlowTHoxZF9zVFNRVEVXM2VnV0wxV3p3N2JmS1ZmOEtOU2RvT19mUXh1YXdvRDk?oc=5",
+    "sourceName": "DroneShield",
     "sourceType": "press",
     "themes": [],
-    "region": null
+    "region": "Europe"
   },
   {
     "id": "e615b40971ff",
@@ -3738,19 +2963,6 @@
     "region": null
   },
   {
-    "id": "5cba5b0f97f2",
-    "date": "2026-05-25",
-    "org": "uk-mod",
-    "orgName": "UK MoD / Defence AI Centre",
-    "headline": "Met officer suspended after AI 'finds sexual content on work phone'",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQMW84MWRUWUhBTkgybm1QdjJHb0NPY0VWdWFUajRKeUZoS01wTk1rSE9paGZDRnhTQ3ViUmJBbEt4eVdfQ2xaS2NCdGY4cGxoTE84amRIWjhHeGtyTmJPbHAwZnlVSTVLdFdrbkJZeUxBTW50Z0lNRlR0YUl0ZFlTbVphdFhhV0E2Y2V0a0JnWkJhNzdJRGhtV3NrOVpjMzBUYk9vaU1kWW1WRkQ2SGQyUU1xNVJqZw?…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMW84MWRUWUhBTkgybm1QdjJHb0NPY0VWdWFUajRKeUZoS01wTk1rSE9paGZDRnhTQ3ViUmJBbEt4eVdfQ2xaS2NCdGY4cGxoTE84amRIWjhHeGtyTmJPbHAwZnlVSTVLdFdrbkJZeUxBTW50Z0lNRlR0YUl0ZFlTbVphdFhhV0E2Y2V0a0JnWkJhNzdJRGhtV3NrOVpjMzBUYk9vaU1kWW1WRkQ2SGQyUU1xNVJqZw?oc=5",
-    "sourceName": "London Evening Standard",
-    "sourceType": "press",
-    "themes": [],
-    "region": "UK"
-  },
-  {
     "id": "4d8e09abd8f1",
     "date": "2026-05-25",
     "org": "unmapped",
@@ -3766,17 +2978,17 @@
     "region": null
   },
   {
-    "id": "09a985f5e8f5",
+    "id": "ab71d9178ea1",
     "date": "2026-05-25",
-    "org": "palantir",
-    "orgName": "Palantir",
-    "headline": "Palantir turns a London police setback into a public test of AI procurement",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQV3J0S0IwUWQwTEx5dWNDczVkNXlybVl0ZXNpS0pvSUFuRnlvbFF0NlBydHg3dmo0TjhadUgyelhuN1RlQkdWQ0RfU3QxLVhMUFluLWlSR0V6X190QlRrem1FOTFaSGh5X0ZqMEN4WjljcHRabElYS21DY3hrS0Z6LWpTXzVpNXJoTlVaVXpXTXlQWnFlR0lVd0oyU1R4eDYxX3hxT3B3?oc=5\" target=\"_blank\">…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQV3J0S0IwUWQwTEx5dWNDczVkNXlybVl0ZXNpS0pvSUFuRnlvbFF0NlBydHg3dmo0TjhadUgyelhuN1RlQkdWQ0RfU3QxLVhMUFluLWlSR0V6X190QlRrem1FOTFaSGh5X0ZqMEN4WjljcHRabElYS21DY3hrS0Z6LWpTXzVpNXJoTlVaVXpXTXlQWnFlR0lVd0oyU1R4eDYxX3hxT3B3?oc=5",
-    "sourceName": "Startup Fortune",
+    "org": "unmapped",
+    "orgName": "The Fast Mode",
+    "headline": "SKT to Develop Defense-Specific AI Models Under New Sovereign AI Agreement with MND",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUkFBQXViYmtXdkc3WEN6YUJWOVhfX2VEemstSHVPdHJrWmtESTc2WE1xaWRrQzByUjdhQVY3Q3JneUg1YXl1a1lxZXpoMW1SN2oyZjJnU1JjVklEdzdnbkhfUUJoeVJGRU50WGpYeEJUTDNqel9WN1NmZ3VWSUQ1MlZKZFBMRngwWWEzcl9pUmR0YWdySHp6ZXdOZm1wbVJkc2RkZDJYRVVJSXpkOVAxSnNUX0duNkp…",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUkFBQXViYmtXdkc3WEN6YUJWOVhfX2VEemstSHVPdHJrWmtESTc2WE1xaWRrQzByUjdhQVY3Q3JneUg1YXl1a1lxZXpoMW1SN2oyZjJnU1JjVklEdzdnbkhfUUJoeVJGRU50WGpYeEJUTDNqel9WN1NmZ3VWSUQ1MlZKZFBMRngwWWEzcl9pUmR0YWdySHp6ZXdOZm1wbVJkc2RkZDJYRVVJSXpkOVAxSnNUX0duNkpoUnhkX0Z4S05UV0NOWXFiNk1VQ0NuNkhLWVp5SA?oc=5",
+    "sourceName": "The Fast Mode",
     "sourceType": "press",
     "themes": [],
-    "region": "US"
+    "region": null
   },
   {
     "id": "0fcaff1a868a",
@@ -3823,19 +3035,6 @@
     "region": null
   },
   {
-    "id": "e46f457c987a",
-    "date": "2026-05-24",
-    "org": "helsing",
-    "orgName": "Helsing",
-    "headline": "OHB’s KIRK AI Space Venture Ignites a Volatile Week as Record Orders and Profit-Taking Battle",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOODV6QXFkcDFvVm9hdFdWNUplYldUcUJxNllURjh4dnhtS1MxWVNiVjlqOU9vZ2xuQTh1OUhQbktpRGpUMjNxOHcxQl9OT3F3enVRN29ReFJ1ZzJwY2VTdXpDQ0d4NkNfS09GTjhTQjBoSVZteFU2WjdXQUdZYlpISmRzUWpWYjlJb3dpZk1haGJoanFIRmkyZDN3b3ItdktRNGM4ZFFSQWFIOEhHY0NZNUxjeEg0MHc…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOODV6QXFkcDFvVm9hdFdWNUplYldUcUJxNllURjh4dnhtS1MxWVNiVjlqOU9vZ2xuQTh1OUhQbktpRGpUMjNxOHcxQl9OT3F3enVRN29ReFJ1ZzJwY2VTdXpDQ0d4NkNfS09GTjhTQjBoSVZteFU2WjdXQUdZYlpISmRzUWpWYjlJb3dpZk1haGJoanFIRmkyZDN3b3ItdktRNGM4ZFFSQWFIOEhHY0NZNUxjeEg0MHc4eHZqWEE5M0RsYUdJTGFmM24wQQ?oc=5",
-    "sourceName": "AD HOC NEWS",
-    "sourceType": "press",
-    "themes": [],
-    "region": "Europe"
-  },
-  {
     "id": "71545f7e252d",
     "date": "2026-05-24",
     "org": "unmapped",
@@ -3860,58 +3059,6 @@
     "sourceType": "press",
     "themes": [],
     "region": null
-  },
-  {
-    "id": "09476e3ba1ab",
-    "date": "2026-05-24",
-    "org": "unmapped",
-    "orgName": "Defense One — Technology",
-    "headline": "Smaller, easier, smarter: what special operators want from AI",
-    "summary": "AI agents are coming to a special operations mission near you—if they can fit in the pack.",
-    "sourceUrl": "https://www.defenseone.com/technology/2026/05/smaller-easier-smarter-what-special-operations-forces-need-ai-now/413748/",
-    "sourceName": "Defense One — Technology",
-    "sourceType": "press",
-    "themes": [],
-    "region": "US"
-  },
-  {
-    "id": "5ef829af4756",
-    "date": "2026-05-24",
-    "org": "bae-systems",
-    "orgName": "BAE Systems",
-    "headline": "South Korea urges fairer sharing of AI gains",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFA4S0o5OXpvazFBTWF4WlM2OXZZaXBtQ29lNVg0QTdkSUV4Y1I0QTVXaE8zemVXT3E2Z24xU01NeV9mUFlLblYzQjU5MlJsNHhLVnltTGI2amN1UUcwTHZsSVdxeFl6LTlQZUxmSFRpc05GOUFjVGRKOXB5RE8?oc=5\" target=\"_blank\">South Korea urges fairer sharing of AI gains</a>&nbsp;&nb…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA4S0o5OXpvazFBTWF4WlM2OXZZaXBtQ29lNVg0QTdkSUV4Y1I0QTVXaE8zemVXT3E2Z24xU01NeV9mUFlLblYzQjU5MlJsNHhLVnltTGI2amN1UUcwTHZsSVdxeFl6LTlQZUxmSFRpc05GOUFjVGRKOXB5RE8?oc=5",
-    "sourceName": "b2bnews.co.nz",
-    "sourceType": "press",
-    "themes": [],
-    "region": "UK"
-  },
-  {
-    "id": "7e49acfbc89a",
-    "date": "2026-05-23",
-    "org": "bae-systems",
-    "orgName": "BAE Systems",
-    "headline": "AI wealth must benefit the public, South Korea's deputy PM says amid Samsung labor tensions",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNLVlVWFBma3Y4NDNFeEpqbkQzWXRMM2dLMzQ3WmNWOGtMQmpsV2dMNU43ak5CLTVPT3hpekh3T2JEZXdxV2QteUJTU0hBT3BoSnU1dU1lZjlvUjdWR3dGYzN0UlFBZmlJbW53YU9ZeHJ4M2tuRnotY21EbFRwVF8ybDk2UnF4R2daU2pHVmE3RDZtUGlSRjM1eHZ0RVR5bkXSAaQBQVVfeXFMTmRicTNLX1JHaFl1LVV…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNLVlVWFBma3Y4NDNFeEpqbkQzWXRMM2dLMzQ3WmNWOGtMQmpsV2dMNU43ak5CLTVPT3hpekh3T2JEZXdxV2QteUJTU0hBT3BoSnU1dU1lZjlvUjdWR3dGYzN0UlFBZmlJbW53YU9ZeHJ4M2tuRnotY21EbFRwVF8ybDk2UnF4R2daU2pHVmE3RDZtUGlSRjM1eHZ0RVR5bkXSAaQBQVVfeXFMTmRicTNLX1JHaFl1LVVpOTRGeWNLZ19oUXRCOWRwQm1fdTFzbndHRnd6dE1mRkJMTkxVVURZZWlTbnpmQzlMZ2xIQm9VWXdwM0hHYU9sbU1lUmMzZGFrTjYxT3JidW9FSGZIM0wtMTExcGFjR3ZaeGpUc1VHcWQ0X0xrYlFaWFNVUW1pVWJhV0FFYi1NWmxLaUtVQ2RzLTFUell4eFE?oc=5",
-    "sourceName": "CNBC",
-    "sourceType": "press",
-    "themes": [],
-    "region": "UK"
-  },
-  {
-    "id": "b44d1b80552c",
-    "date": "2026-05-23",
-    "org": "darpa",
-    "orgName": "DARPA",
-    "headline": "Exclusive: Grok falls flat in Washington, undercutting SpaceX's AI growth story",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYkVBeG83TF9qcjAxRjBDQ3FLR25nNUxtLUFFMmI3S01nSm5obzhLS2FMTDA3MDZTeEpRdGg0TWlCOERydWI4RWlaZVJYRVM4YmN3TVEzRkFBbmtxa2NwWm9OT0xJVjJPQnl3NEZFZzRsOUdGUU13MGNLVFRqTXJZcW93dGk5SGZORExyNjJiX2s3V0tab3Zra21XbGdkaGFiUU9ydFZfaGg?oc=5\" target=\"_blan…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYkVBeG83TF9qcjAxRjBDQ3FLR25nNUxtLUFFMmI3S01nSm5obzhLS2FMTDA3MDZTeEpRdGg0TWlCOERydWI4RWlaZVJYRVM4YmN3TVEzRkFBbmtxa2NwWm9OT0xJVjJPQnl3NEZFZzRsOUdGUU13MGNLVFRqTXJZcW93dGk5SGZORExyNjJiX2s3V0tab3Zra21XbGdkaGFiUU9ydFZfaGg?oc=5",
-    "sourceName": "Reuters",
-    "sourceType": "press",
-    "themes": [],
-    "region": "US"
   },
   {
     "id": "ed275118d999",
@@ -3944,19 +3091,6 @@
     "region": null
   },
   {
-    "id": "8c80f48243ab",
-    "date": "2026-05-22",
-    "org": "bae-systems",
-    "orgName": "BAE Systems",
-    "headline": "Carahsoft Expands Federal Access to Scale AI Offerings",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPREdJS0VvZDFhV1p1bERaMFBuZjlKb0FLSm1naENEQ0p2TUlJYlBOWjNueXJCVkptUC05LVZEeDNSd2UyNHdTNUhKVjgwNktDMTFDbEs5X3Q5SThLcUNsRzVWc0Ytci1FSXQ5UkhfY1VXaFpyWUhFMU9vUjZMaklydFA1VWxyLWU0?oc=5\" target=\"_blank\">Carahsoft Expands Federal Access to Scal…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPREdJS0VvZDFhV1p1bERaMFBuZjlKb0FLSm1naENEQ0p2TUlJYlBOWjNueXJCVkptUC05LVZEeDNSd2UyNHdTNUhKVjgwNktDMTFDbEs5X3Q5SThLcUNsRzVWc0Ytci1FSXQ5UkhfY1VXaFpyWUhFMU9vUjZMaklydFA1VWxyLWU0?oc=5",
-    "sourceName": "ExecutiveBiz",
-    "sourceType": "press",
-    "themes": [],
-    "region": "UK"
-  },
-  {
     "id": "61128802bc3c",
     "date": "2026-05-22",
     "org": "unmapped",
@@ -3965,32 +3099,6 @@
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPRkpiNE15WVN3THpJZHBrVzBaZ2JhRkpDSUd3azQ1YzZwVlRjWkFiZ29nZkVHRFJOQmI3cUdlSVB4MUJXcFFuNnZIaXVoUS1IaF9YSWdmVHl5Vkd2WmxTdVdWQTdDa1U0NXVvWl91YmpBSDktcEo3WlEwaFJXcHBJOWJnbkNfY19tT283VUpGSkVuQ2tTWE9zcTBrSXNHUHJIbVBrVkJVelczd3hiWjljNXU1X3hfdFN…",
     "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRkpiNE15WVN3THpJZHBrVzBaZ2JhRkpDSUd3azQ1YzZwVlRjWkFiZ29nZkVHRFJOQmI3cUdlSVB4MUJXcFFuNnZIaXVoUS1IaF9YSWdmVHl5Vkd2WmxTdVdWQTdDa1U0NXVvWl91YmpBSDktcEo3WlEwaFJXcHBJOWJnbkNfY19tT283VUpGSkVuQ2tTWE9zcTBrSXNHUHJIbVBrVkJVelczd3hiWjljNXU1X3hfdFNXUFE3YkNjRQ?oc=5",
     "sourceName": "DefenseScoop",
-    "sourceType": "press",
-    "themes": [],
-    "region": null
-  },
-  {
-    "id": "467cd478f4a8",
-    "date": "2026-05-22",
-    "org": "unmapped",
-    "orgName": "Euractiv",
-    "headline": "MEPs push to set up permanent AI and robotics committee",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNd3dodV9PZXBqUEEtd05VcHVZMUc3aHVwbEdUMFVtVURreWN6eG1WZ1dKT2xacTBsZHZ4NnJ5QjZxcmp0LWc4OHNyMmFqWlJBN0MwRjA2amR5SGg5ZjNTeWF4Zm9MajJrYnNwS0RQa2Fod3N6akZ4dG1RWGo5U1l2alcxTDR6T2dVTTJnQnZZVQ?oc=5\" target=\"_blank\">MEPs push to set up permanent…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNd3dodV9PZXBqUEEtd05VcHVZMUc3aHVwbEdUMFVtVURreWN6eG1WZ1dKT2xacTBsZHZ4NnJ5QjZxcmp0LWc4OHNyMmFqWlJBN0MwRjA2amR5SGg5ZjNTeWF4Zm9MajJrYnNwS0RQa2Fod3N6akZ4dG1RWGo5U1l2alcxTDR6T2dVTTJnQnZZVQ?oc=5",
-    "sourceName": "Euractiv",
-    "sourceType": "press",
-    "themes": [],
-    "region": null
-  },
-  {
-    "id": "93ba7c29dc63",
-    "date": "2026-05-22",
-    "org": "unmapped",
-    "orgName": "CDO Magazine",
-    "headline": "Pentagon Expands GenAI.mil as AI Adoption Accelerates Across Military Operations",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOR2ZHUkdTd0pJR0hCZEgtRXdNdXNLeHEyak5BR2l3Y0lZbVFzLTdqSzB0N2pyUTQ1ZjBVVVlVMVlEZm5wZzR1WEF6WGsyU09PeTFEaGgxaG1PMHNpdUUzLUN6SG1GSkd1ODNVUVBNRV9NdnNSSmFBUGRrSFBlQWdma01VaXFyR0pZbFl6R194QUFTVk1MSUpWaTFTVXZuUlBEX094eTdzQ21iVWU0UEpQT1I5aUVqdS1…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOR2ZHUkdTd0pJR0hCZEgtRXdNdXNLeHEyak5BR2l3Y0lZbVFzLTdqSzB0N2pyUTQ1ZjBVVVlVMVlEZm5wZzR1WEF6WGsyU09PeTFEaGgxaG1PMHNpdUUzLUN6SG1GSkd1ODNVUVBNRV9NdnNSSmFBUGRrSFBlQWdma01VaXFyR0pZbFl6R194QUFTVk1MSUpWaTFTVXZuUlBEX094eTdzQ21iVWU0UEpQT1I5aUVqdS1YaHREb2pwRldsZGZwQzMyYkhfZUc?oc=5",
-    "sourceName": "CDO Magazine",
     "sourceType": "press",
     "themes": [],
     "region": null
@@ -4061,47 +3169,6 @@
     "region": null
   },
   {
-    "id": "197a782ae599",
-    "date": "2026-05-21",
-    "org": "unmapped",
-    "orgName": "Yahoo",
-    "headline": "IDF to develop AI battlefield operations with newest tech division, military announces",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxONUI0SXgxR2U3bDVkX3hQZ1U0OWQ1R2I4dTlGbzdDb1l3c0RuaDB2MTNpd1F2aEd5elJ1NFVtU1ZLTmR5cEU2VVdWUkoweGRPcXoySWtEZzFaRHVONHMyVFN3MzVYZExMeU5odS1FR2k4M0xmd2NXUTd0QjBlcXlQYlllMEZEUC1JY3dkZFJuQmM1ZV9RT2IzNVpn?oc=5\" target=\"_blank\">IDF to develop A…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONUI0SXgxR2U3bDVkX3hQZ1U0OWQ1R2I4dTlGbzdDb1l3c0RuaDB2MTNpd1F2aEd5elJ1NFVtU1ZLTmR5cEU2VVdWUkoweGRPcXoySWtEZzFaRHVONHMyVFN3MzVYZExMeU5odS1FR2k4M0xmd2NXUTd0QjBlcXlQYlllMEZEUC1JY3dkZFJuQmM1ZV9RT2IzNVpn?oc=5",
-    "sourceName": "Yahoo",
-    "sourceType": "press",
-    "themes": [
-      "genai"
-    ],
-    "region": null
-  },
-  {
-    "id": "2a47aec8b014",
-    "date": "2026-05-21",
-    "org": "palantir",
-    "orgName": "Palantir",
-    "headline": "Khan blocks Met Police AI deal with Palantir",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPTHB5YU51TlJiWXMtZHluSERUZW9XSHJpNTMwSVNra0dyVWhxT2otbXM3UFo0c1JhZ3hHOWdZZlNMbENQNnpiT2ZpN3AyZXdMaEdrSGwyMFhyZnR2aHhqSE91SW8tSi1rWTVWelFKSE9Vb1ZFRlEzRnliMkoydGhqUmhlRlhvMl9TVEtFdVlDTUZyc0k?oc=5\" target=\"_blank\">Khan blocks Met Police AI…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTHB5YU51TlJiWXMtZHluSERUZW9XSHJpNTMwSVNra0dyVWhxT2otbXM3UFo0c1JhZ3hHOWdZZlNMbENQNnpiT2ZpN3AyZXdMaEdrSGwyMFhyZnR2aHhqSE91SW8tSi1rWTVWelFKSE9Vb1ZFRlEzRnliMkoydGhqUmhlRlhvMl9TVEtFdVlDTUZyc0k?oc=5",
-    "sourceName": "The Telegraph",
-    "sourceType": "press",
-    "themes": [],
-    "region": "US"
-  },
-  {
-    "id": "cf1eb54122ce",
-    "date": "2026-05-21",
-    "org": "darpa",
-    "orgName": "DARPA",
-    "headline": "Microsoft's MDASH Uses 100+ AI Agents to Overcome Model Limitations",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdy1ybzFpbk1Md2JQMThRRDlFRW42d1l2dUczd2gyNmdCR0xSNDZOQ3VLb3FBNWdVZlJwUUlKNkQ4dHh2aGRBLTRQc0FYdXBYSEo4WFFOMGJTaDlHLVc4QjRrNFdMTHNtVXN5TTJHU2h1bmhCYlZhbnp2c1ByNG1seDZPOXVHNFFx?oc=5\" target=\"_blank\">Microsoft's MDASH Uses 100+ AI Agents to…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdy1ybzFpbk1Md2JQMThRRDlFRW42d1l2dUczd2gyNmdCR0xSNDZOQ3VLb3FBNWdVZlJwUUlKNkQ4dHh2aGRBLTRQc0FYdXBYSEo4WFFOMGJTaDlHLVc4QjRrNFdMTHNtVXN5TTJHU2h1bmhCYlZhbnp2c1ByNG1seDZPOXVHNFFx?oc=5",
-    "sourceName": "조선일보",
-    "sourceType": "press",
-    "themes": [],
-    "region": "US"
-  },
-  {
     "id": "858d0ddd8812",
     "date": "2026-05-21",
     "org": "unmapped",
@@ -4128,32 +3195,6 @@
     "region": null
   },
   {
-    "id": "4fe782853948",
-    "date": "2026-05-21",
-    "org": "helsing",
-    "orgName": "Helsing",
-    "headline": "OHB’s KIRK Gambit: Why an 11-Billion-Euro Market Cap Is Betting on Real-Time Space AI",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVE83am96bHNkem9mZ2Z4OTl5eHM3d2UzTEtxRXVPWUdQX1NLTDFldF9JU3hEMEpjTWlHMUFmdzYyVmxpYWJPV3M0bndzZlVZZ3BBZjNkamNfRC1IZ1ZxY0lZa0lfQktISE9EcnRfZTFJcG4yWkhGV181VXpPWHVINm0xSWFrTjRCaHlaQU1IdGwwTktjWURNX1Z0VURpWUY5YTh1clpBNW10MC1GUWlRTi1BLWNBSzl…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVE83am96bHNkem9mZ2Z4OTl5eHM3d2UzTEtxRXVPWUdQX1NLTDFldF9JU3hEMEpjTWlHMUFmdzYyVmxpYWJPV3M0bndzZlVZZ3BBZjNkamNfRC1IZ1ZxY0lZa0lfQktISE9EcnRfZTFJcG4yWkhGV181VXpPWHVINm0xSWFrTjRCaHlaQU1IdGwwTktjWURNX1Z0VURpWUY5YTh1clpBNW10MC1GUWlRTi1BLWNBSzlmWktxVWIzcmdGdw?oc=5",
-    "sourceName": "AD HOC NEWS",
-    "sourceType": "press",
-    "themes": [],
-    "region": "Europe"
-  },
-  {
-    "id": "1d1f7ecbf527",
-    "date": "2026-05-21",
-    "org": "helsing",
-    "orgName": "Helsing",
-    "headline": "OHB's Twin Engine: A Record Backlog Fuels a €1 Billion Share Sale While a New AI Venture Targets S",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPa1dhcDNmT05jN3NKZ2w5NjRJRjI1S0hvdWhCaUZRdzNPaUd0bTFVeDhBVkMtVV9Pczh2eElfLWx1dGRrT3V3OHhxSk4xMWZiV2FWVF9PdEZ3NWlDM3ZsYWZpRHI0YzNpRUtOcmRDTTgxdWhaUWZ5bExzcUVwVUJjVW9ydGFEcTZRZ0hibnExcFJyTlEzYWtHLVFCeDNsVGtJZ0doR0hNc2xGZnlLVjhYUEZQd05CaF9…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPa1dhcDNmT05jN3NKZ2w5NjRJRjI1S0hvdWhCaUZRdzNPaUd0bTFVeDhBVkMtVV9Pczh2eElfLWx1dGRrT3V3OHhxSk4xMWZiV2FWVF9PdEZ3NWlDM3ZsYWZpRHI0YzNpRUtOcmRDTTgxdWhaUWZ5bExzcUVwVUJjVW9ydGFEcTZRZ0hibnExcFJyTlEzYWtHLVFCeDNsVGtJZ0doR0hNc2xGZnlLVjhYUEZQd05CaF9Fa0F4Y1dzejluWHhSZVcw?oc=5",
-    "sourceName": "AD HOC NEWS",
-    "sourceType": "press",
-    "themes": [],
-    "region": "Europe"
-  },
-  {
     "id": "fa5192635c12",
     "date": "2026-05-21",
     "org": "unmapped",
@@ -4165,19 +3206,6 @@
     "sourceType": "press",
     "themes": [],
     "region": null
-  },
-  {
-    "id": "c03a66c35bff",
-    "date": "2026-05-21",
-    "org": "darpa",
-    "orgName": "DARPA",
-    "headline": "OpenSSF Notes Quarter of Growth with New Members, Added AI Security Resources, and Growing Community",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxPNUZSeV9JUmxCbUlYMjhIQU9HQ3FjWExDWnFuVGpxVXNmQ0Npdl9xQm5yZ2tNTjlnRzV0OWlmM2x2M192eUFvWXdVaTl2VmVkbDRiLThmRzlqc3ZCZ2kxOTVOeEJIM2RwcUxyNEJnYXBuNDVwYWVRTGVnVE9acXZpY0F4Vjd6bGxPOXpKaVhjZWtrY0FfeHV1aGgwa2JLbDk5RU5DMkJNaWFwUVVOTFlhdnVUU29fVlR…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPNUZSeV9JUmxCbUlYMjhIQU9HQ3FjWExDWnFuVGpxVXNmQ0Npdl9xQm5yZ2tNTjlnRzV0OWlmM2x2M192eUFvWXdVaTl2VmVkbDRiLThmRzlqc3ZCZ2kxOTVOeEJIM2RwcUxyNEJnYXBuNDVwYWVRTGVnVE9acXZpY0F4Vjd6bGxPOXpKaVhjZWtrY0FfeHV1aGgwa2JLbDk5RU5DMkJNaWFwUVVOTFlhdnVUU29fVlR4YVZqdF9Wa0RHX1A4RFJoVXQ5Um5WZVV4VHAyUXVTc0pxN2RhWW9NNk12V1ZFZno1RXc?oc=5",
-    "sourceName": "PR Newswire",
-    "sourceType": "press",
-    "themes": [],
-    "region": "US"
   },
   {
     "id": "8e278c157cd9",
@@ -4247,19 +3275,6 @@
     "region": "US"
   },
   {
-    "id": "601e52880f97",
-    "date": "2026-05-21",
-    "org": "unmapped",
-    "orgName": "Entrackr",
-    "headline": "Shastra VC launches $100 Mn fund for deeptech and AI startups",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNMU5yYVRHb1hsTDlRMVBnMmVBUEFmc1lVa0ZzMnNJU3lkS1pSNzBZaGpVcENLV3BSZXBIaVh2WWlhajM1dGJVWldoLUpkaWE0ZWpmRDdkckIyRVRvQzZnTUFUdFZVSUtWd01WM0ExREhkZHBJSE1GejNwemFYcEtkVV9vRXZOX0UyZm4xWl9CUU1MdlR1VXBkMGZCZVNuZmdm0gGgAUFVX3lxTE0xTnJhVEdvWGxMOVE…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMU5yYVRHb1hsTDlRMVBnMmVBUEFmc1lVa0ZzMnNJU3lkS1pSNzBZaGpVcENLV3BSZXBIaVh2WWlhajM1dGJVWldoLUpkaWE0ZWpmRDdkckIyRVRvQzZnTUFUdFZVSUtWd01WM0ExREhkZHBJSE1GejNwemFYcEtkVV9vRXZOX0UyZm4xWl9CUU1MdlR1VXBkMGZCZVNuZmdm0gGgAUFVX3lxTE0xTnJhVEdvWGxMOVExUGcyZUFQQWZzWVVrRnMyc0lTeWRLWlI3MFloalVwQ0tXcFJlcEhpWHZZaWFqMzV0YlVaV2gtSmRpYTRlamZEN2RyQjJFVG9DNmdNQVR0VlVJS1Z3TVYzQTFESGRkcElITUZ6M3B6YVhwS2RVX29Fdk5fRTJmbjFaX0JRTUx2VHVVcGQwZkJlU25mZ2Y?oc=5",
-    "sourceName": "Entrackr",
-    "sourceType": "press",
-    "themes": [],
-    "region": null
-  },
-  {
     "id": "a6305409e4c8",
     "date": "2026-05-21",
     "org": "unmapped",
@@ -4268,19 +3283,6 @@
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNcjdlbC1JRjRlb21vWHJqdlk2dVcwYm93OW01T1ZJWG5XOHJ0SExLZGwtaXVuT2NkdjBPd1BYcVFyQmpGdTc4U0Fxc0o0Vm1FZ1BLUmV1aEFDODd1ZW5IUkNUWkpjSGxIZlg3WjBkNlpPN3hLMlVzRDZ0Wmx5YU1vVl9vZXdQMWh3S0oxZHZLbjVoOUVRS1pTNE1OMnduWUVRalNmRG1BZkJqRUF1OGNnd1dha2ZfNmN…",
     "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcjdlbC1JRjRlb21vWHJqdlk2dVcwYm93OW01T1ZJWG5XOHJ0SExLZGwtaXVuT2NkdjBPd1BYcVFyQmpGdTc4U0Fxc0o0Vm1FZ1BLUmV1aEFDODd1ZW5IUkNUWkpjSGxIZlg3WjBkNlpPN3hLMlVzRDZ0Wmx5YU1vVl9vZXdQMWh3S0oxZHZLbjVoOUVRS1pTNE1OMnduWUVRalNmRG1BZkJqRUF1OGNnd1dha2ZfNmNfdHFIaWFzeTRnNjZNbGlv?oc=5",
     "sourceName": "Military Embedded Systems",
-    "sourceType": "press",
-    "themes": [],
-    "region": null
-  },
-  {
-    "id": "94e561a00251",
-    "date": "2026-05-21",
-    "org": "unmapped",
-    "orgName": "Haber Aero",
-    "headline": "The era of artificial intelligence begins in Pegasus operations.",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQVjFKR0g0Vkh3SFFtVWVoazg1dlc2dDgyODNkV09yR1NETEwwRmFaQjl0VkpYdXZfMkRkb0YxWVZ1VElFdVlZOUw4NUFWWndmaW83Q0dQTmpqTHVvTmFUbXA2LXBZSlJHNUROU0RBNkc0ZmRSbTg5MElkcE1BNXFZR3NMOVdFOF9RbFBGa0tzRDI5VUprSUZF?oc=5\" target=\"_blank\">The era of artificia…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVjFKR0g0Vkh3SFFtVWVoazg1dlc2dDgyODNkV09yR1NETEwwRmFaQjl0VkpYdXZfMkRkb0YxWVZ1VElFdVlZOUw4NUFWWndmaW83Q0dQTmpqTHVvTmFUbXA2LXBZSlJHNUROU0RBNkc0ZmRSbTg5MElkcE1BNXFZR3NMOVdFOF9RbFBGa0tzRDI5VUprSUZF?oc=5",
-    "sourceName": "Haber Aero",
     "sourceType": "press",
     "themes": [],
     "region": null
@@ -4327,32 +3329,6 @@
     "region": null
   },
   {
-    "id": "a52b3a260ef2",
-    "date": "2026-05-20",
-    "org": "unmapped",
-    "orgName": "U.S. News - Money",
-    "headline": "7 Best Drone Stocks to Buy in 2026 | Investing - U.S. News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1QekR5UE5HVWV6dUJFY3Jkbks5MWxKaEpGclVjUHBfbHpiellGSTRsUWgteFpMTlhFUEZvSHVJTUhOX1cwckRSeWF6Mkp1TXltR3I1NjFfNlJLZ3V1X2QyTWJyZ0JadndQVzdFUzgweFJrcGNYVWpr?oc=5\" target=\"_blank\">7 Best Drone Stocks to Buy in 2026 | Investing</a>&nbsp;&nbsp;<f…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1QekR5UE5HVWV6dUJFY3Jkbks5MWxKaEpGclVjUHBfbHpiellGSTRsUWgteFpMTlhFUEZvSHVJTUhOX1cwckRSeWF6Mkp1TXltR3I1NjFfNlJLZ3V1X2QyTWJyZ0JadndQVzdFUzgweFJrcGNYVWpr?oc=5",
-    "sourceName": "U.S. News - Money",
-    "sourceType": "press",
-    "themes": [],
-    "region": null
-  },
-  {
-    "id": "8157a11c5a74",
-    "date": "2026-05-20",
-    "org": "unmapped",
-    "orgName": "Stock Titan",
-    "headline": "AI drones help spot landmines: Safe Pro and Lantronix team up",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQX3p1V0xtVWhBUUoteEh2R2dGYWhiRG1DLWdYeklLb19nN3ZzZU9ZN0FmTlJzcnVfRy0wbjNOMGZuY2VqUUVBRlFUMlYwWUlXRVNFZ3haU2xNUjA5bHJzc2ptT2VhUTRtRWFsRXBPRm9nX3JmdXBjM1JNQWhtQVFkMXBQVmQxaGlxenNERHVsRk12VUM5VEhTWkJ0WmVQRHZFUTRDcnFwMmptUWVrZ0hUUFZuX01fSjl…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQX3p1V0xtVWhBUUoteEh2R2dGYWhiRG1DLWdYeklLb19nN3ZzZU9ZN0FmTlJzcnVfRy0wbjNOMGZuY2VqUUVBRlFUMlYwWUlXRVNFZ3haU2xNUjA5bHJzc2ptT2VhUTRtRWFsRXBPRm9nX3JmdXBjM1JNQWhtQVFkMXBQVmQxaGlxenNERHVsRk12VUM5VEhTWkJ0WmVQRHZFUTRDcnFwMmptUWVrZ0hUUFZuX01fSjlJSURn?oc=5",
-    "sourceName": "Stock Titan",
-    "sourceType": "press",
-    "themes": [],
-    "region": null
-  },
-  {
     "id": "d54b1f326025",
     "date": "2026-05-20",
     "org": "unmapped",
@@ -4379,19 +3355,6 @@
     "region": null
   },
   {
-    "id": "1786cc561112",
-    "date": "2026-05-20",
-    "org": "bae-systems",
-    "orgName": "BAE Systems",
-    "headline": "Britain’s Hidden AI Leaders Quietly Driving Market Change",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOTmFmSTJZNzhjVVhWMmJJZms4SlUxNV9kUlpWaU5La1c2dU95NzFnazIwVml1OHF3WmNCOV9OeEdvZUNlbTF3bHJhOGRhbjh6bzB1X2xuRjVicDRPTDhzVjl3ZGlmdm85Q2RoU3dLeEI2MUp2bVFrc0pRSnJfc2J0TTFUTWhUWnVkYmpDRHhNUjJ0aTRWVS1JRktLb0ZTcmpYVzBLb1JXZ2hkQ1FQUVNIQ3hUQllCZw?…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTmFmSTJZNzhjVVhWMmJJZms4SlUxNV9kUlpWaU5La1c2dU95NzFnazIwVml1OHF3WmNCOV9OeEdvZUNlbTF3bHJhOGRhbjh6bzB1X2xuRjVicDRPTDhzVjl3ZGlmdm85Q2RoU3dLeEI2MUp2bVFrc0pRSnJfc2J0TTFUTWhUWnVkYmpDRHhNUjJ0aTRWVS1JRktLb0ZTcmpYVzBLb1JXZ2hkQ1FQUVNIQ3hUQllCZw?oc=5",
-    "sourceName": "Kalkine Media",
-    "sourceType": "press",
-    "themes": [],
-    "region": "UK"
-  },
-  {
     "id": "aea75a10344d",
     "date": "2026-05-20",
     "org": "unmapped",
@@ -4407,18 +3370,16 @@
     "region": null
   },
   {
-    "id": "194962d6ed9f",
+    "id": "11ab07344bd2",
     "date": "2026-05-20",
     "org": "unmapped",
-    "orgName": "The Guardian",
-    "headline": "Google DeepMind in talks with UK unions amid staff concern over US and Israel’s AI use",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQakpZQ3d4Nm10Q2dpTHJKUmt0aEh3dFlJdHJGREh6c1hCMGxPaV8tWC11azBLUEFMVjN4YXRxcTRVMm50QUhzc0wxaXpqNkN5bWpBTXdPSTlfZDV6MGZ3LU5CZG9aRUU2QjQtc3JlNWNUOU1KNWVfRnpmcGlNdWZrdkVNOEJsNW1aaHZ6eDhSM19EVUh0QjNOd0pVYXJMc280LW5hc3R6QXZXaEE?oc=5\" target=\"_…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQakpZQ3d4Nm10Q2dpTHJKUmt0aEh3dFlJdHJGREh6c1hCMGxPaV8tWC11azBLUEFMVjN4YXRxcTRVMm50QUhzc0wxaXpqNkN5bWpBTXdPSTlfZDV6MGZ3LU5CZG9aRUU2QjQtc3JlNWNUOU1KNWVfRnpmcGlNdWZrdkVNOEJsNW1aaHZ6eDhSM19EVUh0QjNOd0pVYXJMc280LW5hc3R6QXZXaEE?oc=5",
-    "sourceName": "The Guardian",
+    "orgName": "MSN",
+    "headline": "Google expands Pentagon AI deal to classified use amid backlash",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQQ1VaNmdwT2dRalVJeXd6SUJVbzVyd2FNTUFBLTJJU2RFZVFQQ3A2NkdVY3FQUlE4d1B2RHJzbFFKUG9ONWtrQmVwc0Vhd1ZSRVJyRDFhY3JmWFVFNUdGYk5tbkVwVmdienlsS3ZxRWxhZ1Rma2dmQlhjeVZORkpLVFhRZVlsYW5wSWlMZ3ZIZW94OGY4Q1Z4OXUxRnFzNzZzZnh4X2VQd1dRalowM2ZCV0Z2NzFocVp…",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQ1VaNmdwT2dRalVJeXd6SUJVbzVyd2FNTUFBLTJJU2RFZVFQQ3A2NkdVY3FQUlE4d1B2RHJzbFFKUG9ONWtrQmVwc0Vhd1ZSRVJyRDFhY3JmWFVFNUdGYk5tbkVwVmdienlsS3ZxRWxhZ1Rma2dmQlhjeVZORkpLVFhRZVlsYW5wSWlMZ3ZIZW94OGY4Q1Z4OXUxRnFzNzZzZnh4X2VQd1dRalowM2ZCV0Z2NzFocVp6eV9vUGxoUUxXSXRuOEpqaDJR?oc=5",
+    "sourceName": "MSN",
     "sourceType": "press",
-    "themes": [
-      "isr"
-    ],
+    "themes": [],
     "region": null
   },
   {
@@ -4447,21 +3408,6 @@
     "sourceName": "Politico",
     "sourceType": "press",
     "themes": [],
-    "region": null
-  },
-  {
-    "id": "6c0323270ef2",
-    "date": "2026-05-20",
-    "org": "unmapped",
-    "orgName": "The Indian Express",
-    "headline": "OpenAI takes on AI cyber threats with Daybreak: Here’s what it means",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQU1ZUS0djS3ROUkJsOW9mUnFzNXVzZmdYTWFRdS0zdC1neUQ0VkZpeWJfeXEyN3lUUmJ0ckVwS1ZaUHJzQXFOdl9XdVZyR0d3UXg3d2Z3Qm9sWF9LYl9QajBVazVNMXlTTThRMDRnZEZxRzNWdkoybXMyNC0zdXlBc2ludE0zMVVidjVaek54MHdNaHVuZ0h5Y2FPdi00RVNMSHp3WVZqZjd2Yks2SWR5OEVOeHZSMTQ…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQU1ZUS0djS3ROUkJsOW9mUnFzNXVzZmdYTWFRdS0zdC1neUQ0VkZpeWJfeXEyN3lUUmJ0ckVwS1ZaUHJzQXFOdl9XdVZyR0d3UXg3d2Z3Qm9sWF9LYl9QajBVazVNMXlTTThRMDRnZEZxRzNWdkoybXMyNC0zdXlBc2ludE0zMVVidjVaek54MHdNaHVuZ0h5Y2FPdi00RVNMSHp3WVZqZjd2Yks2SWR5OEVOeHZSMTQ4SVFXc19Kekt0cVg3YzJB0gHOAUFVX3lxTFA5amJ6Z1BJMDFSNHV1OGVjNmFyajI0UUxMZUpNS1g3NXlBMlBZaHJnMkpaZFZVR1hvZGVvRURhUjMzdGJYcnl3NXVjTWxCMTJ2MnVZb0x3LTZTdGU1aW9OV3hYQVVuM2lqQjB3Q2xUT2V4d25VelFtVDVRY2E2aUxSb0ZtbUFna2ZEaDE0Zk9MSlNwb0RaeF9URmdnT19Nc2NCTHVpSm5qSnQyS2pVc0QxWW5XVlV2cEUzaDJTVk80NXlTX284M2pXblcydUF3?oc=5",
-    "sourceName": "The Indian Express",
-    "sourceType": "press",
-    "themes": [
-      "cyber"
-    ],
     "region": null
   },
   {
@@ -4545,86 +3491,6 @@
     "region": "US"
   },
   {
-    "id": "b392cffdfd29",
-    "date": "2026-05-19",
-    "org": "unmapped",
-    "orgName": "CNBC",
-    "headline": "49. Shield AI",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBYRjhjMnE3eGsteHgwbnNjdjl1Q1lmNHk0Yk9FZENWSmNEU1VLa3o1Y3I1LUFnQUxxeU5UNDZOZWM2QVhKUU9uN1E4eThCZmFqaTVnTzRrQ29pVVZCd2RKYU01YWtwQlIzNDdNdGxOU2I0aWtEdGZDV1NjS2HSAYIBQVVfeXFMTkhQUko3Ri1iQWVzdk1iX3F0V085WkdGVWdwNVd0dFpyZS1qUjQ0Y0Q5bEhYMENPMHR…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBYRjhjMnE3eGsteHgwbnNjdjl1Q1lmNHk0Yk9FZENWSmNEU1VLa3o1Y3I1LUFnQUxxeU5UNDZOZWM2QVhKUU9uN1E4eThCZmFqaTVnTzRrQ29pVVZCd2RKYU01YWtwQlIzNDdNdGxOU2I0aWtEdGZDV1NjS2HSAYIBQVVfeXFMTkhQUko3Ri1iQWVzdk1iX3F0V085WkdGVWdwNVd0dFpyZS1qUjQ0Y0Q5bEhYMENPMHRQNG9xNUhSUVFHTndheFJ3dktDUXZLZW9teTZfU3FzaUFud2pMOS1ncWFWTS0tTmtkQjJ2VnZwMFRnWnJ5VFlreUVZM0xOVzlZUQ?oc=5",
-    "sourceName": "CNBC",
-    "sourceType": "press",
-    "themes": [],
-    "region": null
-  },
-  {
-    "id": "16e91fcc56df",
-    "date": "2026-05-19",
-    "org": "unmapped",
-    "orgName": "Noahpinion",
-    "headline": "All non-drone militaries are obsolete",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5GTm5XV3ZHMzUwUzdHb0xJZDdsdkhQcDlTSU9vclZ3VjBhS1Y2cTc3THVXU3ZQaGVYc0VOa0RYeEVaZmNGNG12Z1J6b1VmbHFJVDFMOE5xVWtqX3kzV29lcDQ0clpwVGlvd3h1dE45VU5kak5rQ2c?oc=5\" target=\"_blank\">All non-drone militaries are obsolete</a>&nbsp;&nbsp;<font color=…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5GTm5XV3ZHMzUwUzdHb0xJZDdsdkhQcDlTSU9vclZ3VjBhS1Y2cTc3THVXU3ZQaGVYc0VOa0RYeEVaZmNGNG12Z1J6b1VmbHFJVDFMOE5xVWtqX3kzV29lcDQ0clpwVGlvd3h1dE45VU5kak5rQ2c?oc=5",
-    "sourceName": "Noahpinion",
-    "sourceType": "press",
-    "themes": [],
-    "region": null
-  },
-  {
-    "id": "d81a3869ca60",
-    "date": "2026-05-19",
-    "org": "darpa",
-    "orgName": "DARPA",
-    "headline": "Amentum Names Dr. Sam Nazari Chief AI Architect",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPcWk4dVhhQlE3cTMxUnFoVDZxeFF6NU5tY2JBaFBZY2YzenVhMXQ3aUJmUlNZMF9qeHZFV0dxTHlBN21Hd0lhYUpXVnlVRmV6Ym5wNDJWZzlzMm44dk44cnRFYjA3ZjR4Tlg5NGRGdlE3b3BIN1dqdEhBRjVpcmlnaFA5WjB2RU9BYXRxUUd1eWdsZnl1dTZpMk9GbU9odkNxekZfTXlTRQ?oc=5\" target=\"_blank…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcWk4dVhhQlE3cTMxUnFoVDZxeFF6NU5tY2JBaFBZY2YzenVhMXQ3aUJmUlNZMF9qeHZFV0dxTHlBN21Hd0lhYUpXVnlVRmV6Ym5wNDJWZzlzMm44dk44cnRFYjA3ZjR4Tlg5NGRGdlE3b3BIN1dqdEhBRjVpcmlnaFA5WjB2RU9BYXRxUUd1eWdsZnl1dTZpMk9GbU9odkNxekZfTXlTRQ?oc=5",
-    "sourceName": "Business Wire",
-    "sourceType": "press",
-    "themes": [],
-    "region": "US"
-  },
-  {
-    "id": "43b56cf5213c",
-    "date": "2026-05-19",
-    "org": "unmapped",
-    "orgName": "CNBC",
-    "headline": "Anthropic and Pentagon face off in court over blacklisting of AI company",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQalZ4dGNDM19pd0lERTU5TFprWklfUmlUa0kxZXpxaDk3Z1lLMVRJM1ZvWHl3S1RIN1JxbjJ3X1QycHNxVS1halRCRVMzM0xGV2pLdmNDbnRvUGIwSi1KSW04dUFyTG80LWdFaC0wUjZ4Z0ktZ1lwNGdqd3BIQTVXM3h4TDZ5bFFzNDFTbGtpRTZkYnduX2JIR2xzZXFtR0VYM2Y0Rk53bUFCN1FuZjBKaXI5dGtTdw?…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQalZ4dGNDM19pd0lERTU5TFprWklfUmlUa0kxZXpxaDk3Z1lLMVRJM1ZvWHl3S1RIN1JxbjJ3X1QycHNxVS1halRCRVMzM0xGV2pLdmNDbnRvUGIwSi1KSW04dUFyTG80LWdFaC0wUjZ4Z0ktZ1lwNGdqd3BIQTVXM3h4TDZ5bFFzNDFTbGtpRTZkYnduX2JIR2xzZXFtR0VYM2Y0Rk53bUFCN1FuZjBKaXI5dGtTdw?oc=5",
-    "sourceName": "CNBC",
-    "sourceType": "press",
-    "themes": [
-      "genai"
-    ],
-    "region": null
-  },
-  {
-    "id": "7ca3002fc3a4",
-    "date": "2026-05-19",
-    "org": "unmapped",
-    "orgName": "CNBC",
-    "headline": "Anthropic and U.S. government to face off in DC court over blacklisting of AI company",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPa1RvNFhEWGt0RFRjUnlGRlUtRDFTWmIzbWRtcDhxWlV6ZU1tVXQ3aEk2ZDkxOU9wdDg4OVBCSWtla2lKYjZHY05QVmExQTJQVUgwZ2NpZVdMdHpIeDd3VnY2YmN1Tm0xQ2tqVHFDd1dRaVZLaXRNeDdWN1RQLVdIbHJib0xYZXBOSWZledIBkgFBVV95cUxQakwzbmRrT0lheTNfV2dkdXFxUXVHMkpXWWJKTk9SRVR…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPa1RvNFhEWGt0RFRjUnlGRlUtRDFTWmIzbWRtcDhxWlV6ZU1tVXQ3aEk2ZDkxOU9wdDg4OVBCSWtla2lKYjZHY05QVmExQTJQVUgwZ2NpZVdMdHpIeDd3VnY2YmN1Tm0xQ2tqVHFDd1dRaVZLaXRNeDdWN1RQLVdIbHJib0xYZXBOSWZledIBkgFBVV95cUxQakwzbmRrT0lheTNfV2dkdXFxUXVHMkpXWWJKTk9SRVRXLVh1UWdPbUx6YjdmVHJPMWljZXJCMV9TRjdpWXd5ejE1U2NpcW9oMGZlWHM4d0xLekV6NVM2RWkwTE0wOTF6Q2lDYzdTSUswOFdCd19TZ0VNR0tYY2lJS21GX3FnLU1zRUhhSHdQNnJHdw?oc=5",
-    "sourceName": "CNBC",
-    "sourceType": "press",
-    "themes": [],
-    "region": null
-  },
-  {
-    "id": "af78e2a51a02",
-    "date": "2026-05-19",
-    "org": "unmapped",
-    "orgName": "CNBC",
-    "headline": "Anthropic, Pentagon face off in court over government blacklisting of AI company",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOUXFxWmNpcENWMDNIdkFTUGtWVWo2b0p3ZGg2cGJ5SkhveXZYNTJ5dFhlVFhwT0N2ZDd2bDFnV210SllGX2huUjZKU3B3by1oSVI4VzJteTliYTF3b1poM0FpN3I2ZmxKUnptQmxzZldMUFh4czlPaFU3Sl9DcnF1U19pOFppbUp5YzRYUVhQTklxeFhna0lHTURJNWpZMVBzdms0NkFZZnU2d2JzVUVvc3hpdnkzU2R…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUXFxWmNpcENWMDNIdkFTUGtWVWo2b0p3ZGg2cGJ5SkhveXZYNTJ5dFhlVFhwT0N2ZDd2bDFnV210SllGX2huUjZKU3B3by1oSVI4VzJteTliYTF3b1poM0FpN3I2ZmxKUnptQmxzZldMUFh4czlPaFU3Sl9DcnF1U19pOFppbUp5YzRYUVhQTklxeFhna0lHTURJNWpZMVBzdms0NkFZZnU2d2JzVUVvc3hpdnkzU2RlVkNiRnVOMA?oc=5",
-    "sourceName": "CNBC",
-    "sourceType": "press",
-    "themes": [],
-    "region": null
-  },
-  {
     "id": "d3ac02779125",
     "date": "2026-05-19",
     "org": "palantir",
@@ -4636,6 +3502,19 @@
     "sourceType": "press",
     "themes": [],
     "region": "US"
+  },
+  {
+    "id": "0827ea2a38f2",
+    "date": "2026-05-19",
+    "org": "unmapped",
+    "orgName": "Automotive News",
+    "headline": "Ford wants to supply military pickups; the dos and don’ts of retail AI contracts",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOb0xFM2pXMndwdlBnOEhtcTVTcG50SG9XWGpNMmlWWkl3YnFqb0x5VWpLY2t3X1lQZ1hlZ2I0d1lCanZHXy1xbGFzbFVLMVB3M25KVDJ0Z2xFZTRmbGVZSy1sdF9tTnJ0bTJuSzhiajV0VEg2Q0g5eUM1MDRFZ0VPRUdFUFJCY0hMcE1idXZoMDItQVJKY1ZzM18wbjkyU1I0MUE?oc=5\" target=\"_blank\">Ford…",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOb0xFM2pXMndwdlBnOEhtcTVTcG50SG9XWGpNMmlWWkl3YnFqb0x5VWpLY2t3X1lQZ1hlZ2I0d1lCanZHXy1xbGFzbFVLMVB3M25KVDJ0Z2xFZTRmbGVZSy1sdF9tTnJ0bTJuSzhiajV0VEg2Q0g5eUM1MDRFZ0VPRUdFUFJCY0hMcE1idXZoMDItQVJKY1ZzM18wbjkyU1I0MUE?oc=5",
+    "sourceName": "Automotive News",
+    "sourceType": "press",
+    "themes": [],
+    "region": null
   },
   {
     "id": "df9c8b446943",
@@ -4733,6 +3612,19 @@
     "region": null
   },
   {
+    "id": "4609dfe87cbb",
+    "date": "2026-05-19",
+    "org": "unmapped",
+    "orgName": "The Legal Advocate",
+    "headline": "Pentagon Selects Shield AI for Low-Cost Drone Program as Defense Needs Shift - EPS Growth Report",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQanBiRWV6R0dEOVVLWWY3QU5laU5GMS1XUEtBcm1HLU1Pemh5cTFjRG1qR3hzN1JIemwyeDFxVzlRNWprX0hyN2Mtc0hRZWc3cGZTWlhlSC1VczR2ZFV1eUNENGlFQTdGQ2gxcmlGNG5YanphNEVQbDFEek40WGd1WjNON1hCUUU2YXN6TWZzNU9HYTJPVWxzZDh5c21yNU1oMVJqdFVWTDh0VGxQWFM2anM0dmtVLWt…",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQanBiRWV6R0dEOVVLWWY3QU5laU5GMS1XUEtBcm1HLU1Pemh5cTFjRG1qR3hzN1JIemwyeDFxVzlRNWprX0hyN2Mtc0hRZWc3cGZTWlhlSC1VczR2ZFV1eUNENGlFQTdGQ2gxcmlGNG5YanphNEVQbDFEek40WGd1WjNON1hCUUU2YXN6TWZzNU9HYTJPVWxzZDh5c21yNU1oMVJqdFVWTDh0VGxQWFM2anM0dmtVLWtIMVZSakxzSDdTQlU?oc=5",
+    "sourceName": "The Legal Advocate",
+    "sourceType": "press",
+    "themes": [],
+    "region": null
+  },
+  {
     "id": "30f5b9b4354a",
     "date": "2026-05-19",
     "org": "unmapped",
@@ -4759,19 +3651,6 @@
     "region": "UK"
   },
   {
-    "id": "c2731c791bfb",
-    "date": "2026-05-19",
-    "org": "unmapped",
-    "orgName": "PR Newswire",
-    "headline": "Shield AI selected to bring AI-powered swarming to LUCAS kamikaze drone program",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRkdVZXJqdDFnMVpTTWxVWkRFT1g0M2xwRE9HNjVmeXlBRzc1VXRJaFhmb3pjT1lnYUItOEtuT2p6YkxzT2E1OHh3UVd5N3cyLUhZTDc1dnhmSWRsdW5YaVNVUzdqMno2LW5IZW9DdFFnNXEtcjRiZ0U2UjJjUlF1RjdMV1ExQmJXQ0tkR19tVFZXRnNsWjBYTkxYMEVMU3ZIRnIwbEVmN0plTFFOMjcwcG52UzNFWU5…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRkdVZXJqdDFnMVpTTWxVWkRFT1g0M2xwRE9HNjVmeXlBRzc1VXRJaFhmb3pjT1lnYUItOEtuT2p6YkxzT2E1OHh3UVd5N3cyLUhZTDc1dnhmSWRsdW5YaVNVUzdqMno2LW5IZW9DdFFnNXEtcjRiZ0U2UjJjUlF1RjdMV1ExQmJXQ0tkR19tVFZXRnNsWjBYTkxYMEVMU3ZIRnIwbEVmN0plTFFOMjcwcG52UzNFWU51S0U0dHNkMHlidXhEbkkwMk9hMVZid2I0?oc=5",
-    "sourceName": "PR Newswire",
-    "sourceType": "press",
-    "themes": [],
-    "region": null
-  },
-  {
     "id": "57b709d20c38",
     "date": "2026-05-19",
     "org": "unmapped",
@@ -4784,6 +3663,19 @@
     "themes": [
       "autonomy"
     ],
+    "region": null
+  },
+  {
+    "id": "66807ccfc509",
+    "date": "2026-05-19",
+    "org": "unmapped",
+    "orgName": "Tampa Bay Business & Wealth",
+    "headline": "SOF Week becomes launchpad for defense AI deals",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9kWFZkMUV0UDU2ZkoxSVpkTTZrNG0zd1BYSmxVMEVjRzlFUmp2UXlzbWpwdWJzNGc2TkpETGJRajJtSGJuaXJuaHc2aU4ycWo3ZFpMWThOeXRmMG9vd0c1Qw?oc=5\" target=\"_blank\">SOF Week becomes launchpad for defense AI deals</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tampa Bay…",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9kWFZkMUV0UDU2ZkoxSVpkTTZrNG0zd1BYSmxVMEVjRzlFUmp2UXlzbWpwdWJzNGc2TkpETGJRajJtSGJuaXJuaHc2aU4ycWo3ZFpMWThOeXRmMG9vd0c1Qw?oc=5",
+    "sourceName": "Tampa Bay Business & Wealth",
+    "sourceType": "press",
+    "themes": [],
     "region": null
   },
   {
@@ -4843,21 +3735,6 @@
     "region": null
   },
   {
-    "id": "b96ed3d8ba6b",
-    "date": "2026-05-18",
-    "org": "unmapped",
-    "orgName": "Defense One — Technology",
-    "headline": "Advanced AI models bring government to ‘reflection point,’ CIA official says",
-    "summary": "New technologies may bring risk and opportunity for the federal government, cyber experts explained.",
-    "sourceUrl": "https://www.defenseone.com/technology/2026/05/advanced-ai-models-bring-government-reflection-point-cia-official-says/413623/",
-    "sourceName": "Defense One — Technology",
-    "sourceType": "press",
-    "themes": [
-      "cyber"
-    ],
-    "region": "US"
-  },
-  {
     "id": "5d7f5dabc416",
     "date": "2026-05-18",
     "org": "unmapped",
@@ -4870,6 +3747,19 @@
     "themes": [
       "cyber"
     ],
+    "region": null
+  },
+  {
+    "id": "c9b8ae08139a",
+    "date": "2026-05-18",
+    "org": "unmapped",
+    "orgName": "The Defense Post",
+    "headline": "AI Mosquito Trap Designed to Flag Malaria Risks Wins US Army Innovation Challenge",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFAzdDVwR2pPY1JTeXpUc3JkWWI5d0xRQWtYLUt2a082c3ItUUlFbTlJSWNnQlJuZ3pITmpsNXRPNjJDMVNXSXpxSU93Z3ZjWWJmenhZMTB1S29UNkRvcmJEdkstS01ZTGtCZlRVR09INFFEZ9IBd0FVX3lxTFAtNjhzX3JsOGRUMG1rd05sVzBveWdMMVRpMmFoYUxyNU82NXpuelJmbEItYVJqd0tVOU9XeVVpY1pqQWR…",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMickFVX3lxTFAzdDVwR2pPY1JTeXpUc3JkWWI5d0xRQWtYLUt2a082c3ItUUlFbTlJSWNnQlJuZ3pITmpsNXRPNjJDMVNXSXpxSU93Z3ZjWWJmenhZMTB1S29UNkRvcmJEdkstS01ZTGtCZlRVR09INFFEZ9IBd0FVX3lxTFAtNjhzX3JsOGRUMG1rd05sVzBveWdMMVRpMmFoYUxyNU82NXpuelJmbEItYVJqd0tVOU9XeVVpY1pqQWRvUVFrZWxYOHlTZDZPdWhPU3BWMVRjQ3RVNnVjQ1lhTXF2XzZjS1RtQ2xTQnNEbnNvcnFR?oc=5",
+    "sourceName": "The Defense Post",
+    "sourceType": "press",
+    "themes": [],
     "region": null
   },
   {
@@ -4914,17 +3804,17 @@
     "region": "Europe"
   },
   {
-    "id": "2652fd9e7d1a",
+    "id": "6b5e939463f3",
     "date": "2026-05-18",
-    "org": "darpa",
-    "orgName": "DARPA",
-    "headline": "Microsoft’s AI Security System Exposes 16 Windows Flaws Before Hackers Can Exploit Them",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdGNhTlNfNnV6WVRRTXRHRGxFTmZNcGF3N0czS2QtLWtFNGxfVTI2RU1hTk9LYk96T3pROFU2VnN3ZTNta3h5ZnBvU0VIUHZ6QUJPdndaZG9HZjNqWmd6b3JxMFRpRE1ES0VSNHU4YkJJTDZ2RUpSWDFBNndmX2luRkJhUm5ibGdMZlg1RXZIb0hpNmM0blVQU01YNU40a3N5SGJnaFI0bkhlVGIwak5SbFF5T0kzUDV…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdGNhTlNfNnV6WVRRTXRHRGxFTmZNcGF3N0czS2QtLWtFNGxfVTI2RU1hTk9LYk96T3pROFU2VnN3ZTNta3h5ZnBvU0VIUHZ6QUJPdndaZG9HZjNqWmd6b3JxMFRpRE1ES0VSNHU4YkJJTDZ2RUpSWDFBNndmX2luRkJhUm5ibGdMZlg1RXZIb0hpNmM0blVQU01YNU40a3N5SGJnaFI0bkhlVGIwak5SbFF5T0kzUDVOVEluV0hPV3d2LTDSAcsBQVVfeXFMTnNuRmhhcXBDWWtfOUFoUHRvQms5T2l6RjdUZjc5bWV4S1VUQU83UnJZUl9QREhpYVg5dWlCcHpQeHdKR05sLVBDajcwNEpDYTBwNS02cDROZnJyZUVmclhLSThQenNXSVl4Z0lnZ2NCNUdwYWVycHkxZ1lpb3VrY3VoRHNkNzBXYkM3ZHpha1VSQV80Y2pVWmxIZDZKazdnNFVXLVMwVzA0WFFUVS1hTHk3UVFoaGltcldaUXZ2TlZIaGFLclFYdnNBakU?oc=5",
-    "sourceName": "Qoo Media",
+    "org": "thales",
+    "orgName": "Thales",
+    "headline": "NATO to set up its AI centre in France",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbkZhSFN6V1FoeWRyRS1vWjNNLVZUOUpMTmFaaHNvOVFaNmQwdmtFcm9xQTJ6bUs2dVpmdlFXbXEwOVY2MTFaLTZNV0lpUGhnUnJWazV4cVo4dnRMcUZYcFRQcDVLZncyRGZ5VE00MWtMNDRmYTZrSmRjZWN4VkRsZGsyQ1lzRmJYU2o2UDJPcHNTUmxMbmdtaVhFb1pzVjJyQ3dZTGFMdXE?oc=5\" target=\"_blan…",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbkZhSFN6V1FoeWRyRS1vWjNNLVZUOUpMTmFaaHNvOVFaNmQwdmtFcm9xQTJ6bUs2dVpmdlFXbXEwOVY2MTFaLTZNV0lpUGhnUnJWazV4cVo4dnRMcUZYcFRQcDVLZncyRGZ5VE00MWtMNDRmYTZrSmRjZWN4VkRsZGsyQ1lzRmJYU2o2UDJPcHNTUmxMbmdtaVhFb1pzVjJyQ3dZTGFMdXE?oc=5",
+    "sourceName": "La Lettre",
     "sourceType": "press",
     "themes": [],
-    "region": "US"
+    "region": "Europe"
   },
   {
     "id": "cec3b359f881",
@@ -4940,34 +3830,6 @@
     "region": null
   },
   {
-    "id": "d7f5657eaacd",
-    "date": "2026-05-18",
-    "org": "unmapped",
-    "orgName": "Military Embedded Systems",
-    "headline": "SOF Week panel on lethal AI and autonomous systems headlined by Pentagon CTO Emil Michael",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYTJOZ1M5djVETmNiUlR2VVd6QThSalhrWkFuU0ZlRng4azNZbWRSZ3dWdkFXS002TnYtR2lwc3NpQ3l5OGRBZmdlZElBVzlQNE1IVXhuNklGSlR3V0cxNWRBb2dPQjBHOERqbnZVNlR1dUVjZDYtdG15aU1vYUZpT0V4NzFTcHFRQmY2OF9tSEVqcDJMUXBTaHJ6cld1NEotWGdGbmZIN2szSEZlR3VibkVXckFQV3V…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYTJOZ1M5djVETmNiUlR2VVd6QThSalhrWkFuU0ZlRng4azNZbWRSZ3dWdkFXS002TnYtR2lwc3NpQ3l5OGRBZmdlZElBVzlQNE1IVXhuNklGSlR3V0cxNWRBb2dPQjBHOERqbnZVNlR1dUVjZDYtdG15aU1vYUZpT0V4NzFTcHFRQmY2OF9tSEVqcDJMUXBTaHJ6cld1NEotWGdGbmZIN2szSEZlR3VibkVXckFQV3VaNU96MDl0NF9xclBEYndJY0w4ZDRXV2ZqdU5kdA?oc=5",
-    "sourceName": "Military Embedded Systems",
-    "sourceType": "press",
-    "themes": [
-      "autonomy"
-    ],
-    "region": null
-  },
-  {
-    "id": "4f7be8800123",
-    "date": "2026-05-18",
-    "org": "eda",
-    "orgName": "European Defence Agency",
-    "headline": "TCS Repositions As AI-Led Digital Transformation Partner, Focuses On Full-Stack AI Solutions & Human + AI",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxNYk1JRmtxbTRDS2sxM3Azb1RhcGp2b0pUTjNva3M4Z2RjYmR3VWVPc1c0MzNvTWVpdHJuekNwSFVBUDNaZFJMLVRQTlY0NDRzaFV4TEtGbHhHZTJ3NTZ5NndBaXBSdVRDTkU0Uzk5OGw1TE10enBuWGZLTm0yamlJdi1ia2NlbE4xMjBxdWtlS3lZNmxrNnp0Y2J3WDlUSmVfXzVsUnF3YnZ1eGlZdTZzRDNJZjNpMkx…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNYk1JRmtxbTRDS2sxM3Azb1RhcGp2b0pUTjNva3M4Z2RjYmR3VWVPc1c0MzNvTWVpdHJuekNwSFVBUDNaZFJMLVRQTlY0NDRzaFV4TEtGbHhHZTJ3NTZ5NndBaXBSdVRDTkU0Uzk5OGw1TE10enBuWGZLTm0yamlJdi1ia2NlbE4xMjBxdWtlS3lZNmxrNnp0Y2J3WDlUSmVfXzVsUnF3YnZ1eGlZdTZzRDNJZjNpMkx0czBTSjBBeERleXN2ZFlGVVh6M216bVh2RlJBYkViVFJYM1NrMEtmSGd5R3FHamFqNF9sRlZCaVE2b1h5WXhERzB0QjdRQdIBgwJBVV95cUxOaDJsMDdkdjVXSlRqUmQyTW1naHJMUjRhZGJLZGNkZEdPaldaS2wwOWxPcGRYd0Uya0o0S3ZkeGhNYThuOWs1Y1dRbGV2S192NzZYLXY0WWM3VDF4WjgzdHRtdDJoajZ1OTl0b1BPMWdOZElVWWs1bnFIZW1PRVgxVWVVX3lvU1N3MkJZSWZsU185WG5WeWpkQ3pvZ3Z5U3hmY0wydGRRRy1TVW1sTmo2VVhiNHk1T1dhQ0wxUGtLLVpRLXd1aWF5bTI3SXNsWTFNZkt1R2J6SG9yUzZVRWhXaExGZ013T0s0LWhWbTFzU01IZWU5aTFnbUQ1SEdndXFpQmQ0?oc=5",
-    "sourceName": "Free Press Journal",
-    "sourceType": "press",
-    "themes": [],
-    "region": "Europe"
-  },
-  {
     "id": "ae3aa26e2237",
     "date": "2026-05-18",
     "org": "darpa",
@@ -4979,19 +3841,6 @@
     "sourceType": "press",
     "themes": [],
     "region": "US"
-  },
-  {
-    "id": "be83c0874e89",
-    "date": "2026-05-18",
-    "org": "unmapped",
-    "orgName": "Meyka",
-    "headline": "Ukraine AI Drones May 18: Kyiv’s Strategy to Win War",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPd09xbWZ3YmxtUUI1VUkxWUFyRGphMWF6LWJ2T3VnME5KaFd6RnFncHNOUzBLZzlWZGtDR3BmVy1Ba3FUVWxPSzAtd3I0bEdPMkJucVFNM0VUaENhUkNVT1B6YVRuZFJUY0JCMnc4MnVqaTVmNzIzczRZZVhlWklQZzZCTHhidw?oc=5\" target=\"_blank\">Ukraine AI Drones May 18: Kyiv’s Strategy…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPd09xbWZ3YmxtUUI1VUkxWUFyRGphMWF6LWJ2T3VnME5KaFd6RnFncHNOUzBLZzlWZGtDR3BmVy1Ba3FUVWxPSzAtd3I0bEdPMkJucVFNM0VUaENhUkNVT1B6YVRuZFJUY0JCMnc4MnVqaTVmNzIzczRZZVhlWklQZzZCTHhidw?oc=5",
-    "sourceName": "Meyka",
-    "sourceType": "press",
-    "themes": [],
-    "region": null
   },
   {
     "id": "d88ce29e7d49",
@@ -5020,32 +3869,6 @@
     "sourceType": "press",
     "themes": [],
     "region": null
-  },
-  {
-    "id": "d66a0fccbc27",
-    "date": "2026-05-18",
-    "org": "unmapped",
-    "orgName": "Brookings",
-    "headline": "Where does federal AI spending stand in 2026?",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPcVhZQnFsQUpkM2FCS0I2dWJHdjdNQkxIRHZEbGxCV09oWkR1cWh6OEgzNGVrV0JIb0ZNXzR2WS1SM3Y0VTA0RXFsdlp0U2Q2TUlua1RqS3I3d2dhSS16WWZUSGUzckN6Tk1mQTVsYW1udE84eUlvTkhMNG9tMU9sZ240cUhZcjQ?oc=5\" target=\"_blank\">Where does federal AI spending stand in 2…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcVhZQnFsQUpkM2FCS0I2dWJHdjdNQkxIRHZEbGxCV09oWkR1cWh6OEgzNGVrV0JIb0ZNXzR2WS1SM3Y0VTA0RXFsdlp0U2Q2TUlua1RqS3I3d2dhSS16WWZUSGUzckN6Tk1mQTVsYW1udE84eUlvTkhMNG9tMU9sZ240cUhZcjQ?oc=5",
-    "sourceName": "Brookings",
-    "sourceType": "press",
-    "themes": [],
-    "region": null
-  },
-  {
-    "id": "405fcdb3f628",
-    "date": "2026-05-17",
-    "org": "uk-mod",
-    "orgName": "UK MoD / Defence AI Centre",
-    "headline": "Britain Wants AI Sovereignty. So Why Does It Buy American Tech?",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOelFUQ3NyYXBVVGNKOG5mNU54YVpTY1VKcXNsNGg0RS1zOGgxcFlURkVUVTU5WDhmZ1czVVVHRFNQZEVqdEdKY3N0bTAtaktDSHQ3UkNUVE5lLWVyQ0tJNEZhQ0IwYmlrQ2wyTTFSMWdrcHY4aUwwaTZiRktVa29tMHJTcnVXbUI1NlBJNjZNN01DZ0pfZWVzUHpKU0x1R25XY1FFVVB4SWhCcmF4WHZRVTliZUtzQQ?…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOelFUQ3NyYXBVVGNKOG5mNU54YVpTY1VKcXNsNGg0RS1zOGgxcFlURkVUVTU5WDhmZ1czVVVHRFNQZEVqdEdKY3N0bTAtaktDSHQ3UkNUVE5lLWVyQ0tJNEZhQ0IwYmlrQ2wyTTFSMWdrcHY4aUwwaTZiRktVa29tMHJTcnVXbUI1NlBJNjZNN01DZ0pfZWVzUHpKU0x1R25XY1FFVVB4SWhCcmF4WHZRVTliZUtzQQ?oc=5",
-    "sourceName": "Bloomberg.com",
-    "sourceType": "press",
-    "themes": [],
-    "region": "UK"
   },
   {
     "id": "43bdcf6d6d96",
@@ -5164,17 +3987,17 @@
     "region": null
   },
   {
-    "id": "c1f81aceb6b1",
+    "id": "81f499972627",
     "date": "2026-05-16",
-    "org": "unmapped",
-    "orgName": "AD HOC NEWS",
-    "headline": "Nokia’s Reincarnation: From Telecom Stalwart to AI and Defence Dual Play",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQMXVvU1F1ODFrNGtVWFRVcmRWT1NEa1pCREczOFFrQVUtb1l0SW9hYkFweEFmeVk1T2RzQ3hsVHBkSWo1T29HdjR3ZlR1V29DWXBTQlo4ZVo3YW1hZFI3NmJBNW1ucUpfMEd0NTdNUkVFOWhHXzEtWGJpSXpKamhEN0hvbktIR3JRbTlyVm5UdmZDREoxVVp6LTNtb000X3BqSGhpQ3VIRkg1cE9NYmcwUjZac1NBNTV…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMXVvU1F1ODFrNGtVWFRVcmRWT1NEa1pCREczOFFrQVUtb1l0SW9hYkFweEFmeVk1T2RzQ3hsVHBkSWo1T29HdjR3ZlR1V29DWXBTQlo4ZVo3YW1hZFI3NmJBNW1ucUpfMEd0NTdNUkVFOWhHXzEtWGJpSXpKamhEN0hvbktIR3JRbTlyVm5UdmZDREoxVVp6LTNtb000X3BqSGhpQ3VIRkg1cE9NYmcwUjZac1NBNTVpRGItS25YS3pBcHdxUkxKUmln?oc=5",
-    "sourceName": "AD HOC NEWS",
+    "org": "eda",
+    "orgName": "European Defence Agency",
+    "headline": "Indian AI Combat Drone Kaal Bhairava Enters European Manufacturing Network Through Strategic Portuguese Defence Partnership",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxNR0h0VFNRUnR2UmZiXzFyMUZGdURhNFdkOUtQMGJvNnlxMTFfSkRXRU51R1NRNlpTaTc0dmdpVExLbmY0VXZYbk5NX1NyRG9ZZHpSeFZTbDZyMjlyN3RyMFJpc05PU0I3Q2hYeDQwSm5abExla3NYNEtVeGRiSUxpM09GckpFZVlpUWp6d005QlpzVzJEbktQUUp2LTBwQVlsazhjc080WlAyVEUtcU1mbFcwMXZ0ZjZ…",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNR0h0VFNRUnR2UmZiXzFyMUZGdURhNFdkOUtQMGJvNnlxMTFfSkRXRU51R1NRNlpTaTc0dmdpVExLbmY0VXZYbk5NX1NyRG9ZZHpSeFZTbDZyMjlyN3RyMFJpc05PU0I3Q2hYeDQwSm5abExla3NYNEtVeGRiSUxpM09GckpFZVlpUWp6d005QlpzVzJEbktQUUp2LTBwQVlsazhjc080WlAyVEUtcU1mbFcwMXZ0ZjZvVnhGWm02Wm1lLXFTUFdVYW9PRHhsLUxKeFpmQ3BxOE9TRjFNYnZTcE8wOVg4VmVEaVZibjdn?oc=5",
+    "sourceName": "Defence.in",
     "sourceType": "press",
     "themes": [],
-    "region": null
+    "region": "Europe"
   },
   {
     "id": "aea031398eae",
@@ -5188,19 +4011,6 @@
     "sourceType": "press",
     "themes": [],
     "region": "US"
-  },
-  {
-    "id": "6f54f7f49e02",
-    "date": "2026-05-16",
-    "org": "uk-mod",
-    "orgName": "UK MoD / Defence AI Centre",
-    "headline": "The UK adds a low-cost anti-drone system to its Typhoon fighter jets",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQdFlZZi03c2hrVDVkNFJxTFFMZTd1N2h4RjNYWUZQY2QwaWFQN0xrUXk2SnFZWl9MZTI5X3JteFlhbEV6bXJQUXg0SFQ1WGRrdkthMUJuMnl3YTJocWdFS1o3SWtPMy1IWTNqeEpyYm5VSm5HQkpVTU1Za2prWTBiNVdoMzI3eE5iQUJ2UTNRMUlQV0RYNWh1SWVhM2Y?oc=5\" target=\"_blank\">The UK adds a…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdFlZZi03c2hrVDVkNFJxTFFMZTd1N2h4RjNYWUZQY2QwaWFQN0xrUXk2SnFZWl9MZTI5X3JteFlhbEV6bXJQUXg0SFQ1WGRrdkthMUJuMnl3YTJocWdFS1o3SWtPMy1IWTNqeEpyYm5VSm5HQkpVTU1Za2prWTBiNVdoMzI3eE5iQUJ2UTNRMUlQV0RYNWh1SWVhM2Y?oc=5",
-    "sourceName": "Resilience Media",
-    "sourceType": "press",
-    "themes": [],
-    "region": "UK"
   },
   {
     "id": "711c832f8224",
@@ -5242,32 +4052,6 @@
       "isr"
     ],
     "region": null
-  },
-  {
-    "id": "ba5a1071175d",
-    "date": "2026-05-15",
-    "org": "unmapped",
-    "orgName": "blue News",
-    "headline": "\"Or the enemy will get there first\": Ukraine relies on AI-controlled swarms of drones | blue News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT1B0RkJiQmNoOVRGRjFtODU1LXFEVkp1cGFOZW8wb01FZGNSYjRaZzVSemo1U3VZLUk5TkdOaVJVNEE5TmgtWHd3T3o1THVTNzZyek9JakFEZ2Y1eUJrRG9uRG1jY2lDbW10ZGVCQjN1ZGpNcDI5Zkl0X0xHT1FqSGV5ZmpxYWlnN0NaZ3VTUHlHdjdtWWFmSlRVSjNfY1EyWjE1S0paZXJXUQ?oc=5\" target=\"_b…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT1B0RkJiQmNoOVRGRjFtODU1LXFEVkp1cGFOZW8wb01FZGNSYjRaZzVSemo1U3VZLUk5TkdOaVJVNEE5TmgtWHd3T3o1THVTNzZyek9JakFEZ2Y1eUJrRG9uRG1jY2lDbW10ZGVCQjN1ZGpNcDI5Zkl0X0xHT1FqSGV5ZmpxYWlnN0NaZ3VTUHlHdjdtWWFmSlRVSjNfY1EyWjE1S0paZXJXUQ?oc=5",
-    "sourceName": "blue News",
-    "sourceType": "press",
-    "themes": [],
-    "region": null
-  },
-  {
-    "id": "517aad9702a9",
-    "date": "2026-05-15",
-    "org": "bae-systems",
-    "orgName": "BAE Systems",
-    "headline": "Accenture Federal Services, OpenAI Partner to Advance Federal AI Adoption",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRm5HQzdiUHpnNC1LSU1EMWNOc0lJMVZSSTNaYm42RzkxdmlkbHczQjd2ZEpPNWkwTVNFYWF6XzNudXNPZnNjb1lHckNoREsxalZVWnB6Y1dHbDVkck14R0xycXE5QUwtNkRiemJ1dS12ZlpsZGJvZzNkNG1IUHZILVFYYzQ3eXlpQ0lV?oc=5\" target=\"_blank\">Accenture Federal Services, OpenAI P…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRm5HQzdiUHpnNC1LSU1EMWNOc0lJMVZSSTNaYm42RzkxdmlkbHczQjd2ZEpPNWkwTVNFYWF6XzNudXNPZnNjb1lHckNoREsxalZVWnB6Y1dHbDVkck14R0xycXE5QUwtNkRiemJ1dS12ZlpsZGJvZzNkNG1IUHZILVFYYzQ3eXlpQ0lV?oc=5",
-    "sourceName": "ExecutiveBiz",
-    "sourceType": "press",
-    "themes": [],
-    "region": "UK"
   },
   {
     "id": "2da2c86f9e39",
@@ -5370,17 +4154,17 @@
     "region": "Europe"
   },
   {
-    "id": "41273ca620c5",
+    "id": "5d9817333ef5",
     "date": "2026-05-15",
-    "org": "bae-systems",
-    "orgName": "BAE Systems",
-    "headline": "ITC Federal Exec Zhenia Klevitsky Discusses War Department’s AI Acceleration Strategy",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQaDNFLXVnLTdGNWNSWDQ1MXc3bk5tRWtxNEoyVGpxcEViRWtFNU56UkJyRnJBZVF0dVg5M0cyek10WUg1MDJxVExybzRzUGlJOC1Ya2JxVy00MnlIWmVkNWpyT2tTVC1rSlJFbGlvNmNuVzVVZDhGNWE5TVNmYVZ0X3Z3?oc=5\" target=\"_blank\">ITC Federal Exec Zhenia Klevitsky Discusses War…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQaDNFLXVnLTdGNWNSWDQ1MXc3bk5tRWtxNEoyVGpxcEViRWtFNU56UkJyRnJBZVF0dVg5M0cyek10WUg1MDJxVExybzRzUGlJOC1Ya2JxVy00MnlIWmVkNWpyT2tTVC1rSlJFbGlvNmNuVzVVZDhGNWE5TVNmYVZ0X3Z3?oc=5",
-    "sourceName": "ExecutiveBiz",
+    "org": "eda",
+    "orgName": "European Defence Agency",
+    "headline": "Indian AI Combat Drone ‘Kaal Bhairava’ Enters European Defence Manufacturing Network",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNFR3Y3RaVjZBN0diQmthVC1jQ0ViXzVfa3VzRGQ2WDJTMUVjb2h3Q29FTzRJdFZobGN5U1ZwTVRNM0tvbU9LTWx0YUFwZThFUXlieDdzUTVnT183SC10YnNtNXBGV1JkOUlpTDZfSkVrYTBhNjFQYzEwZFR2OW9UcU1GR1VPbVh0S2JkeUxpNUg1TXRGNXpfcTZYTDd0cU04ZlRIdUNCYmhRS1dLYWM0SFlMY0s5LTF…",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNFR3Y3RaVjZBN0diQmthVC1jQ0ViXzVfa3VzRGQ2WDJTMUVjb2h3Q29FTzRJdFZobGN5U1ZwTVRNM0tvbU9LTWx0YUFwZThFUXlieDdzUTVnT183SC10YnNtNXBGV1JkOUlpTDZfSkVrYTBhNjFQYzEwZFR2OW9UcU1GR1VPbVh0S2JkeUxpNUg1TXRGNXpfcTZYTDd0cU04ZlRIdUNCYmhRS1dLYWM0SFlMY0s5LTFHSThr0gHAAUFVX3lxTFBnYmpwU2dJWXllanVaRTlyLXYxYzJUUzljYTBOcnVXZHEyelJaOTd0ODVrZFgtS0pVNzA5bnJDR3lmcUpGVHpPWnE5SnhLbWpYVjdaWXczY1pCR3EzeEZTeHRxaGVLRjFUX0xOUVQyMXMzSmhic01zODdnVHRQeHVrcm9EYnY4MjRZMENmUldZT2otNlp1cUg4ZlZ2Sk03UlhkZVlmeWpmTlg0aGRwQzNGRXUzUDVJaXUxWVlxWW5OZg?oc=5",
+    "sourceName": "Free Press Journal",
     "sourceType": "press",
     "themes": [],
-    "region": "UK"
+    "region": "Europe"
   },
   {
     "id": "6cc678360d18",
@@ -5394,22 +4178,6 @@
     "sourceType": "press",
     "themes": [],
     "region": "US"
-  },
-  {
-    "id": "ffbbbae3505e",
-    "date": "2026-05-15",
-    "org": "unmapped",
-    "orgName": "The Manila Times",
-    "headline": "Quantum Cyber N.V. Launches quantum-cyber.ai Targeting Homeland Security, Autonomous Drone, & Quantum Technology Sectors",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgJBVV95cUxON3lveXJkWm5reEhFTXlmWm1OMC04Tk9LbzBiTFNfR2YycEVnYTNDOGxYSHhxLUZLcTZ1eEEtR2RrS0ZZZW00UDJYUHE0Y0VqejlCNThHaW9rTjFQM0h4cjlHZ0ZyVUZCWThKTHVTOUs3MVpOQ24wZTBYRllSeGY4ZXBLQXRwbUJrMFU3M09BQklITEJqV1JhckhyUnJqbGw5TUZYZm04em4xTmJSWTVDWVJWb01MZVF…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMilgJBVV95cUxON3lveXJkWm5reEhFTXlmWm1OMC04Tk9LbzBiTFNfR2YycEVnYTNDOGxYSHhxLUZLcTZ1eEEtR2RrS0ZZZW00UDJYUHE0Y0VqejlCNThHaW9rTjFQM0h4cjlHZ0ZyVUZCWThKTHVTOUs3MVpOQ24wZTBYRllSeGY4ZXBLQXRwbUJrMFU3M09BQklITEJqV1JhckhyUnJqbGw5TUZYZm04em4xTmJSWTVDWVJWb01MZVFBUWNsVGxZbTFhR3dwYmhpM1ROTDh2UlNQaXlEeFpHNWNleDUxQzVfb2MzZU9BcTl1YkhFaXpPOExtUkpHdHY4bnJXbzF5cFRIUEV0NVQ2NFNVNkFFZ01GdFItZnQxZ9IBmwJBVV95cUxNMnlGbnNCcVB0T2tpWV9YNFFiWWI2Q2lEZFI5WUUxZlI1UndjYXlvX0F5RlhjbTJHUm5Vc3ZuUzEtTnlVTGhsVHRPbTZkazhXSEVrcTNRRi0tRW1wOWk3MHp4MVZZTUVJcGhtMHZ1b0V3a3Vpb2pXbWFTcDVQSEYxVVhWUzFMQnpUMWRPVU5TMjgyaU85Wld1U3V6cG12d0VlY2NlX0pwdXlNYzRzQ1ZCYkdLdzNTa3pZUGFDS1pkcXNtLWIycHU5c3ZyZWpXTjJacmtXYWdDUWRzRkM3aFMzRWZvWk44YjZOMzdNS3QxV2xXZFdfdHh0ckVDYXhkd0E1cm1udUNmbUxYRDJ0bG5TZm83UjVLU0NUelFr?oc=5",
-    "sourceName": "The Manila Times",
-    "sourceType": "press",
-    "themes": [
-      "autonomy",
-      "cyber"
-    ],
-    "region": null
   },
   {
     "id": "119e20b57e88",
@@ -5466,19 +4234,6 @@
     "region": "Europe"
   },
   {
-    "id": "dbdbeedc9436",
-    "date": "2026-05-15",
-    "org": "bae-systems",
-    "orgName": "BAE Systems",
-    "headline": "U.K. Picks 4 Firms to Build Drone ‘Wingmen’ for Apaches",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPeHhLcExpeC1jU2w3RzliZ2RnS0t5ZUN5bEdadGRRVUxQRjNmbGF0dmJtWUw2eEFNY09peXhURDBnZzFDS3ZaYUdNX2lOZUxtRkVwMXdha3VBYkRYUGhnbXBUcGpXVWdYQkluWjYtcUxadXlRQmxxMWgwbTNqaWxGMw?oc=5\" target=\"_blank\">U.K. Picks 4 Firms to Build Drone ‘Wingmen’ for Ap…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeHhLcExpeC1jU2w3RzliZ2RnS0t5ZUN5bEdadGRRVUxQRjNmbGF0dmJtWUw2eEFNY09peXhURDBnZzFDS3ZaYUdNX2lOZUxtRkVwMXdha3VBYkRYUGhnbXBUcGpXVWdYQkluWjYtcUxadXlRQmxxMWgwbTNqaWxGMw?oc=5",
-    "sourceName": "FLYING Magazine",
-    "sourceType": "press",
-    "themes": [],
-    "region": "UK"
-  },
-  {
     "id": "e777c918824f",
     "date": "2026-05-15",
     "org": "thales",
@@ -5490,32 +4245,6 @@
     "sourceType": "press",
     "themes": [],
     "region": "Europe"
-  },
-  {
-    "id": "d7310df3fa3b",
-    "date": "2026-05-15",
-    "org": "uk-mod",
-    "orgName": "UK MoD / Defence AI Centre",
-    "headline": "UK to equip Apache helicopters with AI drone 'wingmen'",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxPNkhqNElrVTFhNHVZR2V2LXJhc0g1d1FuTzdXVGNzS1UyaWhrSGFtck9VdnZSSHhNSFdLZkVpSDdNSlc2dmhOczNCdkFGajJtMjFHLXVaUjBhT1YwYW1RNUQ5aVN0V1U0dlhxYzI3a2lOMWFKN25ORmNiOHZSelI1N1hIa0gxWkJOOVVfV092akhOel9STHdfdWRfS01iVnVmUVpJanFyNzFDcHF5UE5uZFpubmpvQkF…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPNkhqNElrVTFhNHVZR2V2LXJhc0g1d1FuTzdXVGNzS1UyaWhrSGFtck9VdnZSSHhNSFdLZkVpSDdNSlc2dmhOczNCdkFGajJtMjFHLXVaUjBhT1YwYW1RNUQ5aVN0V1U0dlhxYzI3a2lOMWFKN25ORmNiOHZSelI1N1hIa0gxWkJOOVVfV092akhOel9STHdfdWRfS01iVnVmUVpJanFyNzFDcHF5UE5uZFpubmpvQkFzakctMHNSU0RjbFo4QkFDQ1FOZU1vcXduMHVldFhNcW8xWUVaeGxuYXhTVnEtaGxFVlE?oc=5",
-    "sourceName": "MSN",
-    "sourceType": "press",
-    "themes": [],
-    "region": "UK"
-  },
-  {
-    "id": "43e29a6debcf",
-    "date": "2026-05-15",
-    "org": "unmapped",
-    "orgName": "Federal News Network",
-    "headline": "What enterprise security can learn from U.S. government approaches to AI",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPUUUydDYybF9Mb2M0eHVUclp1RFJlbmhIbm9mRERZMVpaalhkbzVtbjV3UnU2Z0NpMnJaYnQ0Q3Y4bFhQaGMyUmktbm1scHN2OEx2b011WHRoeVV3QlVOcE1xUjUwOVlGajFiWkwwT3JyRzI5YVE0MFI1SVFqazlEVWpSTENDZ1NBMERiNURreTExNDBocnJaQkludjMzaW0waklGeGFZeFJjcVAtd0dEbndSN1JoZG0…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUUUydDYybF9Mb2M0eHVUclp1RFJlbmhIbm9mRERZMVpaalhkbzVtbjV3UnU2Z0NpMnJaYnQ0Q3Y4bFhQaGMyUmktbm1scHN2OEx2b011WHRoeVV3QlVOcE1xUjUwOVlGajFiWkwwT3JyRzI5YVE0MFI1SVFqazlEVWpSTENDZ1NBMERiNURreTExNDBocnJaQkludjMzaW0waklGeGFZeFJjcVAtd0dEbndSN1JoZG0xRC1EbUdfbw?oc=5",
-    "sourceName": "Federal News Network",
-    "sourceType": "press",
-    "themes": [],
-    "region": null
   },
   {
     "id": "aab53298d491",
@@ -5572,19 +4301,6 @@
     "region": null
   },
   {
-    "id": "c8f7aee857d0",
-    "date": "2026-05-14",
-    "org": "uk-mod",
-    "orgName": "UK MoD / Defence AI Centre",
-    "headline": "Blighter Partners with Republic of Korea AI Integrator to Expand Radar Sales in East Asia",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRjdiRmpTR3dDei1lM0FWVEVYQW0wNHdRaWh4R3NMcmxoRUYycXZIX3hNYlBXSURZTXNUcy1hblM1bmk3VUxyWWRPVWFKQ3FQVVM3allBU3N2VHh1WFN1LXhsbzB5d0tMZ1k4ZzNZVEhGVXRPN3IwRzIyYkdvd3ZEUEFaQkpETlpMSDJEWGo0QTZZQk1wV0IwTHh1elh1R05hWEF6RHR3WlRtOTVfZEhtcmIxbW1WT2Z…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRjdiRmpTR3dDei1lM0FWVEVYQW0wNHdRaWh4R3NMcmxoRUYycXZIX3hNYlBXSURZTXNUcy1hblM1bmk3VUxyWWRPVWFKQ3FQVVM3allBU3N2VHh1WFN1LXhsbzB5d0tMZ1k4ZzNZVEhGVXRPN3IwRzIyYkdvd3ZEUEFaQkpETlpMSDJEWGo0QTZZQk1wV0IwTHh1elh1R05hWEF6RHR3WlRtOTVfZEhtcmIxbW1WT2ZXZ0V3?oc=5",
-    "sourceName": "BeBeez International",
-    "sourceType": "press",
-    "themes": [],
-    "region": "UK"
-  },
-  {
     "id": "165054753695",
     "date": "2026-05-14",
     "org": "unmapped",
@@ -5600,19 +4316,6 @@
     "region": null
   },
   {
-    "id": "4d36cfba8030",
-    "date": "2026-05-14",
-    "org": "unmapped",
-    "orgName": "KHBS",
-    "headline": "Fayetteville residents confront drone company",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOQWV5U2I3alQ2TkhqQlQtWkhzNFJhd01JZVRGcUpKY0RESFVmRWpkbHRuQXlNQWtzNFZ1OWw1YlFNdVViaUFjYlBGdUxwYW9neE1HMVhEdmpzblF6ZnoxZldRS0VSM01SSVctVDR2UE5sVlZ5OWd6UHBDMmJpajhCTzloNE5sT09Hak4tSS1nbW5JLWc?oc=5\" target=\"_blank\">Fayetteville residents co…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQWV5U2I3alQ2TkhqQlQtWkhzNFJhd01JZVRGcUpKY0RESFVmRWpkbHRuQXlNQWtzNFZ1OWw1YlFNdVViaUFjYlBGdUxwYW9neE1HMVhEdmpzblF6ZnoxZldRS0VSM01SSVctVDR2UE5sVlZ5OWd6UHBDMmJpajhCTzloNE5sT09Hak4tSS1nbW5JLWc?oc=5",
-    "sourceName": "KHBS",
-    "sourceType": "press",
-    "themes": [],
-    "region": null
-  },
-  {
     "id": "12bdcb6627eb",
     "date": "2026-05-14",
     "org": "darpa",
@@ -5621,19 +4324,6 @@
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNZVFhQW9EUDdvNFlRODBVZHNuc3p3dFZCMTdoLW1ObnpZZHZMZjJ0S19fV2hXTzBWMVAybjhBaFJVdmE3dk01RU1MSFZPQWtESHItcnpWYktIX1FYUnJFQ29Ebld6M0EwdVdBQXI5R2pjNmNCUmNINlV6aXcwWGo4YjRsQm0xcmRFb3FnNA?oc=5\" target=\"_blank\">Microsoft Pushes Agentic AI Securi…",
     "sourceUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZVFhQW9EUDdvNFlRODBVZHNuc3p3dFZCMTdoLW1ObnpZZHZMZjJ0S19fV2hXTzBWMVAybjhBaFJVdmE3dk01RU1MSFZPQWtESHItcnpWYktIX1FYUnJFQ29Ebld6M0EwdVdBQXI5R2pjNmNCUmNINlV6aXcwWGo4YjRsQm0xcmRFb3FnNA?oc=5",
     "sourceName": "Redmondmag.com",
-    "sourceType": "press",
-    "themes": [],
-    "region": "US"
-  },
-  {
-    "id": "a90cc7c8226d",
-    "date": "2026-05-14",
-    "org": "darpa",
-    "orgName": "DARPA",
-    "headline": "Microsoft Unveils MDASH: AI Security System That Found 16 Windows Vulnerabilities",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPdks3Tmdka19oemdTYUhkY1pBNmo1czI4MUhkOWZNUnItN0JNazR6cS11QkZsTkFCZkhPUXVhVDdsaHVlTmVWMjFlNTZkZXd5ZzAyLWxOdGxlUC1uUHNqb1JiWkxxc2RoQ3RRclJPbE1NeFZCZVZ6NjZ0Wk9rZkdVeFV5S3JzZ28yeGF5Qlk4YjZBeVJ1d2VTWDcxUzV1NWZWa2ZzSFB6UUJ1YVFTblZzOQ?oc=5\" ta…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdks3Tmdka19oemdTYUhkY1pBNmo1czI4MUhkOWZNUnItN0JNazR6cS11QkZsTkFCZkhPUXVhVDdsaHVlTmVWMjFlNTZkZXd5ZzAyLWxOdGxlUC1uUHNqb1JiWkxxc2RoQ3RRclJPbE1NeFZCZVZ6NjZ0Wk9rZkdVeFV5S3JzZ28yeGF5Qlk4YjZBeVJ1d2VTWDcxUzV1NWZWa2ZzSFB6UUJ1YVFTblZzOQ?oc=5",
-    "sourceName": "H2S Media",
     "sourceType": "press",
     "themes": [],
     "region": "US"
@@ -5753,21 +4443,6 @@
     "region": "Europe"
   },
   {
-    "id": "bdd62fb30fd0",
-    "date": "2026-05-13",
-    "org": "unmapped",
-    "orgName": "Yahoo Finance",
-    "headline": "How Is AeroVironment Advancing AI-Enabled Multi-Domain Autonomy?",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPczZqdHVkakFnU3RsSUk4N0NkVXpaSlFFY2UxTU9WeHdQUFFKNkJuaXhLemFiYjJqdWZOYlpLNDJLQ1V2X0VCMGhSRThwZk01WlZFMTlsTzQ1RUY3WFRlRXU3Mm1CTjNZM3VBbjAtVklzR2V4bGdCTGUtbk80SGZ1Nl91RGpYbEk2RVlLcmY1VQ?oc=5\" target=\"_blank\">How Is AeroVironment Advancing…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPczZqdHVkakFnU3RsSUk4N0NkVXpaSlFFY2UxTU9WeHdQUFFKNkJuaXhLemFiYjJqdWZOYlpLNDJLQ1V2X0VCMGhSRThwZk01WlZFMTlsTzQ1RUY3WFRlRXU3Mm1CTjNZM3VBbjAtVklzR2V4bGdCTGUtbk80SGZ1Nl91RGpYbEk2RVlLcmY1VQ?oc=5",
-    "sourceName": "Yahoo Finance",
-    "sourceType": "press",
-    "themes": [
-      "autonomy"
-    ],
-    "region": null
-  },
-  {
     "id": "3d3a0d05ba6e",
     "date": "2026-05-13",
     "org": "unmapped",
@@ -5781,19 +4456,6 @@
       "isr"
     ],
     "region": null
-  },
-  {
-    "id": "1f266ced92d7",
-    "date": "2026-05-13",
-    "org": "darpa",
-    "orgName": "DARPA",
-    "headline": "Microsoft's MDASH AI vulnerability scanner finds four critical Windows RCEs",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQZ05JaktZVWRGVl9EMzdXM0tweWpsNHlSWkxJNzJFT2Y4ZVFlOEFJX3VIck96TlB5RW9QX3AzX1ZrT3RDOUhiaWlwbWxiN1VfS3B5VGZjT09ZX1NiZXUyVmJjUXNmYlVWZHllTWJGbU5NRDhzUThqMERSRWQwN3Y3Y3Z4WkhQc05nY0tRWDVFUVQ2WFlGWTk0MTFhdXQyTGR5dkt1Sy1vSEVOODY1S3BUa2dB?oc=5\"…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZ05JaktZVWRGVl9EMzdXM0tweWpsNHlSWkxJNzJFT2Y4ZVFlOEFJX3VIck96TlB5RW9QX3AzX1ZrT3RDOUhiaWlwbWxiN1VfS3B5VGZjT09ZX1NiZXUyVmJjUXNmYlVWZHllTWJGbU5NRDhzUThqMERSRWQwN3Y3Y3Z4WkhQc05nY0tRWDVFUVQ2WFlGWTk0MTFhdXQyTGR5dkt1Sy1vSEVOODY1S3BUa2dB?oc=5",
-    "sourceName": "iTnews",
-    "sourceType": "press",
-    "themes": [],
-    "region": "US"
   },
   {
     "id": "945e90e1e25b",
@@ -5825,19 +4487,6 @@
     "region": "US"
   },
   {
-    "id": "2bd4f00f27a2",
-    "date": "2026-05-13",
-    "org": "uk-mod",
-    "orgName": "UK MoD / Defence AI Centre",
-    "headline": "Putin Wants Me Dead, Says AI Chief",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE53bDlfaU1xQU04N0pib3FtZlYxUGN3cDFVMjY1VFlsaTEtWldIQXhubURxUVQzb0NjdnVmY3RWbkg2RHpzWWxFRWVFSWFMVlNKcEs0TmgtZ1VHenlLUHk4Q0RaTDZmWFd0?oc=5\" target=\"_blank\">Putin Wants Me Dead, Says AI Chief</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">slguardian.o…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE53bDlfaU1xQU04N0pib3FtZlYxUGN3cDFVMjY1VFlsaTEtWldIQXhubURxUVQzb0NjdnVmY3RWbkg2RHpzWWxFRWVFSWFMVlNKcEs0TmgtZ1VHenlLUHk4Q0RaTDZmWFd0?oc=5",
-    "sourceName": "slguardian.org",
-    "sourceType": "press",
-    "themes": [],
-    "region": "UK"
-  },
-  {
     "id": "0a54ae325088",
     "date": "2026-05-13",
     "org": "unmapped",
@@ -5846,21 +4495,6 @@
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQVlJTYjc1QlNrU2VOWElfemR2NG1fRHJvZ0RLRko5YTZtTG9naFNoQXhLWHI1MjRMeGp1b3d5c3JyYm5FdGJoTVJuUFl5WW1qYk9yNzhETkdVdnQ0elI5NERWcFZCY0k4YkVNc2ZPX190TlNZdG10VUx4eWJhczU3RXNxR0LSAYoBQVVfeXFMT0poM2dKWllBODktUUFzVmd6NGh0YURmZDB2SkU4S3hSZXNKbmtfcTN…",
     "sourceUrl": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVlJTYjc1QlNrU2VOWElfemR2NG1fRHJvZ0RLRko5YTZtTG9naFNoQXhLWHI1MjRMeGp1b3d5c3JyYm5FdGJoTVJuUFl5WW1qYk9yNzhETkdVdnQ0elI5NERWcFZCY0k4YkVNc2ZPX190TlNZdG10VUx4eWJhczU3RXNxR0LSAYoBQVVfeXFMT0poM2dKWllBODktUUFzVmd6NGh0YURmZDB2SkU4S3hSZXNKbmtfcTNJS0VfQnlJSDNOUzRoNG93dUtLeFVJZndWTlZfeFN4RVVhSmlrLTdDOXNlOXk5TUplM3ZHWXZsU3VuYlllVFpyVFIwOVVVby1fdU1kczllT3FLNDhaQzYwTzNn?oc=5",
     "sourceName": "The Defense Post",
-    "sourceType": "press",
-    "themes": [
-      "autonomy"
-    ],
-    "region": null
-  },
-  {
-    "id": "2253e24c1068",
-    "date": "2026-05-13",
-    "org": "unmapped",
-    "orgName": "Shield AI",
-    "headline": "Shield AI expands Hivemind maritime autonomy in Taiwan with Thunder Tiger partnership",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQM3ZMT2YwWXZ6OGtaTURKUldHeW5UbUNvYjhIZFFTRE1QVXZuSTBvQmxzQ1k1Q0xVanBPdk4zelpiVHNJNXZlVzZ0RHFaNVNvUnVqVEppLWd4QnNlQ0VoMml3RldXSExLS2Y4bG13Q0VoTzVHenFFd21hM2l0QVRZQm1sZzhYU1ZzLVhZbVlHUTRDRUdYUzdnZ0xGMW1hUTBrTW9yZGM2QQ?oc=5\" target=\"_blank…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQM3ZMT2YwWXZ6OGtaTURKUldHeW5UbUNvYjhIZFFTRE1QVXZuSTBvQmxzQ1k1Q0xVanBPdk4zelpiVHNJNXZlVzZ0RHFaNVNvUnVqVEppLWd4QnNlQ0VoMml3RldXSExLS2Y4bG13Q0VoTzVHenFFd21hM2l0QVRZQm1sZzhYU1ZzLVhZbVlHUTRDRUdYUzdnZ0xGMW1hUTBrTW9yZGM2QQ?oc=5",
-    "sourceName": "Shield AI",
     "sourceType": "press",
     "themes": [
       "autonomy"
@@ -5909,30 +4543,17 @@
     "region": "US"
   },
   {
-    "id": "001dd4045c0b",
-    "date": "2026-05-13",
-    "org": "unmapped",
-    "orgName": "Lieber Institute West Point",
-    "headline": "Warification and the Illusion of Precision: AI, Targeting, and Increasing Civilian Harm",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPRHlicUJhd295ZHRELWdjN21ZUzBicWI3Q3AzR0k0Y01EaWRFekJ2cWExN1RlRTJuMWJmSndsUXFBN2tDNi0wVFU5TWI2RHQ0c3A3SUE4SjlicTU3NFF2YW1lT3A1Rk91ZDB4SFMxQVluWFpjTTVHdFhnWm90VHhxdGFzZ0pKb21IZ3hfbnhOWHlPN2Q0LU9NVzN4Sk1XSmVy?oc=5\" target=\"_blank\">Warifica…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRHlicUJhd295ZHRELWdjN21ZUzBicWI3Q3AzR0k0Y01EaWRFekJ2cWExN1RlRTJuMWJmSndsUXFBN2tDNi0wVFU5TWI2RHQ0c3A3SUE4SjlicTU3NFF2YW1lT3A1Rk91ZDB4SFMxQVluWFpjTTVHdFhnWm90VHhxdGFzZ0pKb21IZ3hfbnhOWHlPN2Q0LU9NVzN4Sk1XSmVy?oc=5",
-    "sourceName": "Lieber Institute West Point",
-    "sourceType": "press",
-    "themes": [],
-    "region": null
-  },
-  {
     "id": "1706171fb04e",
     "date": "2026-05-12",
-    "org": "unmapped",
-    "orgName": "Breaking Defense",
+    "org": "palantir",
+    "orgName": "Palantir",
     "headline": "‘Insatiable appetite’ for AI: Maven usage surged for strikes on Iran, Pentagon AI chief says",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZGxBMTRIalVqemZSdVZ1VDdTN2JlTklqYkY4RF9jS3hCMVdibWFud2E1Qy12aXdhN2ViaVRkMjhnSUR4NGk2alNfSDFmeHhWZVlNd2lMU0FVYVZXVWN4M05mQXdSMnJldTVGdHRlWWNtRWFKd2NaRDFJNndpTjN6RDVFWURLcHllX2RQRllQcWVEMnlIZldSbWVHWThGS200QmVxaXhSWGJMM2dpRjZMTzRCb2d5elR…",
     "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZGxBMTRIalVqemZSdVZ1VDdTN2JlTklqYkY4RF9jS3hCMVdibWFud2E1Qy12aXdhN2ViaVRkMjhnSUR4NGk2alNfSDFmeHhWZVlNd2lMU0FVYVZXVWN4M05mQXdSMnJldTVGdHRlWWNtRWFKd2NaRDFJNndpTjN6RDVFWURLcHllX2RQRllQcWVEMnlIZldSbWVHWThGS200QmVxaXhSWGJMM2dpRjZMTzRCb2d5elRHNXhTTHVZamJCcUk?oc=5",
     "sourceName": "Breaking Defense",
     "sourceType": "press",
     "themes": [],
-    "region": null
+    "region": "US"
   },
   {
     "id": "e398d182123a",
@@ -6000,6 +4621,21 @@
     "region": "US"
   },
   {
+    "id": "5326932319f1",
+    "date": "2026-05-12",
+    "org": "eda",
+    "orgName": "European Defence Agency",
+    "headline": "Hanwha highlights unmanned systems and AI defence technologies at BSDA 2026 amid European expansion",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOVVp0NWk2WGstRHFKeWljMmlNMlE5SGtoOFBPdFJXaXZITm83Yy13OE5JdUNiU20zZzNoendhWDhJTTB6cVYtZUpKZ3FiTGlMTWxBWWVjTVEyUFh3OE14M2N5aThUMy1nNVg4bEw2T1RDWVJVVmNiaG4zeGxOamZTcHZNUWJpSXkwTmRLNGpwQnJnRTVuQUlIRXl2T3pwcHE3cDRjOG9ZaDR3ZmMtNHNVYW5DTnp3dTc…",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVVp0NWk2WGstRHFKeWljMmlNMlE5SGtoOFBPdFJXaXZITm83Yy13OE5JdUNiU20zZzNoendhWDhJTTB6cVYtZUpKZ3FiTGlMTWxBWWVjTVEyUFh3OE14M2N5aThUMy1nNVg4bEw2T1RDWVJVVmNiaG4zeGxOamZTcHZNUWJpSXkwTmRLNGpwQnJnRTVuQUlIRXl2T3pwcHE3cDRjOG9ZaDR3ZmMtNHNVYW5DTnp3dTcyczRiem5IcDhBcExLdTQ4?oc=5",
+    "sourceName": "Defence Industry Europe",
+    "sourceType": "press",
+    "themes": [
+      "autonomy"
+    ],
+    "region": "Europe"
+  },
+  {
     "id": "32721048506a",
     "date": "2026-05-12",
     "org": "palantir",
@@ -6052,21 +4688,6 @@
     "region": "Europe"
   },
   {
-    "id": "0eb51752f8b3",
-    "date": "2026-05-12",
-    "org": "unmapped",
-    "orgName": "the-decoder.com",
-    "headline": "Microsoft ousts its Israel chief following reports that Azure quietly powered military AI targeting in Gaza - the-decoder.com",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQZkRueVY5U1RTRUx6NkVqWDB2SHlpanZuYzJpOEFoWHYxS0I5TzB5ZUFQYlBTRTYxWmdSdFFweS1MYk9wZWJaR3JEdkhNUV9pUndvUmtDWTRscDc5OEtGcFhLSjlQTzk3My1sbWxObkZHU1NYcmlCbE0xOGlzV2FFZFk3WkpUcEFYN0tDaEFOYlVWMWtBc1g0MDhoRzZPWWtZc0gyVlFkbEt6WTFibXlNMVR5d2hURmR…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZkRueVY5U1RTRUx6NkVqWDB2SHlpanZuYzJpOEFoWHYxS0I5TzB5ZUFQYlBTRTYxWmdSdFFweS1MYk9wZWJaR3JEdkhNUV9pUndvUmtDWTRscDc5OEtGcFhLSjlQTzk3My1sbWxObkZHU1NYcmlCbE0xOGlzV2FFZFk3WkpUcEFYN0tDaEFOYlVWMWtBc1g0MDhoRzZPWWtZc0gyVlFkbEt6WTFibXlNMVR5d2hURmRjVi1nczlZMUpKc2x4eXpoeTZHMUs?oc=5",
-    "sourceName": "the-decoder.com",
-    "sourceType": "press",
-    "themes": [
-      "isr"
-    ],
-    "region": null
-  },
-  {
     "id": "0eb7dc6675c3",
     "date": "2026-05-12",
     "org": "unmapped",
@@ -6077,6 +4698,21 @@
     "sourceName": "theins.press",
     "sourceType": "press",
     "themes": [],
+    "region": null
+  },
+  {
+    "id": "2e7b8453fccb",
+    "date": "2026-05-12",
+    "org": "unmapped",
+    "orgName": "Defence.in",
+    "headline": "Netherlands Special Forces Acquire Zulu Defence’s Autonomous DRAP Loitering Munition with AI-Based Edge Vision Capabilities",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxQLU1wTDZmd2NTUmE0TzUwT0M3b3hmSzRobnNjVmJpcFdneHBLZUxhUjYyWmxoQjEtOU00UzVmRjVjMjduX2tBelZ6bWNjR0d1Z0NLbGJ2QnpOSWt0S0pJb0p2TDI5enRTbENtQlIwY0xSQ24zSHR1YUF5U1IydUdfMFBCN3U4WkNUV3lGSDNDSE9rS2EtSzQtVG9ybWwwX2J0MU9EbTdLd2ZqX2ZPbzgyVWVDUUl2d2J…",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQLU1wTDZmd2NTUmE0TzUwT0M3b3hmSzRobnNjVmJpcFdneHBLZUxhUjYyWmxoQjEtOU00UzVmRjVjMjduX2tBelZ6bWNjR0d1Z0NLbGJ2QnpOSWt0S0pJb0p2TDI5enRTbENtQlIwY0xSQ24zSHR1YUF5U1IydUdfMFBCN3U4WkNUV3lGSDNDSE9rS2EtSzQtVG9ybWwwX2J0MU9EbTdLd2ZqX2ZPbzgyVWVDUUl2d2JnXzVNT3lxSnNWMHloZHBBREtMUnhxWUpaRHlYU1NzUmhJV2dNQXRNcG5NQk9NRUxndkRDSQ?oc=5",
+    "sourceName": "Defence.in",
+    "sourceType": "press",
+    "themes": [
+      "autonomy"
+    ],
     "region": null
   },
   {
@@ -6227,19 +4863,6 @@
     "region": "US"
   },
   {
-    "id": "da0f1fc2c52c",
-    "date": "2026-05-11",
-    "org": "thales",
-    "orgName": "Thales",
-    "headline": "AI bots account for more than half of all web traffic, with 40% classified as malicious",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNWGRGeGFzNmFEcVlrc2xLRl80X09BQzQtb182TGhzWnRwdWFXODNhNU5HNzR4dTJ3aC1laUpIX0paTlRleTNtX0FKbE5aUGJObGhKd2RHS1I4MUxnMm8zRFdxNHFLQUFUR0JIdGRYLTk0dzhLUDZJMmREaGFsOGR0Xy1yZEhXMzB3RUYybHFnWG1UZ0xlcHFaVldYSUxRbnVCNnlv?oc=5\" target=\"_blank\">AI b…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWGRGeGFzNmFEcVlrc2xLRl80X09BQzQtb182TGhzWnRwdWFXODNhNU5HNzR4dTJ3aC1laUpIX0paTlRleTNtX0FKbE5aUGJObGhKd2RHS1I4MUxnMm8zRFdxNHFLQUFUR0JIdGRYLTk0dzhLUDZJMmREaGFsOGR0Xy1yZEhXMzB3RUYybHFnWG1UZ0xlcHFaVldYSUxRbnVCNnlv?oc=5",
-    "sourceName": "Engineering and Technology Magazine",
-    "sourceType": "press",
-    "themes": [],
-    "region": "Europe"
-  },
-  {
     "id": "ce6bc2f131ca",
     "date": "2026-05-11",
     "org": "unmapped",
@@ -6279,21 +4902,6 @@
     "region": null
   },
   {
-    "id": "e9fbe8bb1fda",
-    "date": "2026-05-11",
-    "org": "bae-systems",
-    "orgName": "BAE Systems",
-    "headline": "Autonomous Aircraft Market Size & Growth | Forecast [2034]",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5DWFVJa3hRam1aTWo1eEZyajZReUNuSnJUakNGSkh3dHlkV1VTNEh0ck9RZWVkUmpWd2lPUWwtcGhRanA2YUdYMU9KQWR0X0lyNEpOMFBVNzhUZkFKc09kWm90Q3RTNDhQeHBINWtTU0g1R0hJdVBDTEtpUEZuUQ?oc=5\" target=\"_blank\">Autonomous Aircraft Market Size & Growth | Forecast [2…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5DWFVJa3hRam1aTWo1eEZyajZReUNuSnJUakNGSkh3dHlkV1VTNEh0ck9RZWVkUmpWd2lPUWwtcGhRanA2YUdYMU9KQWR0X0lyNEpOMFBVNzhUZkFKc09kWm90Q3RTNDhQeHBINWtTU0g1R0hJdVBDTEtpUEZuUQ?oc=5",
-    "sourceName": "Fortune Business Insights",
-    "sourceType": "press",
-    "themes": [
-      "autonomy"
-    ],
-    "region": "UK"
-  },
-  {
     "id": "944960fcaabc",
     "date": "2026-05-11",
     "org": "unmapped",
@@ -6322,34 +4930,6 @@
       "ethics-governance"
     ],
     "region": null
-  },
-  {
-    "id": "3c36406ea021",
-    "date": "2026-05-11",
-    "org": "darpa",
-    "orgName": "DARPA",
-    "headline": "Brussels Economic Forum 2026: Europe searches for its AI strategy, warns of risk of lagging behind",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNMU9sLXZBWFdGT1B1V0hFZ2xyS0w2SU5jMkRHRjdmV0VYcklVODE3YktuUzFZWjlQLXhuQnc2U0ZEcDJBQml2aVVpODNPRnhhaFloVElDVXJzS1l4azNqd0t3bGVqeFJ1aTdRZ1ItZ0lIbGJYWUYwMzExVXJVa094ZjR1NGs1RkxzdlJmZjJncm5VQjRSRTdmcU1oRjFOLTAwS3VROTJPZTVOTzQ4S1M4MC1MbVVGb2g…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMU9sLXZBWFdGT1B1V0hFZ2xyS0w2SU5jMkRHRjdmV0VYcklVODE3YktuUzFZWjlQLXhuQnc2U0ZEcDJBQml2aVVpODNPRnhhaFloVElDVXJzS1l4azNqd0t3bGVqeFJ1aTdRZ1ItZ0lIbGJYWUYwMzExVXJVa094ZjR1NGs1RkxzdlJmZjJncm5VQjRSRTdmcU1oRjFOLTAwS3VROTJPZTVOTzQ4S1M4MC1MbVVGb2g4djlGS3U5Ymk5YThKZFE?oc=5",
-    "sourceName": "The Baltic Times",
-    "sourceType": "press",
-    "themes": [],
-    "region": "US"
-  },
-  {
-    "id": "e30e8b8794bb",
-    "date": "2026-05-11",
-    "org": "bae-systems",
-    "orgName": "BAE Systems",
-    "headline": "European shares tepid as markets weigh US-Iran deadlock",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNWmtrU09rLVpuWFlrNFlGSjA5UjRadE83QWVOcnlDRUlKM3UwUHR6OF91Wi1iZTlObUdrRk9qWUc1SnFid29BZUUwVWZCb0pCS2RuVFNXMzY0UzdzdGR3alowc1VGSnpkWE8yejFCQlNvN0c4ak90QlVhemJ0WlRZa3BQaHp3MDN5azJJZTVGS3VqRnJVcFNXR2htdHZyMmdVSlRwbDFqRXVHb1JQSmNJSzFIUllmQTl…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWmtrU09rLVpuWFlrNFlGSjA5UjRadE83QWVOcnlDRUlKM3UwUHR6OF91Wi1iZTlObUdrRk9qWUc1SnFid29BZUUwVWZCb0pCS2RuVFNXMzY0UzdzdGR3alowc1VGSnpkWE8yejFCQlNvN0c4ak90QlVhemJ0WlRZa3BQaHp3MDN5azJJZTVGS3VqRnJVcFNXR2htdHZyMmdVSlRwbDFqRXVHb1JQSmNJSzFIUllmQTlBeTIxVmJBQXFDVlpqd0JUdVlB?oc=5",
-    "sourceName": "The Business Times",
-    "sourceType": "press",
-    "themes": [
-      "genai"
-    ],
-    "region": "UK"
   },
   {
     "id": "d6ca6bc9cf0e",
@@ -6393,19 +4973,6 @@
       "ethics-governance"
     ],
     "region": null
-  },
-  {
-    "id": "e38e594cd222",
-    "date": "2026-05-11",
-    "org": "uk-mod",
-    "orgName": "UK MoD / Defence AI Centre",
-    "headline": "The House Article | We're Going To Need A Bigger Stick: Britain Seeks AI Sovereignty",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNcTR4TzB1cGpsR3F2VmxoOWc1LVZhcUR6MHAyZmx0VDBuTVpIUlZVMW5BWkJPZGJjUzBzay14UW5DVXh4VW5IZDBNY19xMHFHMVFBbGhFOGV1NTBzVXJqTUhqWUVpOC1idGFSYm93Um52QWtHdmNBbENTVHlHaHFHRGVONnZOZnJlOFhpWEV0UENlZk9WVWVZTnpR?oc=5\" target=\"_blank\">The House Articl…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcTR4TzB1cGpsR3F2VmxoOWc1LVZhcUR6MHAyZmx0VDBuTVpIUlZVMW5BWkJPZGJjUzBzay14UW5DVXh4VW5IZDBNY19xMHFHMVFBbGhFOGV1NTBzVXJqTUhqWUVpOC1idGFSYm93Um52QWtHdmNBbENTVHlHaHFHRGVONnZOZnJlOFhpWEV0UENlZk9WVWVZTnpR?oc=5",
-    "sourceName": "Politics Home",
-    "sourceType": "press",
-    "themes": [],
-    "region": "UK"
   },
   {
     "id": "e05113074486",
@@ -6499,6 +5066,21 @@
     "region": null
   },
   {
+    "id": "4de485eded1c",
+    "date": "2026-05-09",
+    "org": "anduril",
+    "orgName": "Anduril",
+    "headline": "ABS, HD Hyundai & Anduril Industries to Advance Autonomous Surface Vessels",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQUHJQbUN5Y0RYX2JaSjIzR1Y1U0dncDBzc01PdGVld1FaREI1MmxsaWdVMzFUdDlNaEVOS19NdmRRVVpKYUNhUVRqdFZnU19BT1dLdVpaT1Q3VnQxR0Y4bjB4SERCeWtqREcxUkFKZ0I2b2prcHBmdU1FTEtzcEt3NnpTNHY3OGwyYVNORWR5NzliT2FBYS1RWVR1YUlZUEprUlMwZkpUN2tzRXgzcW9QX1l3?oc=5\"…",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUHJQbUN5Y0RYX2JaSjIzR1Y1U0dncDBzc01PdGVld1FaREI1MmxsaWdVMzFUdDlNaEVOS19NdmRRVVpKYUNhUVRqdFZnU19BT1dLdVpaT1Q3VnQxR0Y4bjB4SERCeWtqREcxUkFKZ0I2b2prcHBmdU1FTEtzcEt3NnpTNHY3OGwyYVNORWR5NzliT2FBYS1RWVR1YUlZUEprUlMwZkpUN2tzRXgzcW9QX1l3?oc=5",
+    "sourceName": "The Maritime Executive",
+    "sourceType": "press",
+    "themes": [
+      "autonomy"
+    ],
+    "region": "US"
+  },
+  {
     "id": "2a8fa76675a1",
     "date": "2026-05-09",
     "org": "anduril",
@@ -6579,6 +5161,19 @@
     "region": "US"
   },
   {
+    "id": "620251239fc6",
+    "date": "2026-05-09",
+    "org": "unmapped",
+    "orgName": "Yahoo Finance",
+    "headline": "Pentagon Boosts Meta-Backed Scale AI Contract To $500 Million Amid Military AI Push",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPa05ad3pZcHhOTmNNcEREMGxtajNzWl9ra2VISXhjaWZ0NTN2ZXliOHRJUG5oVmRBbElEVGJoOG9uSjQzZVNReVB1eVRJTFk4eVlqbHpmQXdVSXZ2S0tEWGpoby0yQV9yX0toTjhwNXo4NEZlLUQ3NFFrUmVkT1A5Sjg3UGhzcnZkVW1iU2lxRmpxNTNJNWxvQUljZ1BnYXJ6ejFiVw?oc=5\" target=\"_blank\">Pe…",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPa05ad3pZcHhOTmNNcEREMGxtajNzWl9ra2VISXhjaWZ0NTN2ZXliOHRJUG5oVmRBbElEVGJoOG9uSjQzZVNReVB1eVRJTFk4eVlqbHpmQXdVSXZ2S0tEWGpoby0yQV9yX0toTjhwNXo4NEZlLUQ3NFFrUmVkT1A5Sjg3UGhzcnZkVW1iU2lxRmpxNTNJNWxvQUljZ1BnYXJ6ejFiVw?oc=5",
+    "sourceName": "Yahoo Finance",
+    "sourceType": "press",
+    "themes": [],
+    "region": null
+  },
+  {
     "id": "99fe7bbbaadc",
     "date": "2026-05-09",
     "org": "unmapped",
@@ -6652,21 +5247,6 @@
     "region": "US"
   },
   {
-    "id": "aa733db843db",
-    "date": "2026-05-08",
-    "org": "unmapped",
-    "orgName": "Federal News Network",
-    "headline": "AI & Data Exchange 2026: PRAC’s Ken Dieffenbach on using AI tools to stay a step ahead of fraudsters",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxOMkdSWWNGeGs5bWh2QVNPemlYUHFMX1dubzI1eGpLcmFGb1ctNE1vUWpCSHlVUGwwUEtJMmo1ekNRU2VEYlh4clAxVWNvalE2QXZrQ09VbVIyZkRPU1BiNHdVN21yYmhDOXJILWVxeU5welVBTks4T1F0LVVsb250ZzNQa09hbUctcm1xY3RlbTJBc2IwYXUtekQzRWg1ZktoLV84MXlURmpROFNYRE9PQ2p2YXVsaER…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOMkdSWWNGeGs5bWh2QVNPemlYUHFMX1dubzI1eGpLcmFGb1ctNE1vUWpCSHlVUGwwUEtJMmo1ekNRU2VEYlh4clAxVWNvalE2QXZrQ09VbVIyZkRPU1BiNHdVN21yYmhDOXJILWVxeU5welVBTks4T1F0LVVsb250ZzNQa09hbUctcm1xY3RlbTJBc2IwYXUtekQzRWg1ZktoLV84MXlURmpROFNYRE9PQ2p2YXVsaERqaVdPem9zdUJSWmw0eVF1bE11elo2THhmVXJ0RC11bTliRGh0UVc4VUJrZkpSOTc4RW1wNDd6TlZLQQ?oc=5",
-    "sourceName": "Federal News Network",
-    "sourceType": "press",
-    "themes": [
-      "data"
-    ],
-    "region": null
-  },
-  {
     "id": "269ca9109085",
     "date": "2026-05-08",
     "org": "unmapped",
@@ -6706,19 +5286,6 @@
     "region": null
   },
   {
-    "id": "3c1df83b62f3",
-    "date": "2026-05-08",
-    "org": "unmapped",
-    "orgName": "Indianmasterminds",
-    "headline": "India is Building AI-Enabled Stealth Swarm Drones Inspired by Ghatak and SWiFT Programs",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNS3Zkc2ZfSEdSLTFreXRLTFJ5MC1IdzUtSHAxRjJnU1JGVGlweFRWUVh4T0FvRDBUd2VDSGZQTHNPRWtxQjdBelA5cUJTdzRXNGpwS3RhaVdhNmxsVElOeWZ1UGhKZGxSd0lZdXZjWWRDNWNTcVRlUXltUmNnOG1lNXFaY1BQSDN4Y3ZXZ09ULWhwbDdJd3JuZmJjbk9TUGR2YW42MVMzdw?oc=5\" target=\"_blank…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNS3Zkc2ZfSEdSLTFreXRLTFJ5MC1IdzUtSHAxRjJnU1JGVGlweFRWUVh4T0FvRDBUd2VDSGZQTHNPRWtxQjdBelA5cUJTdzRXNGpwS3RhaVdhNmxsVElOeWZ1UGhKZGxSd0lZdXZjWWRDNWNTcVRlUXltUmNnOG1lNXFaY1BQSDN4Y3ZXZ09ULWhwbDdJd3JuZmJjbk9TUGR2YW42MVMzdw?oc=5",
-    "sourceName": "Indianmasterminds",
-    "sourceType": "press",
-    "themes": [],
-    "region": null
-  },
-  {
     "id": "ba8ab94ae874",
     "date": "2026-05-08",
     "org": "palantir",
@@ -6740,19 +5307,6 @@
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE9pX0VEUEJEWEE2YS1jdlg2c2s3dTdoWTFQTnROSmJYOEpaRW81dDFQTE9VRnFaemVBSF9uSGc1NFo0eE9zSzRmZFgyV1FjR2RoNGd3enNnUlRkS2ZHSFhneEFVblpaR1dMMllqa2pIR3YwZXh4U3dHWU5R?oc=5\" target=\"_blank\">KOPN Stock Rallies As AI And Defense Deals Stack Up</a>&nbsp…",
     "sourceUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9pX0VEUEJEWEE2YS1jdlg2c2s3dTdoWTFQTnROSmJYOEpaRW81dDFQTE9VRnFaemVBSF9uSGc1NFo0eE9zSzRmZFgyV1FjR2RoNGd3enNnUlRkS2ZHSFhneEFVblpaR1dMMllqa2pIR3YwZXh4U3dHWU5R?oc=5",
     "sourceName": "StocksToTrade",
-    "sourceType": "press",
-    "themes": [],
-    "region": null
-  },
-  {
-    "id": "f8c24a13885a",
-    "date": "2026-05-08",
-    "org": "unmapped",
-    "orgName": "CNBC",
-    "headline": "Pentagon AI Chief on working with the latest AI models",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPRUJ4SmNFMUVHaC1LblRUNk5JYXl5d19kYzg0YllnRWVsUkpVRFVtLU5kN1YtYmRheDR4ZWZWNXFfdzY1ZEF4UV9XZjN0Nzk2LTlZNnljWnQ5VlRDbnZkR3ExSnhBc2tGMjlleTY4RXV0U1VKMFl6aTMyc3hvSTJrbkU0X004ejlKOGJxb2tXRDJsTWRFbGFjejdiNnY2UQ?oc=5\" target=\"_blank\">Pentagon A…",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRUJ4SmNFMUVHaC1LblRUNk5JYXl5d19kYzg0YllnRWVsUkpVRFVtLU5kN1YtYmRheDR4ZWZWNXFfdzY1ZEF4UV9XZjN0Nzk2LTlZNnljWnQ5VlRDbnZkR3ExSnhBc2tGMjlleTY4RXV0U1VKMFl6aTMyc3hvSTJrbkU0X004ejlKOGJxb2tXRDJsTWRFbGFjejdiNnY2UQ?oc=5",
-    "sourceName": "CNBC",
     "sourceType": "press",
     "themes": [],
     "region": null
@@ -6812,22 +5366,6 @@
     "region": "US"
   },
   {
-    "id": "daab5585a03f",
-    "date": "2026-04-28",
-    "org": "unmapped",
-    "orgName": "Defense One — Technology",
-    "headline": "SOCOM adding AI, autonomy ‘at every level,’ commander says",
-    "summary": "Fast adoption illustrates smaller organizations’ ability to harness disruptive tech.",
-    "sourceUrl": "https://www.defenseone.com/technology/2026/04/socom-adding-ai-autonomy-every-level-commander-says/413186/",
-    "sourceName": "Defense One — Technology",
-    "sourceType": "press",
-    "themes": [
-      "autonomy",
-      "isr"
-    ],
-    "region": "US"
-  },
-  {
     "id": "3d6bdf2d20a4",
     "date": "2026-04-16",
     "org": "unmapped",
@@ -6835,32 +5373,6 @@
     "headline": "‘Best drone’ innovation winner developing enemy drone recovery system with the Army Research Lab",
     "summary": "Soldiers shared their lessons learned from the first Best Drone Warfighter competition at the Army Aviation Warfighter Summit.",
     "sourceUrl": "https://www.defenseone.com/technology/2026/04/best-drone-innovation-winner-developing-enemy-drone-recovery-system-army-research-lab/412919/",
-    "sourceName": "Defense One — Technology",
-    "sourceType": "press",
-    "themes": [],
-    "region": "US"
-  },
-  {
-    "id": "676606234075",
-    "date": "2026-04-09",
-    "org": "unmapped",
-    "orgName": "Defense One — Technology",
-    "headline": "CIA employees will get AI 'coworkers'—and eventually run teams of AI agents, deputy says",
-    "summary": "Deputy Director Michael Ellis said the spy agency recently used AI to generate an intelligence report for the first time.",
-    "sourceUrl": "https://www.defenseone.com/technology/2026/04/cia-ai-coworkers-agents/412746/",
-    "sourceName": "Defense One — Technology",
-    "sourceType": "press",
-    "themes": [],
-    "region": "US"
-  },
-  {
-    "id": "f7a741ee658a",
-    "date": "2026-04-01",
-    "org": "unmapped",
-    "orgName": "Defense One — Technology",
-    "headline": "AI may revive old-school tradecraft even as it transforms intelligence work",
-    "summary": "As electronic messages get harder to trust, human meetings will become more important than ever, a former CIA agent argues.",
-    "sourceUrl": "https://www.defenseone.com/technology/2026/04/AI-tradecraft-intelligence-CIA/412557/",
     "sourceName": "Defense One — Technology",
     "sourceType": "press",
     "themes": [],
