@@ -6,6 +6,12 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches: [main]
+  # Re-deploy after the daily scrape commits new events. A push made with the
+  # default GITHUB_TOKEN does NOT trigger `push` workflows (anti-recursion), so
+  # we hook the scrape's completion explicitly to keep the live site fresh.
+  workflow_run:
+    workflows: ["Scrape feeds"]
+    types: [completed]
   workflow_dispatch: {}
 
 permissions:
