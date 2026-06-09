@@ -1,5 +1,120 @@
 [
   {
+    "id": "30a72eeef7f6",
+    "date": "2026-06-09",
+    "org": "unmapped",
+    "orgName": "Defence Blog",
+    "headline": "Ukraine’s autonomous Shahed killer costs $3,500 per unit",
+    "summary": "The Ukrainian startup behind the autonomous Shahed interceptor system announced this week by Ukraine’s Defense Minister has a name, a price tag, and a detailed technical story: MaXon Systems, a Kyiv-based defense technology company, built an interceptor drone that kills Shaheds…",
+    "sourceUrl": "https://defence-blog.com/ukraines-autonomous-shahed-killer-costs-3500-per-unit/",
+    "sourceName": "Defence Blog",
+    "sourceType": "press",
+    "themes": [
+      "autonomy"
+    ],
+    "region": "Europe"
+  },
+  {
+    "id": "e6e51ed16e74",
+    "date": "2026-06-09",
+    "org": "unmapped",
+    "orgName": "Defense One — All",
+    "headline": "What if the A-10 had AI & electronic-warfare gear?",
+    "summary": "House lawmakers wonder whether new missions could help keep the Warthog useful.",
+    "sourceUrl": "https://www.defenseone.com/defense-systems/2026/06/warthog-ai-electronic-warfare/414045/",
+    "sourceName": "Defense One — All",
+    "sourceType": "press",
+    "themes": [],
+    "region": "US"
+  },
+  {
+    "id": "70604734c440",
+    "date": "2026-06-08",
+    "org": "unmapped",
+    "orgName": "Breaking Defense",
+    "headline": "Airbus unveils U145 autonomous helicopter drone for cargo supply ops",
+    "summary": "Other military roles for the drone cover armed scouting, surveillance, crewed-uncrewed teaming as well as acting as a “mothership” for air launched effects, according to the European prime.",
+    "sourceUrl": "https://breakingdefense.com/2026/06/airbus-unveils-u145-autonomous-helicopter-drone-for-cargo-supply-ops/",
+    "sourceName": "Breaking Defense",
+    "sourceType": "press",
+    "themes": [
+      "autonomy",
+      "isr"
+    ],
+    "region": "US"
+  },
+  {
+    "id": "fa4aa1f21b5c",
+    "date": "2026-06-08",
+    "org": "unmapped",
+    "orgName": "DefenseScoop",
+    "headline": "Combatant commands generating war plans ‘faster and sooner’ with AI",
+    "summary": "The U. S. military’s nuclear and mobility forces are using AI to generate more and better options for logistics and sustainment.",
+    "sourceUrl": "https://defensescoop.com/2026/06/08/combatant-commands-generating-war-plans-faster-and-sooner-with-ai/",
+    "sourceName": "DefenseScoop",
+    "sourceType": "press",
+    "themes": [],
+    "region": "US"
+  },
+  {
+    "id": "9b455860459a",
+    "date": "2026-06-08",
+    "org": "unmapped",
+    "orgName": "Breaking Defense",
+    "headline": "How defense teams can scale AI without increasing data risk",
+    "summary": "[Sponsored] AI is expanding the mission data footprint across defense environments, increasing the need for scalable, layered data-at-rest (DAR) protection.",
+    "sourceUrl": "https://breakingdefense.com/2026/06/how-defense-teams-can-scale-ai-without-increasing-data-risk/",
+    "sourceName": "Breaking Defense",
+    "sourceType": "press",
+    "themes": [
+      "data"
+    ],
+    "region": "US"
+  },
+  {
+    "id": "a6b35c351247",
+    "date": "2026-06-08",
+    "org": "unmapped",
+    "orgName": "Breaking Defense",
+    "headline": "Palladyne AI partners with IAI to bring Israeli Harpy, Harop drones to US",
+    "summary": "Palladyne plans to put new AI swarming software on the battle-proven Israeli drones and compete for contracts like the Army’s Long-Range Precision Munition (LRPM), CEO Ben Wolff told Breaking Defense.",
+    "sourceUrl": "https://breakingdefense.com/2026/06/palladyne-ai-partners-with-iai-to-bring-israeli-harpy-harop-drones-to-us/",
+    "sourceName": "Breaking Defense",
+    "sourceType": "press",
+    "themes": [
+      "isr"
+    ],
+    "region": "US"
+  },
+  {
+    "id": "5769a168aa82",
+    "date": "2026-06-08",
+    "org": "unmapped",
+    "orgName": "Breaking Defense",
+    "headline": "The future of defense manufacturing will be distributed, autonomous and software-defined",
+    "summary": "[Sponsored] How Roboze is helping transform additive manufacturing from a prototyping tool into production infrastructure for defense and critical industries.",
+    "sourceUrl": "https://breakingdefense.com/2026/06/the-future-of-defense-manufacturing-will-be-distributed-autonomous-and-software-defined/",
+    "sourceName": "Breaking Defense",
+    "sourceType": "press",
+    "themes": [
+      "autonomy"
+    ],
+    "region": "US"
+  },
+  {
+    "id": "a2c348d4d827",
+    "date": "2026-06-08",
+    "org": "unmapped",
+    "orgName": "Breaking Defense",
+    "headline": "Trump memo on AI aims to avoid repeat of Anthropic debacle",
+    "summary": "The “National Security Presidential Memorandum” urges closer collaboration with AI companies — as long as they’re compliant with Pentagon demands — and orders a sweeping revision of Biden-era guardrails on military AI.",
+    "sourceUrl": "https://breakingdefense.com/2026/06/trump-memo-on-ai-aims-to-avoid-repeat-of-anthropic-debacle/",
+    "sourceName": "Breaking Defense",
+    "sourceType": "press",
+    "themes": [],
+    "region": "US"
+  },
+  {
     "id": "62eb16afc532",
     "date": "2026-06-06",
     "org": "unmapped",
