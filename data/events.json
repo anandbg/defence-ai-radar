@@ -1,5 +1,81 @@
 [
   {
+    "id": "a685a41994dd",
+    "date": "2026-06-09",
+    "org": "unmapped",
+    "orgName": "DefenseScoop",
+    "headline": "Autonomous Corsair maritime drone rescues US military pilots after crash near Oman",
+    "summary": "It marks the U. S. military’s first publicized use of an unmanned surface vessel to recover aircrew in real-world warfare.",
+    "sourceUrl": "https://defensescoop.com/2026/06/09/autonomous-maritime-drone-rescues-apache-pilots-after-crash/",
+    "sourceName": "DefenseScoop",
+    "sourceType": "press",
+    "themes": [
+      "autonomy"
+    ],
+    "region": "US"
+  },
+  {
+    "id": "6775d9c4afe8",
+    "date": "2026-06-09",
+    "org": "unmapped",
+    "orgName": "Air & Space Forces Magazine",
+    "headline": "Military-Specific AI Tools Aim to Ease Admin Workload",
+    "summary": "GenAI. mil, the Pentagon’s main generative artificial intelligence platform, has more than 1 million users and access to some of the world’s biggest AI models like ChatGPT and Google’s Gemini.",
+    "sourceUrl": "https://www.airandspaceforces.com/military-focused-ai-tools-administrative-work/",
+    "sourceName": "Air & Space Forces Magazine",
+    "sourceType": "press",
+    "themes": [
+      "genai"
+    ],
+    "region": "US"
+  },
+  {
+    "id": "87a8aa52ef5c",
+    "date": "2026-06-09",
+    "org": "unmapped",
+    "orgName": "Breaking Defense",
+    "headline": "NRO funds BlackSky for new satellites, AI-optimized image detection system",
+    "summary": "“The NRO is at the forefront of integrating AI into space-based ISR,” a spysat agency spokesperson told Breaking Defense.",
+    "sourceUrl": "https://breakingdefense.com/2026/06/nro-funds-blacksky-for-new-satellites-ai-optimized-image-detection-system/",
+    "sourceName": "Breaking Defense",
+    "sourceType": "press",
+    "themes": [
+      "isr"
+    ],
+    "region": "US"
+  },
+  {
+    "id": "39def9e763cf",
+    "date": "2026-06-09",
+    "org": "unmapped",
+    "orgName": "DefenseScoop",
+    "headline": "Pentagon approves long-range, autonomous counter-UAS system for use across the military after border testing",
+    "summary": "Officials said the system adds to the burgeoning suite of counter-drone tools the Pentagon is deploying to the U. S. -Mexico border, a region senior military officers have dubbed a testbed for such technology.",
+    "sourceUrl": "https://defensescoop.com/2026/06/09/pentagon-approves-autonomous-counter-drone-system-after-border-testing/",
+    "sourceName": "DefenseScoop",
+    "sourceType": "press",
+    "themes": [
+      "autonomy"
+    ],
+    "region": "US"
+  },
+  {
+    "id": "c457c131f48e",
+    "date": "2026-06-09",
+    "org": "unmapped",
+    "orgName": "DefenseScoop",
+    "headline": "SOCOM seeks ‘self-service’ synthetic data generation platform to boost drones’ computer vision",
+    "summary": "The tech could support the command's Unmanned Systems Autonomy and Interoperability (UxSAI) program.",
+    "sourceUrl": "https://defensescoop.com/2026/06/09/socom-seeks-synthetic-data-generation-computer-vision/",
+    "sourceName": "DefenseScoop",
+    "sourceType": "press",
+    "themes": [
+      "autonomy",
+      "data"
+    ],
+    "region": "US"
+  },
+  {
     "id": "30a72eeef7f6",
     "date": "2026-06-09",
     "org": "unmapped",
