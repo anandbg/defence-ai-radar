@@ -1,5 +1,31 @@
 [
   {
+    "id": "487b70545525",
+    "date": "2026-06-10",
+    "org": "unmapped",
+    "orgName": "UK Gov — Ministry of Defence",
+    "headline": "New taskforce to put AI on the UK's frontline",
+    "summary": "The Rapid AI Delivery Taskforce is a new unit set up to get AI-enabled technology and tools into the hand of Britain's Armed Forces to prepare the UK for the future of warfare.",
+    "sourceUrl": "https://www.gov.uk/government/news/new-taskforce-to-put-ai-on-the-uks-frontline",
+    "sourceName": "UK Gov — Ministry of Defence",
+    "sourceType": "official",
+    "themes": [],
+    "region": "UK"
+  },
+  {
+    "id": "02242817e138",
+    "date": "2026-06-10",
+    "org": "unmapped",
+    "orgName": "UK Gov — Ministry of Defence",
+    "headline": "Putting Artificial Intelligence (AI) at the heart of UK Defence",
+    "summary": "A letter from the Defence Secretary and the Senior Leadership Team to Defence personnel on the importance of exploiting AI.",
+    "sourceUrl": "https://www.gov.uk/government/publications/putting-artificial-intelligence-ai-at-the-heart-of-uk-defence",
+    "sourceName": "UK Gov — Ministry of Defence",
+    "sourceType": "official",
+    "themes": [],
+    "region": "UK"
+  },
+  {
     "id": "a685a41994dd",
     "date": "2026-06-09",
     "org": "unmapped",
