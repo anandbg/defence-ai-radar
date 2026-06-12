@@ -1,5 +1,47 @@
 [
   {
+    "id": "1fb6a02503ec",
+    "date": "2026-06-12",
+    "org": "unmapped",
+    "orgName": "Defence Blog",
+    "headline": "Gallatin AI wins US Army contract for contested logistics software",
+    "summary": "Feeding, fueling, and arming a corps-sized force of tens of thousands of soldiers across months of sustained combat, with supply lines potentially stretching a continent away, is one of the hardest problems in modern warfare. The U. S.",
+    "sourceUrl": "https://defence-blog.com/gallatin-ai-wins-us-army-contract-for-contested-logistics-software/",
+    "sourceName": "Defence Blog",
+    "sourceType": "press",
+    "themes": [],
+    "region": "Europe"
+  },
+  {
+    "id": "4a8f9c3fa278",
+    "date": "2026-06-12",
+    "org": "unmapped",
+    "orgName": "Defence Blog",
+    "headline": "South Korea builds AI defense robot hub",
+    "summary": "South Chungcheong Province and the city of Nonsan have secured selection as the site of South Korea’s new AI defense robotics innovation cluster, winning a national competition that will channel approximately $32 million in total public investment into the region through 2030…",
+    "sourceUrl": "https://defence-blog.com/south-korea-builds-ai-defense-robot-hub/",
+    "sourceName": "Defence Blog",
+    "sourceType": "press",
+    "themes": [],
+    "region": "Europe"
+  },
+  {
+    "id": "6a5cadfecf83",
+    "date": "2026-06-11",
+    "org": "unmapped",
+    "orgName": "Air & Space Forces Magazine",
+    "headline": "Lawmakers Eye Four-Star Command for Unmanned, Autonomous Systems",
+    "summary": "The Pentagon could have the option to create a new combatant command devoted to unmanned and autonomous systems if a provision in the Senate Armed Services Committee’s annual defense policy bill becomes law.",
+    "sourceUrl": "https://www.airandspaceforces.com/lawmakers-four-star-command-unmanned-autonomous-systems/",
+    "sourceName": "Air & Space Forces Magazine",
+    "sourceType": "press",
+    "themes": [
+      "autonomy",
+      "ethics-governance"
+    ],
+    "region": "US"
+  },
+  {
     "id": "487b70545525",
     "date": "2026-06-10",
     "org": "unmapped",
