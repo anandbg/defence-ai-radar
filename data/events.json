@@ -1,5 +1,31 @@
 [
   {
+    "id": "df1684921b57",
+    "date": "2026-06-12",
+    "org": "unmapped",
+    "orgName": "DefenseScoop",
+    "headline": "1.5M people use GenAI.mil, Pentagon CTO says",
+    "summary": "The GenAI. mil platform is meant to reduce drudge work for department employees.",
+    "sourceUrl": "https://defensescoop.com/2026/06/12/genai-mil-usage-pentagon-cto-emil-michael/",
+    "sourceName": "DefenseScoop",
+    "sourceType": "press",
+    "themes": [],
+    "region": "US"
+  },
+  {
+    "id": "2e17e28ad46a",
+    "date": "2026-06-12",
+    "org": "unmapped",
+    "orgName": "Air & Space Forces Magazine",
+    "headline": "Congress Wants Controls on How AI is Used for Targeting and Planning",
+    "summary": "Lawmakers want to expand oversight of artificial-intelligence enabled automated systems to include those the Pentagon uses in planning operations, developing targets or that might recommend what to strike.",
+    "sourceUrl": "https://www.airandspaceforces.com/congress-wants-limits-how-ai-used-for-targeting-planning/",
+    "sourceName": "Air & Space Forces Magazine",
+    "sourceType": "press",
+    "themes": [],
+    "region": "US"
+  },
+  {
     "id": "1fb6a02503ec",
     "date": "2026-06-12",
     "org": "unmapped",
@@ -24,6 +50,34 @@
     "sourceType": "press",
     "themes": [],
     "region": "Europe"
+  },
+  {
+    "id": "f7547d97a065",
+    "date": "2026-06-12",
+    "org": "unmapped",
+    "orgName": "Defense News",
+    "headline": "Ukraine’s defense AI chief predicts ‘new paradigm’ of warfare",
+    "summary": "“The system that possesses more data and better understands that data, proposes solutions — that system will gain the advantage over the other.\"",
+    "sourceUrl": "https://www.defensenews.com/global/europe/2026/06/12/ukraines-defense-ai-chief-predicts-new-paradigm-of-warfare/",
+    "sourceName": "Defense News",
+    "sourceType": "press",
+    "themes": [
+      "data"
+    ],
+    "region": "US"
+  },
+  {
+    "id": "101a241e4001",
+    "date": "2026-06-12",
+    "org": "unmapped",
+    "orgName": "Air & Space Forces Magazine",
+    "headline": "Where DAF Program Leaders Learn to Ship Software in the Age of AI",
+    "summary": "The Air Force and Space Force have it in writing: move faster on AI. The executive orders are public. The mandates have deadlines.",
+    "sourceUrl": "https://www.airandspaceforces.com/where-daf-program-leaders-learn-to-ship-software-in-the-age-of-ai/",
+    "sourceName": "Air & Space Forces Magazine",
+    "sourceType": "press",
+    "themes": [],
+    "region": "US"
   },
   {
     "id": "6a5cadfecf83",
