@@ -1,5 +1,22 @@
 [
   {
+    "id": "e412e68b26d2",
+    "date": "2026-06-14",
+    "org": "unmapped",
+    "orgName": "Defence Blog",
+    "headline": "U.S. Army demonstrates autonomous boat swarm in the Philippines",
+    "summary": "A swarm of autonomous boats operated by U. S.",
+    "sourceUrl": "https://defence-blog.com/u-s-army-demonstrates-autonomous-boat-swarm-in-the-philippines/",
+    "sourceName": "Defence Blog",
+    "sourceType": "press",
+    "themes": [
+      "autonomy",
+      "isr",
+      "data"
+    ],
+    "region": "Europe"
+  },
+  {
     "id": "df1684921b57",
     "date": "2026-06-12",
     "org": "unmapped",
