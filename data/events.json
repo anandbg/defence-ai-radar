@@ -1,5 +1,47 @@
 [
   {
+    "id": "feb56fe2909e",
+    "date": "2026-06-16",
+    "org": "unmapped",
+    "orgName": "Defence Blog",
+    "headline": "Sweden and France make AI that learns itself in combat",
+    "summary": "Teaching a military AI system to recognize enemy drones requires showing it thousands of examples of those drones under real battlefield conditions, across different lighting, weather, angles, and sensor types, but the footage collected in active operations is often too…",
+    "sourceUrl": "https://defence-blog.com/sweden-and-france-make-ai-that-learns-itself-in-combat/",
+    "sourceName": "Defence Blog",
+    "sourceType": "press",
+    "themes": [],
+    "region": "Europe"
+  },
+  {
+    "id": "e09ce76b1906",
+    "date": "2026-06-15",
+    "org": "unmapped",
+    "orgName": "Air & Space Forces Magazine",
+    "headline": "Next-Gen Airlifter Could Land and Take Off from Austere Airstrips",
+    "summary": "The Air Force is offering a few early hints of what it’s looking for in its next-generation replacement for the C-5 and C-17, including the ability to fly in and out of makeshift airfields on austere battlefields.",
+    "sourceUrl": "https://www.airandspaceforces.com/air-force-next-gen-airlifter-austere-airstrips/",
+    "sourceName": "Air & Space Forces Magazine",
+    "sourceType": "press",
+    "themes": [],
+    "region": "US"
+  },
+  {
+    "id": "e2a93234b9b5",
+    "date": "2026-06-15",
+    "org": "unmapped",
+    "orgName": "DefenseScoop",
+    "headline": "Senator questions Pentagon’s plan to revise autonomous weapons policy",
+    "summary": "Arizona Democrat Ruben Gallego wants Defense Secretary Pete Hegseth to disclose how the department is working to mitigate unintended harm to Americans and allies as it revises its policy for lethal autonomous weapons systems in a rapid manner.",
+    "sourceUrl": "https://defensescoop.com/2026/06/15/lawmaker-questions-pentagons-plan-to-revise-autonomous-weapons-policy/",
+    "sourceName": "DefenseScoop",
+    "sourceType": "press",
+    "themes": [
+      "autonomy",
+      "ethics-governance"
+    ],
+    "region": "US"
+  },
+  {
     "id": "e412e68b26d2",
     "date": "2026-06-14",
     "org": "unmapped",
