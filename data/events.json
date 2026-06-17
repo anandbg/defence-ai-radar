@@ -1,5 +1,63 @@
 [
   {
+    "id": "530243a41982",
+    "date": "2026-06-16",
+    "org": "unmapped",
+    "orgName": "Defense One — Technology",
+    "headline": "AI is taking background checks from 'months to hours,' clearance agency says",
+    "summary": "'We're trying to use AI... to make these little tiny decisions, and then bring that up to a human,\" says Defense Counterintelligence and Security Agency official.",
+    "sourceUrl": "https://www.defenseone.com/technology/2026/06/background-checks-clearance/414225/",
+    "sourceName": "Defense One — Technology",
+    "sourceType": "press",
+    "themes": [
+      "c2"
+    ],
+    "region": "US"
+  },
+  {
+    "id": "ca62612648a3",
+    "date": "2026-06-16",
+    "org": "unmapped",
+    "orgName": "Defense One — All",
+    "headline": "ChatGPT to debut on Pentagon's GenAI.mil in ‘early July’, OpenAI says",
+    "summary": "It will be the latest model available for sensitive but unclassified work on the platform.",
+    "sourceUrl": "https://www.defenseone.com/defense-systems/2026/06/chatgpt-debut-pentagon-openai/414237/",
+    "sourceName": "Defense One — All",
+    "sourceType": "press",
+    "themes": [],
+    "region": "US"
+  },
+  {
+    "id": "fc4cea0e5927",
+    "date": "2026-06-16",
+    "org": "unmapped",
+    "orgName": "DefenseScoop",
+    "headline": "Data from ‘half a million hours of Ukraine conflict drone footage’ now available to train AI",
+    "summary": "Full-motion video data is increasingly relevant as drones reshape modern warfare and commercial remote sensing, the CEO of Enabled Intelligence said.",
+    "sourceUrl": "https://defensescoop.com/2026/06/16/data-from-half-a-million-hours-of-ukraine-conflict-drone-footage-now-available-to-train-ai/",
+    "sourceName": "DefenseScoop",
+    "sourceType": "press",
+    "themes": [
+      "data"
+    ],
+    "region": "US"
+  },
+  {
+    "id": "680a7af83e6d",
+    "date": "2026-06-16",
+    "org": "unmapped",
+    "orgName": "Breaking Defense",
+    "headline": "Europe rearms: Battle management, counter-UAS, and real AI at the edge",
+    "summary": "[Sponsored] Mapping Europe’s modernization from the Eastern drone wall to actual artificial intelligence resident in tanks.",
+    "sourceUrl": "https://breakingdefense.com/2026/06/europe-rearms-battle-management-counter-uas-and-real-ai-at-the-edge/",
+    "sourceName": "Breaking Defense",
+    "sourceType": "press",
+    "themes": [
+      "c2"
+    ],
+    "region": "US"
+  },
+  {
     "id": "feb56fe2909e",
     "date": "2026-06-16",
     "org": "unmapped",
