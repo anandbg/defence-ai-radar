@@ -1,5 +1,94 @@
 [
   {
+    "id": "76a494549f3b",
+    "date": "2026-06-22",
+    "org": "unmapped",
+    "orgName": "DefenseScoop",
+    "headline": "Army looking toward autonomous robots to recover its downed vehicles from combat zones",
+    "summary": "The service has been experimenting with ground robots for various tasks such as medical evacuations and logistics resupply, often looking to Ukraine for solutions after Kyiv significantly bolstered its use of unmanned ground vehicles for such missions amid the war with Russia.",
+    "sourceUrl": "https://defensescoop.com/2026/06/22/army-autonomous-vehicle-recover-equipment-from-combat-zones/",
+    "sourceName": "DefenseScoop",
+    "sourceType": "press",
+    "themes": [
+      "autonomy"
+    ],
+    "region": "US"
+  },
+  {
+    "id": "3f5150367813",
+    "date": "2026-06-22",
+    "org": "unmapped",
+    "orgName": "Breaking Defense",
+    "headline": "Automation vs autonomy: What will shape the future of battlefield drones?",
+    "summary": "[Sponsored] While humans must stay in the loop for kinetic decisions, empowering drones to operate autonomously is a force multiplier.",
+    "sourceUrl": "https://breakingdefense.com/2026/06/automation-vs-autonomy-what-will-shape-the-future-of-battlefield-drones/",
+    "sourceName": "Breaking Defense",
+    "sourceType": "press",
+    "themes": [
+      "autonomy",
+      "c2"
+    ],
+    "region": "US"
+  },
+  {
+    "id": "5220e7cfaf83",
+    "date": "2026-06-22",
+    "org": "unmapped",
+    "orgName": "DefenseScoop",
+    "headline": "DIA considering new AI-powered platform to streamline procurement system",
+    "summary": "The release of the RFI comes as the Pentagon and IC are on the hunt for new AI tools to eliminate drudge work for their employees and streamline back-office functions.",
+    "sourceUrl": "https://defensescoop.com/2026/06/22/dia-ai-powered-platform-streamline-procurement-system/",
+    "sourceName": "DefenseScoop",
+    "sourceType": "press",
+    "themes": [],
+    "region": "US"
+  },
+  {
+    "id": "b11018e36872",
+    "date": "2026-06-22",
+    "org": "unmapped",
+    "orgName": "C4ISRNET",
+    "headline": "The unlikely role of Operation Epic Fury in a Mississippi AI data center lawsuit",
+    "summary": "The lawsuit argues that the data centers are operating illegally and polluting surrounding areas, but the DOJ said they’re needed for national security.",
+    "sourceUrl": "https://www.c4isrnet.com/news/your-military/2026/06/22/the-unlikely-role-of-operation-epic-fury-in-a-mississippi-ai-data-center-lawsuit/",
+    "sourceName": "C4ISRNET",
+    "sourceType": "press",
+    "themes": [
+      "data"
+    ],
+    "region": "US"
+  },
+  {
+    "id": "c9e4d989226f",
+    "date": "2026-06-22",
+    "org": "unmapped",
+    "orgName": "The War Zone (TWZ)",
+    "headline": "Turkey’s ‘Fighter Drone’ Teamed With M-346 Fighter-Trainer In Autonomy Trials",
+    "summary": "The demonstrations put Turkey among a small group flight-testing advanced crewed-uncrewed teaming as air forces race to field collaborative combat aircraft.",
+    "sourceUrl": "https://www.twz.com/air/turkeys-fighter-drone-teamed-with-m-346-fighter-trainer-in-autonomy-trials",
+    "sourceName": "The War Zone (TWZ)",
+    "sourceType": "press",
+    "themes": [
+      "autonomy"
+    ],
+    "region": "US"
+  },
+  {
+    "id": "c0cb04b366cf",
+    "date": "2026-06-22",
+    "org": "unmapped",
+    "orgName": "Defense News",
+    "headline": "US Army tests autonomous boats during Philippine exercise",
+    "summary": "Autonomous boats helped escort a U. S. Army vessel during a military exercise, in a demonstration of how uncrewed assets are changing maritime operations.",
+    "sourceUrl": "https://www.defensenews.com/news/your-military/2026/06/22/us-army-tests-autonomous-boats-during-philippine-exercise/",
+    "sourceName": "Defense News",
+    "sourceType": "press",
+    "themes": [
+      "autonomy"
+    ],
+    "region": "US"
+  },
+  {
     "id": "530243a41982",
     "date": "2026-06-16",
     "org": "unmapped",
