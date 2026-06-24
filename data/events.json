@@ -1,5 +1,63 @@
 [
   {
+    "id": "6a3a22bc372c",
+    "date": "2026-06-24",
+    "org": "unmapped",
+    "orgName": "Defence Blog",
+    "headline": "German AI startup powers military drones without GPS",
+    "summary": "A Munich-based artificial intelligence startup called SE3 Labs stepped out of stealth mode on June 26, 2026, announcing that its spatial AI platform is already under contract with the German Bundeswehr and operational in military exercises across Europe, where the company says…",
+    "sourceUrl": "https://defence-blog.com/german-ai-startup-powers-military-drones-without-gps/",
+    "sourceName": "Defence Blog",
+    "sourceType": "press",
+    "themes": [],
+    "region": "Europe"
+  },
+  {
+    "id": "5ef8bbef73fe",
+    "date": "2026-06-24",
+    "org": "unmapped",
+    "orgName": "Defence Blog",
+    "headline": "Poland buys V-BAT surveillance drones in $16 million Shield AI deal",
+    "summary": "Poland has signed a contract worth approximately $16 million to purchase American-made V-BAT vertical takeoff and landing drones for its Navy, with the deal set to be completed before the end of 2026, Defence24 reported.",
+    "sourceUrl": "https://defence-blog.com/poland-buys-v-bat-surveillance-drones-in-16-million-shield-ai-deal/",
+    "sourceName": "Defence Blog",
+    "sourceType": "press",
+    "themes": [
+      "isr"
+    ],
+    "region": "Europe"
+  },
+  {
+    "id": "dd778363f45f",
+    "date": "2026-06-23",
+    "org": "unmapped",
+    "orgName": "C4ISRNET",
+    "headline": "Marines expand use of Maven with new AI operational reporting tool",
+    "summary": "Officials say the new tool will move the Marine Corps from being data-rich but information-poor to a state of information superiority.",
+    "sourceUrl": "https://www.c4isrnet.com/news/your-marine-corps/2026/06/23/marines-expand-use-of-maven-with-new-ai-operational-reporting-tool/",
+    "sourceName": "C4ISRNET",
+    "sourceType": "press",
+    "themes": [
+      "data"
+    ],
+    "region": "US"
+  },
+  {
+    "id": "253bfa65b654",
+    "date": "2026-06-23",
+    "org": "unmapped",
+    "orgName": "Breaking Defense",
+    "headline": "Poland buys V-Bat UAVs from Shield AI for naval forces",
+    "summary": "In Ukraine, V-Bat drones have withstood electronic warfare attacks that have downed other UAVs.",
+    "sourceUrl": "https://breakingdefense.com/2026/06/poland-buys-v-bat-uavs-from-shield-ai-for-naval-forces/",
+    "sourceName": "Breaking Defense",
+    "sourceType": "press",
+    "themes": [
+      "ew"
+    ],
+    "region": "US"
+  },
+  {
     "id": "76a494549f3b",
     "date": "2026-06-22",
     "org": "unmapped",
