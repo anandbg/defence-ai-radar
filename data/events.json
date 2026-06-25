@@ -1,5 +1,33 @@
 [
   {
+    "id": "e2c57c4da183",
+    "date": "2026-06-25",
+    "org": "unmapped",
+    "orgName": "Air & Space Forces Magazine",
+    "headline": "Chinese AI Agents Could Challenge Air and Space Operations, Planning",
+    "summary": "Current and near-term Chinese artificial intelligence capabilities could counter or replicate how the U. S. military plans and conducts operations, especially complex strike packages such as those seen recently in Iran, according to a new think tank report.",
+    "sourceUrl": "https://www.airandspaceforces.com/chinese-ai-agents-air-and-space-operations-strike-planning/",
+    "sourceName": "Air & Space Forces Magazine",
+    "sourceType": "press",
+    "themes": [],
+    "region": "US"
+  },
+  {
+    "id": "d04e24fbec49",
+    "date": "2026-06-25",
+    "org": "unmapped",
+    "orgName": "Defence Blog",
+    "headline": "Lithuania develops new autonomous interceptor to kill kamikaze drones",
+    "summary": "A Lithuanian drone company has unveiled a purpose-built interceptor designed to destroy Shahed-class attack drones in flight, adding a new kinetic counter-drone weapon to the growing arsenal of small nations that have turned four years of front-line experience in Ukraine into…",
+    "sourceUrl": "https://defence-blog.com/lithuania-develops-new-autonomous-interceptor-to-kill-kamikaze-drones/",
+    "sourceName": "Defence Blog",
+    "sourceType": "press",
+    "themes": [
+      "autonomy"
+    ],
+    "region": "Europe"
+  },
+  {
     "id": "6a3a22bc372c",
     "date": "2026-06-24",
     "org": "unmapped",
@@ -11,6 +39,19 @@
     "sourceType": "press",
     "themes": [],
     "region": "Europe"
+  },
+  {
+    "id": "84d6bd281061",
+    "date": "2026-06-24",
+    "org": "unmapped",
+    "orgName": "DefenseScoop",
+    "headline": "Pentagon taps Casepoint’s AI products to enhance classified legal ops",
+    "summary": "The software-as-a-service company’s CEO shared details about the platform’s capabilities ahead of the announcement.",
+    "sourceUrl": "https://defensescoop.com/2026/06/24/pentagon-casepoint-ai-products-enhance-classified-legal-ops/",
+    "sourceName": "DefenseScoop",
+    "sourceType": "press",
+    "themes": [],
+    "region": "US"
   },
   {
     "id": "5ef8bbef73fe",
