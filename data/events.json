@@ -1,5 +1,33 @@
 [
   {
+    "id": "7a9541e62dbd",
+    "date": "2026-06-25",
+    "org": "unmapped",
+    "orgName": "DefenseScoop",
+    "headline": "101st Airborne unit put ‘steel’ between soldiers and the breach, tested limits of AI in recent exercise",
+    "summary": "“The focus of the training has got to be on the fundamentals of warfighting,” said Col. Ryan Bell. Technology “has to enable them, and they still have to be able to fight without it.”",
+    "sourceUrl": "https://defensescoop.com/2026/06/25/101st-airborne-unit-tested-attack-drones-ugv-ai-in-recent-exercise/",
+    "sourceName": "DefenseScoop",
+    "sourceType": "press",
+    "themes": [],
+    "region": "US"
+  },
+  {
+    "id": "9934163cf550",
+    "date": "2026-06-25",
+    "org": "unmapped",
+    "orgName": "Breaking Defense",
+    "headline": "Army Air Assault brigade found AI tools ill-suited to tactical planning",
+    "summary": "“Large language models don’t really understand three-dimensional space. And so they’re not good for developing course of action,” said Col. Ryan Bell.",
+    "sourceUrl": "https://breakingdefense.com/2026/06/army-air-assault-brigade-found-ai-tools-ill-suited-to-tactical-planning/",
+    "sourceName": "Breaking Defense",
+    "sourceType": "press",
+    "themes": [
+      "genai"
+    ],
+    "region": "US"
+  },
+  {
     "id": "e2c57c4da183",
     "date": "2026-06-25",
     "org": "unmapped",
@@ -10,6 +38,21 @@
     "sourceName": "Air & Space Forces Magazine",
     "sourceType": "press",
     "themes": [],
+    "region": "US"
+  },
+  {
+    "id": "6be54e835d95",
+    "date": "2026-06-25",
+    "org": "unmapped",
+    "orgName": "Breaking Defense",
+    "headline": "Frank Kendall on the trouble with banning autonomous weapons [Book excerpt]",
+    "summary": "Former Air Force Secretary Frank Kendall discusses whether effective arms control can be applied to autonomous systems in this book excerpt.",
+    "sourceUrl": "https://breakingdefense.com/2026/06/frank-kendall-on-the-trouble-with-banning-autonomous-weapons-book-excerpt/",
+    "sourceName": "Breaking Defense",
+    "sourceType": "press",
+    "themes": [
+      "autonomy"
+    ],
     "region": "US"
   },
   {
