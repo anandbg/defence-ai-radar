@@ -1,5 +1,91 @@
 [
   {
+    "id": "9f8f3d6c1cf6",
+    "date": "2026-06-30",
+    "org": "unmapped",
+    "orgName": "Air & Space Forces Magazine",
+    "headline": "Air Force Leaders Say AI Guidance, More Changes to BMT Coming",
+    "summary": "Air Force will soon issue new guidance on the use of artificial intelligence and will implement a sweeping modernization of Basic Military Training by 2027 following a summit of top service leaders.",
+    "sourceUrl": "https://www.airandspaceforces.com/air-force-leaders-corona-ai-guidance-bmt-changes/",
+    "sourceName": "Air & Space Forces Magazine",
+    "sourceType": "press",
+    "themes": [],
+    "region": "US"
+  },
+  {
+    "id": "8bdd85173239",
+    "date": "2026-06-30",
+    "org": "unmapped",
+    "orgName": "Defense One — All",
+    "headline": "Marine Corps inks first contract for autonomous ground vehicle production",
+    "summary": "A nearly $20 million contract aims to integrate autonomous ground vehicles in the service’s ground based air defense missions.",
+    "sourceUrl": "https://www.defenseone.com/business/2026/06/marine-corps-inks-first-contract-autonomous-ground-vehicle-production/414517/",
+    "sourceName": "Defense One — All",
+    "sourceType": "press",
+    "themes": [
+      "autonomy"
+    ],
+    "region": "US"
+  },
+  {
+    "id": "8039df2cf2c1",
+    "date": "2026-06-29",
+    "org": "unmapped",
+    "orgName": "DefenseScoop",
+    "headline": "How the Defense Intelligence Agency is fast-tracking data and AI modernization",
+    "summary": "DIA’s CIO highlights the agency’s shift from application-centric to data-centric models and how embedding personnel in industry shops helps build workforce expertise.",
+    "sourceUrl": "https://defensescoop.com/2026/06/29/dia-data-ai-modernization-intelligence/",
+    "sourceName": "DefenseScoop",
+    "sourceType": "press",
+    "themes": [
+      "data"
+    ],
+    "region": "US"
+  },
+  {
+    "id": "bc7d9aff9529",
+    "date": "2026-06-29",
+    "org": "unmapped",
+    "orgName": "Air & Space Forces Magazine",
+    "headline": "New AI ‘Agent Network’ Could Gather Intel Faster for Strike Packages",
+    "summary": "A new Pentagon initiative could shrink the timelines for air and space commanders to gather and sort through the intelligence necessary to conduct operations.",
+    "sourceUrl": "https://www.airandspaceforces.com/new-ai-agent-network-intel-strike-packages/",
+    "sourceName": "Air & Space Forces Magazine",
+    "sourceType": "press",
+    "themes": [],
+    "region": "US"
+  },
+  {
+    "id": "8a6e7a4f4af0",
+    "date": "2026-06-29",
+    "org": "unmapped",
+    "orgName": "DefenseScoop",
+    "headline": "Overland AI lands Pentagon contract to produce autonomous ground vehicles for Marine Corps",
+    "summary": "Overland AI co-founder and CEO Byron Boots said that initial deliveries are scheduled to begin about nine months after contract award.",
+    "sourceUrl": "https://defensescoop.com/2026/06/29/autonomous-ground-vehicle-marine-corps-overland-ai-contract/",
+    "sourceName": "DefenseScoop",
+    "sourceType": "press",
+    "themes": [
+      "autonomy"
+    ],
+    "region": "US"
+  },
+  {
+    "id": "055e7d4fe32d",
+    "date": "2026-06-29",
+    "org": "unmapped",
+    "orgName": "DefenseScoop",
+    "headline": "Transcom seeks partners to study autonomous, cargo-moving drone boats for future ops",
+    "summary": "Participants interested in entering new CRADAs with the command are invited to submit white papers by July 6.",
+    "sourceUrl": "https://defensescoop.com/2026/06/29/autonomous-cargo-moving-drone-boats-us-transportation-command/",
+    "sourceName": "DefenseScoop",
+    "sourceType": "press",
+    "themes": [
+      "autonomy"
+    ],
+    "region": "US"
+  },
+  {
     "id": "7a9541e62dbd",
     "date": "2026-06-25",
     "org": "unmapped",
