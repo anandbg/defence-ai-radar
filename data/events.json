@@ -13,6 +13,34 @@
     "region": "US"
   },
   {
+    "id": "cfbc0303e60b",
+    "date": "2026-06-30",
+    "org": "anduril",
+    "orgName": "Anduril",
+    "headline": "Amazon, Anduril Partner to Push AI and the Cloud to the Tactical Edge",
+    "summary": "One of the Pentagon’s largest cloud services providers is partnering with a rising defense juggernaut to provide high-capacity computing and AI for targeting and sensor fusion in a mobile data center built for austere conditions at the tactical edge.",
+    "sourceUrl": "https://www.airandspaceforces.com/amazon-anduril-partner-to-take-cloud-to-the-tactical-edge/",
+    "sourceName": "Air & Space Forces Magazine",
+    "sourceType": "press",
+    "themes": [
+      "data"
+    ],
+    "region": "US"
+  },
+  {
+    "id": "91bcc69132f3",
+    "date": "2026-06-30",
+    "org": "unmapped",
+    "orgName": "Defense One — Technology",
+    "headline": "Army using AI, robot boats for Pacific logistics",
+    "summary": "“If you can work in the Pacific, you can work anywhere in the world,” said Maj. Gen. Gavin Gardner.",
+    "sourceUrl": "https://www.defenseone.com/technology/2026/06/army-using-ai-robot-boats-pacific-logistics/414525/",
+    "sourceName": "Defense One — Technology",
+    "sourceType": "press",
+    "themes": [],
+    "region": "US"
+  },
+  {
     "id": "8bdd85173239",
     "date": "2026-06-30",
     "org": "unmapped",
@@ -26,6 +54,51 @@
       "autonomy"
     ],
     "region": "US"
+  },
+  {
+    "id": "ee8bd63092c4",
+    "date": "2026-06-30",
+    "org": "unmapped",
+    "orgName": "Defence Blog",
+    "headline": "Mayman Aerospace CEO: autonomous drones must replace helicopters in contested battlespace",
+    "summary": "At 3 a. m. in a contested forward operating base, a patrol thirty kilometres out is taking casualties.",
+    "sourceUrl": "https://defence-blog.com/mayman-aerospace-ceo-autonomous-drones-must-replace-helicopters-in-contested-battlespace/",
+    "sourceName": "Defence Blog",
+    "sourceType": "press",
+    "themes": [
+      "autonomy"
+    ],
+    "region": "Europe"
+  },
+  {
+    "id": "b09f39d737a0",
+    "date": "2026-06-30",
+    "org": "unmapped",
+    "orgName": "Defense One — Technology",
+    "headline": "Pentagon recruiting new tech talent for AI implementation",
+    "summary": "“War Force” of young two-year recruits will get access to “policymaking and national-scale impact,” according to the announcement.",
+    "sourceUrl": "https://www.defenseone.com/technology/2026/06/pentagon-recruiting-new-tech-talent-ai-implementation/414528/",
+    "sourceName": "Defense One — Technology",
+    "sourceType": "press",
+    "themes": [
+      "ethics-governance"
+    ],
+    "region": "US"
+  },
+  {
+    "id": "bbe795bd1345",
+    "date": "2026-06-30",
+    "org": "unmapped",
+    "orgName": "Defence Blog",
+    "headline": "U.S. Army Reserve tests Pyka’s autonomous cargo aircraft in live exercise",
+    "summary": "Pyka’s autonomous cargo aircraft DropShip flew a 32 km (20-mile) resupply mission entirely without a human pilot from Gulfport to Diamondhead, Mississippi, then executed a precision 91 kg (200 lb) airdrop, as part of the U. S.",
+    "sourceUrl": "https://defence-blog.com/u-s-army-reserve-tests-pykas-autonomous-cargo-aircraft-in-live-exercise/",
+    "sourceName": "Defence Blog",
+    "sourceType": "press",
+    "themes": [
+      "autonomy"
+    ],
+    "region": "Europe"
   },
   {
     "id": "8039df2cf2c1",
