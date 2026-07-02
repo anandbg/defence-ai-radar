@@ -1,5 +1,50 @@
 [
   {
+    "id": "9d1bc9af8882",
+    "date": "2026-07-02",
+    "org": "unmapped",
+    "orgName": "Defense One — All",
+    "headline": "Under new management: the Pentagon’s autonomous systems get new oversight",
+    "summary": "Defense Secretary Pete Hegseth ordered the creation of the DRPM-UxS, or direct reporting portfolio manager for unmanned offensive and defensive systems, via memo.",
+    "sourceUrl": "https://www.defenseone.com/defense-systems/2026/07/under-new-management-pentagons-autonomous-systems-get-new-oversight/414584/",
+    "sourceName": "Defense One — All",
+    "sourceType": "press",
+    "themes": [
+      "autonomy"
+    ],
+    "region": "US"
+  },
+  {
+    "id": "7c9b646771f9",
+    "date": "2026-07-01",
+    "org": "unmapped",
+    "orgName": "Breaking Defense",
+    "headline": "EXCLUSIVE: Hegseth creates autonomy czar to manage almost all drone efforts",
+    "summary": "According to an internal memo obtained by Breaking Defense, the new role covers all ground vehicles, all small air vehicles and almost all sea vehicles, and reports directly to Deputy Defense Secretary Stephen Feinberg.",
+    "sourceUrl": "https://breakingdefense.com/2026/07/hehegseth-memo-drone-czar-autonomy-exclusive/",
+    "sourceName": "Breaking Defense",
+    "sourceType": "press",
+    "themes": [
+      "autonomy"
+    ],
+    "region": "US"
+  },
+  {
+    "id": "c4c4d71c43b3",
+    "date": "2026-07-01",
+    "org": "unmapped",
+    "orgName": "DefenseScoop",
+    "headline": "Hegseth realigning DOD’s scattered unmanned and autonomy work under new drone boss",
+    "summary": "A Pentagon spokesperson declined to share whether an interim DRPM-UxS director has been named.",
+    "sourceUrl": "https://defensescoop.com/2026/07/01/hegseth-realigning-unmanned-systems-programs-under-new-drone-boss/",
+    "sourceName": "DefenseScoop",
+    "sourceType": "press",
+    "themes": [
+      "autonomy"
+    ],
+    "region": "US"
+  },
+  {
     "id": "9f8f3d6c1cf6",
     "date": "2026-06-30",
     "org": "unmapped",
