@@ -1,5 +1,50 @@
 [
   {
+    "id": "d449abf2cd5e",
+    "date": "2026-07-02",
+    "org": "unmapped",
+    "orgName": "DefenseScoop",
+    "headline": "Air Force, Space Force combine multiple AI tools in latest battle management experiment",
+    "summary": "The Multi-Decision Advantage Sprint for Human-Machine Teaming wargame demonstrated that AI tools can significantly improve the Air Force's command-and-control operations.",
+    "sourceUrl": "https://defensescoop.com/2026/07/02/air-force-space-force-combine-ai-tools-in-battle-management-experiment/",
+    "sourceName": "DefenseScoop",
+    "sourceType": "press",
+    "themes": [
+      "c2"
+    ],
+    "region": "US"
+  },
+  {
+    "id": "94482b449898",
+    "date": "2026-07-02",
+    "org": "unmapped",
+    "orgName": "Defense One — Technology",
+    "headline": "GenAI.mil records almost 1.7M users, plans new model additions",
+    "summary": "“It's just a really exciting time for generative AI in the department,” the Pentagon’s chief artificial intelligence officer said.",
+    "sourceUrl": "https://www.defenseone.com/technology/2026/07/genaimil-records-almost-17m-users-plans-new-model-additions/414569/",
+    "sourceName": "Defense One — Technology",
+    "sourceType": "press",
+    "themes": [
+      "genai"
+    ],
+    "region": "US"
+  },
+  {
+    "id": "58a9eb2d2f5e",
+    "date": "2026-07-02",
+    "org": "unmapped",
+    "orgName": "Air & Space Forces Magazine",
+    "headline": "Guardians, Airmen Use AI in Experiment to Supercharge Battle Management",
+    "summary": "For the first time, members of the Space Force joined with the Air Force in using advanced artificial intelligence in a complex command-and-control experiment to speed up combat decision-making.",
+    "sourceUrl": "https://www.airandspaceforces.com/guardians-airmen-ai-battle-management-experiment/",
+    "sourceName": "Air & Space Forces Magazine",
+    "sourceType": "press",
+    "themes": [
+      "c2"
+    ],
+    "region": "US"
+  },
+  {
     "id": "9d1bc9af8882",
     "date": "2026-07-02",
     "org": "unmapped",
