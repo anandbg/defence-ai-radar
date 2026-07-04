@@ -1,5 +1,21 @@
 [
   {
+    "id": "084cd0e06edd",
+    "date": "2026-07-03",
+    "org": "unmapped",
+    "orgName": "Defence Blog",
+    "headline": "Russia begins using new AI-enabled attack drones in Ukraine",
+    "summary": "Russia has begun using a new autonomous version of its Molniya strike drone in Ukraine, a cheap fixed-wing attack UAV now being adapted to hit targets without the control antenna that made earlier models vulnerable to electronic warfare.",
+    "sourceUrl": "https://defence-blog.com/russia-begins-using-new-ai-enabled-attack-drones-in-ukraine/",
+    "sourceName": "Defence Blog",
+    "sourceType": "press",
+    "themes": [
+      "autonomy",
+      "ew"
+    ],
+    "region": "Europe"
+  },
+  {
     "id": "d449abf2cd5e",
     "date": "2026-07-02",
     "org": "unmapped",
