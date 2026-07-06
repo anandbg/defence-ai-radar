@@ -1,5 +1,20 @@
 [
   {
+    "id": "817dab86bcb7",
+    "date": "2026-07-06",
+    "org": "unmapped",
+    "orgName": "Naval News",
+    "headline": "HAVELSAN’s AI-Powered Digital Lookout BLUEVISION Proves Itself Across Maritime Platforms",
+    "summary": "Türkiye’s defence solutions provider HAVELSAN unveiled BLUEVISION, an AI-powered maritime awareness system. HAVELSAN press release Maritime operators are expected to keep track of an increasingly complex environment.",
+    "sourceUrl": "https://www.navalnews.com/naval-news/2026/07/havelsans-ai-powered-digital-lookout-bluevision-proves-itself-across-maritime-platforms/",
+    "sourceName": "Naval News",
+    "sourceType": "press",
+    "themes": [
+      "data"
+    ],
+    "region": "Europe"
+  },
+  {
     "id": "084cd0e06edd",
     "date": "2026-07-03",
     "org": "unmapped",
