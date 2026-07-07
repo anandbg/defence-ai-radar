@@ -1,5 +1,20 @@
 [
   {
+    "id": "a29b6a138286",
+    "date": "2026-07-06",
+    "org": "unmapped",
+    "orgName": "Breaking Defense",
+    "headline": "Army makes new tweaks to acquisition portfolios, realigns autonomy office",
+    "summary": "The Army’s approach to acquisition portfolios, which is in flux after an overhaul in the fall, is to “keep what is working and change what is not,” a service spokesperson told Breaking Defense.",
+    "sourceUrl": "https://breakingdefense.com/2026/07/army-makes-new-tweaks-to-acquisition-portfolios-realigns-autonomy-office/",
+    "sourceName": "Breaking Defense",
+    "sourceType": "press",
+    "themes": [
+      "autonomy"
+    ],
+    "region": "US"
+  },
+  {
     "id": "817dab86bcb7",
     "date": "2026-07-06",
     "org": "unmapped",
@@ -11,6 +26,34 @@
     "sourceType": "press",
     "themes": [
       "data"
+    ],
+    "region": "Europe"
+  },
+  {
+    "id": "b37716a2a371",
+    "date": "2026-07-06",
+    "org": "unmapped",
+    "orgName": "DefenseScoop",
+    "headline": "Pentagon awards $80M task order for AI-enabled tech to defend Air Force bases against small drones",
+    "summary": "The task order will be executed under a new $500 million IDIQ contract.",
+    "sourceUrl": "https://defensescoop.com/2026/07/06/pentagon-awards-task-order-to-av-for-titan-drone-defense/",
+    "sourceName": "DefenseScoop",
+    "sourceType": "press",
+    "themes": [],
+    "region": "US"
+  },
+  {
+    "id": "6cd24b1d900c",
+    "date": "2026-07-06",
+    "org": "thales",
+    "orgName": "Thales",
+    "headline": "Thales and Exail Join Forces: Creating an Autonomous Underwater Warfare Powerhouse",
+    "summary": "Thales has announced a binding agreement to acquire the Gorgé family’s stake in Exail Technologies with a view to launching a full tender offer.",
+    "sourceUrl": "https://www.navalnews.com/naval-news/2026/07/thales-and-exail-join-forces-creating-an-autonomous-underwater-warfare-powerhouse/",
+    "sourceName": "Naval News",
+    "sourceType": "press",
+    "themes": [
+      "autonomy"
     ],
     "region": "Europe"
   },
