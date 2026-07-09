@@ -15,6 +15,21 @@
     "region": "US"
   },
   {
+    "id": "20f00a8b41f8",
+    "date": "2026-07-07",
+    "org": "unmapped",
+    "orgName": "Army Times",
+    "headline": "US Army tests autonomous mass minelaying",
+    "summary": "The Army’s Volcano mine dispenser can blanket 32 acres of terrain with up to 960 mines. Now, the Army is testing an autonomous version.",
+    "sourceUrl": "https://www.armytimes.com/news/your-military/2026/07/07/us-army-tests-autonomous-mass-mine-laying/",
+    "sourceName": "Army Times",
+    "sourceType": "press",
+    "themes": [
+      "autonomy"
+    ],
+    "region": "US"
+  },
+  {
     "id": "a29b6a138286",
     "date": "2026-07-06",
     "org": "unmapped",
