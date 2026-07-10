@@ -1,5 +1,46 @@
 [
   {
+    "id": "622c64f2656f",
+    "date": "2026-07-10",
+    "org": "uk-mod",
+    "orgName": "UK MoD / Defence AI Centre",
+    "headline": "AI battle lab to prepare British Army for modern warfare",
+    "summary": "The Ministry of Defence signs new £2 billion contract for AI-based training and analytics for the UK Armed Forces.",
+    "sourceUrl": "https://www.gov.uk/government/news/ai-battle-lab-to-prepare-british-army-for-modern-warfare",
+    "sourceName": "UK Gov — Ministry of Defence",
+    "sourceType": "official",
+    "themes": [],
+    "region": "UK"
+  },
+  {
+    "id": "751d3eb11ae5",
+    "date": "2026-07-09",
+    "org": "unmapped",
+    "orgName": "Breaking Defense",
+    "headline": "Army selects four companies for new autonomous breaching program",
+    "summary": "The program aims to minimize troops’ exposure to danger and ensure safe passage of follow-on forces, according to the Army.",
+    "sourceUrl": "https://breakingdefense.com/2026/07/army-selects-four-companies-for-new-autonomous-breaching-program/",
+    "sourceName": "Breaking Defense",
+    "sourceType": "press",
+    "themes": [
+      "autonomy"
+    ],
+    "region": "US"
+  },
+  {
+    "id": "6c7c7d19dddc",
+    "date": "2026-07-09",
+    "org": "unmapped",
+    "orgName": "Breaking Defense",
+    "headline": "The AI disinformation gap the Pentagon may be missing",
+    "summary": "“The Pentagon is building a better mousetrap while the mice are rewriting the blueprint for the house,” argues this analyst.",
+    "sourceUrl": "https://breakingdefense.com/2026/07/the-ai-disinformation-gap-the-pentagon-may-be-missing/",
+    "sourceName": "Breaking Defense",
+    "sourceType": "press",
+    "themes": [],
+    "region": "US"
+  },
+  {
     "id": "38b5f5f0f265",
     "date": "2026-07-07",
     "org": "unmapped",
