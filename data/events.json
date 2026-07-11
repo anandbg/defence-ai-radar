@@ -13,6 +13,21 @@
     "region": "UK"
   },
   {
+    "id": "5cc0d9308a3c",
+    "date": "2026-07-10",
+    "org": "unmapped",
+    "orgName": "Breaking Defense",
+    "headline": "The autonomous CCA wingmen of 2030 may look nothing like today’s assumptions",
+    "summary": "While services test teaming with Collaborative Combat Aircraft, industry faces hard questions.",
+    "sourceUrl": "https://breakingdefense.com/2026/07/the-autonomous-cca-wingmen-of-2030-may-look-nothing-like-todays-assumptions/",
+    "sourceName": "Breaking Defense",
+    "sourceType": "press",
+    "themes": [
+      "autonomy"
+    ],
+    "region": "US"
+  },
+  {
     "id": "751d3eb11ae5",
     "date": "2026-07-09",
     "org": "unmapped",
