@@ -1,5 +1,31 @@
 [
   {
+    "id": "6843b50bf1aa",
+    "date": "2026-07-14",
+    "org": "unmapped",
+    "orgName": "Defense One — Technology",
+    "headline": "How a former Marine is rewriting the future of battlefield AI",
+    "summary": "A pilot program in the Pacific is showing how to get advanced tools all the way to the edge.",
+    "sourceUrl": "https://www.defenseone.com/technology/2026/07/how-former-marine-rewriting-future-battlefield-ai/414758/",
+    "sourceName": "Defense One — Technology",
+    "sourceType": "press",
+    "themes": [],
+    "region": "US"
+  },
+  {
+    "id": "5deabc6b68e8",
+    "date": "2026-07-14",
+    "org": "unmapped",
+    "orgName": "Breaking Defense",
+    "headline": "Leonardo DRS CEO on ‘nearly insatiable’ demand abroad, using AI and more",
+    "summary": "John Baylouny sat down with Breaking Defense to lay out his plans for both organic and inorganic growth.",
+    "sourceUrl": "https://breakingdefense.com/2026/07/leonardo-drs-ceo-on-nearly-insatiable-demand-abroad-using-ai-and-more/",
+    "sourceName": "Breaking Defense",
+    "sourceType": "press",
+    "themes": [],
+    "region": "US"
+  },
+  {
     "id": "622c64f2656f",
     "date": "2026-07-10",
     "org": "uk-mod",
