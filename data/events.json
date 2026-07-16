@@ -1,5 +1,35 @@
 [
   {
+    "id": "5d0ffed913df",
+    "date": "2026-07-16",
+    "org": "unmapped",
+    "orgName": "Defence Blog",
+    "headline": "Israeli firm unveils AI defense against wire-guided drones",
+    "summary": "Axon Vision, an Israeli defense technology company, announced Thursday the launch of ForceField, a new protection system designed to shield tanks, armored vehicles, and troops on the move from first-person-view drones, the cheap, remote-piloted aircraft that have become one of…",
+    "sourceUrl": "https://defence-blog.com/israeli-firm-unveils-ai-defense-against-wire-guided-drones/",
+    "sourceName": "Defence Blog",
+    "sourceType": "press",
+    "themes": [
+      "isr"
+    ],
+    "region": "Europe"
+  },
+  {
+    "id": "83bc9e6a1426",
+    "date": "2026-07-15",
+    "org": "unmapped",
+    "orgName": "Breaking Defense",
+    "headline": "Army reveals new details on autonomous launcher, high energy laser program",
+    "summary": "Lt. Gen. Frank Lozano told an audience Tuesday that the service is looking to award the first contracts for its CAML program next month, and it is in final negotiations with AV for its E-HEL initiative.",
+    "sourceUrl": "https://breakingdefense.com/2026/07/army-reveals-new-details-on-autonomous-launcher-high-energy-laser-program/",
+    "sourceName": "Breaking Defense",
+    "sourceType": "press",
+    "themes": [
+      "autonomy"
+    ],
+    "region": "US"
+  },
+  {
     "id": "6843b50bf1aa",
     "date": "2026-07-14",
     "org": "unmapped",
