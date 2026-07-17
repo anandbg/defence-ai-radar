@@ -1,5 +1,35 @@
 [
   {
+    "id": "140b7859c3eb",
+    "date": "2026-07-16",
+    "org": "unmapped",
+    "orgName": "Breaking Defense",
+    "headline": "Blue Water Autonomy, Saildrone launch lawsuits against Navy over MUSV Marketplace",
+    "summary": "Both companies claim that their proposals did satisfy Navy requirements for the new MUSV marketplace.",
+    "sourceUrl": "https://breakingdefense.com/2026/07/blue-water-autonomy-saildrone-launch-lawsuits-against-navy-over-musv-marketplace/",
+    "sourceName": "Breaking Defense",
+    "sourceType": "press",
+    "themes": [
+      "autonomy"
+    ],
+    "region": "US"
+  },
+  {
+    "id": "b8e8184e1892",
+    "date": "2026-07-16",
+    "org": "darpa",
+    "orgName": "DARPA",
+    "headline": "DARPA and U.S. Air Force fly AI-controlled F-16, paving the way for autonomous air combat",
+    "summary": "Historic VENOM milestone demonstrates scalable AI development capabilities for the operational fleet.",
+    "sourceUrl": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
+    "sourceName": "DARPA News",
+    "sourceType": "official",
+    "themes": [
+      "autonomy"
+    ],
+    "region": "US"
+  },
+  {
     "id": "5d0ffed913df",
     "date": "2026-07-16",
     "org": "unmapped",
@@ -13,6 +43,21 @@
       "isr"
     ],
     "region": "Europe"
+  },
+  {
+    "id": "7112139b1c7e",
+    "date": "2026-07-16",
+    "org": "unmapped",
+    "orgName": "DefenseScoop",
+    "headline": "SECNAV Hung Cao unveils plan for Navy to ‘out-learn and out-fight any adversary’ with AI",
+    "summary": "The sea service released its new \"Strategy to Weaponize Data and Artificial Intelligence\" this week.",
+    "sourceUrl": "https://defensescoop.com/2026/07/16/hung-cao-navy-strategy-weaponize-data-artificial-intelligence/",
+    "sourceName": "DefenseScoop",
+    "sourceType": "press",
+    "themes": [
+      "data"
+    ],
+    "region": "US"
   },
   {
     "id": "83bc9e6a1426",
