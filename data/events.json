@@ -1,5 +1,78 @@
 [
   {
+    "id": "63902dce790c",
+    "date": "2026-07-21",
+    "org": "unmapped",
+    "orgName": "Defence Blog",
+    "headline": "U.S. Marine Corps taps a AI-powered gun against cheap drones",
+    "summary": "A robotic gun mount built by a Texas firm just landed a spot on one of the Marine Corps’ most important counter-drone vehicles, giving Marines a way to turn an ordinary machine gun into an autonomous, AI-guided weapon.",
+    "sourceUrl": "https://defence-blog.com/u-s-marine-corps-taps-a-ai-powered-gun-against-cheap-drones/",
+    "sourceName": "Defence Blog",
+    "sourceType": "press",
+    "themes": [
+      "autonomy"
+    ],
+    "region": "Europe"
+  },
+  {
+    "id": "aaeeb74b9123",
+    "date": "2026-07-20",
+    "org": "anduril",
+    "orgName": "Anduril",
+    "headline": "Anduril Brings The Thunder With Autonomous Tiltrotor Attack Drone Concept",
+    "summary": "Thunder is designed to fly deep into hostile airspace at low altitude as a highly autonomous wingman for AH-64 Apaches and MV-75 Cheyennes.",
+    "sourceUrl": "https://www.twz.com/news-features/anduril-brings-the-thunder-with-autonomous-tiltrotor-attack-drone-concept",
+    "sourceName": "The War Zone (TWZ)",
+    "sourceType": "press",
+    "themes": [
+      "autonomy"
+    ],
+    "region": "US"
+  },
+  {
+    "id": "803d63a5454a",
+    "date": "2026-07-20",
+    "org": "unmapped",
+    "orgName": "Air & Space Forces Magazine",
+    "headline": "In First, TRANSCOM Operationalized AI Agents to Support Epic Fury",
+    "summary": "In an operational first, U. S. Transportation Command planners turned to artificial intelligence agents for help when Spain denied Air Force tankers access to its bases to support strikes on Iran.",
+    "sourceUrl": "https://www.airandspaceforces.com/transcom-ai-agents-epic-fury/",
+    "sourceName": "Air & Space Forces Magazine",
+    "sourceType": "press",
+    "themes": [],
+    "region": "US"
+  },
+  {
+    "id": "aeb26c0a0214",
+    "date": "2026-07-20",
+    "org": "anduril",
+    "orgName": "Anduril",
+    "headline": "Thunderstruck: Anduril unveils autonomous attack rotorcraft",
+    "summary": "Anduril's autonomous attack rotorcraft, dubbed Thunder, is designed to operate with current and next-generation crewed attack helicopter platforms.",
+    "sourceUrl": "https://www.defensenews.com/industry/techwatch/2026/07/20/thunderstruck-anduril-unveils-autonomous-attack-rotorcraft/",
+    "sourceName": "Defense News",
+    "sourceType": "press",
+    "themes": [
+      "autonomy"
+    ],
+    "region": "US"
+  },
+  {
+    "id": "be980467f7ac",
+    "date": "2026-07-20",
+    "org": "unmapped",
+    "orgName": "Defense News",
+    "headline": "US Air Force begins piloted flights, autonomy tests for modified F-16s",
+    "summary": "Piloted flights and autonomy tests began recently for modified F-16s that allows artificial intelligence agents to fly the aircraft.",
+    "sourceUrl": "https://www.defensenews.com/industry/techwatch/2026/07/20/air-force-begins-piloted-flights-autonomy-tests-for-modified-f-16s/",
+    "sourceName": "Defense News",
+    "sourceType": "press",
+    "themes": [
+      "autonomy"
+    ],
+    "region": "US"
+  },
+  {
     "id": "140b7859c3eb",
     "date": "2026-07-16",
     "org": "unmapped",
