@@ -15,6 +15,21 @@
     "region": "Europe"
   },
   {
+    "id": "5f0f20177a0a",
+    "date": "2026-07-21",
+    "org": "unmapped",
+    "orgName": "Defense News",
+    "headline": "US Marine Corps turns to AI-powered Bullfrog as drone threats expand",
+    "summary": "Allen Control Systems announced Monday that the Marine Corps has chosen the Bullfrog autonomous weapon system to integrate into its airborne defenses.",
+    "sourceUrl": "https://www.defensenews.com/news/your-military/2026/07/21/us-marine-corps-turns-to-ai-powered-bullfrog-as-drone-threats-expand/",
+    "sourceName": "Defense News",
+    "sourceType": "press",
+    "themes": [
+      "autonomy"
+    ],
+    "region": "US"
+  },
+  {
     "id": "aaeeb74b9123",
     "date": "2026-07-20",
     "org": "anduril",
