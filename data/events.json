@@ -1,5 +1,37 @@
 [
   {
+    "id": "051a6ae415f2",
+    "date": "2026-07-22",
+    "org": "bae-systems",
+    "orgName": "BAE Systems",
+    "headline": "BAE Systems Unveils Brontanax: UK’s First Autonomous Combat Aircraft",
+    "summary": "BAE Systems has unveiled Brontanax, the UK’s first uncrewed autonomous Collaborative Combat Aircraft (CCA), at the Farnborough International Airshow.",
+    "sourceUrl": "https://www.navalnews.com/naval-news/2026/07/bae-systems-unveils-brontanax-autonomous-combat-aircraft/",
+    "sourceName": "Naval News",
+    "sourceType": "press",
+    "themes": [
+      "autonomy"
+    ],
+    "region": "UK"
+  },
+  {
+    "id": "452418b37dec",
+    "date": "2026-07-22",
+    "org": "unmapped",
+    "orgName": "Defence Blog",
+    "headline": "NODA AI wins $10M deal to make Pentagon drones work as one team",
+    "summary": "NODA AI announced Wednesday it has secured a $10 million contract from the Department of War, the current name for the Department of Defense, to develop software that lets American military drones and autonomous vehicles keep executing a commander’s orders even after enemy…",
+    "sourceUrl": "https://defence-blog.com/noda-ai-wins-10m-deal-to-make-pentagon-drones-work-as-one-team/",
+    "sourceName": "Defence Blog",
+    "sourceType": "press",
+    "themes": [
+      "autonomy",
+      "ew",
+      "cyber"
+    ],
+    "region": "Europe"
+  },
+  {
     "id": "63902dce790c",
     "date": "2026-07-21",
     "org": "unmapped",
