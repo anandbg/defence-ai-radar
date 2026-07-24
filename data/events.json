@@ -1,5 +1,49 @@
 [
   {
+    "id": "412732e7994e",
+    "date": "2026-07-24",
+    "org": "unmapped",
+    "orgName": "Defence Blog",
+    "headline": "BLADE picked for U.S. Army’s autonomous logistics program",
+    "summary": "HDT Robotics, doing business as BLADE, announced Wednesday it has been selected as one of five industry partners for the U. S.",
+    "sourceUrl": "https://defence-blog.com/blade-picked-for-u-s-armys-autonomous-logistics-program/",
+    "sourceName": "Defence Blog",
+    "sourceType": "press",
+    "themes": [
+      "autonomy",
+      "isr"
+    ],
+    "region": "Europe"
+  },
+  {
+    "id": "1ea1eb0c75d5",
+    "date": "2026-07-23",
+    "org": "unmapped",
+    "orgName": "DefenseScoop",
+    "headline": "How adaptive weapons and trusted autonomy are reshaping the future of fires",
+    "summary": "The next leap in lethality will depend less on advanced weapons alone and more on software-driven munitions that can adapt, scale and earn commanders’ trust.",
+    "sourceUrl": "https://defensescoop.com/2026/07/23/gdit-adaptive-weapons-trusted-autonomy-future-fires/",
+    "sourceName": "DefenseScoop",
+    "sourceType": "press",
+    "themes": [
+      "autonomy"
+    ],
+    "region": "US"
+  },
+  {
+    "id": "1ce121fcd881",
+    "date": "2026-07-23",
+    "org": "unmapped",
+    "orgName": "DefenseScoop",
+    "headline": "Trump authorizes use of AI for defense supply chain mapping",
+    "summary": "The president issued an EO this week on “Securing America’s Defense Supply Chains and Ensuring Domestic Acquisition of Critical Materials.\"",
+    "sourceUrl": "https://defensescoop.com/2026/07/23/trump-authorizes-ai-map-defense-supply-chains/",
+    "sourceName": "DefenseScoop",
+    "sourceType": "press",
+    "themes": [],
+    "region": "US"
+  },
+  {
     "id": "051a6ae415f2",
     "date": "2026-07-22",
     "org": "bae-systems",
