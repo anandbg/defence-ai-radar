@@ -1,5 +1,57 @@
 [
   {
+    "id": "2dc6ee801a3b",
+    "date": "2026-07-28",
+    "org": "unmapped",
+    "orgName": "Breaking Defense",
+    "headline": "CENTCOM announces US-UAE task force on AI",
+    "summary": "“It sounds good on paper,” a former senior defense official told Breaking Defense. “My biggest questions revolve around classified information sharing.”",
+    "sourceUrl": "https://breakingdefense.com/2026/07/centcom-announces-us-uae-task-force-on-ai/",
+    "sourceName": "Breaking Defense",
+    "sourceType": "press",
+    "themes": [],
+    "region": "US"
+  },
+  {
+    "id": "10128eaf0f90",
+    "date": "2026-07-28",
+    "org": "unmapped",
+    "orgName": "Army Times",
+    "headline": "Job search ‘coaches’ gear up to help transitioning troops meet AI challenge",
+    "summary": "About 200,000 troops leave the military each year, and this year they are entering a jobs market in flux, with the long-term effects of AI anybody's guess.",
+    "sourceUrl": "https://www.armytimes.com/veterans/2026/07/28/job-search-coaches-gear-up-to-help-transitioning-troops-meet-ai-challenge/",
+    "sourceName": "Army Times",
+    "sourceType": "press",
+    "themes": [],
+    "region": "US"
+  },
+  {
+    "id": "e5baaab07b60",
+    "date": "2026-07-28",
+    "org": "unmapped",
+    "orgName": "DefenseScoop",
+    "headline": "Marine commandos aim to automate armories with computer vision, other tech",
+    "summary": "MARSOC is teaming up with the SOFWERX innovation hub and industry on the new “automated armory” initiative.",
+    "sourceUrl": "https://defensescoop.com/2026/07/28/marine-forces-special-operations-command-automated-armory-marsoc/",
+    "sourceName": "DefenseScoop",
+    "sourceType": "press",
+    "themes": [],
+    "region": "US"
+  },
+  {
+    "id": "cd21dbdb77d1",
+    "date": "2026-07-28",
+    "org": "unmapped",
+    "orgName": "DefenseScoop",
+    "headline": "U.S. military forms first bilateral AI task force with United Arab Emirates",
+    "summary": "Task Force Talon Synapse is slated to soon be fully operational, but some observers question its ultimate value.",
+    "sourceUrl": "https://defensescoop.com/2026/07/28/us-military-ai-task-force-united-arab-emirates/",
+    "sourceName": "DefenseScoop",
+    "sourceType": "press",
+    "themes": [],
+    "region": "US"
+  },
+  {
     "id": "cc690c9d4e38",
     "date": "2026-07-24",
     "org": "unmapped",
