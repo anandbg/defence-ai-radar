@@ -1,5 +1,50 @@
 [
   {
+    "id": "9ef57cfeb23a",
+    "date": "2026-07-29",
+    "org": "unmapped",
+    "orgName": "DefenseScoop",
+    "headline": "AV and Applied Intuition team up to bring collaborative autonomy to new Mayhem 10 drone",
+    "summary": "“Our Acuity ISR/Strike software brings collaborative autonomy to Mayhem 10, rapidly delivering next-generation capabilities through platform-agnostic software with operator oversight,” said Jason Brown, general manager of Applied Intuition.",
+    "sourceUrl": "https://defensescoop.com/2026/07/29/av-applied-intuition-collaborative-autonomy-mayhem-10-drone/",
+    "sourceName": "DefenseScoop",
+    "sourceType": "press",
+    "themes": [
+      "autonomy",
+      "isr"
+    ],
+    "region": "US"
+  },
+  {
+    "id": "1580e5443c17",
+    "date": "2026-07-29",
+    "org": "unmapped",
+    "orgName": "Breaking Defense",
+    "headline": "Building a predictive defense industrial base begins with artificial intelligence",
+    "summary": "[Sponsored] AI-enabled workflows accelerate production, but cybersecurity and governance remain central.",
+    "sourceUrl": "https://breakingdefense.com/2026/07/building-a-predictive-defense-industrial-base-begins-with-artificial-intelligence/",
+    "sourceName": "Breaking Defense",
+    "sourceType": "press",
+    "themes": [
+      "cyber",
+      "ethics-governance"
+    ],
+    "region": "US"
+  },
+  {
+    "id": "179547a7e1d3",
+    "date": "2026-07-29",
+    "org": "unmapped",
+    "orgName": "Defence Blog",
+    "headline": "US and UAE launch first joint military AI task force",
+    "summary": "The U. S.",
+    "sourceUrl": "https://defence-blog.com/us-and-uae-launch-first-joint-military-ai-task-force/",
+    "sourceName": "Defence Blog",
+    "sourceType": "press",
+    "themes": [],
+    "region": "Europe"
+  },
+  {
     "id": "2dc6ee801a3b",
     "date": "2026-07-28",
     "org": "unmapped",
@@ -47,6 +92,19 @@
     "summary": "Task Force Talon Synapse is slated to soon be fully operational, but some observers question its ultimate value.",
     "sourceUrl": "https://defensescoop.com/2026/07/28/us-military-ai-task-force-united-arab-emirates/",
     "sourceName": "DefenseScoop",
+    "sourceType": "press",
+    "themes": [],
+    "region": "US"
+  },
+  {
+    "id": "6d8e07184aad",
+    "date": "2026-07-28",
+    "org": "unmapped",
+    "orgName": "Defense News",
+    "headline": "US Central Command, UAE to launch artificial intelligence task force",
+    "summary": "CENTCOM and the UAE will establish Task Force Talon Synapse aimed at boosting the development of military artificial intelligence applications.",
+    "sourceUrl": "https://www.defensenews.com/industry/techwatch/2026/07/28/us-central-command-uae-to-launch-artifical-intelligence-task-force/",
+    "sourceName": "Defense News",
     "sourceType": "press",
     "themes": [],
     "region": "US"
