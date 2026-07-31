@@ -1,5 +1,20 @@
 [
   {
+    "id": "40c3ba8a5883",
+    "date": "2026-07-30",
+    "org": "unmapped",
+    "orgName": "Defence Blog",
+    "headline": "Taiwan teams up with a US firm to build AI-guided attack boats",
+    "summary": "Taiwan’s homegrown drone maker just showed off a fleet of AI-powered attack boats designed to patrol the waters around an island that has spent the past several years watching exactly how much unmanned systems can change a war, the Liberty Times reported from Dapeng Bay in…",
+    "sourceUrl": "https://defence-blog.com/taiwan-teams-up-with-a-us-firm-to-build-ai-guided-attack-boats/",
+    "sourceName": "Defence Blog",
+    "sourceType": "press",
+    "themes": [
+      "autonomy"
+    ],
+    "region": "Europe"
+  },
+  {
     "id": "9ef57cfeb23a",
     "date": "2026-07-29",
     "org": "unmapped",
@@ -37,7 +52,7 @@
     "org": "unmapped",
     "orgName": "Defence Blog",
     "headline": "US and UAE launch first joint military AI task force",
-    "summary": "The U. S.",
+    "summary": "The U. S. military has signed on for its first-ever bilateral artificial intelligence unit with a Middle Eastern partner, a Tampa-based command confirmed Tuesday, betting that shared access to AI tools can speed up how fast American and Emirati forces detect",
     "sourceUrl": "https://defence-blog.com/us-and-uae-launch-first-joint-military-ai-task-force/",
     "sourceName": "Defence Blog",
     "sourceType": "press",
