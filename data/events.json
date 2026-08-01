@@ -1,5 +1,33 @@
 [
   {
+    "id": "41e8b6df55d5",
+    "date": "2026-07-31",
+    "org": "unmapped",
+    "orgName": "Defense News",
+    "headline": "Chinese military researchers tap US AI models to train defense systems",
+    "summary": "Chinese researchers have reportedly used leading U. S. AI models developed by OpenAI and Anthropic to train AI systems to advance defense capabilities.",
+    "sourceUrl": "https://www.defensenews.com/industry/techwatch/2026/07/31/chinese-military-researchers-tap-us-ai-models-to-train-defense-systems/",
+    "sourceName": "Defense News",
+    "sourceType": "press",
+    "themes": [],
+    "region": "US"
+  },
+  {
+    "id": "65f89400fd0f",
+    "date": "2026-07-31",
+    "org": "unmapped",
+    "orgName": "Naval News",
+    "headline": "Shield AI and Thunder Tiger complete maritime teaming demo in Taiwan",
+    "summary": "Shield AI and Thunder Tiger Corp. announced the successful completion of Hivemind’s first multi-asset autonomous teaming demonstration on water, validating Shield AI’s Hivemind AI pilot aboard Thunder Tiger SeaShark unmanned surface vessels (USVs) in a coordinated mission.",
+    "sourceUrl": "https://www.navalnews.com/naval-news/2026/07/shield-ai-and-thunder-tiger-complete-maritime-teaming-demo-in-taiwan/",
+    "sourceName": "Naval News",
+    "sourceType": "press",
+    "themes": [
+      "autonomy"
+    ],
+    "region": "Europe"
+  },
+  {
     "id": "40c3ba8a5883",
     "date": "2026-07-30",
     "org": "unmapped",
