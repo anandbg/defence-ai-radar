@@ -1,5 +1,20 @@
 [
   {
+    "id": "a91ebbbee28a",
+    "date": "2026-08-01",
+    "org": "unmapped",
+    "orgName": "Defence Blog",
+    "headline": "American Rheinmetall wins U.S. Army deal for autonomous supply vehicles",
+    "summary": "American Rheinmetall announced that the U. S.",
+    "sourceUrl": "https://defence-blog.com/american-rheinmetall-wins-u-s-army-deal-for-autonomous-supply-vehicles/",
+    "sourceName": "Defence Blog",
+    "sourceType": "press",
+    "themes": [
+      "autonomy"
+    ],
+    "region": "Europe"
+  },
+  {
     "id": "41e8b6df55d5",
     "date": "2026-07-31",
     "org": "unmapped",
