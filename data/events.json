@@ -1,5 +1,20 @@
 [
   {
+    "id": "766ae62f0387",
+    "date": "2026-08-03",
+    "org": "unmapped",
+    "orgName": "DefenseScoop",
+    "headline": "Pentagon exploring AI to monitor military inmates’ phone calls",
+    "summary": "Officials want to expand the surveillance of communications made by individuals incarcerated in the Military Correctional Complex.",
+    "sourceUrl": "https://defensescoop.com/2026/08/03/pentagon-exploring-ai-to-monitor-military-inmates-phone-calls/",
+    "sourceName": "DefenseScoop",
+    "sourceType": "press",
+    "themes": [
+      "isr"
+    ],
+    "region": "US"
+  },
+  {
     "id": "a91ebbbee28a",
     "date": "2026-08-01",
     "org": "unmapped",
