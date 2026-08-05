@@ -1,5 +1,76 @@
 [
   {
+    "id": "d2a3d56d93c1",
+    "date": "2026-08-05",
+    "org": "unmapped",
+    "orgName": "Defense One — Technology",
+    "headline": "Pentagon counterdrone task force has a new AI-powered marketplace",
+    "summary": "The platform was developed to make the foreign military sales process more efficient.",
+    "sourceUrl": "https://www.defenseone.com/technology/2026/08/pentagon-counterdrone-task-force-has-new-ai-powered-marketplace/415216/",
+    "sourceName": "Defense One — Technology",
+    "sourceType": "press",
+    "themes": [],
+    "region": "US"
+  },
+  {
+    "id": "5bd8c1318b11",
+    "date": "2026-08-05",
+    "org": "unmapped",
+    "orgName": "Defence Blog",
+    "headline": "Raytheon’s autonomous launcher passes major U.S. Army field test",
+    "summary": "A driverless military launcher can now fire a cruise missile at a target hundreds of miles away, then be reconfigured within the same mission to shoot down an incoming enemy missile instead, all without a soldier in the driver’s seat.",
+    "sourceUrl": "https://defence-blog.com/raytheons-autonomous-launcher-passes-major-u-s-army-field-test/",
+    "sourceName": "Defence Blog",
+    "sourceType": "press",
+    "themes": [
+      "autonomy"
+    ],
+    "region": "Europe"
+  },
+  {
+    "id": "c78f2d6100f0",
+    "date": "2026-08-05",
+    "org": "unmapped",
+    "orgName": "Defence Blog",
+    "headline": "U.S. Army bets on AI to catch drones radar keeps missing",
+    "summary": "The drones buzzing over U. S. military bases today are often too small, too cheap, and too fast for existing radar systems to reliably catch, and the Army just placed a multimillion-dollar bet on artificial intelligence closing that gap.",
+    "sourceUrl": "https://defence-blog.com/u-s-army-bets-on-ai-to-catch-drones-radar-keeps-missing/",
+    "sourceName": "Defence Blog",
+    "sourceType": "press",
+    "themes": [],
+    "region": "Europe"
+  },
+  {
+    "id": "af1b53691079",
+    "date": "2026-08-05",
+    "org": "unmapped",
+    "orgName": "Defence Blog",
+    "headline": "U.S. Marine Corps evaluates family of Perennial Autonomy drones",
+    "summary": "A U. S. Marine Corps division has watched an American-made interceptor drone hunt down and destroy one of its own sister drones in a live demonstration, proving out technology the Corps is about to put in the hands of ordinary infantry units within weeks.",
+    "sourceUrl": "https://defence-blog.com/u-s-marine-corps-evaluates-family-of-perennial-autonomy-drones/",
+    "sourceName": "Defence Blog",
+    "sourceType": "press",
+    "themes": [
+      "autonomy"
+    ],
+    "region": "Europe"
+  },
+  {
+    "id": "ada2ab706adc",
+    "date": "2026-08-04",
+    "org": "unmapped",
+    "orgName": "Air & Space Forces Magazine",
+    "headline": "AI-Driven X-62 Intercepts Crewed Jets in Test",
+    "summary": "The Air Force’s autonomous test fighter known as the X-62 carried out multiple artificial intelligence-controlled intercepts of a crewed jet in a series of experiments earlier this year, the service said Aug. 4.",
+    "sourceUrl": "https://www.airandspaceforces.com/ai-driven-x-62-intercepts-crewed-jets-in-test/",
+    "sourceName": "Air & Space Forces Magazine",
+    "sourceType": "press",
+    "themes": [
+      "autonomy"
+    ],
+    "region": "US"
+  },
+  {
     "id": "766ae62f0387",
     "date": "2026-08-03",
     "org": "unmapped",
