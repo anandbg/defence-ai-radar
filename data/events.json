@@ -1,5 +1,35 @@
 [
   {
+    "id": "787f3713020b",
+    "date": "2026-08-06",
+    "org": "unmapped",
+    "orgName": "Defence Blog",
+    "headline": "Shield AI, Taiwan expand deal after drone swarm success",
+    "summary": "Three Taiwanese-built drones have searched a stretch of contested airspace together, coordinated by artificial intelligence rather than a room full of human pilots, and the demonstration marks the moment Taiwan’s own defense engineers proved they can run that technology without…",
+    "sourceUrl": "https://defence-blog.com/shield-ai-taiwan-expand-deal-after-drone-swarm-success/",
+    "sourceName": "Defence Blog",
+    "sourceType": "press",
+    "themes": [
+      "autonomy"
+    ],
+    "region": "Europe"
+  },
+  {
+    "id": "6f86d6e7b63c",
+    "date": "2026-08-05",
+    "org": "unmapped",
+    "orgName": "DefenseScoop",
+    "headline": "Air Force expands autonomous flight tests with live, AI-enabled intercepts",
+    "summary": "During one of the latest Air Force experiments, the X-62 VISTA conducted 27 autonomous air intercepts across eight flights.",
+    "sourceUrl": "https://defensescoop.com/2026/08/05/air-force-x-62-vista-have-heat-have-holiday/",
+    "sourceName": "DefenseScoop",
+    "sourceType": "press",
+    "themes": [
+      "autonomy"
+    ],
+    "region": "US"
+  },
+  {
     "id": "d2a3d56d93c1",
     "date": "2026-08-05",
     "org": "unmapped",
