@@ -1,5 +1,63 @@
 [
   {
+    "id": "0e8dfecbb548",
+    "date": "2026-08-06",
+    "org": "unmapped",
+    "orgName": "Defense One — All",
+    "headline": "Did AI blow a $450M Army contract decision? Company lawsuit says yes",
+    "summary": "The Defense Department is increasingly using AI in \"high-impact\" bid evaluations.",
+    "sourceUrl": "https://www.defenseone.com/policy/2026/08/ai-army-contract-lawsuit/415261/",
+    "sourceName": "Defense One — All",
+    "sourceType": "press",
+    "themes": [
+      "c2"
+    ],
+    "region": "US"
+  },
+  {
+    "id": "e947817f7621",
+    "date": "2026-08-06",
+    "org": "unmapped",
+    "orgName": "DefenseScoop",
+    "headline": "Marine Corps will hold AI ‘hackathon’ to prototype tools for training, education",
+    "summary": "A Marine Corps spokesperson said there are no rank requirements to participate in the hackathon and that judges will be a mix of military, government civilian and industry leadership.",
+    "sourceUrl": "https://defensescoop.com/2026/08/06/marine-corps-ai-hackathon-training-education/",
+    "sourceName": "DefenseScoop",
+    "sourceType": "press",
+    "themes": [],
+    "region": "US"
+  },
+  {
+    "id": "151f6c7f27ff",
+    "date": "2026-08-06",
+    "org": "unmapped",
+    "orgName": "DefenseScoop",
+    "headline": "Navy considers relocating robotic and autonomous systems staff amid broader portfolio restructuring",
+    "summary": "The review of the potential relocation of personnel comes as the Navy is creating a new role to oversee the RAS portfolio.",
+    "sourceUrl": "https://defensescoop.com/2026/08/06/navy-robotic-and-autonomous-systems-portfolio-staff/",
+    "sourceName": "DefenseScoop",
+    "sourceType": "press",
+    "themes": [
+      "autonomy"
+    ],
+    "region": "US"
+  },
+  {
+    "id": "936600fdc7b7",
+    "date": "2026-08-06",
+    "org": "unmapped",
+    "orgName": "Breaking Defense",
+    "headline": "Navy creates new robotic and autonomous systems DRPM",
+    "summary": "Chris Miller will serve as acting DRPM RAS and PAE RAS, the service announced.",
+    "sourceUrl": "https://breakingdefense.com/2026/08/navy-creates-new-robotic-and-autonomous-systems-drpm/",
+    "sourceName": "Breaking Defense",
+    "sourceType": "press",
+    "themes": [
+      "autonomy"
+    ],
+    "region": "US"
+  },
+  {
     "id": "787f3713020b",
     "date": "2026-08-06",
     "org": "unmapped",
