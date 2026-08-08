@@ -1,5 +1,49 @@
 [
   {
+    "id": "07f0efe43e1f",
+    "date": "2026-08-07",
+    "org": "unmapped",
+    "orgName": "DefenseScoop",
+    "headline": "Marine Corps tees up hackathon featuring GenAI.mil",
+    "summary": "The hackathon is intended to deliver “tangible products that are useful across the enterprise and immediately deployed or adopted for further refinement,” according to an administrative message.",
+    "sourceUrl": "https://defensescoop.com/2026/08/07/marine-corps-tees-up-hackathon-featuring-genai-mil/",
+    "sourceName": "DefenseScoop",
+    "sourceType": "press",
+    "themes": [],
+    "region": "US"
+  },
+  {
+    "id": "a96f66bd3511",
+    "date": "2026-08-07",
+    "org": "unmapped",
+    "orgName": "Army Times",
+    "headline": "Pentagon ready to deploy Salesforce AI agents for admin tasks",
+    "summary": "Salesforce said the Defense Department and the Army’s Human Resources Command approved its autonomous AI agents for missions with sensitive information.",
+    "sourceUrl": "https://www.armytimes.com/news/your-military/2026/08/07/pentagon-ready-to-deploy-ai-agents-for-admin-tasks/",
+    "sourceName": "Army Times",
+    "sourceType": "press",
+    "themes": [
+      "autonomy"
+    ],
+    "region": "US"
+  },
+  {
+    "id": "bba58077af29",
+    "date": "2026-08-07",
+    "org": "unmapped",
+    "orgName": "DefenseScoop",
+    "headline": "War Data Platform integration plans under scrutiny as DOD hustles to weaponize AI",
+    "summary": "Sources familiar with the deal expressed unease about the government’s handling of this significant procurement decision.",
+    "sourceUrl": "https://defensescoop.com/2026/08/07/pentagon-war-data-platform-integration-plans-under-scrutiny/",
+    "sourceName": "DefenseScoop",
+    "sourceType": "press",
+    "themes": [
+      "c2",
+      "data"
+    ],
+    "region": "US"
+  },
+  {
     "id": "0e8dfecbb548",
     "date": "2026-08-06",
     "org": "unmapped",
