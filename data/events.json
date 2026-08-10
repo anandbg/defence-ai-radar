@@ -28,6 +28,21 @@
     "region": "US"
   },
   {
+    "id": "eccf236e2b4b",
+    "date": "2026-08-07",
+    "org": "unmapped",
+    "orgName": "Naval News",
+    "headline": "ROK Navy Tests AI Uncrewed Mine Warfare in Sea GHOST Trial",
+    "summary": "The Republic of Korea (ROK) Navy, in joint partnership with Hanwha Systems, conducted a live combat trial at Busan Naval Base evaluating an advanced AI-based uncrewed mine warfare system.",
+    "sourceUrl": "https://www.navalnews.com/naval-news/2026/08/rok-navy-sea-ghost-ai-uncrewed-mine-warfare-experiment/",
+    "sourceName": "Naval News",
+    "sourceType": "press",
+    "themes": [
+      "autonomy"
+    ],
+    "region": "Europe"
+  },
+  {
     "id": "bba58077af29",
     "date": "2026-08-07",
     "org": "unmapped",
@@ -130,6 +145,21 @@
       "autonomy"
     ],
     "region": "US"
+  },
+  {
+    "id": "40df779acd12",
+    "date": "2026-08-05",
+    "org": "unmapped",
+    "orgName": "Naval News",
+    "headline": "Blue Water Autonomy Selected by U.S. Navy for Autonomous Open-Ocean Survey Work",
+    "summary": "Blue Water Autonomy, a Boston-based technology and shipbuilding company, has been selected for a multiple-award contract with the Naval Oceanographic Office (NAVOCEANO) to provide high-resolution ocean floor mapping using long-endurance uncrewed surface vessels.",
+    "sourceUrl": "https://www.navalnews.com/naval-news/2026/08/blue-water-autonomy-selected-by-u-s-navy-for-autonomous-open-ocean-survey-work/",
+    "sourceName": "Naval News",
+    "sourceType": "press",
+    "themes": [
+      "autonomy"
+    ],
+    "region": "Europe"
   },
   {
     "id": "d2a3d56d93c1",
