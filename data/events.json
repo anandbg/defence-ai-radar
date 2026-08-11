@@ -1,5 +1,33 @@
 [
   {
+    "id": "22e267832c36",
+    "date": "2026-08-10",
+    "org": "unmapped",
+    "orgName": "Breaking Defense",
+    "headline": "Air Force seeks AI tool to help manage Minuteman III ICBM sustainment",
+    "summary": "The new AI tool could help cut down the cumbersome labor needed to sift through roughly 60 different data sources, according to the Air Force.",
+    "sourceUrl": "https://breakingdefense.com/2026/08/air-force-seeks-ai-tool-to-help-manage-minuteman-iii-icbm-sustainment/",
+    "sourceName": "Breaking Defense",
+    "sourceType": "press",
+    "themes": [
+      "data"
+    ],
+    "region": "US"
+  },
+  {
+    "id": "1a4165a50b34",
+    "date": "2026-08-10",
+    "org": "unmapped",
+    "orgName": "Defense News",
+    "headline": "US Navy tests AI-powered submarine hunter",
+    "summary": "The U. S. Navy tested artificial intelligence-powered sonar to target submarines during the multinational Rim of the Pacific exercise.",
+    "sourceUrl": "https://www.defensenews.com/industry/techwatch/2026/08/10/us-navy-tests-ai-powered-submarine-hunter/",
+    "sourceName": "Defense News",
+    "sourceType": "press",
+    "themes": [],
+    "region": "US"
+  },
+  {
     "id": "07f0efe43e1f",
     "date": "2026-08-07",
     "org": "unmapped",
