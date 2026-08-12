@@ -1,5 +1,33 @@
 [
   {
+    "id": "b9eea1479784",
+    "date": "2026-08-11",
+    "org": "unmapped",
+    "orgName": "DefenseScoop",
+    "headline": "Air Force explores AI tools to predict aircraft failures, strengthen sustainment",
+    "summary": "“I would say we definitely have our foot in the pool, but we need to jump in a little deeper,” Brig. Gen. William Ottati said.",
+    "sourceUrl": "https://defensescoop.com/2026/08/11/air-force-ai-predict-aircraft-failures-strengthen-sustainment/",
+    "sourceName": "DefenseScoop",
+    "sourceType": "press",
+    "themes": [],
+    "region": "US"
+  },
+  {
+    "id": "1f96af63da9d",
+    "date": "2026-08-11",
+    "org": "unmapped",
+    "orgName": "Naval News",
+    "headline": "HII Watcher Autonomous USV Passes Critical DIU Performance Tests",
+    "summary": "HII and MetalCraft Marine successfully complete DIU prototype testing for the Watcher, an autonomous USV powered by HII’s Odyssey control system. HII press release HII announced that the U. S.",
+    "sourceUrl": "https://www.navalnews.com/naval-news/2026/08/hii-watcher-autonomous-usv-passes-critical-diu-performance-tests/",
+    "sourceName": "Naval News",
+    "sourceType": "press",
+    "themes": [
+      "autonomy"
+    ],
+    "region": "Europe"
+  },
+  {
     "id": "22e267832c36",
     "date": "2026-08-10",
     "org": "unmapped",
