@@ -1,5 +1,20 @@
 [
   {
+    "id": "1342e685f676",
+    "date": "2026-08-12",
+    "org": "unmapped",
+    "orgName": "Breaking Defense",
+    "headline": "Army shifts autonomy strategy to lean more on ‘awesome vendors’",
+    "summary": "An Army official told Breaking Defense the service’s original plan to build a software backbone itself makes less sense now that there’s real industry investment in the capability.",
+    "sourceUrl": "https://breakingdefense.com/2026/08/army-shifts-autonomy-strategy-to-lean-more-on-awesome-vendors/",
+    "sourceName": "Breaking Defense",
+    "sourceType": "press",
+    "themes": [
+      "autonomy"
+    ],
+    "region": "US"
+  },
+  {
     "id": "b9eea1479784",
     "date": "2026-08-11",
     "org": "unmapped",
