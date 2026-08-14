@@ -1,5 +1,46 @@
 [
   {
+    "id": "9787c73c8bcf",
+    "date": "2026-08-13",
+    "org": "unmapped",
+    "orgName": "DefenseScoop",
+    "headline": "DIA’s artificial intelligence chief envisions ‘agent-to-agents’ interactions that support military operations",
+    "summary": "\"That's where this is going,” Maj. Gen. Robert Kinney said.",
+    "sourceUrl": "https://defensescoop.com/2026/08/13/dia-artificial-intelligence-agent-to-agents/",
+    "sourceName": "DefenseScoop",
+    "sourceType": "press",
+    "themes": [],
+    "region": "US"
+  },
+  {
+    "id": "bbe8d2a2d78e",
+    "date": "2026-08-13",
+    "org": "unmapped",
+    "orgName": "Air & Space Forces Magazine",
+    "headline": "Report Pushes New Training Approach for Air Force on AI and Tech",
+    "summary": "A new report on modernizing Air Force training and education suggests borrowing a method from the civilian technology industry to help Airmen and Guardians build skills in key new areas like artificial intelligence: stackable certificates.",
+    "sourceUrl": "https://www.airandspaceforces.com/stackable-certificates-department-of-air-force-ai-tech-training/",
+    "sourceName": "Air & Space Forces Magazine",
+    "sourceType": "press",
+    "themes": [],
+    "region": "US"
+  },
+  {
+    "id": "f3cfbaf1ebee",
+    "date": "2026-08-13",
+    "org": "unmapped",
+    "orgName": "Breaking Defense",
+    "headline": "Securing the AI flank to provide trusted decision-making capabilities",
+    "summary": "[Sponsored] AI tools are critical components of modern warfare, but must be protected to ensure they are reliable.",
+    "sourceUrl": "https://breakingdefense.com/2026/08/securing-the-ai-flank-to-provide-trusted-decision-making-capabilities/",
+    "sourceName": "Breaking Defense",
+    "sourceType": "press",
+    "themes": [
+      "c2"
+    ],
+    "region": "US"
+  },
+  {
     "id": "1342e685f676",
     "date": "2026-08-12",
     "org": "unmapped",
