@@ -1,5 +1,48 @@
 [
   {
+    "id": "335e83331f3b",
+    "date": "2026-08-19",
+    "org": "unmapped",
+    "orgName": "Defense One — Technology",
+    "headline": "What Trump’s tech strategy means for the military, deterring China, and the future of AI",
+    "summary": "The strategy includes key provisions to encourage innovation—but also has a glaring omission.",
+    "sourceUrl": "https://www.defenseone.com/technology/2026/08/what-trumps-tech-strategy-means-military-deterring-china-and-future-ai/415504/",
+    "sourceName": "Defense One — Technology",
+    "sourceType": "press",
+    "themes": [],
+    "region": "US"
+  },
+  {
+    "id": "6a8fa701d0e3",
+    "date": "2026-08-18",
+    "org": "unmapped",
+    "orgName": "Naval News",
+    "headline": "Blue Ops and Havoc Partner to Develop Open-Architecture Autonomous Maritime Defense Systems",
+    "summary": "Red Cat Holdings, Inc. , a U. S.",
+    "sourceUrl": "https://www.navalnews.com/naval-news/2026/08/blue-ops-and-havoc-partner-to-develop-open-architecture-autonomous-maritime-defense-systems/",
+    "sourceName": "Naval News",
+    "sourceType": "press",
+    "themes": [
+      "autonomy"
+    ],
+    "region": "Europe"
+  },
+  {
+    "id": "664e55e3573a",
+    "date": "2026-08-18",
+    "org": "unmapped",
+    "orgName": "DefenseScoop",
+    "headline": "SOCOM planning to test new mission autonomy software for unmanned systems program",
+    "summary": "The command plans to hold multiple events to assess industry solutions in the coming months, according to a special notice.",
+    "sourceUrl": "https://defensescoop.com/2026/08/18/mission-autonomy-software-unmanned-systems-special-operations/",
+    "sourceName": "DefenseScoop",
+    "sourceType": "press",
+    "themes": [
+      "autonomy"
+    ],
+    "region": "US"
+  },
+  {
     "id": "9787c73c8bcf",
     "date": "2026-08-13",
     "org": "unmapped",
