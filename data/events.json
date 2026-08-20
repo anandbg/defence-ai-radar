@@ -1,5 +1,34 @@
 [
   {
+    "id": "4679f2831b9c",
+    "date": "2026-08-20",
+    "org": "unmapped",
+    "orgName": "DefenseScoop",
+    "headline": "Army cyber chief reveals AI task force building agents to ‘hunt’ in the DOD network",
+    "summary": "“Each and every day, we sit down as a group, we figure out the guardrails we're going to apply to these agents, [and] we ask ourselves: Is it risk that a human should be answering, or is it risk that an agent can answer?” Lt. Gen.",
+    "sourceUrl": "https://defensescoop.com/2026/08/19/army-cyber-chief-reveals-ai-task-force-building-agents-to-hunt-in-the-dod-networks/",
+    "sourceName": "DefenseScoop",
+    "sourceType": "press",
+    "themes": [
+      "cyber",
+      "ethics-governance"
+    ],
+    "region": "US"
+  },
+  {
+    "id": "824c7c3804da",
+    "date": "2026-08-19",
+    "org": "unmapped",
+    "orgName": "Breaking Defense",
+    "headline": "Striveworks to build AI layer for NGC2 at corps level, Army says",
+    "summary": "Striveworks’s models will be able to compress “hours of staff work into seconds,” CEO Jim Rebesco told Breaking Defense.",
+    "sourceUrl": "https://breakingdefense.com/2026/08/striveworks-to-build-ai-layer-for-ngc2-at-corps-level-army-says/",
+    "sourceName": "Breaking Defense",
+    "sourceType": "press",
+    "themes": [],
+    "region": "US"
+  },
+  {
     "id": "335e83331f3b",
     "date": "2026-08-19",
     "org": "unmapped",
