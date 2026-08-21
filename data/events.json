@@ -16,6 +16,49 @@
     "region": "US"
   },
   {
+    "id": "f94bfd2ba358",
+    "date": "2026-08-20",
+    "org": "unmapped",
+    "orgName": "Breaking Defense",
+    "headline": "Army Cyber training AI agents in cyber ‘work roles’ alongside human counterparts",
+    "summary": "Task Force Lexington houses all of Army Cyber Command’s AI efforts, including an AI “red team.”",
+    "sourceUrl": "https://breakingdefense.com/2026/08/army-cyber-training-ai-agents-in-cyber-work-roles-alongside-human-counterparts/",
+    "sourceName": "Breaking Defense",
+    "sourceType": "press",
+    "themes": [
+      "cyber"
+    ],
+    "region": "US"
+  },
+  {
+    "id": "1cd8e23ec341",
+    "date": "2026-08-20",
+    "org": "unmapped",
+    "orgName": "Naval News",
+    "headline": "Lockheed Martin and U.S. Navy Demonstrate AI-Powered Submarine Hunter at RIMPAC 2026",
+    "summary": "This summer at RIMPAC 26, Lockheed Martin collaborated with the U. S. Navy to successfully demonstrate a rapidly retrainable AI/ML sonar expert for antisubmarine warfare (ASW).",
+    "sourceUrl": "https://www.navalnews.com/naval-news/2026/08/lockheed-martin-and-u-s-navy-demonstrate-ai-powered-submarine-hunter-at-rimpac-2026/",
+    "sourceName": "Naval News",
+    "sourceType": "press",
+    "themes": [
+      "data"
+    ],
+    "region": "Europe"
+  },
+  {
+    "id": "9001c2beda09",
+    "date": "2026-08-20",
+    "org": "unmapped",
+    "orgName": "Breaking Defense",
+    "headline": "New White House strategy clarifies military tech priorities: undersea, outer space and AI",
+    "summary": "The National Security Science & Technology Strategy (NSSTS) also outlines an array of second-tier or longer-term technologies to watch, notably quantum and biotech.",
+    "sourceUrl": "https://breakingdefense.com/2026/08/new-white-house-strategy-clarifies-military-tech-priorities-undersea-outer-space-and-ai/",
+    "sourceName": "Breaking Defense",
+    "sourceType": "press",
+    "themes": [],
+    "region": "US"
+  },
+  {
     "id": "824c7c3804da",
     "date": "2026-08-19",
     "org": "unmapped",
