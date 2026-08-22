@@ -1,5 +1,35 @@
 [
   {
+    "id": "bae7b338d316",
+    "date": "2026-08-21",
+    "org": "unmapped",
+    "orgName": "Breaking Defense",
+    "headline": "Army cyber defenses need ‘dedicated funding’ for AI, top official says",
+    "summary": "Dedicated funding is key, according to the Army’s principal cyber advisor, because the service’s cyber command cannot fund AI work strictly from their operational budget.",
+    "sourceUrl": "https://breakingdefense.com/2026/08/army-cyber-defenses-need-dedicated-funding-for-ai-top-official-says/",
+    "sourceName": "Breaking Defense",
+    "sourceType": "press",
+    "themes": [
+      "cyber"
+    ],
+    "region": "US"
+  },
+  {
+    "id": "a755ae5026f4",
+    "date": "2026-08-21",
+    "org": "unmapped",
+    "orgName": "DefenseScoop",
+    "headline": "Army wants fast AI cybersecurity agents that won’t run up token costs or create new vulnerabilities",
+    "summary": "“We need help in implementing agents securely, so that it doesn't inadvertently increase our attack surface,” an Army official said.",
+    "sourceUrl": "https://defensescoop.com/2026/08/21/army-wants-fast-ai-cybersecurity-agents-wont-run-up-costs-create-vulnerabilities/",
+    "sourceName": "DefenseScoop",
+    "sourceType": "press",
+    "themes": [
+      "cyber"
+    ],
+    "region": "US"
+  },
+  {
     "id": "4679f2831b9c",
     "date": "2026-08-20",
     "org": "unmapped",
