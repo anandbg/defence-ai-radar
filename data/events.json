@@ -1,5 +1,31 @@
 [
   {
+    "id": "96a1621660cd",
+    "date": "2026-08-25",
+    "org": "unmapped",
+    "orgName": "Defence Blog",
+    "headline": "AI startups are reshaping the US defense industrial base",
+    "summary": "Procurement bottlenecks, rigid legacy contracts and a rare earth supply chain dominated by China have combined to slow the production of missiles and interceptors just as the Iran War has drained U. S. stockpiles to their lowest levels in years.",
+    "sourceUrl": "https://defence-blog.com/ai-startups-are-reshaping-the-us-defense-industrial-base/",
+    "sourceName": "Defence Blog",
+    "sourceType": "press",
+    "themes": [],
+    "region": "Europe"
+  },
+  {
+    "id": "cc10ea6bb8b8",
+    "date": "2026-08-24",
+    "org": "unmapped",
+    "orgName": "UK Gov — Ministry of Defence",
+    "headline": "New partnership set to see the UK and Ukraine develop battle winning technology as Britain secures access to Ukraine's Avengers AI Labs",
+    "summary": "A landmark AI deal between the UK and Ukraine has been signed today as the two countries join forces to develop new military capabilities and the technology of the future.",
+    "sourceUrl": "https://www.gov.uk/government/news/new-partnership-set-to-see-the-uk-and-ukraine-develop-battle-winning-technology-as-britain-secures-access-to-ukraines-avengers-ai-labs",
+    "sourceName": "UK Gov — Ministry of Defence",
+    "sourceType": "official",
+    "themes": [],
+    "region": "UK"
+  },
+  {
     "id": "bae7b338d316",
     "date": "2026-08-21",
     "org": "unmapped",
