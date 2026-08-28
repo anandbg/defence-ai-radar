@@ -1,5 +1,35 @@
 [
   {
+    "id": "df9bfdd88a54",
+    "date": "2026-08-28",
+    "org": "unmapped",
+    "orgName": "Naval News",
+    "headline": "HAVELSAN Unveils AVISTA, New Underwater Autonomy Project",
+    "summary": "Building on the expertise it has developed through SANCAR and RAFNAR in the field of unmanned marine vehicles, HAVELSAN unveiled AVISTA, its new self-funded R&D project, for the first time at TEKNOFEST Blue Homeland 2026 in Gölcük.",
+    "sourceUrl": "https://www.navalnews.com/naval-news/2026/08/havelsan-unveils-avista-new-underwater-autonomy-project/",
+    "sourceName": "Naval News",
+    "sourceType": "press",
+    "themes": [
+      "autonomy"
+    ],
+    "region": "Europe"
+  },
+  {
+    "id": "9b1623e7dca1",
+    "date": "2026-08-28",
+    "org": "unmapped",
+    "orgName": "Breaking Defense",
+    "headline": "With AI hackers in mind, Air Forces Cyber develops defensive ‘campaign plan’",
+    "summary": "“When people say, ‘Hey, we’re at an inflection point,’ we are absolutely at an inflection point,” 16th Air Force commander Lt. Gen. Thomas Hensley said of AI threats to the network.",
+    "sourceUrl": "https://breakingdefense.com/2026/08/with-ai-hackers-in-mind-air-forces-cyber-develops-defensive-campaign-plan/",
+    "sourceName": "Breaking Defense",
+    "sourceType": "press",
+    "themes": [
+      "cyber"
+    ],
+    "region": "US"
+  },
+  {
     "id": "96a1621660cd",
     "date": "2026-08-25",
     "org": "unmapped",
