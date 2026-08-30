@@ -1,5 +1,20 @@
 [
   {
+    "id": "9d2b8ba734b4",
+    "date": "2026-08-30",
+    "org": "unmapped",
+    "orgName": "Defence Blog",
+    "headline": "U.S. Army tests autonomous 257-foot vessel in Hawaii",
+    "summary": "A commercial supply ship the length of a football field just spent nine days getting a robot brain installed, and then drove itself across open water in Hawaii with the U. S. Army watching.",
+    "sourceUrl": "https://defence-blog.com/u-s-army-tests-autonomous-257-foot-vessel-in-hawaii/",
+    "sourceName": "Defence Blog",
+    "sourceType": "press",
+    "themes": [
+      "autonomy"
+    ],
+    "region": "Europe"
+  },
+  {
     "id": "df9bfdd88a54",
     "date": "2026-08-28",
     "org": "unmapped",
