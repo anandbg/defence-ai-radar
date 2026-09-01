@@ -1,5 +1,48 @@
 [
   {
+    "id": "77dd1e713ab8",
+    "date": "2026-09-01",
+    "org": "unmapped",
+    "orgName": "Defense News",
+    "headline": "Defense startup raises $61 million to put AI into a wrist-worn display",
+    "summary": "A defense startup has raised $61 million to put AI into a wrist-worn display that connects field operators to real-time data.",
+    "sourceUrl": "https://www.defensenews.com/news/your-military/2026/09/01/defense-startup-raises-61-million-to-put-ai-into-a-wrist-worn-display/",
+    "sourceName": "Defense News",
+    "sourceType": "press",
+    "themes": [
+      "data"
+    ],
+    "region": "US"
+  },
+  {
+    "id": "f2ad441dbc36",
+    "date": "2026-08-31",
+    "org": "unmapped",
+    "orgName": "DefenseScoop",
+    "headline": "Grok and ChatGPT join Gemini in Pentagon’s enterprise genAI portal",
+    "summary": "Sources shared new details about this long-anticipated integration, which DOD officials announced on Monday.",
+    "sourceUrl": "https://defensescoop.com/2026/08/31/grok-chatgpt-added-to-genai-mil/",
+    "sourceName": "DefenseScoop",
+    "sourceType": "press",
+    "themes": [],
+    "region": "US"
+  },
+  {
+    "id": "40b10e75a787",
+    "date": "2026-08-31",
+    "org": "unmapped",
+    "orgName": "Army Times",
+    "headline": "The military’s ChatGPT is now live via the Pentagon’s GenAI platform",
+    "summary": "The DoD on Monday launched OpenAI’s ChatGPT Mil on GenAI. mil, making the chatbot available for work involving controlled unclassified information.",
+    "sourceUrl": "https://www.armytimes.com/industry/techwatch/2026/08/31/the-militarys-chatgpt-is-now-live-via-the-pentagons-genai-platform/",
+    "sourceName": "Army Times",
+    "sourceType": "press",
+    "themes": [
+      "genai"
+    ],
+    "region": "US"
+  },
+  {
     "id": "9d2b8ba734b4",
     "date": "2026-08-30",
     "org": "unmapped",
