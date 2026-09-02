@@ -1,5 +1,20 @@
 [
   {
+    "id": "66abaa853d72",
+    "date": "2026-09-01",
+    "org": "unmapped",
+    "orgName": "Breaking Defense",
+    "headline": "Dataminr AI tech to go live on NATO Maven system: CEO",
+    "summary": "The company also recently nabbed a $318 million “situational awareness” contract with the Pentagon.",
+    "sourceUrl": "https://breakingdefense.com/2026/09/dataminr-ai-tech-to-go-live-on-nato-maven-system-ceo/",
+    "sourceName": "Breaking Defense",
+    "sourceType": "press",
+    "themes": [
+      "data"
+    ],
+    "region": "US"
+  },
+  {
     "id": "77dd1e713ab8",
     "date": "2026-09-01",
     "org": "unmapped",
@@ -11,6 +26,21 @@
     "sourceType": "press",
     "themes": [
       "data"
+    ],
+    "region": "US"
+  },
+  {
+    "id": "5081b6dd6f58",
+    "date": "2026-09-01",
+    "org": "unmapped",
+    "orgName": "Breaking Defense",
+    "headline": "The defense intelligence community’s AI and cyber view forward",
+    "summary": "From AI adoption and agentic systems to Zero Trust and cyber resilience, Breaking Defense’s latest eBook brings together key reporting from DoDIIS 2026 on the technologies and strategies shaping the future of defense intelligence.",
+    "sourceUrl": "https://breakingdefense.com/2026/09/the-defense-intelligence-communitys-ai-and-cyber-view-forward/",
+    "sourceName": "Breaking Defense",
+    "sourceType": "press",
+    "themes": [
+      "cyber"
     ],
     "region": "US"
   },
