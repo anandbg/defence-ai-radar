@@ -1,5 +1,31 @@
 [
   {
+    "id": "8abecdd678c7",
+    "date": "2026-09-03",
+    "org": "unmapped",
+    "orgName": "Defence Blog",
+    "headline": "Ukrainian helicopter gets new AI-assisted gun module against Shaheds",
+    "summary": "The Serhiy Prytula Charity Foundation says it has delivered a remotely operated “Khyzhak” combat module for use in Ukrainian aviation, and that the system is now being used against Russian targets.",
+    "sourceUrl": "https://defence-blog.com/ukrainian-helicopter-gets-new-ai-assisted-gun-module-against-shaheds/",
+    "sourceName": "Defence Blog",
+    "sourceType": "press",
+    "themes": [],
+    "region": "Europe"
+  },
+  {
+    "id": "3d12d948ab31",
+    "date": "2026-09-02",
+    "org": "unmapped",
+    "orgName": "Breaking Defense",
+    "headline": "Physics AI is different and changes the way defense systems are designed",
+    "summary": "[Sponsored] Models that replicate real-world physics streamline design, testing and iteration processes.",
+    "sourceUrl": "https://breakingdefense.com/2026/09/physics-ai-is-different-and-changes-the-way-defense-systems-are-designed/",
+    "sourceName": "Breaking Defense",
+    "sourceType": "press",
+    "themes": [],
+    "region": "US"
+  },
+  {
     "id": "66abaa853d72",
     "date": "2026-09-01",
     "org": "unmapped",
