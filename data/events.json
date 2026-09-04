@@ -1,5 +1,35 @@
 [
   {
+    "id": "15d25abc77c4",
+    "date": "2026-09-04",
+    "org": "unmapped",
+    "orgName": "Naval News",
+    "headline": "US Navy Certifies Rolls-Royce mtu Engines for Autonomous Ships",
+    "summary": "Rolls-Royce announced that its MTU Series 4000 and Series 2000 marine engines have received certification from the U. S. Navy for use in autonomous naval vessel operations, marking a significant milestone in the advancement of unmanned maritime capabilities.",
+    "sourceUrl": "https://www.navalnews.com/naval-news/2026/09/us-navy-certifies-rolls-royce-mtu-engines-for-autonomous-ships/",
+    "sourceName": "Naval News",
+    "sourceType": "press",
+    "themes": [
+      "autonomy"
+    ],
+    "region": "Europe"
+  },
+  {
+    "id": "3f529b7b1f6d",
+    "date": "2026-09-03",
+    "org": "anduril",
+    "orgName": "Anduril",
+    "headline": "Hermeus picks Anduril autonomy for Quarterhorse drone",
+    "summary": "In an exclusive interview with Breaking Defense, executives from both firms described a mutually beneficial arrangement.",
+    "sourceUrl": "https://breakingdefense.com/2026/09/hermeus-picks-anduril-autonomy-for-quarterhorse-drone/",
+    "sourceName": "Breaking Defense",
+    "sourceType": "press",
+    "themes": [
+      "autonomy"
+    ],
+    "region": "US"
+  },
+  {
     "id": "8abecdd678c7",
     "date": "2026-09-03",
     "org": "unmapped",
