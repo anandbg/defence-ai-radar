@@ -1,5 +1,46 @@
 [
   {
+    "id": "3c1271da3552",
+    "date": "2026-09-04",
+    "org": "unmapped",
+    "orgName": "Defense News",
+    "headline": "Opposition by US and Russia raises doubts over autonomous weapons talks outcome, diplomats say",
+    "summary": "Opposition from the U. S. and Russia has raised doubts that countries meeting Friday will agree on international rules about the use of autonomous weapons.",
+    "sourceUrl": "https://www.defensenews.com/news/pentagon-congress/2026/09/04/opposition-by-us-and-russia-raises-doubts-over-autonomous-weapons-talks-outcome-diplomats-say/",
+    "sourceName": "Defense News",
+    "sourceType": "press",
+    "themes": [
+      "autonomy"
+    ],
+    "region": "US"
+  },
+  {
+    "id": "8bb7aa51fca2",
+    "date": "2026-09-04",
+    "org": "unmapped",
+    "orgName": "Army Times",
+    "headline": "Pentagon wants to use AI-generated ‘personalities’ for decoy cellphones",
+    "summary": "The DoD wants to wield AI-generated \"personalities\" to mimic real people and fool enemy AI.",
+    "sourceUrl": "https://www.armytimes.com/industry/techwatch/2026/09/04/pentagon-wants-to-use-ai-generated-personalities-for-decoy-cellphones/",
+    "sourceName": "Army Times",
+    "sourceType": "press",
+    "themes": [],
+    "region": "US"
+  },
+  {
+    "id": "639981e958dd",
+    "date": "2026-09-04",
+    "org": "unmapped",
+    "orgName": "DefenseScoop",
+    "headline": "U.S. Navy, Quad partners move to ‘fingerprint’ dark fleets in the Pacific with Vantor’s AI",
+    "summary": "DefenseScoop got new details on Naval Information Warfare Center Pacific’s recent contract award to the company that grew out of Maxar.",
+    "sourceUrl": "https://defensescoop.com/2026/09/04/us-navy-quad-partners-fingerprint-dark-fleets-pacific-vantor-ai/",
+    "sourceName": "DefenseScoop",
+    "sourceType": "press",
+    "themes": [],
+    "region": "US"
+  },
+  {
     "id": "15d25abc77c4",
     "date": "2026-09-04",
     "org": "unmapped",
