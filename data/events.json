@@ -1,5 +1,48 @@
 [
   {
+    "id": "f40e804971b8",
+    "date": "2026-09-09",
+    "org": "unmapped",
+    "orgName": "Defense News",
+    "headline": "Defense startup’s AI aims to make every munition count",
+    "summary": "Smack Technologies' CEO said its AI modeling tool will help commanders decide not just which targets to strike, but how to sequence strikes over time.",
+    "sourceUrl": "https://www.defensenews.com/industry/techwatch/2026/09/09/defense-startups-ai-aims-to-make-every-munition-count/",
+    "sourceName": "Defense News",
+    "sourceType": "press",
+    "themes": [],
+    "region": "US"
+  },
+  {
+    "id": "905bb9074a98",
+    "date": "2026-09-09",
+    "org": "unmapped",
+    "orgName": "Naval News",
+    "headline": "DNV and Fassmer to Cooperate on Autonomous Naval Vessels",
+    "summary": "DNV and Fr. Fassmer GmbH & Co. KG have signed a Memorandum of Understanding (MoU) to jointly develop and classify autonomous and remotely operated vessels for naval and government customers.",
+    "sourceUrl": "https://www.navalnews.com/naval-news/2026/09/dnv-and-fassmer-to-cooperate-on-autonomous-naval-vessels/",
+    "sourceName": "Naval News",
+    "sourceType": "press",
+    "themes": [
+      "autonomy"
+    ],
+    "region": "Europe"
+  },
+  {
+    "id": "8df56ec42154",
+    "date": "2026-09-08",
+    "org": "unmapped",
+    "orgName": "Breaking Defense",
+    "headline": "Air Force braces for new era of AI-powered hacking, plus unpacking the Mecca pact",
+    "summary": "The proliferation of AI is forcing the USAF to rethink cyber defense, and a new regional defense pact could shake up arms sales in the Middle East.",
+    "sourceUrl": "https://breakingdefense.com/2026/09/air-force-braces-for-new-era-of-ai-powered-hacking-plus-unpacking-the-mecca-pact/",
+    "sourceName": "Breaking Defense",
+    "sourceType": "press",
+    "themes": [
+      "cyber"
+    ],
+    "region": "US"
+  },
+  {
     "id": "3c1271da3552",
     "date": "2026-09-04",
     "org": "unmapped",
