@@ -1,5 +1,50 @@
 [
   {
+    "id": "1eb61d0f9fc5",
+    "date": "2026-09-10",
+    "org": "anduril",
+    "orgName": "Anduril",
+    "headline": "Defense Business Brief: AI manufacturing; Skilled trades; Arms transfer oversight",
+    "summary": "Could AI- and robot-made missile components and airframes be the future of aerospace manufacturing? That’s the bet, Machina Labs CEO Edward Mehr said.",
+    "sourceUrl": "https://www.defenseone.com/business/2026/09/defense-business-brief-ai-manufacturing-skilled-trades-arms-transfer-oversight/415898/",
+    "sourceName": "Defense One — All",
+    "sourceType": "press",
+    "themes": [
+      "autonomy",
+      "data",
+      "ethics-governance"
+    ],
+    "region": "US"
+  },
+  {
+    "id": "093f4b544ae2",
+    "date": "2026-09-09",
+    "org": "unmapped",
+    "orgName": "Defense One — Technology",
+    "headline": "AI-powered biowarfare is coming; the Army lays plans to ‘fight through’ it",
+    "summary": "A new strategy aims to prepare to “deploy, fight, and win decisively in a bio-contested environment” by 2035.",
+    "sourceUrl": "https://www.defenseone.com/technology/2026/09/ai-powered-biowarfare-looms-army-lays-plans-fight-through-it/415886/",
+    "sourceName": "Defense One — Technology",
+    "sourceType": "press",
+    "themes": [],
+    "region": "US"
+  },
+  {
+    "id": "240ded509073",
+    "date": "2026-09-09",
+    "org": "anduril",
+    "orgName": "Anduril",
+    "headline": "Anduril doubles down on Poland with autonomous aircraft pitch for F-35, Apache",
+    "summary": "U. S. tech company Anduril is pitching two drone types to accompany Poland's envisioned fleets of F-35 fighter jets and Apache attack helicopters.",
+    "sourceUrl": "https://www.defensenews.com/global/europe/2026/09/09/anduril-doubles-down-on-poland-with-autonomous-aircraft-pitch-for-f-35-apache/",
+    "sourceName": "Defense News",
+    "sourceType": "press",
+    "themes": [
+      "autonomy"
+    ],
+    "region": "US"
+  },
+  {
     "id": "f40e804971b8",
     "date": "2026-09-09",
     "org": "unmapped",
@@ -26,6 +71,34 @@
       "autonomy"
     ],
     "region": "Europe"
+  },
+  {
+    "id": "7016bd6c9bf2",
+    "date": "2026-09-09",
+    "org": "anduril",
+    "orgName": "Anduril",
+    "headline": "Hypersonic Aircraft Startup Adding Anduril’s Autonomy Software for 2027 Flight",
+    "summary": "Startups Anduril Industries and Heremus have agreed to integrate Anduril’s autonomy software onto Hermeus’ hypersonic demonstrator aircraft “Quarterhorse”—uniting two technologies that have drawn keen interest and investment from the Air Force.",
+    "sourceUrl": "https://www.airandspaceforces.com/hypersonic-aircraft-startup-adding-andurils-autonomy-software-for-2027-flight/",
+    "sourceName": "Air & Space Forces Magazine",
+    "sourceType": "press",
+    "themes": [
+      "autonomy"
+    ],
+    "region": "US"
+  },
+  {
+    "id": "5e4799c3aa8e",
+    "date": "2026-09-09",
+    "org": "unmapped",
+    "orgName": "Breaking Defense",
+    "headline": "Pentagon’s $1.5B reprogramming would shift money to AI center, MV-75 tiltrotor",
+    "summary": "The request would also reroute money destined for an international counter-ISIS training program.",
+    "sourceUrl": "https://breakingdefense.com/2026/09/pentagons-1-5b-reprogramming-would-shift-money-to-ai-center-mv-75-tiltrotor/",
+    "sourceName": "Breaking Defense",
+    "sourceType": "press",
+    "themes": [],
+    "region": "US"
   },
   {
     "id": "8df56ec42154",
