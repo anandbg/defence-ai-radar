@@ -1,5 +1,33 @@
 [
   {
+    "id": "43432324e12d",
+    "date": "2026-09-11",
+    "org": "unmapped",
+    "orgName": "Air & Space Forces Magazine",
+    "headline": "AETC Launches Blueprint with AI Training for All Airmen",
+    "summary": "Strategic guidance from the command in charge of Air Force training lays out a plan to train all Airmen in artificial intelligence and build “Digital Airmen” across the force’s training and education enterprise.",
+    "sourceUrl": "https://www.airandspaceforces.com/aetc-blueprint-ai-training-all-airmen/",
+    "sourceName": "Air & Space Forces Magazine",
+    "sourceType": "press",
+    "themes": [],
+    "region": "US"
+  },
+  {
+    "id": "1c94f55875a1",
+    "date": "2026-09-10",
+    "org": "unmapped",
+    "orgName": "DefenseScoop",
+    "headline": "Decades of delayed maintenance has left Pentagon networks in ‘potential peril’ for the AI age, cyber defense commander says: ‘no more.’",
+    "summary": "Lt. Gen. Paul Stanton told an audience at the annual Billington CyberSecurity Summit that the ways in which an adversary could employ cyber agents is “mind-boggling in terms of the complexity.”",
+    "sourceUrl": "https://defensescoop.com/2026/09/10/delayed-maintenance-left-pentagon-networks-in-potential-peril-for-ai-age/",
+    "sourceName": "DefenseScoop",
+    "sourceType": "press",
+    "themes": [
+      "cyber"
+    ],
+    "region": "US"
+  },
+  {
     "id": "1eb61d0f9fc5",
     "date": "2026-09-10",
     "org": "anduril",
@@ -13,6 +41,21 @@
       "autonomy",
       "data",
       "ethics-governance"
+    ],
+    "region": "US"
+  },
+  {
+    "id": "dcce471c885e",
+    "date": "2026-09-10",
+    "org": "unmapped",
+    "orgName": "Breaking Defense",
+    "headline": "Israeli military creates new branch focused on AI, drones and robotics",
+    "summary": "“The battlefield is changing at a dizzying pace, and we are changing with it,” Israeli military Chief of Staff Lt. Gen. Eyal Zamir said.",
+    "sourceUrl": "https://breakingdefense.com/2026/09/israeli-military-creates-new-branch-focused-on-ai-drones-and-robotics/",
+    "sourceName": "Breaking Defense",
+    "sourceType": "press",
+    "themes": [
+      "isr"
     ],
     "region": "US"
   },
