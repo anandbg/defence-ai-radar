@@ -1,5 +1,18 @@
 [
   {
+    "id": "336a1124f5bf",
+    "date": "2026-09-11",
+    "org": "unmapped",
+    "orgName": "The War Zone (TWZ)",
+    "headline": "Adversaries Using Claude AI To Target Americans And Develop Missiles Is A Sign Of What’s To Come",
+    "summary": "A new report from Anthropic presents a stark picture of how malign actors are using commercially available U. S. AI services despite safeguards.",
+    "sourceUrl": "https://www.twz.com/news-features/adversaries-using-claude-ai-to-target-americans-and-develop-missiles-is-a-sign-of-whats-to-come",
+    "sourceName": "The War Zone (TWZ)",
+    "sourceType": "press",
+    "themes": [],
+    "region": "US"
+  },
+  {
     "id": "43432324e12d",
     "date": "2026-09-11",
     "org": "unmapped",
@@ -10,6 +23,47 @@
     "sourceName": "Air & Space Forces Magazine",
     "sourceType": "press",
     "themes": [],
+    "region": "US"
+  },
+  {
+    "id": "a6449ee3848d",
+    "date": "2026-09-11",
+    "org": "unmapped",
+    "orgName": "DefenseScoop",
+    "headline": "DOD poised to move all classified AI workloads off Anthropic by October",
+    "summary": "U. S. officials shared new details about the fast-tracked migration and early enterprise deployments of military-tuned frontier AI models.",
+    "sourceUrl": "https://defensescoop.com/2026/09/11/dod-poised-to-move-all-classified-ai-workloads-off-anthropic-by-october/",
+    "sourceName": "DefenseScoop",
+    "sourceType": "press",
+    "themes": [],
+    "region": "US"
+  },
+  {
+    "id": "65c8ac17a48c",
+    "date": "2026-09-11",
+    "org": "unmapped",
+    "orgName": "Defense News",
+    "headline": "Pentagon looks to AI to identify space and missile threats",
+    "summary": "The Pentagon is seeking artificial intelligence that can cut through the confusion of missile defense.",
+    "sourceUrl": "https://www.defensenews.com/industry/techwatch/2026/09/11/pentagon-looks-to-ai-to-identify-space-and-missile-threats/",
+    "sourceName": "Defense News",
+    "sourceType": "press",
+    "themes": [],
+    "region": "US"
+  },
+  {
+    "id": "97c31a8a3e15",
+    "date": "2026-09-11",
+    "org": "unmapped",
+    "orgName": "Defense One — Technology",
+    "headline": "Russia is weaponizing US-built AI to make killer drones, cyberattack bots, and fake news",
+    "summary": "AI companies are sounding alarms, but the Trump administration isn’t acting on them.",
+    "sourceUrl": "https://www.defenseone.com/technology/2026/09/russia-weaponizing-us-built-ai-make-killer-drones-cyberattack-bots-and-fake-news/415949/",
+    "sourceName": "Defense One — Technology",
+    "sourceType": "press",
+    "themes": [
+      "cyber"
+    ],
     "region": "US"
   },
   {
