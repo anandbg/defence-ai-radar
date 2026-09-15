@@ -1,5 +1,62 @@
 [
   {
+    "id": "1def264de25a",
+    "date": "2026-09-15",
+    "org": "unmapped",
+    "orgName": "Air & Space Forces Magazine",
+    "headline": "CMSAF to Airmen: Use AI or ‘End Up in Everyone’s Rearview Mirror’",
+    "summary": "Today’s Airmen are going to have to embrace artificial intelligence the same way Chief Master Sergeant of the Air Force David R. Wolfe learned to love desktop computers and email in the 1990s, the senior enlisted Airman said Sept. 14 during AFA’s Air, Space & Cyber conference.",
+    "sourceUrl": "https://www.airandspaceforces.com/cmsaf-airmen-use-ai-or-end-up-in-rearview-mirror/",
+    "sourceName": "Air & Space Forces Magazine",
+    "sourceType": "press",
+    "themes": [
+      "cyber"
+    ],
+    "region": "US"
+  },
+  {
+    "id": "e5b99e60f7dd",
+    "date": "2026-09-14",
+    "org": "unmapped",
+    "orgName": "Defense News",
+    "headline": "‘It’s not science fiction’: US Air Force must build trust in AI, says expert",
+    "summary": "The military must work on how to combat fast and reckless enemy AI agents that don’t necessarily operate with the same oversight, according to experts.",
+    "sourceUrl": "https://www.defensenews.com/air/2026/09/14/its-not-science-fiction-us-air-force-must-build-trust-in-ai-says-expert/",
+    "sourceName": "Defense News",
+    "sourceType": "press",
+    "themes": [],
+    "region": "US"
+  },
+  {
+    "id": "6ef26aa36783",
+    "date": "2026-09-14",
+    "org": "unmapped",
+    "orgName": "Air & Space Forces Magazine",
+    "headline": "Air Force Plans Hundreds of Autonomous Fighter and ISR Drones by 2032",
+    "summary": "The Air Force plans to field at least 500 semi-autonomous fighter drones known as Collaborative Combat Aircraft by 2032, and another 500 cheap reconnaissance and strike drones known as Massed Modular Aircraft that same year, Air Force Secretary Troy Meink said Sept. 14.",
+    "sourceUrl": "https://www.airandspaceforces.com/air-force-autonomous-drones-cca-mma-2032/",
+    "sourceName": "Air & Space Forces Magazine",
+    "sourceType": "press",
+    "themes": [
+      "autonomy",
+      "isr"
+    ],
+    "region": "US"
+  },
+  {
+    "id": "39d23aca7632",
+    "date": "2026-09-14",
+    "org": "unmapped",
+    "orgName": "DefenseScoop",
+    "headline": "Pentagon sets procedures for AI-assisted software development",
+    "summary": "The guidance on “Accelerated Mission Software” was signed by DOD CIO Kirsten Davies on Aug. 31 and went into effect Sept. 8.",
+    "sourceUrl": "https://defensescoop.com/2026/09/14/pentagon-sets-procedures-for-ai-assisted-software-development/",
+    "sourceName": "DefenseScoop",
+    "sourceType": "press",
+    "themes": [],
+    "region": "US"
+  },
+  {
     "id": "336a1124f5bf",
     "date": "2026-09-11",
     "org": "unmapped",
@@ -63,6 +120,21 @@
     "sourceType": "press",
     "themes": [
       "cyber"
+    ],
+    "region": "US"
+  },
+  {
+    "id": "ebc3cfdec67c",
+    "date": "2026-09-10",
+    "org": "darpa",
+    "orgName": "DARPA",
+    "headline": "$1M to advance AI medical documentation and decision support",
+    "summary": "DARPA D2 Sprint aims to automate pre-hospital trauma care tracking and guidance.",
+    "sourceUrl": "https://www.darpa.mil/news/2026/darpa-sprint-d2",
+    "sourceName": "DARPA News",
+    "sourceType": "official",
+    "themes": [
+      "c2"
     ],
     "region": "US"
   },
