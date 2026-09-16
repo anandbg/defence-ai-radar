@@ -15,6 +15,21 @@
     "region": "US"
   },
   {
+    "id": "a560cb321f60",
+    "date": "2026-09-15",
+    "org": "unmapped",
+    "orgName": "Defense One — Technology",
+    "headline": "NGA official takes top AI job at Cyber Command",
+    "summary": "Ronzelle Green succeeds Reid Novotny, who pushed the combatant command to embrace the technology.",
+    "sourceUrl": "https://www.defenseone.com/technology/2026/09/nga-official-assumes-top-ai-role-cyber-command/416014/",
+    "sourceName": "Defense One — Technology",
+    "sourceType": "press",
+    "themes": [
+      "cyber"
+    ],
+    "region": "US"
+  },
+  {
     "id": "e5b99e60f7dd",
     "date": "2026-09-14",
     "org": "unmapped",
@@ -25,6 +40,21 @@
     "sourceName": "Defense News",
     "sourceType": "press",
     "themes": [],
+    "region": "US"
+  },
+  {
+    "id": "90e6662377c1",
+    "date": "2026-09-14",
+    "org": "darpa",
+    "orgName": "DARPA",
+    "headline": "$3.5M to advance autonomous trauma robotics",
+    "summary": "DARPA Surgical Competition aims to build ‘infinite’ surgical capacity for mass casualty events.",
+    "sourceUrl": "https://www.darpa.mil/news/2026/darpa-competition-surgical",
+    "sourceName": "DARPA News",
+    "sourceType": "official",
+    "themes": [
+      "autonomy"
+    ],
     "region": "US"
   },
   {
