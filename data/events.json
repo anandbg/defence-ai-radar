@@ -1,5 +1,64 @@
 [
   {
+    "id": "9fe0d615241f",
+    "date": "2026-09-16",
+    "org": "unmapped",
+    "orgName": "Defense News",
+    "headline": "AI military targeting may move faster than humans can authenticate, critics warn",
+    "summary": "AI military targeting may move faster than humans can authenticate, critics warned during a Wednesday hearing in Washington.",
+    "sourceUrl": "https://www.defensenews.com/news/your-military/2026/09/16/ai-military-targeting-may-move-faster-than-humans-can-authenticate-critics-warn/",
+    "sourceName": "Defense News",
+    "sourceType": "press",
+    "themes": [],
+    "region": "US"
+  },
+  {
+    "id": "bc082b1f79c9",
+    "date": "2026-09-16",
+    "org": "unmapped",
+    "orgName": "The War Zone (TWZ)",
+    "headline": "Apache Crew Rescue Highlights Need For AI In Combat Says Joint Chiefs Chairman",
+    "summary": "AI enabled troops to manage networks of unmanned systems across thousands of miles of water and to pull assets together for a quick rescue.",
+    "sourceUrl": "https://www.twz.com/air/apache-crew-rescue-highlights-need-for-ai-in-combat-says-joint-chiefs-chairman",
+    "sourceName": "The War Zone (TWZ)",
+    "sourceType": "press",
+    "themes": [
+      "autonomy"
+    ],
+    "region": "US"
+  },
+  {
+    "id": "a9ed3d57e9a9",
+    "date": "2026-09-16",
+    "org": "unmapped",
+    "orgName": "DefenseScoop",
+    "headline": "Joint Chiefs chairman says U.S. forces must prepare to be ‘hunted’ by autonomous systems",
+    "summary": "“We have to assume from now on that our formations will be hunted by autonomous systems, jammed across the spectrum, and tracked in real time,\" Gen. Dan Caine said.",
+    "sourceUrl": "https://defensescoop.com/2026/09/16/gen-dan-caine-drones-autonomous-systems-ai-enabled-warfare/",
+    "sourceName": "DefenseScoop",
+    "sourceType": "press",
+    "themes": [
+      "autonomy",
+      "ew"
+    ],
+    "region": "US"
+  },
+  {
+    "id": "13561c62a4a8",
+    "date": "2026-09-16",
+    "org": "unmapped",
+    "orgName": "Defense News",
+    "headline": "US military must adapt as formations will be ‘hunted’ by autonomous systems, Caine says",
+    "summary": "Technology, such as AI and autonomous systems, is changing the character of war, Joint Chiefs of Staff Chairman Gen. Dan Caine said.",
+    "sourceUrl": "https://www.defensenews.com/news/your-military/2026/09/16/us-military-must-adapt-as-formations-will-be-hunted-by-autonomous-systems-caine-says/",
+    "sourceName": "Defense News",
+    "sourceType": "press",
+    "themes": [
+      "autonomy"
+    ],
+    "region": "US"
+  },
+  {
     "id": "1def264de25a",
     "date": "2026-09-15",
     "org": "unmapped",
