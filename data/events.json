@@ -1,5 +1,20 @@
 [
   {
+    "id": "ad31a0606e72",
+    "date": "2026-09-18",
+    "org": "unmapped",
+    "orgName": "Task & Purpose",
+    "headline": "Why moral injury could be a signature wound of the AI battlefield",
+    "summary": "Early theories of autonomous warfare thought remote battlefields might insulate troops from moral damage. Veterans and experts say the dangers are just as close.",
+    "sourceUrl": "https://taskandpurpose.com/news/army-ai-warfare-moral-injury-chaplains/",
+    "sourceName": "Task & Purpose",
+    "sourceType": "press",
+    "themes": [
+      "autonomy"
+    ],
+    "region": "US"
+  },
+  {
     "id": "9fe0d615241f",
     "date": "2026-09-16",
     "org": "unmapped",
