@@ -1,5 +1,20 @@
 [
   {
+    "id": "b960062f99ab",
+    "date": "2026-09-22",
+    "org": "unmapped",
+    "orgName": "Defence Blog",
+    "headline": "U.S. Navy tests new tool to plan missions for autonomous jets",
+    "summary": "The U. S. Navy demonstrated a new system for planning and controlling autonomous combat aircraft during Gray Flag 2026, a large-force test event held at Point Mugu Sea Range in California this month.",
+    "sourceUrl": "https://defence-blog.com/u-s-navy-tests-new-tool-to-plan-missions-for-autonomous-jets/",
+    "sourceName": "Defence Blog",
+    "sourceType": "press",
+    "themes": [
+      "autonomy"
+    ],
+    "region": "Europe"
+  },
+  {
     "id": "ad31a0606e72",
     "date": "2026-09-18",
     "org": "unmapped",
