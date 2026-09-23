@@ -1,5 +1,20 @@
 [
   {
+    "id": "1958676ba30d",
+    "date": "2026-09-22",
+    "org": "unmapped",
+    "orgName": "DefenseScoop",
+    "headline": "AI to help make logistics less predictable and vulnerable to adversaries, Transcom commander says",
+    "summary": "Gen. Randall Reed called AI an “engineered vulnerability” in the hands of foes who may use it to manipulate algorithms and lead military logisticians into making “catastrophic decisions based on hallucinated intelligence.”",
+    "sourceUrl": "https://defensescoop.com/2026/09/22/ai-contested-logistics-defensetalks-gen-randall-reed/",
+    "sourceName": "DefenseScoop",
+    "sourceType": "press",
+    "themes": [
+      "c2"
+    ],
+    "region": "US"
+  },
+  {
     "id": "b960062f99ab",
     "date": "2026-09-22",
     "org": "unmapped",
@@ -778,7 +793,7 @@
     "org": "unmapped",
     "orgName": "Naval News",
     "headline": "Blue Ops and Havoc Partner to Develop Open-Architecture Autonomous Maritime Defense Systems",
-    "summary": "Red Cat Holdings, Inc. , a U. S.",
+    "summary": "Coverage from Naval News. Open the article to read the full report.",
     "sourceUrl": "https://www.navalnews.com/naval-news/2026/08/blue-ops-and-havoc-partner-to-develop-open-architecture-autonomous-maritime-defense-systems/",
     "sourceName": "Naval News",
     "sourceType": "press",
