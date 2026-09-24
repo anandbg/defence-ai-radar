@@ -1,5 +1,61 @@
 [
   {
+    "id": "ac01ef4587b7",
+    "date": "2026-09-24",
+    "org": "unmapped",
+    "orgName": "Defense One — Technology",
+    "headline": "GenAI.mil saw more than 2 million users in one week, top DOD official says",
+    "summary": "The Pentagon's top AI officer also said that “unilateral disarmament is the wrong approach” when it comes to calls for a slowdown in AI development.",
+    "sourceUrl": "https://www.defenseone.com/technology/2026/09/genaimil-saw-more-2-million-users-one-week-top-dod-official-says/416186/",
+    "sourceName": "Defense One — Technology",
+    "sourceType": "press",
+    "themes": [],
+    "region": "US"
+  },
+  {
+    "id": "3bd3bdf4e196",
+    "date": "2026-09-23",
+    "org": "unmapped",
+    "orgName": "Air & Space Forces Magazine",
+    "headline": "Air Force Experiment Looks at How Humans and AI Can Team Up for Command and Control",
+    "summary": "A recent two-week experiment tested how Airmen and Guardians can team with machines and artificial intelligence to enhance command and control in complex scenarios—with researchers measuring everything from the heart rate of participants to the quality of their decision-making.",
+    "sourceUrl": "https://www.airandspaceforces.com/air-force-human-and-ai-command-and-control-teaming-experiment/",
+    "sourceName": "Air & Space Forces Magazine",
+    "sourceType": "press",
+    "themes": [
+      "c2"
+    ],
+    "region": "US"
+  },
+  {
+    "id": "c515226b81b0",
+    "date": "2026-09-23",
+    "org": "unmapped",
+    "orgName": "DefenseScoop",
+    "headline": "GenAI.mil attracts about half a million ‘power users’ as Pentagon pushes forward with frontier models",
+    "summary": "Senior defense officials provided an update on the department’s adoption of AI at DefenseTalks.",
+    "sourceUrl": "https://defensescoop.com/2026/09/23/genai-mil-pentagon-frontier-models-defensetalks/",
+    "sourceName": "DefenseScoop",
+    "sourceType": "press",
+    "themes": [],
+    "region": "US"
+  },
+  {
+    "id": "95833988526f",
+    "date": "2026-09-23",
+    "org": "unmapped",
+    "orgName": "Naval News",
+    "headline": "U.S. Special Forces Operate Helicopter From Autonomous Barge for the First Time",
+    "summary": "The U. S. Army's 160th SOAR has landed an MH-47G Chinook on an autonomous Sea Machines barge for the first time, advancing naval logistics and drone integration.",
+    "sourceUrl": "https://www.navalnews.com/naval-news/2026/09/u-s-special-forces-operate-helicopter-from-autonomous-barge-for-the-first-time/",
+    "sourceName": "Naval News",
+    "sourceType": "press",
+    "themes": [
+      "autonomy"
+    ],
+    "region": "Europe"
+  },
+  {
     "id": "1958676ba30d",
     "date": "2026-09-22",
     "org": "unmapped",
