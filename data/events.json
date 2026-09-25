@@ -1,5 +1,21 @@
 [
   {
+    "id": "cb2b0b2562c9",
+    "date": "2026-09-25",
+    "org": "unmapped",
+    "orgName": "UK Gov — Ministry of Defence",
+    "headline": "British companies to access prized Ukraine data to develop AI drone swarms",
+    "summary": "British companies will gain access to a goldmine of battlefield data from Ukraine for the first time to develop new AI models for advanced drone swarms.",
+    "sourceUrl": "https://www.gov.uk/government/news/british-companies-to-access-prized-ukraine-data-to-develop-ai-drone-swarms",
+    "sourceName": "UK Gov — Ministry of Defence",
+    "sourceType": "official",
+    "themes": [
+      "autonomy",
+      "data"
+    ],
+    "region": "UK"
+  },
+  {
     "id": "ac01ef4587b7",
     "date": "2026-09-24",
     "org": "unmapped",
@@ -10,6 +26,21 @@
     "sourceName": "Defense One — Technology",
     "sourceType": "press",
     "themes": [],
+    "region": "US"
+  },
+  {
+    "id": "050d29cb467c",
+    "date": "2026-09-24",
+    "org": "unmapped",
+    "orgName": "Breaking Defense",
+    "headline": "Navy launches Robotics and Autonomous Systems Warfighting Development Center",
+    "summary": "RASWDC is in the process of developing a phased implementation plan to tackle issues like command structure, mission relationships and resource requirements.",
+    "sourceUrl": "https://breakingdefense.com/2026/09/navy-launches-robotics-and-autonomous-systems-warfighting-development-center/",
+    "sourceName": "Breaking Defense",
+    "sourceType": "press",
+    "themes": [
+      "autonomy"
+    ],
     "region": "US"
   },
   {
@@ -849,7 +880,7 @@
     "org": "unmapped",
     "orgName": "Naval News",
     "headline": "Blue Ops and Havoc Partner to Develop Open-Architecture Autonomous Maritime Defense Systems",
-    "summary": "Coverage from Naval News. Open the article to read the full report.",
+    "summary": "Red Cat Holdings, Inc. , a U. S.",
     "sourceUrl": "https://www.navalnews.com/naval-news/2026/08/blue-ops-and-havoc-partner-to-develop-open-architecture-autonomous-maritime-defense-systems/",
     "sourceName": "Naval News",
     "sourceType": "press",
