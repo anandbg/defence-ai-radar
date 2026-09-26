@@ -1,5 +1,20 @@
 [
   {
+    "id": "68e35a5dafa0",
+    "date": "2026-09-26",
+    "org": "unmapped",
+    "orgName": "Defence Blog",
+    "headline": "Ukraine’s rescue UGV gets better from soldiers, not AI",
+    "summary": "The biggest improvements to MAUL, a Ukrainian unmanned ground vehicle built to carry wounded soldiers off the front line, have come from the troops using it rather than from artificial intelligence, the head of the company behind it said.",
+    "sourceUrl": "https://defence-blog.com/ukraines-rescue-ugv-gets-better-from-soldiers-not-ai/",
+    "sourceName": "Defence Blog",
+    "sourceType": "press",
+    "themes": [
+      "autonomy"
+    ],
+    "region": "Europe"
+  },
+  {
     "id": "cb2b0b2562c9",
     "date": "2026-09-25",
     "org": "unmapped",
@@ -14,6 +29,34 @@
       "data"
     ],
     "region": "UK"
+  },
+  {
+    "id": "3c41a682d078",
+    "date": "2026-09-25",
+    "org": "thales",
+    "orgName": "Thales",
+    "headline": "Thales in ‘quite advanced’ talks with NATO countries on AI-powered command software",
+    "summary": "French firm Thales is “quite advanced” in discussions with a number of NATO countries about using its artificial intelligence-powered C2 system.",
+    "sourceUrl": "https://www.defensenews.com/global/europe/2026/09/25/thales-in-quite-advanced-talks-with-nato-countries-on-ai-powered-command-software/",
+    "sourceName": "Defense News",
+    "sourceType": "press",
+    "themes": [],
+    "region": "Europe"
+  },
+  {
+    "id": "d0a13212d77c",
+    "date": "2026-09-25",
+    "org": "unmapped",
+    "orgName": "Defense News",
+    "headline": "Ukraine’s deadly AI training platform for drone tech opens to UK companies",
+    "summary": "Ukraine opens wartime battlefield data to Britain through Avengers AI Labs, giving British companies access to data for AI drone development.",
+    "sourceUrl": "https://www.defensenews.com/unmanned/2026/09/25/ukraines-deadly-ai-training-platform-for-drone-tech-opens-to-uk-companies/",
+    "sourceName": "Defense News",
+    "sourceType": "press",
+    "themes": [
+      "data"
+    ],
+    "region": "US"
   },
   {
     "id": "ac01ef4587b7",
