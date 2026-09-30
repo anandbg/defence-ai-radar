@@ -1,5 +1,35 @@
 [
   {
+    "id": "d2e1b2884d32",
+    "date": "2026-09-30",
+    "org": "unmapped",
+    "orgName": "Defence Blog",
+    "headline": "U.S. Navy orders 10 of Saronic’s 180-foot autonomous ships",
+    "summary": "The U. S. Navy will buy 10 of Saronic’s Marauder autonomous ships, a 55-meter (180-foot) uncrewed vessel built in Louisiana, after the ship passed at-sea testing under the service’s new Medium Unmanned Surface Vessel program.",
+    "sourceUrl": "https://defence-blog.com/u-s-navy-orders-10-of-saronics-180-foot-autonomous-ships/",
+    "sourceName": "Defence Blog",
+    "sourceType": "press",
+    "themes": [
+      "autonomy"
+    ],
+    "region": "Europe"
+  },
+  {
+    "id": "7c61ff8e941e",
+    "date": "2026-09-29",
+    "org": "unmapped",
+    "orgName": "Air & Space Forces Magazine",
+    "headline": "CCAs and Autonomy Gain Momentum as Focus of Future Force",
+    "summary": "For the past four years, the idea of autonomous drone warfare like Collaborative Combat Aircraft has been discussed as a future concept, rather than near-term reality. But now that promised vision appears imminent, with the Air Force promising at least 1,000 such drones by 2032.",
+    "sourceUrl": "https://www.airandspaceforces.com/ccas-autonomy-momentum-focus-of-future-force/",
+    "sourceName": "Air & Space Forces Magazine",
+    "sourceType": "press",
+    "themes": [
+      "autonomy"
+    ],
+    "region": "US"
+  },
+  {
     "id": "68e35a5dafa0",
     "date": "2026-09-26",
     "org": "unmapped",
@@ -923,7 +953,7 @@
     "org": "unmapped",
     "orgName": "Naval News",
     "headline": "Blue Ops and Havoc Partner to Develop Open-Architecture Autonomous Maritime Defense Systems",
-    "summary": "Red Cat Holdings, Inc. , a U. S.",
+    "summary": "Coverage from Naval News. Open the article to read the full report.",
     "sourceUrl": "https://www.navalnews.com/naval-news/2026/08/blue-ops-and-havoc-partner-to-develop-open-architecture-autonomous-maritime-defense-systems/",
     "sourceName": "Naval News",
     "sourceType": "press",
