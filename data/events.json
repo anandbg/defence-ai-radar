@@ -1,5 +1,106 @@
 [
   {
+    "id": "269b092fc12b",
+    "date": "2026-10-01",
+    "org": "unmapped",
+    "orgName": "Defense News",
+    "headline": "Neros, Perennial Autonomy lead in Pentagon’s drone competition",
+    "summary": "Two companies scored highest during the second phase of a Pentagon competition to find companies that can produce high-quality, low-cost commercial drones.",
+    "sourceUrl": "https://www.defensenews.com/unmanned/2026/10/01/neros-perennial-autonomy-lead-in-pentagons-drone-competition/",
+    "sourceName": "Defense News",
+    "sourceType": "press",
+    "themes": [
+      "autonomy"
+    ],
+    "region": "US"
+  },
+  {
+    "id": "c0204eea908a",
+    "date": "2026-09-30",
+    "org": "unmapped",
+    "orgName": "Task & Purpose",
+    "headline": "Airmen criticize Air Force’s use of AI in suicide prevention training as ‘uncomfortable and odd’",
+    "summary": "The service says AI-generated presenters standardize its training. Some airmen say using AI for such a human crisis instead made the message feel “cold and unnatural.”",
+    "sourceUrl": "https://taskandpurpose.com/news/air-force-ai-suicide-prevention-training/",
+    "sourceName": "Task & Purpose",
+    "sourceType": "press",
+    "themes": [],
+    "region": "US"
+  },
+  {
+    "id": "41a0b0faac73",
+    "date": "2026-09-30",
+    "org": "unmapped",
+    "orgName": "Army Times",
+    "headline": "Hegseth announces new four-star command for autonomous warfare",
+    "summary": "The new Autonomous Warfare Command, or AutoWarCom, aims to address an acquisition system that isn't keeping pace with the speed of technological change.",
+    "sourceUrl": "https://www.armytimes.com/news/your-military/2026/09/30/hegseth-announces-new-four-star-command-for-autonomous-warfare/",
+    "sourceName": "Army Times",
+    "sourceType": "press",
+    "themes": [
+      "autonomy"
+    ],
+    "region": "US"
+  },
+  {
+    "id": "806ba2918d65",
+    "date": "2026-09-30",
+    "org": "unmapped",
+    "orgName": "Defense One — All",
+    "headline": "Hegseth plans ‘Autonomous Warfare Command’",
+    "summary": "The military’s 12th combatant command was among a slew of announcements in a Quantico speech Wednesday.",
+    "sourceUrl": "https://www.defenseone.com/policy/2026/09/hegseth-plans-autonomous-warfare-command/416358/",
+    "sourceName": "Defense One — All",
+    "sourceType": "press",
+    "themes": [
+      "autonomy"
+    ],
+    "region": "US"
+  },
+  {
+    "id": "ebbba5f92b61",
+    "date": "2026-09-30",
+    "org": "unmapped",
+    "orgName": "Air & Space Forces Magazine",
+    "headline": "Hegseth Unveils New Autonomous Warfare Command in ‘State of the Force’ Address",
+    "summary": "In a “State of the Force” address Sept. 30, Secretary of Defense Pete Hegseth announced plans for a new four-star command to lead the military-wide push to field autonomous systems, one of several initiatives meant to further his sweeping transformation of the Pentagon.",
+    "sourceUrl": "https://www.airandspaceforces.com/hegseth-drones-autonomous-warfare-command-state-of-the-force/",
+    "sourceName": "Air & Space Forces Magazine",
+    "sourceType": "press",
+    "themes": [
+      "autonomy"
+    ],
+    "region": "US"
+  },
+  {
+    "id": "113dd77e5cd5",
+    "date": "2026-09-30",
+    "org": "unmapped",
+    "orgName": "DefenseScoop",
+    "headline": "How to build observability for the agentic AI era",
+    "summary": "Building trust in agentic AI starts with better visibility into performance, behavior, security and cost.",
+    "sourceUrl": "https://fedscoop.com/splunk-agent-observability/",
+    "sourceName": "DefenseScoop",
+    "sourceType": "press",
+    "themes": [],
+    "region": "US"
+  },
+  {
+    "id": "8df8bb199619",
+    "date": "2026-09-30",
+    "org": "unmapped",
+    "orgName": "DefenseScoop",
+    "headline": "U.S. creates new Autonomous Warfare Command to fuse and enhance military drone ops",
+    "summary": "Defense Secretary Pete Hegseth unveiled AutoWarCom during his “State of the Force” address at Marine Corps Base Quantico in Virginia.",
+    "sourceUrl": "https://defensescoop.com/2026/09/30/hegseth-announces-autonomous-warfare-command/",
+    "sourceName": "DefenseScoop",
+    "sourceType": "press",
+    "themes": [
+      "autonomy"
+    ],
+    "region": "US"
+  },
+  {
     "id": "d2e1b2884d32",
     "date": "2026-09-30",
     "org": "unmapped",
@@ -13,6 +114,21 @@
       "autonomy"
     ],
     "region": "Europe"
+  },
+  {
+    "id": "64523c83f512",
+    "date": "2026-09-30",
+    "org": "unmapped",
+    "orgName": "The War Zone (TWZ)",
+    "headline": "Vision For New Autonomous Warfare Command Laid Out By Pentagon",
+    "summary": "The new command, slated to stand up late next year, will focus on advancing operational autonomous and robotic capabilities across the services.",
+    "sourceUrl": "https://www.twz.com/news-features/vision-for-new-autonomous-warfare-command-laid-out-by-pentagon",
+    "sourceName": "The War Zone (TWZ)",
+    "sourceType": "press",
+    "themes": [
+      "autonomy"
+    ],
+    "region": "US"
   },
   {
     "id": "7c61ff8e941e",
