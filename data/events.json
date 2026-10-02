@@ -1,5 +1,72 @@
 [
   {
+    "id": "c57fb57e6461",
+    "date": "2026-10-02",
+    "org": "darpa",
+    "orgName": "DARPA",
+    "headline": "DARPA wants AI built into running its biotech research",
+    "summary": "The Defense Advanced Research Projects Agency, the Pentagon’s research arm that funds high-risk military technology, has hired Systems Planning and Analysis to help manage its biotechnology programs, and it wants artificial intelligence built into how that work is done.",
+    "sourceUrl": "https://defence-blog.com/darpa-wants-ai-built-into-running-its-biotech-research/",
+    "sourceName": "Defence Blog",
+    "sourceType": "press",
+    "themes": [],
+    "region": "US"
+  },
+  {
+    "id": "6d771e53048f",
+    "date": "2026-10-02",
+    "org": "unmapped",
+    "orgName": "Defense News",
+    "headline": "French Air Force plans loyal wingman flight in 2028 in sovereign AI push",
+    "summary": "The French Air Force plans to fly crewed fighter jets in collaboration with AI-powered combat drones in 2028, under project Hypairion.",
+    "sourceUrl": "https://www.defensenews.com/global/europe/2026/10/02/french-air-force-plans-loyal-wingman-flight-in-2028-in-sovereign-ai-push/",
+    "sourceName": "Defense News",
+    "sourceType": "press",
+    "themes": [],
+    "region": "US"
+  },
+  {
+    "id": "99d911629b01",
+    "date": "2026-10-02",
+    "org": "unmapped",
+    "orgName": "Defence Blog",
+    "headline": "Poland puts AI to work guarding its border with Belarus",
+    "summary": "Poland’s military and Border Guard are now using an artificial intelligence system to watch the country’s border with Belarus, pulling feeds from cameras, drones and other sensors into one picture and flagging activity that needs a human’s attention.",
+    "sourceUrl": "https://defence-blog.com/poland-puts-ai-to-work-guarding-its-border-with-belarus/",
+    "sourceName": "Defence Blog",
+    "sourceType": "press",
+    "themes": [],
+    "region": "Europe"
+  },
+  {
+    "id": "df0815df8c04",
+    "date": "2026-10-01",
+    "org": "unmapped",
+    "orgName": "DefenseScoop",
+    "headline": "How AI agents are informing JIATF-401’s procurement plans after Falcon Peak",
+    "summary": "Joint Interagency Task Force 401's director shared new details about the counter-drone hub’s new “tech arsenal.\"",
+    "sourceUrl": "https://defensescoop.com/2026/10/01/ai-agents-jiatf-401-procurement-plans-falcon-peak/",
+    "sourceName": "DefenseScoop",
+    "sourceType": "press",
+    "themes": [],
+    "region": "US"
+  },
+  {
+    "id": "276eebc8e70a",
+    "date": "2026-10-01",
+    "org": "unmapped",
+    "orgName": "Breaking Defense",
+    "headline": "How Hegseth envisions a new Autonomous Warfare Command",
+    "summary": "The Pentagon wants to combine drone procurement and operations under a new command, but Congress will have a say.",
+    "sourceUrl": "https://breakingdefense.com/2026/10/how-hegseth-envisions-a-new-autonomous-warfare-command/",
+    "sourceName": "Breaking Defense",
+    "sourceType": "press",
+    "themes": [
+      "autonomy"
+    ],
+    "region": "US"
+  },
+  {
     "id": "269b092fc12b",
     "date": "2026-10-01",
     "org": "unmapped",
@@ -1069,7 +1136,7 @@
     "org": "unmapped",
     "orgName": "Naval News",
     "headline": "Blue Ops and Havoc Partner to Develop Open-Architecture Autonomous Maritime Defense Systems",
-    "summary": "Coverage from Naval News. Open the article to read the full report.",
+    "summary": "Red Cat Holdings, Inc. , a U. S.",
     "sourceUrl": "https://www.navalnews.com/naval-news/2026/08/blue-ops-and-havoc-partner-to-develop-open-architecture-autonomous-maritime-defense-systems/",
     "sourceName": "Naval News",
     "sourceType": "press",
