@@ -1,5 +1,20 @@
 [
   {
+    "id": "58098380237e",
+    "date": "2026-10-02",
+    "org": "unmapped",
+    "orgName": "Breaking Defense",
+    "headline": "Army to establish new autonomy command, acquisition executive",
+    "summary": "The service’s new command will be called Army Futures and Autonomous Systems Command, or FASCOM, according to a memo signed by Acting Army Secretary Adam Telle.",
+    "sourceUrl": "https://breakingdefense.com/2026/10/army-to-establish-new-autonomy-command-acquisition-executive/",
+    "sourceName": "Breaking Defense",
+    "sourceType": "press",
+    "themes": [
+      "autonomy"
+    ],
+    "region": "US"
+  },
+  {
     "id": "c57fb57e6461",
     "date": "2026-10-02",
     "org": "darpa",
