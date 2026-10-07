@@ -1,5 +1,63 @@
 [
   {
+    "id": "9c1c820abae3",
+    "date": "2026-10-07",
+    "org": "unmapped",
+    "orgName": "Defence Blog",
+    "headline": "French firm develops autonomous 2,000 km strike drone",
+    "summary": "French defense startup Harmattan AI has unveiled IRIFI, an autonomous long-range loitering one-way attack drone system that the company says is designed to hit targets up to 2,000 km (1,240 miles) away without relying on satellite navigation or human control during flight.",
+    "sourceUrl": "https://defence-blog.com/french-firm-develops-autonomous-2000-km-strike-drone/",
+    "sourceName": "Defence Blog",
+    "sourceType": "press",
+    "themes": [
+      "autonomy"
+    ],
+    "region": "Europe"
+  },
+  {
+    "id": "8863dfac933d",
+    "date": "2026-10-07",
+    "org": "unmapped",
+    "orgName": "Breaking Defense",
+    "headline": "General Dynamics taps Primordial to build AI assistant for combat vehicle crews",
+    "summary": "Like a militarized Alexa, Primordial Labs’ Anura AI is trained to understand soldiers’ voice commands and translate them into specific actions — but not deadly ones.",
+    "sourceUrl": "https://breakingdefense.com/2026/10/general-dynamics-taps-primordial-to-build-ai-assistant-for-combat-vehicle-crews/",
+    "sourceName": "Breaking Defense",
+    "sourceType": "press",
+    "themes": [],
+    "region": "US"
+  },
+  {
+    "id": "493e7eb29b1a",
+    "date": "2026-10-07",
+    "org": "unmapped",
+    "orgName": "Defense One — All",
+    "headline": "The Pentagon’s autonomy command should draw on lessons old and new",
+    "summary": "AUTOWARCOM will have a big task. Luckily, it’s not starting from scratch.",
+    "sourceUrl": "https://www.defenseone.com/policy/2026/10/pentagon-autonomy-command-patriot-maven/416444/",
+    "sourceName": "Defense One — All",
+    "sourceType": "press",
+    "themes": [
+      "autonomy"
+    ],
+    "region": "US"
+  },
+  {
+    "id": "38ffea55606d",
+    "date": "2026-10-06",
+    "org": "unmapped",
+    "orgName": "Defense News",
+    "headline": "Northrop Grumman’s YFQ-48A CCA completes first fully autonomous flight",
+    "summary": "The successful flight came just weeks after U. S. Air Force officials announced their intention to have 500 autonomous aircraft in service by 2032.",
+    "sourceUrl": "https://www.defensenews.com/industry/techwatch/2026/10/06/northrop-grummans-yfq-48a-cca-completes-first-fully-autonomous-flight/",
+    "sourceName": "Defense News",
+    "sourceType": "press",
+    "themes": [
+      "autonomy"
+    ],
+    "region": "US"
+  },
+  {
     "id": "cf91cd65e837",
     "date": "2026-10-05",
     "org": "unmapped",
@@ -14,6 +72,19 @@
       "isr",
       "cyber"
     ],
+    "region": "US"
+  },
+  {
+    "id": "30d941b29bbc",
+    "date": "2026-10-05",
+    "org": "unmapped",
+    "orgName": "C4ISRNET",
+    "headline": "Has the Pentagon given up on AI polygraph analysis of loyalty?",
+    "summary": "AI-aided scanning of speech patterns, vocal stress or facial expressions to read minds lacks scientific backing and will compound errors, critics argue.",
+    "sourceUrl": "https://www.c4isrnet.com/news/pentagon-congress/2026/10/05/has-the-pentagon-given-up-on-ai-polygraph-analysis-of-trustworthiness/",
+    "sourceName": "C4ISRNET",
+    "sourceType": "press",
+    "themes": [],
     "region": "US"
   },
   {
