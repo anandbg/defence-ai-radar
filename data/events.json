@@ -1,5 +1,18 @@
 [
   {
+    "id": "b906438a476e",
+    "date": "2026-10-08",
+    "org": "unmapped",
+    "orgName": "Defense News",
+    "headline": "Dutch firm uses AI to help drone systems ‘talk’ on Ukraine’s battlefield",
+    "summary": "Amsterdam-based Intelic now has an office in Kyiv and is helping Ukrainian forces as they face intensified Russian drone and missile barrages.",
+    "sourceUrl": "https://www.defensenews.com/industry/techwatch/2026/10/08/dutch-firm-uses-ai-to-help-drone-systems-talk-on-ukraines-battlefield/",
+    "sourceName": "Defense News",
+    "sourceType": "press",
+    "themes": [],
+    "region": "US"
+  },
+  {
     "id": "9c1c820abae3",
     "date": "2026-10-07",
     "org": "unmapped",
@@ -15,6 +28,19 @@
     "region": "Europe"
   },
   {
+    "id": "af0f5abcbdcf",
+    "date": "2026-10-07",
+    "org": "unmapped",
+    "orgName": "Breaking Defense",
+    "headline": "From directed energy to AI and hardening, JIATF-401 is widening counter-UAS options",
+    "summary": "There is no single answer to the drone threat, pushing the Pentagon toward a broader mix of defenses.",
+    "sourceUrl": "https://breakingdefense.com/2026/10/from-directed-energy-to-ai-and-hardening-jiatf-401-is-widening-counter-uas-options/",
+    "sourceName": "Breaking Defense",
+    "sourceType": "press",
+    "themes": [],
+    "region": "US"
+  },
+  {
     "id": "8863dfac933d",
     "date": "2026-10-07",
     "org": "unmapped",
@@ -23,6 +49,19 @@
     "summary": "Like a militarized Alexa, Primordial Labs’ Anura AI is trained to understand soldiers’ voice commands and translate them into specific actions — but not deadly ones.",
     "sourceUrl": "https://breakingdefense.com/2026/10/general-dynamics-taps-primordial-to-build-ai-assistant-for-combat-vehicle-crews/",
     "sourceName": "Breaking Defense",
+    "sourceType": "press",
+    "themes": [],
+    "region": "US"
+  },
+  {
+    "id": "a8e71cb359d5",
+    "date": "2026-10-07",
+    "org": "unmapped",
+    "orgName": "DefenseScoop",
+    "headline": "Pentagon launches pilot program that will use AI to manage sensitive information",
+    "summary": "The memo framed the Pentagon’s use of AI as a way to shed “dysfunction” caused by outdated classification and declassification procedures, which it describes as “endangering” to the department’s mission.",
+    "sourceUrl": "https://defensescoop.com/2026/10/07/pentagon-launches-ai-pilot-program-automated-classification-management/",
+    "sourceName": "DefenseScoop",
     "sourceType": "press",
     "themes": [],
     "region": "US"
