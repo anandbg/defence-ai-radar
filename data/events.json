@@ -1,5 +1,75 @@
 [
   {
+    "id": "b3953786d720",
+    "date": "2026-10-09",
+    "org": "unmapped",
+    "orgName": "UK Gov — Ministry of Defence",
+    "headline": "100 new UK jobs created as Kuwait buys British-made AI-enabled air defence systems",
+    "summary": "British jobs and skills will be boosted by a £370 million deal as Kuwait buys vital air defence systems from a UK-based business.",
+    "sourceUrl": "https://www.gov.uk/government/news/100-new-uk-jobs-created-as-kuwait-buys-british-made-ai-enabled-air-defence-systems",
+    "sourceName": "UK Gov — Ministry of Defence",
+    "sourceType": "official",
+    "themes": [],
+    "region": "UK"
+  },
+  {
+    "id": "d84979595aca",
+    "date": "2026-10-09",
+    "org": "unmapped",
+    "orgName": "Defense One — Technology",
+    "headline": "Army’s new command plans to streamline autonomous warfare acquisition",
+    "summary": "Experts weigh in on what it will take to be successful.",
+    "sourceUrl": "https://www.defenseone.com/technology/2026/10/armys-new-command-plans-streamline-autonomous-warfare-acquisition/416523/",
+    "sourceName": "Defense One — Technology",
+    "sourceType": "press",
+    "themes": [
+      "autonomy"
+    ],
+    "region": "US"
+  },
+  {
+    "id": "5598ab5fb6e7",
+    "date": "2026-10-09",
+    "org": "unmapped",
+    "orgName": "Breaking Defense",
+    "headline": "Bringing real autonomy to battlefield drone swarms",
+    "summary": "[Sponsored] Decentralized Embodied Collaborative intelligence enables better reconnaissance, logistics and combat capabilities.",
+    "sourceUrl": "https://breakingdefense.com/2026/10/bringing-real-autonomy-to-battlefield-drone-swarms/",
+    "sourceName": "Breaking Defense",
+    "sourceType": "press",
+    "themes": [
+      "autonomy",
+      "isr"
+    ],
+    "region": "US"
+  },
+  {
+    "id": "ef0d8e743941",
+    "date": "2026-10-09",
+    "org": "unmapped",
+    "orgName": "Breaking Defense",
+    "headline": "Zero Trust gets harder when every user, device, weapon, and AI agent needs an identity",
+    "summary": "The next phase of Zero Trust reaches beyond users and devices, experts discussed during a Breaking Defense webinar.",
+    "sourceUrl": "https://breakingdefense.com/2026/10/zero-trust-gets-harder-when-every-user-device-weapon-and-ai-agent-needs-an-identity/",
+    "sourceName": "Breaking Defense",
+    "sourceType": "press",
+    "themes": [],
+    "region": "US"
+  },
+  {
+    "id": "cf4c6c690afc",
+    "date": "2026-10-08",
+    "org": "unmapped",
+    "orgName": "DefenseScoop",
+    "headline": "Bipartisan Senate bill would push DOD to expand its oversight of in-use commercial frontier AI models",
+    "summary": "The legislation would direct the secretary of defense to create new reporting requirements and voluntary guidance for large AI contractors.",
+    "sourceUrl": "https://defensescoop.com/2026/10/08/senate-bill-expand-dod-oversight-commercial-frontier-ai-models/",
+    "sourceName": "DefenseScoop",
+    "sourceType": "press",
+    "themes": [],
+    "region": "US"
+  },
+  {
     "id": "b906438a476e",
     "date": "2026-10-08",
     "org": "unmapped",
@@ -10,6 +80,47 @@
     "sourceName": "Defense News",
     "sourceType": "press",
     "themes": [],
+    "region": "US"
+  },
+  {
+    "id": "a11a311ff64a",
+    "date": "2026-10-08",
+    "org": "unmapped",
+    "orgName": "Breaking Defense",
+    "headline": "Navy, Shield AI pour big bucks into X-BAT drone development",
+    "summary": "Altogether, Shield AI and the US Navy are investing a combined $400 million into the X-BAT drone.",
+    "sourceUrl": "https://breakingdefense.com/2026/10/navy-shield-ai-pour-big-bucks-into-x-bat-drone-development/",
+    "sourceName": "Breaking Defense",
+    "sourceType": "press",
+    "themes": [],
+    "region": "US"
+  },
+  {
+    "id": "7484956644ac",
+    "date": "2026-10-08",
+    "org": "unmapped",
+    "orgName": "Naval News",
+    "headline": "Shield AI and U.S. government investment in X-BAT reaches $400 million",
+    "summary": "Shield AI announced that the U. S. Navy has executed a $150 million modification to its existing Other Transaction (OT) agreement with the company to advance X-BAT, an AI-piloted, vertical takeoff and landing (VTOL) fighter aircraft.",
+    "sourceUrl": "https://www.navalnews.com/naval-news/2026/10/shield-ai-and-u-s-government-investment-in-x-bat-reaches-400-million/",
+    "sourceName": "Naval News",
+    "sourceType": "press",
+    "themes": [],
+    "region": "Europe"
+  },
+  {
+    "id": "97ac0f7572e5",
+    "date": "2026-10-08",
+    "org": "unmapped",
+    "orgName": "Defense One — All",
+    "headline": "Shield AI expects to fly its unmanned fighter jet within months",
+    "summary": "The Navy is kicking in $150 million to further develop the X-BAT.",
+    "sourceUrl": "https://www.defenseone.com/business/2026/10/shield-ai-expects-fly-its-unmanned-fighter-jet-within-months/416510/",
+    "sourceName": "Defense One — All",
+    "sourceType": "press",
+    "themes": [
+      "autonomy"
+    ],
     "region": "US"
   },
   {
