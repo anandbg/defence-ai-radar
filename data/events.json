@@ -44,6 +44,22 @@
     "region": "US"
   },
   {
+    "id": "a44d7e236967",
+    "date": "2026-10-09",
+    "org": "unmapped",
+    "orgName": "Breaking Defense",
+    "headline": "Drones and autonomous warfare: ‘One-way attack’ and reshaping ISR",
+    "summary": "[Sponsored] Systems that can work independently while still being part of a unit are critical to carrying out multi-domain operations.",
+    "sourceUrl": "https://breakingdefense.com/2026/10/drones-and-autonomous-warfare-one-way-attack-and-reshaping-isr/",
+    "sourceName": "Breaking Defense",
+    "sourceType": "press",
+    "themes": [
+      "autonomy",
+      "isr"
+    ],
+    "region": "US"
+  },
+  {
     "id": "ef0d8e743941",
     "date": "2026-10-09",
     "org": "unmapped",
