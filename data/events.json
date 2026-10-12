@@ -1,5 +1,20 @@
 [
   {
+    "id": "56b40ab6e777",
+    "date": "2026-10-12",
+    "org": "unmapped",
+    "orgName": "Breaking Defense",
+    "headline": "AGVs vs. UGVs: A new class of ground autonomy takes the field",
+    "summary": "[Sponsored] One commander, many robots: Fully autonomous ground vehicles are reshaping the battlefield.",
+    "sourceUrl": "https://breakingdefense.com/2026/10/agvs-vs-ugvs-a-new-class-of-ground-autonomy-takes-the-field/",
+    "sourceName": "Breaking Defense",
+    "sourceType": "press",
+    "themes": [
+      "autonomy"
+    ],
+    "region": "US"
+  },
+  {
     "id": "b3953786d720",
     "date": "2026-10-09",
     "org": "unmapped",
