@@ -1,5 +1,18 @@
 [
   {
+    "id": "037a51badf4f",
+    "date": "2026-10-13",
+    "org": "unmapped",
+    "orgName": "Breaking Defense",
+    "headline": "Army to take a (cautious) step toward employing AI agents to defend networks: Official",
+    "summary": "The Army is making its first awards under Project Griffin, which eventually envisions AI prowling networks for malicious activity.",
+    "sourceUrl": "https://breakingdefense.com/2026/10/army-to-take-a-cautious-step-toward-employing-ai-agents-to-defend-networks-official/",
+    "sourceName": "Breaking Defense",
+    "sourceType": "press",
+    "themes": [],
+    "region": "US"
+  },
+  {
     "id": "56b40ab6e777",
     "date": "2026-10-12",
     "org": "unmapped",
@@ -12,6 +25,34 @@
     "themes": [
       "autonomy"
     ],
+    "region": "US"
+  },
+  {
+    "id": "dd2dd14c1515",
+    "date": "2026-10-12",
+    "org": "unmapped",
+    "orgName": "DefenseScoop",
+    "headline": "ARCYBER expanding use of AI agents for network operations",
+    "summary": "Task Force Lexington has “mapped out” an entire Cyber Protection Team composed of agents, including for analytic support and network analysts, among other roles.",
+    "sourceUrl": "https://defensescoop.com/2026/10/12/arcyber-expanding-use-of-ai-agents-for-network-operations/",
+    "sourceName": "DefenseScoop",
+    "sourceType": "press",
+    "themes": [
+      "cyber"
+    ],
+    "region": "US"
+  },
+  {
+    "id": "0d4c812ebd15",
+    "date": "2026-10-12",
+    "org": "unmapped",
+    "orgName": "DefenseScoop",
+    "headline": "Army turning to AI in its fight against biological threats",
+    "summary": "Senior military and defense officials shared new details with reporters about the Army’s new biodefense strategy.",
+    "sourceUrl": "https://defensescoop.com/2026/10/12/army-turning-to-ai-in-its-fight-against-biological-threats/",
+    "sourceName": "DefenseScoop",
+    "sourceType": "press",
+    "themes": [],
     "region": "US"
   },
   {
