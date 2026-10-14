@@ -1,5 +1,50 @@
 [
   {
+    "id": "8106b3000be6",
+    "date": "2026-10-14",
+    "org": "unmapped",
+    "orgName": "Defense One — Technology",
+    "headline": "Army converts Futures and Concepts Command to Futures and Autonomy Command",
+    "summary": "Officials released more details about its component organization under the Defense Department’s new Autonomous Warfare Command.",
+    "sourceUrl": "https://www.defenseone.com/technology/2026/10/army-converts-futures-and-concepts-command-futures-and-autonomy-command/416576/",
+    "sourceName": "Defense One — Technology",
+    "sourceType": "press",
+    "themes": [
+      "autonomy"
+    ],
+    "region": "US"
+  },
+  {
+    "id": "f2e9e838706e",
+    "date": "2026-10-14",
+    "org": "unmapped",
+    "orgName": "Breaking Defense",
+    "headline": "Army doubles down on autonomy, stakes out Indo-Pacific role: AUSA Day 2",
+    "summary": "From a newly redesignated command to long-range fires in the Pacific, Army leaders laid out where they see the service fitting into the future fight.",
+    "sourceUrl": "https://breakingdefense.com/2026/10/army-doubles-down-on-autonomy-stakes-out-indo-pacific-role-ausa-day-2/",
+    "sourceName": "Breaking Defense",
+    "sourceType": "press",
+    "themes": [
+      "autonomy"
+    ],
+    "region": "US"
+  },
+  {
+    "id": "3b65b735251a",
+    "date": "2026-10-14",
+    "org": "unmapped",
+    "orgName": "Defense News",
+    "headline": "US Army hackathon sets backdrop for an AUSA focused on autonomy",
+    "summary": "The Army's Operation Jailbreak initiative asked defense companies to hack into each other's autonomous systems and machines, enabling them to communicate.",
+    "sourceUrl": "https://www.defensenews.com/industry/techwatch/2026/10/14/us-army-hackathon-sets-backdrop-for-an-ausa-focused-on-autonomy/",
+    "sourceName": "Defense News",
+    "sourceType": "press",
+    "themes": [
+      "autonomy"
+    ],
+    "region": "US"
+  },
+  {
     "id": "037a51badf4f",
     "date": "2026-10-13",
     "org": "unmapped",
@@ -10,6 +55,79 @@
     "sourceName": "Breaking Defense",
     "sourceType": "press",
     "themes": [],
+    "region": "US"
+  },
+  {
+    "id": "4ad1c9fbe2c1",
+    "date": "2026-10-13",
+    "org": "unmapped",
+    "orgName": "Defense News",
+    "headline": "How autonomous weapons are changing the way brigades fight",
+    "summary": "At Fort Bragg in August, Army soldiers tested how unmanned systems could help troops breach obstacles while reducing their exposure to battlefield hazards.",
+    "sourceUrl": "https://www.defensenews.com/industry/techwatch/2026/10/13/how-autonomous-weapons-are-changing-the-way-brigades-fight/",
+    "sourceName": "Defense News",
+    "sourceType": "press",
+    "themes": [
+      "autonomy"
+    ],
+    "region": "US"
+  },
+  {
+    "id": "621ca83020ef",
+    "date": "2026-10-13",
+    "org": "unmapped",
+    "orgName": "Breaking Defense",
+    "headline": "LaNeve ‘redesignates’ Army’s Futures and Concepts Command as new FASCOM autonomy command",
+    "summary": "The new US Army Futures and Autonomous Systems Command, “will pioneer operational concepts that harness autonomous capabilities across all warfighting functions,” Gen. Christopher LaNeve said today.",
+    "sourceUrl": "https://breakingdefense.com/2026/10/laneve-redesignates-armys-futures-and-concepts-command-as-new-fascom-autonomy-command/",
+    "sourceName": "Breaking Defense",
+    "sourceType": "press",
+    "themes": [
+      "autonomy"
+    ],
+    "region": "US"
+  },
+  {
+    "id": "b8a162b8887e",
+    "date": "2026-10-13",
+    "org": "unmapped",
+    "orgName": "Defense News",
+    "headline": "Startup wants US soldiers to command AI agents through its smart glasses",
+    "summary": "Rivet's CEO envisions a world where a soldier commands an AI agent, and the AI agent commands the robots and drones.",
+    "sourceUrl": "https://www.defensenews.com/industry/techwatch/2026/10/13/startup-wants-us-soldiers-to-command-ai-agents-through-its-smart-glasses/",
+    "sourceName": "Defense News",
+    "sourceType": "press",
+    "themes": [],
+    "region": "US"
+  },
+  {
+    "id": "7c659214e043",
+    "date": "2026-10-13",
+    "org": "unmapped",
+    "orgName": "DefenseScoop",
+    "headline": "Three-star will head Army’s new autonomy command, which will initially focus on corps-level systems",
+    "summary": "While the announcement delivered during the annual AUSA conference in Washington, D. C. said a three-star will head FASCOM, the service did not disclose who that leader will be.",
+    "sourceUrl": "https://defensescoop.com/2026/10/13/three-star-will-head-armys-new-autonomy-command-which-will-initially-focus-on-corps-level-systems/",
+    "sourceName": "DefenseScoop",
+    "sourceType": "press",
+    "themes": [
+      "autonomy"
+    ],
+    "region": "US"
+  },
+  {
+    "id": "35282a426a14",
+    "date": "2026-10-13",
+    "org": "unmapped",
+    "orgName": "Defense News",
+    "headline": "US Army to stand up command for unmanned and autonomous warfare",
+    "summary": "An Oct. 1 memo directs the Army vice chief of staff to establish the U. S.",
+    "sourceUrl": "https://www.defensenews.com/news/your-military/2026/10/13/us-army-to-stand-up-command-for-unmanned-and-autonomous-warfare/",
+    "sourceName": "Defense News",
+    "sourceType": "press",
+    "themes": [
+      "autonomy"
+    ],
     "region": "US"
   },
   {
