@@ -1,5 +1,20 @@
 [
   {
+    "id": "381d20743e97",
+    "date": "2026-10-15",
+    "org": "unmapped",
+    "orgName": "Defence Blog",
+    "headline": "Startup’s laser turns Rheinmetall autonomous cargo vehicle into drone killer",
+    "summary": "Aurelius Systems is showing its Archimedes autonomous laser weapon mounted on an American Rheinmetall unmanned ground vehicle at the Association of the U. S.",
+    "sourceUrl": "https://defence-blog.com/startups-laser-turns-rheinmetall-autonomous-cargo-vehicle-into-drone-killer/",
+    "sourceName": "Defence Blog",
+    "sourceType": "press",
+    "themes": [
+      "autonomy"
+    ],
+    "region": "Europe"
+  },
+  {
     "id": "8106b3000be6",
     "date": "2026-10-14",
     "org": "unmapped",
@@ -30,6 +45,66 @@
     "region": "US"
   },
   {
+    "id": "5a576d38a544",
+    "date": "2026-10-14",
+    "org": "unmapped",
+    "orgName": "Breaking Defense",
+    "headline": "Hegseth talks autonomy at AUSA, a key show focus",
+    "summary": "Autonomy was top of mind at AUSA 2026, including in a keynote address by the secretary of defense.",
+    "sourceUrl": "https://breakingdefense.com/2026/10/hegseth-talks-autonomy-at-ausa-a-key-show-focus/",
+    "sourceName": "Breaking Defense",
+    "sourceType": "press",
+    "themes": [
+      "autonomy"
+    ],
+    "region": "US"
+  },
+  {
+    "id": "354667c53d3c",
+    "date": "2026-10-14",
+    "org": "unmapped",
+    "orgName": "Breaking Defense",
+    "headline": "Hegseth uses AUSA spotlight to push autonomy, ‘generational’ defense investment",
+    "summary": "Senior officials also revealed that the Defense Autonomous Working Group has been absorbed into a new Task Force Autonomous Warfare, which sits inside the Special Operations Command.",
+    "sourceUrl": "https://breakingdefense.com/2026/10/hegseth-uses-ausa-spotlight-to-highlight-autonomy-generational-defense-investment/",
+    "sourceName": "Breaking Defense",
+    "sourceType": "press",
+    "themes": [
+      "autonomy"
+    ],
+    "region": "US"
+  },
+  {
+    "id": "128b1eb819bb",
+    "date": "2026-10-14",
+    "org": "unmapped",
+    "orgName": "Defense One — All",
+    "headline": "Hegseth, service secretaries discuss ‘generational change’ of Autonomous Warfare Command",
+    "summary": "Each of the services will also stand up a component command, defense secretary said.",
+    "sourceUrl": "https://www.defenseone.com/policy/2026/10/hegseth-service-secretaries-discuss-generational-change-autonomous-warfare-command/416586/",
+    "sourceName": "Defense One — All",
+    "sourceType": "press",
+    "themes": [
+      "autonomy"
+    ],
+    "region": "US"
+  },
+  {
+    "id": "4d0f4270dc1e",
+    "date": "2026-10-14",
+    "org": "unmapped",
+    "orgName": "Defense News",
+    "headline": "Pete Hegseth to discuss autonomous warfare at AUSA Annual 2026 on Oct 14 at 10am EST",
+    "summary": "Secretary of War Pete Hegseth is scheduled to appear at the Association of the United States Army’s 2026 Annual Meeting and Exposition on Wed. , Oct. 14.",
+    "sourceUrl": "https://www.defensenews.com/breaking-news/2026/10/14/pete-hegseth-to-discuss-autonomous-warfare-at-ausa-annual-2026-on-oct-14-at-10am-est/",
+    "sourceName": "Defense News",
+    "sourceType": "press",
+    "themes": [
+      "autonomy"
+    ],
+    "region": "US"
+  },
+  {
     "id": "3b65b735251a",
     "date": "2026-10-14",
     "org": "unmapped",
@@ -37,6 +112,21 @@
     "headline": "US Army hackathon sets backdrop for an AUSA focused on autonomy",
     "summary": "The Army's Operation Jailbreak initiative asked defense companies to hack into each other's autonomous systems and machines, enabling them to communicate.",
     "sourceUrl": "https://www.defensenews.com/industry/techwatch/2026/10/14/us-army-hackathon-sets-backdrop-for-an-ausa-focused-on-autonomy/",
+    "sourceName": "Defense News",
+    "sourceType": "press",
+    "themes": [
+      "autonomy"
+    ],
+    "region": "US"
+  },
+  {
+    "id": "e53245783a64",
+    "date": "2026-10-14",
+    "org": "unmapped",
+    "orgName": "Defense News",
+    "headline": "Watch live: Hegseth speaks on autonomous warfare panel at AUSA Annual 2026",
+    "summary": "Secretary of War Pete Hegseth delivers remarks livestreamed from AUSA Annual 2026.",
+    "sourceUrl": "https://www.defensenews.com/digital-show-dailies/ausa/2026/10/14/watch-live-hegseth-speaks-on-autonomous-warfare-panel-at-ausa-annual-2026/",
     "sourceName": "Defense News",
     "sourceType": "press",
     "themes": [
