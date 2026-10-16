@@ -1,5 +1,65 @@
 [
   {
+    "id": "66c230e35a34",
+    "date": "2026-10-16",
+    "org": "unmapped",
+    "orgName": "Defense News",
+    "headline": "Blood supplies, autonomous systems shape US Army’s Indo-Pacific combat care plans",
+    "summary": "18th Theater Medical Command leaders are experimenting with ways to prolong care in a theater where the \"Golden Hour\" standard is difficult to maintain.",
+    "sourceUrl": "https://www.defensenews.com/news/your-military/2026/10/14/blood-supplies-autonomous-systems-shape-us-armys-indo-pacific-combat-care-plans/",
+    "sourceName": "Defense News",
+    "sourceType": "press",
+    "themes": [
+      "autonomy"
+    ],
+    "region": "US"
+  },
+  {
+    "id": "6692023fd7d6",
+    "date": "2026-10-16",
+    "org": "unmapped",
+    "orgName": "Defense News",
+    "headline": "Recap: Autonomy dominates the US Army’s 2026 conference in Washington",
+    "summary": "Dominating displays at this year’s show was an unmistakable surge in automation and unmanned systems, as well as weaponry and vehicle capabilities.",
+    "sourceUrl": "https://www.defensenews.com/recap/ausa/2026/10/16/recap-autonomy-dominates-the-us-armys-2026-conference-in-washington/",
+    "sourceName": "Defense News",
+    "sourceType": "press",
+    "themes": [
+      "autonomy"
+    ],
+    "region": "US"
+  },
+  {
+    "id": "7033d8a6fff3",
+    "date": "2026-10-16",
+    "org": "unmapped",
+    "orgName": "Defence Blog",
+    "headline": "U.S. Army wants autonomous missile launchers ready by August 2027",
+    "summary": "The U. S. Army has asked industry for a lighter version of its planned autonomous missile launcher and wants working prototypes ready to fire live munitions in Australia during the Talisman Sabre 2027 exercise in August 2027.",
+    "sourceUrl": "https://defence-blog.com/u-s-army-wants-autonomous-missile-launchers-ready-by-august-2027/",
+    "sourceName": "Defence Blog",
+    "sourceType": "press",
+    "themes": [
+      "autonomy"
+    ],
+    "region": "Europe"
+  },
+  {
+    "id": "2d65a5362089",
+    "date": "2026-10-15",
+    "org": "unmapped",
+    "orgName": "DefenseScoop",
+    "headline": "Military service members to square off against AI in ‘Mindgame’ tournament",
+    "summary": "Human participants will also be given access to an after-action review tool that features a large language model.",
+    "sourceUrl": "https://defensescoop.com/2026/10/15/humans-vs-artificial-intelligence-wargames-drone-swarms/",
+    "sourceName": "DefenseScoop",
+    "sourceType": "press",
+    "themes": [
+      "genai"
+    ],
+    "region": "US"
+  },
+  {
     "id": "381d20743e97",
     "date": "2026-10-15",
     "org": "unmapped",
