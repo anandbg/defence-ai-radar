@@ -30,6 +30,21 @@
     "region": "US"
   },
   {
+    "id": "33c04986df23",
+    "date": "2026-10-16",
+    "org": "unmapped",
+    "orgName": "Defense One — All",
+    "headline": "The lack of a shared lexicon is undermining responsible AI-military integration",
+    "summary": "We need a common way to talk about military AI—across services, agencies, and indeed, the world.",
+    "sourceUrl": "https://www.defenseone.com/ideas/2026/10/data-fragmentation-challenge-ai-military/416632/",
+    "sourceName": "Defense One — All",
+    "sourceType": "press",
+    "themes": [
+      "ethics-governance"
+    ],
+    "region": "US"
+  },
+  {
     "id": "7033d8a6fff3",
     "date": "2026-10-16",
     "org": "unmapped",
