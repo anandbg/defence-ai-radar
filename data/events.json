@@ -15,6 +15,51 @@
     "region": "US"
   },
   {
+    "id": "16307dcdc610",
+    "date": "2026-10-21",
+    "org": "unmapped",
+    "orgName": "Naval News",
+    "headline": "EDGE Leads Integration of Sovereign Autonomous Systems in UAE Navy Demonstration with Allied Forces",
+    "summary": "EDGE has led the integration of sovereign autonomous systems for a UAE Navy demonstration of national and allied unmanned maritime capabilities, conducted with the participation of the United States Navy.",
+    "sourceUrl": "https://www.navalnews.com/naval-news/2026/10/edge-leads-integration-of-sovereign-autonomous-systems-in-uae-navy-demonstration-with-allied-forces/",
+    "sourceName": "Naval News",
+    "sourceType": "press",
+    "themes": [
+      "autonomy"
+    ],
+    "region": "Europe"
+  },
+  {
+    "id": "ca51fa509ce6",
+    "date": "2026-10-21",
+    "org": "unmapped",
+    "orgName": "The War Zone (TWZ)",
+    "headline": "How The U.S. Army’s ‘Navy’ Aims To Go More Autonomous With Its Vessels In The Pacific",
+    "summary": "The Army wants to buy up to 100 new USVs and add autonomous capabilities into existing crewed vessels.",
+    "sourceUrl": "https://www.twz.com/sea/how-the-u-s-armys-navy-aims-to-go-more-autonomous-with-its-vessels-in-the-pacific",
+    "sourceName": "The War Zone (TWZ)",
+    "sourceType": "press",
+    "themes": [
+      "autonomy"
+    ],
+    "region": "US"
+  },
+  {
+    "id": "f57798343cae",
+    "date": "2026-10-21",
+    "org": "unmapped",
+    "orgName": "Defense News",
+    "headline": "Pentagon AI oversight office struggles to keep pace with department’s ambitions, GAO finds",
+    "summary": "The Pentagon office tapped in 2022 to oversee the military’s responsible use of AI had filled just three of 10 authorized positions as of February 2026.",
+    "sourceUrl": "https://www.defensenews.com/news/pentagon-congress/2026/10/21/pentagon-ai-oversight-office-struggles-to-keep-pace-with-departments-ambitions-gao-finds/",
+    "sourceName": "Defense News",
+    "sourceType": "press",
+    "themes": [
+      "ethics-governance"
+    ],
+    "region": "US"
+  },
+  {
     "id": "b276242dd53d",
     "date": "2026-10-21",
     "org": "unmapped",
