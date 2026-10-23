@@ -1,5 +1,20 @@
 [
   {
+    "id": "37bf2295296b",
+    "date": "2026-10-22",
+    "org": "unmapped",
+    "orgName": "Breaking Defense",
+    "headline": "Navy awards Applied Intuition $25M to deploy AI sensor fusion at sea",
+    "summary": "The Intelligent Perception System will help sailors understand a flood of sensor feeds while collecting data to train improved AI models, the company said.",
+    "sourceUrl": "https://breakingdefense.com/2026/10/navy-awards-applied-intuition-25m-to-deploy-ai-sensor-fusion-at-sea/",
+    "sourceName": "Breaking Defense",
+    "sourceType": "press",
+    "themes": [
+      "data"
+    ],
+    "region": "US"
+  },
+  {
     "id": "e655975e0d81",
     "date": "2026-10-21",
     "org": "unmapped",
