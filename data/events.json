@@ -1,5 +1,48 @@
 [
   {
+    "id": "24243ed799dd",
+    "date": "2026-10-24",
+    "org": "unmapped",
+    "orgName": "Defence Blog",
+    "headline": "Japan weighs rewrite of its military AI policy",
+    "summary": "Japanese Defense Minister Shinjiro Koizumi said on Oct.",
+    "sourceUrl": "https://defence-blog.com/japan-weighs-rewrite-of-its-military-ai-policy/",
+    "sourceName": "Defence Blog",
+    "sourceType": "press",
+    "themes": [
+      "ethics-governance"
+    ],
+    "region": "Europe"
+  },
+  {
+    "id": "1449d86d8486",
+    "date": "2026-10-23",
+    "org": "unmapped",
+    "orgName": "DefenseScoop",
+    "headline": "Pentagon issues guidance on AI procurements to support Trump’s ‘truth-seeking’ and ‘ideological neutrality’ directives",
+    "summary": "The memo to acquisition leaders came from the principal director for Defense Pricing, Contracting, and Acquisition Policy.",
+    "sourceUrl": "https://defensescoop.com/2026/10/23/pentagon-guidance-ai-procurement-trump-directive/",
+    "sourceName": "DefenseScoop",
+    "sourceType": "press",
+    "themes": [
+      "ethics-governance"
+    ],
+    "region": "US"
+  },
+  {
+    "id": "a90315915c55",
+    "date": "2026-10-23",
+    "org": "unmapped",
+    "orgName": "Defense News",
+    "headline": "US Air Force wants AI to assist aerial refueling",
+    "summary": "The goal is for AI to automatically analyze refueling operations from cameras mounted on the tankers and provide “hot wash” feedback to the tanker crews.",
+    "sourceUrl": "https://www.defensenews.com/industry/techwatch/2026/10/23/us-air-force-wants-ai-to-assist-aerial-refueling/",
+    "sourceName": "Defense News",
+    "sourceType": "press",
+    "themes": [],
+    "region": "US"
+  },
+  {
     "id": "37bf2295296b",
     "date": "2026-10-22",
     "org": "unmapped",
