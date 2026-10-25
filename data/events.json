@@ -1,5 +1,20 @@
 [
   {
+    "id": "12dd216227f8",
+    "date": "2026-10-25",
+    "org": "darpa",
+    "orgName": "DARPA",
+    "headline": "DARPA tests autonomous vehicles that team up to find enemy targets",
+    "summary": "DARPA, a central research and development organization within the United States Department of War, put four autonomous unmanned ground vehicles through their first end-to-end test at Fort Knox, Kentucky, on Oct.",
+    "sourceUrl": "https://defence-blog.com/darpa-tests-autonomous-vehicles-that-team-up-to-find-enemy-targets/",
+    "sourceName": "Defence Blog",
+    "sourceType": "press",
+    "themes": [
+      "autonomy"
+    ],
+    "region": "US"
+  },
+  {
     "id": "24243ed799dd",
     "date": "2026-10-24",
     "org": "unmapped",
