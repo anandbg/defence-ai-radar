@@ -1,5 +1,18 @@
 [
   {
+    "id": "848357a36f2a",
+    "date": "2026-10-26",
+    "org": "unmapped",
+    "orgName": "DefenseScoop",
+    "headline": "As Project Gatekeeper goes live, Army plans integration with frontier AI models",
+    "summary": "Soon, Project Gatekeeper’s security testing will be powered by frontier AI models and the wider public will be able to access the platform using Login. Gov credentials.",
+    "sourceUrl": "https://defensescoop.com/2026/10/26/army-project-gatekeeper-goes-live-integration-frontier-ai-models/",
+    "sourceName": "DefenseScoop",
+    "sourceType": "press",
+    "themes": [],
+    "region": "US"
+  },
+  {
     "id": "39f569ee57c7",
     "date": "2026-10-26",
     "org": "unmapped",
@@ -8,6 +21,34 @@
     "summary": "As military leaders clamor for increased weapons and systems productions, top defense company leaders chart ways they can meet the demand.",
     "sourceUrl": "https://www.defensenews.com/video/2026/10/26/defense-industry-leaders-weigh-in-how-to-increase-production-and-integrate-ai/",
     "sourceName": "Defense News",
+    "sourceType": "press",
+    "themes": [],
+    "region": "US"
+  },
+  {
+    "id": "03d6ce434fce",
+    "date": "2026-10-26",
+    "org": "unmapped",
+    "orgName": "Breaking Defense",
+    "headline": "EXCLUSIVE: SOUTHCOM chief seeks unmanned river solution as he embraces autonomy",
+    "summary": "In an interview with Breaking Defense, Gen. Francis Donovan said autonomous systems are “not just for testing anymore” but “taking the fight to the enemy.”",
+    "sourceUrl": "https://breakingdefense.com/2026/10/exclusive-southcom-chief-seeks-unmanned-river-solution-as-he-embraces-autonomy/",
+    "sourceName": "Breaking Defense",
+    "sourceType": "press",
+    "themes": [
+      "autonomy"
+    ],
+    "region": "US"
+  },
+  {
+    "id": "6cc65e7b4843",
+    "date": "2026-10-26",
+    "org": "unmapped",
+    "orgName": "DefenseScoop",
+    "headline": "Smack Technologies lands new deal for AI prototype to enhance joint military campaigning",
+    "summary": "The OTA comes as SOCOM is fast-tracking frontier AI capabilities to solve real-world operational challenges and free up its leaders to focus on the most complex strategic and tactical priorities.",
+    "sourceUrl": "https://defensescoop.com/2026/10/26/smack-technologies-ai-prototype-special-operations-command/",
+    "sourceName": "DefenseScoop",
     "sourceType": "press",
     "themes": [],
     "region": "US"
@@ -2026,7 +2067,7 @@
     "org": "unmapped",
     "orgName": "Naval News",
     "headline": "Blue Ops and Havoc Partner to Develop Open-Architecture Autonomous Maritime Defense Systems",
-    "summary": "Red Cat Holdings, Inc. , a U. S.",
+    "summary": "Coverage from Naval News. Open the article to read the full report.",
     "sourceUrl": "https://www.navalnews.com/naval-news/2026/08/blue-ops-and-havoc-partner-to-develop-open-architecture-autonomous-maritime-defense-systems/",
     "sourceName": "Naval News",
     "sourceType": "press",
