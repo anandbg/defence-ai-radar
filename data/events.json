@@ -1,5 +1,20 @@
 [
   {
+    "id": "d94952ba1e18",
+    "date": "2026-10-27",
+    "org": "unmapped",
+    "orgName": "Task & Purpose",
+    "headline": "Army tests autonomous robots that hunt enemy targets",
+    "summary": "The Army tested four experimental vehicles developed under the Defense Advanced Research Projects Agency's RACER program during an Oct. 15 exercise.",
+    "sourceUrl": "https://taskandpurpose.com/news/army-scifi-warfare-fort-knox/",
+    "sourceName": "Task & Purpose",
+    "sourceType": "press",
+    "themes": [
+      "autonomy"
+    ],
+    "region": "US"
+  },
+  {
     "id": "848357a36f2a",
     "date": "2026-10-26",
     "org": "unmapped",
@@ -109,6 +124,21 @@
     "sourceName": "Defense News",
     "sourceType": "press",
     "themes": [],
+    "region": "US"
+  },
+  {
+    "id": "a8b9c643376d",
+    "date": "2026-10-22",
+    "org": "darpa",
+    "orgName": "DARPA",
+    "headline": "Autonomous vehicles deliver command-controlled robotic lethality",
+    "summary": "DARPA RACER demo at Fort Knox detected, tracked, engaged simulated threats while retaining human control.",
+    "sourceUrl": "https://www.darpa.mil/news/2026/autonomous-vehicles-deliver",
+    "sourceName": "DARPA News",
+    "sourceType": "official",
+    "themes": [
+      "autonomy"
+    ],
     "region": "US"
   },
   {
