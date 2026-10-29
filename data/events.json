@@ -1,5 +1,52 @@
 [
   {
+    "id": "dd408422c736",
+    "date": "2026-10-28",
+    "org": "unmapped",
+    "orgName": "DefenseScoop",
+    "headline": "Army taps AWS and WWT to boost AI-enabled cybersecurity initiative",
+    "summary": "“Partnering with commercial industry is a national security imperative for the Army, as the private sector drives rapid innovation in superintelligence, cloud architecture and cyber operations capabilities,” Col. David Bergmann said.",
+    "sourceUrl": "https://defensescoop.com/2026/10/28/army-aws-wwt-ai-cybersecurity-project-griffin/",
+    "sourceName": "DefenseScoop",
+    "sourceType": "press",
+    "themes": [
+      "cyber",
+      "data"
+    ],
+    "region": "US"
+  },
+  {
+    "id": "515977056253",
+    "date": "2026-10-28",
+    "org": "unmapped",
+    "orgName": "Breaking Defense",
+    "headline": "AUKUS partners test autonomous systems as Europe weighs maritime surveillance needs",
+    "summary": "The UK headed up the anti-submarine warfare component of Maritime Big Play exercise, which took place off the coast of San Diego in October.",
+    "sourceUrl": "https://breakingdefense.com/2026/10/aukus-partners-test-autonomous-systems-as-europe-weighs-maritime-surveillance-needs/",
+    "sourceName": "Breaking Defense",
+    "sourceType": "press",
+    "themes": [
+      "autonomy",
+      "isr"
+    ],
+    "region": "US"
+  },
+  {
+    "id": "2ee3d8376115",
+    "date": "2026-10-28",
+    "org": "unmapped",
+    "orgName": "Breaking Defense",
+    "headline": "Counter-UAS solution finds and classifies targets at standoff distance with “autonomous perception”",
+    "summary": "[Sponsored] Warden’s passive, first layer of detection complements EO/IR and radar.",
+    "sourceUrl": "https://breakingdefense.com/2026/10/counter-uas-solution-finds-and-classifies-targets-at-standoff-distance-with-autonomous-perception/",
+    "sourceName": "Breaking Defense",
+    "sourceType": "press",
+    "themes": [
+      "autonomy"
+    ],
+    "region": "US"
+  },
+  {
     "id": "d94952ba1e18",
     "date": "2026-10-27",
     "org": "unmapped",
