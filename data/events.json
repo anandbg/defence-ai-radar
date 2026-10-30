@@ -1,5 +1,20 @@
 [
   {
+    "id": "f2d4c85477b0",
+    "date": "2026-10-29",
+    "org": "unmapped",
+    "orgName": "Breaking Defense",
+    "headline": "Beyond autopilot: Understanding the five levels of battlefield drone autonomy",
+    "summary": "[Sponsored] By going beyond simple automation, drones can carry out tasks with minimal input from operators.",
+    "sourceUrl": "https://breakingdefense.com/2026/10/beyond-autopilot-understanding-the-five-levels-of-battlefield-drone-autonomy/",
+    "sourceName": "Breaking Defense",
+    "sourceType": "press",
+    "themes": [
+      "autonomy"
+    ],
+    "region": "US"
+  },
+  {
     "id": "dd408422c736",
     "date": "2026-10-28",
     "org": "unmapped",
