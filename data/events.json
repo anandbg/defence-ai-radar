@@ -1,5 +1,20 @@
 [
   {
+    "id": "97ece7782b7d",
+    "date": "2026-11-03",
+    "org": "unmapped",
+    "orgName": "Breaking Defense",
+    "headline": "Sweden’s Saab launches family of AI agents for future aircraft projects",
+    "summary": "Key to the autonomous project is Saab’s AI Fighter Jet Pilot Academy, designed to develop the agents and, in parallel, establish infrastructure necessary to “create, train and evaluate” them, says the firm.",
+    "sourceUrl": "https://breakingdefense.com/2026/11/swedens-saab-launches-family-of-ai-agents-for-future-aircraft-projects/",
+    "sourceName": "Breaking Defense",
+    "sourceType": "press",
+    "themes": [
+      "autonomy"
+    ],
+    "region": "US"
+  },
+  {
     "id": "556afa32be8e",
     "date": "2026-10-30",
     "org": "unmapped",
