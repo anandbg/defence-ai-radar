@@ -1,5 +1,20 @@
 [
   {
+    "id": "dddfe433de6f",
+    "date": "2026-11-05",
+    "org": "unmapped",
+    "orgName": "Naval News",
+    "headline": "Fairbanks Morse Defense Unveils AutoHook for Fully Autonomous Vessel Recovery at EURONAVAL 2026",
+    "summary": "Fairbanks Morse Defense (FMD) debuted AutoHook™ at EURONAVAL 2026 in Paris, a first-of-its-kind fully autonomous vessel recovery interface developed by FMD’s Norway-based business, Vestdavit.",
+    "sourceUrl": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/fairbanks-morse-defense-unveils-autohook-for-fully-autonomous-vessel-recovery-at-euronaval-2026/",
+    "sourceName": "Naval News",
+    "sourceType": "press",
+    "themes": [
+      "autonomy"
+    ],
+    "region": "Europe"
+  },
+  {
     "id": "c95ee74d527b",
     "date": "2026-11-04",
     "org": "unmapped",
@@ -13,6 +28,19 @@
       "autonomy",
       "isr"
     ],
+    "region": "US"
+  },
+  {
+    "id": "8e8f3eb75766",
+    "date": "2026-11-04",
+    "org": "unmapped",
+    "orgName": "Breaking Defense",
+    "headline": "Shield AI cofounder teases ‘snowball’ of X-BAT fighter drone announcements in Europe",
+    "summary": "Ryan Tseng told Breaking Defense that the prospective deals and new industry pacts will be publicized when “we’re ready to announce them.”",
+    "sourceUrl": "https://breakingdefense.com/2026/11/shield-ai-cofounder-teases-snowball-of-x-bat-fighter-drone-announcements-in-europe/",
+    "sourceName": "Breaking Defense",
+    "sourceType": "press",
+    "themes": [],
     "region": "US"
   },
   {
