@@ -15,6 +15,47 @@
     "region": "Europe"
   },
   {
+    "id": "c9e364c684f8",
+    "date": "2026-11-05",
+    "org": "unmapped",
+    "orgName": "Breaking Defense",
+    "headline": "Shield AI acquires radar firm Echodyne in $5.3B deal",
+    "summary": "The deal, which is expected to close in early 2027, will give Shield an in-house counter-UAS offering",
+    "sourceUrl": "https://breakingdefense.com/2026/11/shield-ai-acquires-radar-firm-echodyne-in-5-3b-deal/",
+    "sourceName": "Breaking Defense",
+    "sourceType": "press",
+    "themes": [],
+    "region": "US"
+  },
+  {
+    "id": "1cdb498735d9",
+    "date": "2026-11-05",
+    "org": "unmapped",
+    "orgName": "Defense News",
+    "headline": "Shield AI to acquire radar maker Echodyne to bust drones",
+    "summary": "Shield AI's CEO said the purchase of Echodyne supports the company’s aim to branch into different areas of unmanned systems.",
+    "sourceUrl": "https://www.defensenews.com/industry/techwatch/2026/11/05/shield-ai-to-acquire-radar-maker-echodyne-to-bust-drones/",
+    "sourceName": "Defense News",
+    "sourceType": "press",
+    "themes": [
+      "autonomy"
+    ],
+    "region": "US"
+  },
+  {
+    "id": "f4d2b3e7fe1e",
+    "date": "2026-11-05",
+    "org": "unmapped",
+    "orgName": "DefenseScoop",
+    "headline": "Where AI is — and isn’t — accelerating military missions today",
+    "summary": "Artificial intelligence has huge promise for the U. S. military services, but in some cases, early results haven’t lived up to the hype.",
+    "sourceUrl": "https://defensescoop.com/2026/11/05/where-ai-is-and-isnt-accelerating-military-missions-today/",
+    "sourceName": "DefenseScoop",
+    "sourceType": "press",
+    "themes": [],
+    "region": "US"
+  },
+  {
     "id": "c95ee74d527b",
     "date": "2026-11-04",
     "org": "unmapped",
