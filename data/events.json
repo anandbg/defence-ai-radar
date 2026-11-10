@@ -1,5 +1,50 @@
 [
   {
+    "id": "ab7e65b3e03f",
+    "date": "2026-11-09",
+    "org": "unmapped",
+    "orgName": "Naval News",
+    "headline": "First ever autonomous Royal Navy squadron launches as part of investment in hybrid operations",
+    "summary": "The Royal Navy’s first-ever autonomous squadron that will operate uncrewed boats on front-line operations has been launched – as investment into the hybrid navy continues.",
+    "sourceUrl": "https://www.navalnews.com/naval-news/2026/11/first-ever-autonomous-royal-navy-squadron-launches-as-part-of-investment-in-hybrid-operations/",
+    "sourceName": "Naval News",
+    "sourceType": "press",
+    "themes": [
+      "autonomy"
+    ],
+    "region": "Europe"
+  },
+  {
+    "id": "8c1968653f82",
+    "date": "2026-11-09",
+    "org": "unmapped",
+    "orgName": "Air & Space Forces Magazine",
+    "headline": "In First, Two CCAs Fly Air Combat Maneuvers Using Autonomy Software",
+    "summary": "Two of the Air Force’s semi-autonomous drones flew air combat maneuvers coordinated by an “AI pilot,” or mission autonomy software, in a test Oct. 26, a first for the Air Force’s Collaborative Combat Aircraft program.",
+    "sourceUrl": "https://www.airandspaceforces.com/cca-drones-fly-air-combat-maneuvers-autonomy-software/",
+    "sourceName": "Air & Space Forces Magazine",
+    "sourceType": "press",
+    "themes": [
+      "autonomy"
+    ],
+    "region": "US"
+  },
+  {
+    "id": "ee2d2805ee6d",
+    "date": "2026-11-09",
+    "org": "unmapped",
+    "orgName": "Breaking Defense",
+    "headline": "The next breakthrough is software built on the battlefield by agentic bots",
+    "summary": "[Sponsored] Autonomous agents and mission-specific software promise faster responses to emerging threats.",
+    "sourceUrl": "https://breakingdefense.com/2026/11/the-next-breakthrough-is-software-built-on-the-battlefield-by-agentic-bots/",
+    "sourceName": "Breaking Defense",
+    "sourceType": "press",
+    "themes": [
+      "autonomy"
+    ],
+    "region": "US"
+  },
+  {
     "id": "dddfe433de6f",
     "date": "2026-11-05",
     "org": "unmapped",
