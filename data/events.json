@@ -1,5 +1,18 @@
 [
   {
+    "id": "df8070d38530",
+    "date": "2026-11-10",
+    "org": "unmapped",
+    "orgName": "DefenseScoop",
+    "headline": "Air Force wants AI for cislunar space vehicles",
+    "summary": "The service is asking industry for ready-made software concepts that will shape future cislunar system requirements.",
+    "sourceUrl": "https://defensescoop.com/2026/11/10/air-force-wants-ai-for-cislunar-space-vehicles/",
+    "sourceName": "DefenseScoop",
+    "sourceType": "press",
+    "themes": [],
+    "region": "US"
+  },
+  {
     "id": "ab7e65b3e03f",
     "date": "2026-11-09",
     "org": "unmapped",
@@ -2349,7 +2362,7 @@
     "org": "unmapped",
     "orgName": "Naval News",
     "headline": "Blue Ops and Havoc Partner to Develop Open-Architecture Autonomous Maritime Defense Systems",
-    "summary": "Red Cat Holdings, Inc. , a U. S.",
+    "summary": "Coverage from Naval News. Open the article to read the full report.",
     "sourceUrl": "https://www.navalnews.com/naval-news/2026/08/blue-ops-and-havoc-partner-to-develop-open-architecture-autonomous-maritime-defense-systems/",
     "sourceName": "Naval News",
     "sourceType": "press",
