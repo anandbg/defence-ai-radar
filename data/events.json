@@ -1,5 +1,33 @@
 [
   {
+    "id": "bbf59ef4b88e",
+    "date": "2026-11-12",
+    "org": "unmapped",
+    "orgName": "UK Gov — Ministry of Defence",
+    "headline": "UK Commandos to get AI-enabled edge from British scale-up Arondite, as company expands to NATO's northern flank",
+    "summary": "The Royal Navy has agreed a multi-million pound deal with British scale-up Arondite to deploy its AI-enabled software across UK Commando Force,",
+    "sourceUrl": "https://www.gov.uk/government/news/uk-commandos-to-get-ai-enabled-edge-from-british-scale-up-arondite-as-company-expands-to-natos-northern-flank",
+    "sourceName": "UK Gov — Ministry of Defence",
+    "sourceType": "official",
+    "themes": [],
+    "region": "UK"
+  },
+  {
+    "id": "f57eadd500db",
+    "date": "2026-11-11",
+    "org": "unmapped",
+    "orgName": "The War Zone (TWZ)",
+    "headline": "Autonomous Cessna Caravan Air Ambulance To Be Tested By U.S. Military",
+    "summary": "The demonstration will take place in Morocco, but uncrewed options for rescuing casualties could be valuable in other far-flung locales globally.",
+    "sourceUrl": "https://www.twz.com/news-features/autonomous-cessna-caravan-air-ambulance-to-be-tested-by-u-s-military",
+    "sourceName": "The War Zone (TWZ)",
+    "sourceType": "press",
+    "themes": [
+      "autonomy"
+    ],
+    "region": "US"
+  },
+  {
     "id": "df8070d38530",
     "date": "2026-11-10",
     "org": "unmapped",
