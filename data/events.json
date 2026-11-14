@@ -1,5 +1,33 @@
 [
   {
+    "id": "07b0d4bcc9c4",
+    "date": "2026-11-13",
+    "org": "unmapped",
+    "orgName": "Breaking Defense",
+    "headline": "Pentagon rebrands principal AI shop as ‘Super Intelligence Office’",
+    "summary": "The redesignation follows President Donald Trump’s push to replace references to artificial intelligence with “super intelligence” across the federal government.",
+    "sourceUrl": "https://breakingdefense.com/2026/11/pentagon-rebrands-principle-ai-shop-as-super-intelligence-office/",
+    "sourceName": "Breaking Defense",
+    "sourceType": "press",
+    "themes": [],
+    "region": "US"
+  },
+  {
+    "id": "967a6c54de84",
+    "date": "2026-11-13",
+    "org": "unmapped",
+    "orgName": "Defense News",
+    "headline": "US Air Force adopts new Force Design focusing on sensors and autonomy",
+    "summary": "The Air Force's new Force Design 2026 outlines a shift toward artificial intelligence, autonomy and integrated sensors to counter emerging threats.",
+    "sourceUrl": "https://www.defensenews.com/air/2026/11/13/us-air-force-adopts-new-force-design-focusing-on-sensors-and-autonomy/",
+    "sourceName": "Defense News",
+    "sourceType": "press",
+    "themes": [
+      "autonomy"
+    ],
+    "region": "US"
+  },
+  {
     "id": "1243de9c777f",
     "date": "2026-11-12",
     "org": "unmapped",
