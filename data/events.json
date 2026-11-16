@@ -1,5 +1,20 @@
 [
   {
+    "id": "8aeff199abce",
+    "date": "2026-11-16",
+    "org": "unmapped",
+    "orgName": "Defense News",
+    "headline": "US and Russia to oppose talks on limiting autonomous weapons",
+    "summary": "Major arms producers the U. S. and Russia look set to oppose a push at a global meeting to launch negotiations on legally binding rules for autonomous weapons.",
+    "sourceUrl": "https://www.defensenews.com/industry/techwatch/2026/11/16/us-and-russia-to-oppose-talks-on-limiting-autonomous-weapons/",
+    "sourceName": "Defense News",
+    "sourceType": "press",
+    "themes": [
+      "autonomy"
+    ],
+    "region": "US"
+  },
+  {
     "id": "07b0d4bcc9c4",
     "date": "2026-11-13",
     "org": "unmapped",
@@ -2433,7 +2448,7 @@
     "org": "unmapped",
     "orgName": "Naval News",
     "headline": "Blue Ops and Havoc Partner to Develop Open-Architecture Autonomous Maritime Defense Systems",
-    "summary": "Red Cat Holdings, Inc. , a U. S.",
+    "summary": "Coverage from Naval News. Open the article to read the full report.",
     "sourceUrl": "https://www.navalnews.com/naval-news/2026/08/blue-ops-and-havoc-partner-to-develop-open-architecture-autonomous-maritime-defense-systems/",
     "sourceName": "Naval News",
     "sourceType": "press",
