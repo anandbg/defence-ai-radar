@@ -1,5 +1,35 @@
 [
   {
+    "id": "4738aa782eec",
+    "date": "2026-11-18",
+    "org": "unmapped",
+    "orgName": "Defense One — Technology",
+    "headline": "OpenAI gives NATO access to most advanced cybersecurity AI",
+    "summary": "NATO operators this month built and deployed AI agents in an exercise, with help from OpenAI.",
+    "sourceUrl": "https://www.defenseone.com/technology/2026/11/openai-gives-nato-access-most-advanced-cybersecurity-ai/417296/",
+    "sourceName": "Defense One — Technology",
+    "sourceType": "press",
+    "themes": [
+      "cyber"
+    ],
+    "region": "US"
+  },
+  {
+    "id": "30541025b166",
+    "date": "2026-11-17",
+    "org": "unmapped",
+    "orgName": "DefenseScoop",
+    "headline": "Pentagon elevates AI as a ‘fundamental requirement’ for cybersecurity staff training",
+    "summary": "A senior Defense Department official shared new details about these plans and cybersecurity workforce recruitment at FedTalks on Tuesday.",
+    "sourceUrl": "https://defensescoop.com/2026/11/17/pentagon-ai-requirement-cybersecurity-training/",
+    "sourceName": "DefenseScoop",
+    "sourceType": "press",
+    "themes": [
+      "cyber"
+    ],
+    "region": "US"
+  },
+  {
     "id": "8aeff199abce",
     "date": "2026-11-16",
     "org": "unmapped",
