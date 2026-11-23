@@ -1,5 +1,20 @@
 [
   {
+    "id": "13fc7b271bb5",
+    "date": "2026-11-23",
+    "org": "unmapped",
+    "orgName": "DefenseScoop",
+    "headline": "DISA boss highlights need for training, standardization to prepare for new era of ZT and AI-enabled cyber warfare",
+    "summary": "“If we don't standardize our architecture, we won't be able to drive at the speed required to meet the changing operating environment,” Lt. Gen. Paul Stanton said.",
+    "sourceUrl": "https://defensescoop.com/2026/11/23/ai-cyber-warfare-zero-trust-lt-gen-stanton/",
+    "sourceName": "DefenseScoop",
+    "sourceType": "press",
+    "themes": [
+      "cyber"
+    ],
+    "region": "US"
+  },
+  {
     "id": "10330e00378d",
     "date": "2026-11-20",
     "org": "unmapped",
