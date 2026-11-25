@@ -1,5 +1,31 @@
 [
   {
+    "id": "23d7ee8ed497",
+    "date": "2026-11-25",
+    "org": "unmapped",
+    "orgName": "Army Times",
+    "headline": "AI models easily coaxed into identifying military targets, study finds",
+    "summary": "Researchers from Vals AI found in a recent report that about half of the commercial models will immediately identify targets when prompted and then almost all will answer if told it’s for a game.",
+    "sourceUrl": "https://www.armytimes.com/news/your-army/2026/11/25/ai-models-easily-coaxed-into-identifying-military-targets-study-finds/",
+    "sourceName": "Army Times",
+    "sourceType": "press",
+    "themes": [],
+    "region": "US"
+  },
+  {
+    "id": "b61a26b8ca35",
+    "date": "2026-11-24",
+    "org": "us-dod-cdao",
+    "orgName": "US DoD — Chief Digital & AI Office (CDAO)",
+    "headline": "Questions about DOD’s frontier AI organization linger after Trump-ordered rebrand and website redesign",
+    "summary": "Experts urged the Pentagon to share more information about the SIO with the public, as the CDAO historically supplied.",
+    "sourceUrl": "https://defensescoop.com/2026/11/24/trump-ai-rebrand-pentagon-super-intelligence-office-sio/",
+    "sourceName": "DefenseScoop",
+    "sourceType": "press",
+    "themes": [],
+    "region": "US"
+  },
+  {
     "id": "47c924167a77",
     "date": "2026-11-24",
     "org": "unmapped",
