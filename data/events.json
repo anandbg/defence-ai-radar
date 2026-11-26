@@ -13,6 +13,23 @@
     "region": "US"
   },
   {
+    "id": "a25890fb9348",
+    "date": "2026-11-25",
+    "org": "unmapped",
+    "orgName": "Air & Space Forces Magazine",
+    "headline": "Pentagon Elevates Air Force Program Using AI for Classification Decisions",
+    "summary": "The entire Pentagon will soon use an Air Force program applying artificial intelligence tools to the cumbersome process of determining documents and data’s classification levels.",
+    "sourceUrl": "https://www.airandspaceforces.com/pentagon-elevates-air-force-program-ai-classification/",
+    "sourceName": "Air & Space Forces Magazine",
+    "sourceType": "press",
+    "themes": [
+      "c2",
+      "cyber",
+      "data"
+    ],
+    "region": "US"
+  },
+  {
     "id": "b61a26b8ca35",
     "date": "2026-11-24",
     "org": "us-dod-cdao",
